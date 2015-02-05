@@ -1,0 +1,130 @@
+Locations in Iran
+0	Lat: 33.9888	Long: 51.4773	Name: Kashan	Count:41
+1	Lat: 35.7757	Long: 51.4721	Name: Golestan	Count:42837
+2	Lat: 33.1559	Long: 47.392	Name: Shahid Madani	Count:810
+3	Lat: 31.711	Long: 49.1193	Name: Sharif	Count:6040
+4	Lat: 28.5306	Long: 55.0263	Name: Barbun	Count:348
+5	Lat: 38.6279	Long: 48.0941	Name: Razi	Count:328
+6	Lat: 37.2683	Long: 48.4419	Name: Peshgoman	Count:64169
+7	Lat: 38.4283	Long: 45.9071	Name: Bonab	Count:10
+8	Lat: 28.5168	Long: 53.2773	Name: Sistan-e `Olya	Count:29618
+9	Lat: 30.6725	Long: 51.9608	Name: Baseri Hadi	Count:1784
+10	Lat: 27.7427	Long: 53.407	Name: Ashna	Count:2430
+11	Lat: 35.3242	Long: 51.6457	Name: Varamin	Count:174
+12	Lat: 36.1683	Long: 54.348	Name: Damghan	Count:328
+13	Lat: 36.7443	Long: 53.2836	Name: Khowrshid	Count:20
+14	Lat: 30.5588	Long: 49.1981	Name: Bandar-e Mahshahr	Count:1128
+15	Lat: 37.6833	Long: 57.4833	Name: Idah	Count:410
+16	Lat: 30.6693	Long: 50.2055	Name: Kordestan-e `Olya	Count:20777
+17	Lat: 33.6779	Long: 50.1933	Name: Behdasht	Count:112
+18	Lat: 30.5959	Long: 50.2417	Name: Behbahan	Count:399
+19	Lat: 32.2501	Long: 54.0166	Name: Meybod	Count:102
+20	Lat: 36.5633	Long: 53.0601	Name: Sari	Count:3999
+21	Lat: 32.7002	Long: 51.5211	Name: Khomeyni Shahr	Count:10
+22	Lat: 38.9707	Long: 47.4527	Name: Arnan	Count:1640
+23	Lat: 35.962	Long: 50.6799	Name: Hashtgerd	Count:256
+24	Lat: 27.5552	Long: 52.8836	Name: Mohr	Count:51
+25	Lat: 34.3142	Long: 47.065	Name: Kermanshah	Count:10676
+26	Lat: 31.3203	Long: 48.6693	Name: Ahvaz	Count:18449
+27	Lat: 29.2331	Long: 56.6022	Name: Baft	Count:41
+28	Lat: 37.9517	Long: 55.2541	Name: Dadeh	Count:789
+29	Lat: 32.7026	Long: 51.1537	Name: Tiran	Count:529959
+30	Lat: 36.0696	Long: 49.6959	Name: Takestan	Count:51
+31	Lat: 32.7534	Long: 52.7476	Name: Vaj	Count:30
+32	Lat: 35.4639	Long: 48.8763	Name: Gostar	Count:241725
+33	Lat: 32	Long: 53	Name: 	Count:5881683
+34	Lat: 35.2182	Long: 52.3408	Name: Garmsar	Count:102
+35	Lat: 32.6572	Long: 51.6776	Name: Isfahan	Count:197020
+36	Lat: 39.3178	Long: 47.5193	Name: Borran-e Bala	Count:4491
+37	Lat: 37.105	Long: 47.1272	Name: Peyk	Count:1702
+38	Lat: 33.6374	Long: 46.4227	Name: Ilam	Count:7968
+39	Lat: 34.7336	Long: 46.6309	Name: Badr	Count:9076
+40	Lat: 26.5907	Long: 60.5564	Name: Sahand	Count:769
+41	Lat: 27.6652	Long: 54.1371	Name: Gerash	Count:533
+42	Lat: 36.4496	Long: 48.0968	Name: Shahrak	Count:1497
+43	Lat: 28.9684	Long: 50.8385	Name: Bandar Būshehr	Count:27967
+44	Lat: 38.08	Long: 46.2919	Name: Tabriz	Count:145476
+45	Lat: 31.0287	Long: 61.5012	Name: Zabol	Count:399
+46	Lat: 38.2498	Long: 48.2933	Name: Ardabil	Count:22203
+47	Lat: 36.5513	Long: 52.679	Name: Babol	Count:358
+48	Lat: 25.2919	Long: 60.643	Name: Chabahar	Count:369
+49	Lat: 28.6535	Long: 57.7646	Name: Jiroft	Count:51
+50	Lat: 35.7131	Long: 47.2656	Name: Khorasan	Count:124513
+51	Lat: 26.5578	Long: 54.0194	Name: Kish	Count:1702
+52	Lat: 33.7119	Long: 51.131	Name: Azaran	Count:2645
+53	Lat: 29.7525	Long: 54.1958	Name: Bakhtiari	Count:13516
+54	Lat: 35.6596	Long: 51.0593	Name: Shahriar	Count:5886
+55	Lat: 37.106	Long: 58.5095	Name: Quchan	Count:10
+56	Lat: 29.1266	Long: 54.0421	Name: Estahban	Count:143
+57	Lat: 34.2969	Long: 48.8235	Name: Malayer	Count:30
+58	Lat: 34.2903	Long: 58.465	Name: Razaviyeh	Count:9055
+59	Lat: 31.9606	Long: 59.2231	Name: Hirad	Count:10
+60	Lat: 28.5592	Long: 53.5552	Name: Jadir	Count:2594
+61	Lat: 32.3825	Long: 48.402	Name: Dezful	Count:174
+62	Lat: 36.2019	Long: 51.8099	Name: Baladeh	Count:1251
+63	Lat: 32.4711	Long: 51.6071	Name: Mehregan	Count:153
+64	Lat: 30.2832	Long: 57.0788	Name: Kerman	Count:20429
+65	Lat: 33.8267	Long: 57.258	Name: Bidak	Count:1333
+66	Lat: 36.2126	Long: 57.6819	Name: Sabzevar	Count:338
+67	Lat: 31.8972	Long: 54.3675	Name: Yazd	Count:32038
+68	Lat: 35.5729	Long: 53.3971	Name: Semnan	Count:8307
+69	Lat: 36.0893	Long: 45.4306	Name: Chapar	Count:7394
+70	Lat: 32.8663	Long: 59.2211	Name: Birjand	Count:2092
+71	Lat: 28.7449	Long: 53.8033	Name: Zahedan	Count:984
+72	Lat: 28.5934	Long: 52.2295	Name: Shahid	Count:6737
+73	Lat: 29.452	Long: 55.6814	Name: Sirjan	Count:102
+74	Lat: 29.859	Long: 56.7997	Name: Negar	Count:728
+75	Lat: 29.9918	Long: 52.355	Name: Jahan Nama	Count:92
+76	Lat: 27.334	Long: 53.179	Name: Lamerd	Count:133
+77	Lat: 31.7171	Long: 48.0005	Name: Bostan	Count:20
+78	Lat: 30.4067	Long: 55.9939	Name: Rafsanjan	Count:1046
+79	Lat: 37.2808	Long: 49.5832	Name: Rasht	Count:6481
+80	Lat: 32.0049	Long: 51.2222	Name: Azadi	Count:871
+81	Lat: 29.2119	Long: 51.5604	Name: Sena	Count:676
+82	Lat: 35.8822	Long: 52.201	Name: Gilas	Count:810
+83	Lat: 34.0917	Long: 49.6892	Name: Arak	Count:12727
+84	Lat: 36.6736	Long: 48.4787	Name: Zanjan	Count:14193
+85	Lat: 37.4659	Long: 59.1267	Name: Golriz	Count:399
+86	Lat: 38.4329	Long: 45.7749	Name: Marand	Count:30
+87	Lat: 37.0428	Long: 49.6443	Name: Saravan	Count:10
+88	Lat: 36.8163	Long: 50.8738	Name: Tonekabon	Count:112
+89	Lat: 34.7992	Long: 48.5146	Name: Hamadan	Count:46970
+90	Lat: 30.2019	Long: 53.18	Name: Pasargad	Count:2081
+91	Lat: 27.2024	Long: 60.6848	Name: Iranshahr	Count:676
+92	Lat: 30.2591	Long: 48.451	Name: Parpis	Count:1251
+93	Lat: 30.2833	Long: 48.4	Name: Taha	Count:697
+94	Lat: 37.4986	Long: 45.0011	Name: Band	Count:51390
+95	Lat: 27.1991	Long: 54.3668	Name: Bastak	Count:1005
+96	Lat: 33.6423	Long: 50.0789	Name: Khomeyn	Count:10
+97	Lat: 35.6069	Long: 47.0341	Name: Gazan-e Bala	Count:14911
+98	Lat: 36.1429	Long: 49.4728	Name: Mehin	Count:6902
+99	Lat: 36.2797	Long: 50.0049	Name: Qazvin	Count:22018
+100	Lat: 37.9512	Long: 48.8292	Name: Homa	Count:41
+101	Lat: 35.8355	Long: 51.0103	Name: Karaj	Count:53113
+102	Lat: 36.946	Long: 57.8562	Name: Jahan	Count:615
+103	Lat: 30.3333	Long: 48.2667	Name: Piruz	Count:2820
+104	Lat: 34.1421	Long: 45.9203	Name: Gilan-e Gharb	Count:24849
+105	Lat: 33.5959	Long: 49.4146	Name: Hush	Count:92
+106	Lat: 28.1342	Long: 51.4284	Name: Kordovan-e Sofla	Count:1774
+107	Lat: 30.6682	Long: 51.588	Name: Yasuj	Count:4727
+108	Lat: 37.3893	Long: 46.2376	Name: Maragheh	Count:133
+109	Lat: 34.0189	Long: 51.3467	Name: Ravand	Count:20
+110	Lat: 28.0338	Long: 56.3574	Name: Shahrud	Count:205
+111	Lat: 35.1826	Long: 59.3886	Name: Farsi	Count:580335
+112	Lat: 36.8387	Long: 54.4347	Name: Gorgan	Count:543
+113	Lat: 37.4315	Long: 47.7874	Name: Sabz	Count:23505
+114	Lat: 32.4515	Long: 50.911	Name: Saman	Count:112
+115	Lat: 29.6036	Long: 52.5388	Name: Shiraz	Count:26059
+116	Lat: 33.2386	Long: 59.336	Name: Khong	Count:851
+117	Lat: 35.7355	Long: 51.5291	Name: Shahrak-e Pars	Count:469994
+118	Lat: 30.6311	Long: 51.5952	Name: Najafabad	Count:1302
+119	Lat: 30.3392	Long: 48.3043	Name: Abadan	Count:307
+120	Lat: 28.9383	Long: 53.6482	Name: Fasa	Count:82
+121	Lat: 37.2073	Long: 50.004	Name: Lahijan	Count:276
+122	Lat: 36.3809	Long: 50.54	Name: Torkan	Count:1343
+123	Lat: 38.3557	Long: 45.8129	Name: Payam	Count:2892
+124	Lat: 35.1899	Long: 46.3587	Name: Novin	Count:482
+125	Lat: 36.297	Long: 59.6062	Name: Mashhad	Count:29833
+126	Lat: 36.8122	Long: 45.9348	Name: Azad	Count:1487
+127	Lat: 36.1594	Long: 49.9333	Name: Parsian	Count:1681
+128	Lat: 28.939	Long: 53.2455	Name: Gharbi	Count:34017

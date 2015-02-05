@@ -1,0 +1,37 @@
+Locations in Singapore
+0	Lat: 1.3167	Long: 103.8167	Name: Tanglin Halt	Count:799
+1	Lat: 1.3692	Long: 103.8497	Name: Ang Mo Kio New Town	Count:15639
+2	Lat: 1.3403	Long: 103.7758	Name: Bukit Timah	Count:153
+3	Lat: 1.3517	Long: 103.7628	Name: Bukit Batok New Town	Count:2933
+4	Lat: 1.3825	Long: 103.7497	Name: Choa Chu Kang New Town	Count:9158
+5	Lat: 1.3464	Long: 103.8531	Name: Yishun New Town	Count:2143
+6	Lat: 1.3014	Long: 103.7975	Name: Tanglin Halt	Count:779
+7	Lat: 1.3508	Long: 103.8708	Name: Serangoon	Count:4768
+8	Lat: 1.4144	Long: 103.9069	Name: Punggol	Count:4973
+9	Lat: 1.3797	Long: 103.7647	Name: Bukit Panjang New Town	Count:4358
+10	Lat: 1.305	Long: 103.7833	Name: Ayer Raja New Town	Count:348
+11	Lat: 1.2942	Long: 103.8025	Name: Queenstown Estate	Count:1856
+12	Lat: 1.3119	Long: 103.7933	Name: Holland Village	Count:194
+13	Lat: 1.3417	Long: 103.9636	Name: Changi Village	Count:30
+14	Lat: 1.3503	Long: 103.7228	Name: Jurong West New Town	Count:3784
+15	Lat: 1.4333	Long: 103.8311	Name: Yishun New Town	Count:17670
+16	Lat: 1.3333	Long: 103.7	Name: Boon Lay	Count:799
+17	Lat: 1.3333	Long: 103.8667	Name: Kalang	Count:61
+18	Lat: 1.1333	Long: 103.9333	Name: Singapore	Count:174
+19	Lat: 1.3667	Long: 103.8	Name: 	Count:2370341
+20	Lat: 1.3361	Long: 103.85	Name: Toa Payoh New Town	Count:5168
+21	Lat: 1.3361	Long: 103.9036	Name: Tai Seng	Count:256
+22	Lat: 1.3225	Long: 103.9614	Name: Bedok New Town	Count:20418
+23	Lat: 1.3414	Long: 103.7392	Name: Jurong East New Town	Count:6604
+24	Lat: 1.4444	Long: 103.7767	Name: Woodlands New Town	Count:6358
+25	Lat: 1.3567	Long: 103.8908	Name: Hougang	Count:5045
+26	Lat: 1.3492	Long: 103.9497	Name: Tampines New Town	Count:37843
+27	Lat: 1.3944	Long: 103.7539	Name: Yew Tee	Count:3015
+28	Lat: 1.36667	Long: 103.8	Name: 	Count:3086
+29	Lat: 1.2931	Long: 103.8558	Name: Singapore	Count:17345207
+30	Lat: 1.3158	Long: 103.7647	Name: Clementi New Town	Count:1056
+31	Lat: 1.3411	Long: 103.9561	Name: Simei New Town	Count:1363
+32	Lat: 1.3342	Long: 103.7228	Name: Jurong Town	Count:8860
+33	Lat: 1.3231	Long: 103.9283	Name: Kembangan	Count:4368
+34	Lat: 1.3722	Long: 103.9478	Name: Kampong Pasir Ris	Count:3148
+35	Lat: 1.3183	Long: 103.7758	Name: Pandan Valley	Count:10

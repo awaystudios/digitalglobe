@@ -1,0 +1,702 @@
+Locations in New Zealand
+0	Lat: -35.7039	Long: 173.9353	Name: Parakao	Count:153
+1	Lat: -36.941	Long: 174.8483	Name: Auckland	Count:26797
+2	Lat: -43.6323	Long: 171.6437	Name: Methven	Count:1815
+3	Lat: -37.7833	Long: 175.2833	Name: Hamilton	Count:715186
+4	Lat: -39.8193	Long: 175.0206	Name: Wanganui	Count:933
+5	Lat: -46.2388	Long: 169.7372	Name: Balclutha	Count:5497
+6	Lat: -46.2388	Long: 169.7388	Name: Balclutha	Count:871
+7	Lat: -37.3833	Long: 175.8333	Name: Waihi	Count:2112
+8	Lat: -36.0523	Long: 173.8602	Name: Dargaville	Count:717
+9	Lat: -37.0996	Long: 175.1194	Name: Manukau	Count:2174
+10	Lat: -37.6355	Long: 175.2398	Name: Hamilton	Count:1917
+11	Lat: -43.5298	Long: 172.6012	Name: Christchurch	Count:2194
+12	Lat: -37.6684	Long: 176.1405	Name: Tauranga	Count:2963
+13	Lat: -39.3	Long: 174.4667	Name: Douglas	Count:10
+14	Lat: -36.9667	Long: 174.8	Name: Mangere	Count:22849
+15	Lat: -38.6533	Long: 178.0042	Name: Gisborne	Count:17085
+16	Lat: -36.8731	Long: 174.7773	Name: Auckland	Count:5189
+17	Lat: -36.0858	Long: 174.5842	Name: Mangawhai Heads	Count:338
+18	Lat: -43.677	Long: 171.9801	Name: Rakaia	Count:2861
+19	Lat: -44.3864	Long: 171.2285	Name: Timaru	Count:27115
+20	Lat: -36.6106	Long: 174.7056	Name: Red Beach	Count:17988
+21	Lat: -43.6618	Long: 172.5484	Name: Tai Tapu	Count:1425
+22	Lat: -40.5963	Long: 175.2511	Name: Levin	Count:12809
+23	Lat: -39.0724	Long: 174.0554	Name: New Plymouth	Count:43709
+24	Lat: -39.9146	Long: 175.0546	Name: Wanganui	Count:21547
+25	Lat: -36.3249	Long: 174.7381	Name: Warkworth	Count:4030
+26	Lat: -44.2	Long: 171.2833	Name: Winchester	Count:1856
+27	Lat: -39.0507	Long: 174.3067	Name: New Plymouth	Count:512
+28	Lat: -40.7872	Long: 175.7584	Name: Masterton	Count:635
+29	Lat: -36.8981	Long: 174.4855	Name: Auckland	Count:2225
+30	Lat: -46.4382	Long: 168.3764	Name: Invercargill	Count:17711
+31	Lat: -36.8451	Long: 174.7675	Name: Auckland	Count:5353
+32	Lat: -37.0865	Long: 175.8125	Name: Tairua	Count:871
+33	Lat: -40.8948	Long: 174.9695	Name: Paraparaumu	Count:51001
+34	Lat: -41.3	Long: 174.9	Name: Eastbourne	Count:1281
+35	Lat: -41.3	Long: 174.7833	Name: Wellington	Count:414799
+36	Lat: -35.1006	Long: 173.7805	Name: Kaeo	Count:420
+37	Lat: -37.843	Long: 175.2852	Name: Hamilton	Count:3897
+38	Lat: -36.1167	Long: 174.5667	Name: Mangawhai Heads	Count:2194
+39	Lat: -37.7333	Long: 176.3	Name: Papamoa	Count:3722
+40	Lat: -37.7333	Long: 175.6833	Name: Walton	Count:2656
+41	Lat: -39.0917	Long: 174.1506	Name: New Plymouth	Count:635
+42	Lat: -35.6834	Long: 174.3008	Name: Whangarei	Count:1333
+43	Lat: -37.2288	Long: 174.6664	Name: Waiuku	Count:1794
+44	Lat: -39.0667	Long: 174.0833	Name: New Plymouth	Count:34766
+45	Lat: -37.0833	Long: 174.95	Name: Papakura	Count:48129
+46	Lat: -37.0833	Long: 174.9667	Name: Opaheke	Count:3568
+47	Lat: -39.4712	Long: 175.6851	Name: Waiouru	Count:1138
+48	Lat: -39.0278	Long: 177.4054	Name: Wairoa	Count:1610
+49	Lat: -45.6667	Long: 168.25	Name: Mossburn	Count:92
+50	Lat: -36.7215	Long: 174.7447	Name: Rothesay Bay	Count:83737
+51	Lat: -39.1167	Long: 173.95	Name: Oakura	Count:902
+52	Lat: -40.2979	Long: 175.5922	Name: Palmerston North	Count:697
+53	Lat: -38.9976	Long: 174.2367	Name: Waitara	Count:5517
+54	Lat: -40.2902	Long: 175.7552	Name: Ashhurst	Count:1312
+55	Lat: -36.6993	Long: 175.6601	Name: Coromandel	Count:666
+56	Lat: -39.6408	Long: 176.8425	Name: Hastings	Count:512
+57	Lat: -36.7582	Long: 174.5898	Name: Auckland	Count:7937
+58	Lat: -40.464	Long: 175.2318	Name: Foxton Beach	Count:2307
+59	Lat: -36.798	Long: 174.7462	Name: North Shore	Count:27823
+60	Lat: -39.05	Long: 174.1017	Name: New Plymouth	Count:1671
+61	Lat: -41.406	Long: 173.0398	Name: Wakefield	Count:10
+62	Lat: -43.75	Long: 172.0167	Name: Rakaia	Count:1322
+63	Lat: -39.7667	Long: 174.6333	Name: Waverley	Count:461
+64	Lat: -38.6833	Long: 176.0833	Name: Taupo	Count:6973
+65	Lat: -43.5136	Long: 172.6204	Name: Christchurch	Count:21506
+66	Lat: -43.5682	Long: 171.7097	Name: Methven	Count:492
+67	Lat: -39.6312	Long: 176.8314	Name: Hastings	Count:1989
+68	Lat: -41.316	Long: 174.8159	Name: Wellington	Count:738
+69	Lat: -36.7443	Long: 174.6948	Name: North Shore	Count:62733
+70	Lat: -44.7333	Long: 168.3667	Name: Arcadia	Count:1353
+71	Lat: -43.6162	Long: 172.2987	Name: Christchurch	Count:1210
+72	Lat: -36.9041	Long: 174.9392	Name: Auckland	Count:5045
+73	Lat: -37.4191	Long: 175.6648	Name: Paeroa	Count:1661
+74	Lat: -44.6862	Long: 169.1274	Name: Wanaka	Count:14675
+75	Lat: -37.7412	Long: 176.2216	Name: Tauranga	Count:3035
+76	Lat: -40.75	Long: 175.1167	Name: Otaki Beach	Count:297
+77	Lat: -43.5294	Long: 172.5174	Name: Christchurch	Count:88290
+78	Lat: -39.3916	Long: 176.631	Name: Napier City	Count:369
+79	Lat: -36.6596	Long: 174.434	Name: Parakai	Count:2102
+80	Lat: -41.2759	Long: 174.778	Name: Wellington	Count:338
+81	Lat: -36.3561	Long: 174.3225	Name: Wellsford	Count:605
+82	Lat: -35.693	Long: 174.3001	Name: Whangarei	Count:20111
+83	Lat: -36.8478	Long: 174.7577	Name: Auckland	Count:3548
+84	Lat: -36.7661	Long: 174.7548	Name: North Shore	Count:36469
+85	Lat: -36.7661	Long: 174.4924	Name: Auckland	Count:5599
+86	Lat: -43.489	Long: 172.5872	Name: Christchurch	Count:1466
+87	Lat: -41.4317	Long: 173.1111	Name: Nelson	Count:194
+88	Lat: -45.9004	Long: 170.4259	Name: Dunedin	Count:12378
+89	Lat: -41.1703	Long: 174.9949	Name: Lower Hutt	Count:26521
+90	Lat: -41.1703	Long: 174.8247	Name: Wellington	Count:789
+91	Lat: -41.1951	Long: 174.7805	Name: Wellington	Count:46375
+92	Lat: -37.0011	Long: 174.8672	Name: Manukau	Count:3558
+93	Lat: -37.1394	Long: 174.7893	Name: Manukau	Count:440
+94	Lat: -36.1895	Long: 174.5252	Name: Wellsford	Count:1179
+95	Lat: -45.01	Long: 168.4	Name: Queenstown	Count:17465
+96	Lat: -43.3888	Long: 170.182	Name: Franz Josef	Count:1476
+97	Lat: -36.8667	Long: 174.7833	Name: Parnell	Count:17855
+98	Lat: -36.8667	Long: 174.5833	Name: Swanson	Count:1548
+99	Lat: -36.8667	Long: 174.7667	Name: Auckland	Count:4474724
+100	Lat: -37.9833	Long: 177	Name: Whakatane	Count:9024
+101	Lat: -37.9833	Long: 175.75	Name: Tirau	Count:1640
+102	Lat: -40.3476	Long: 175.6277	Name: Palmerston North	Count:4809
+103	Lat: -36.8333	Long: 175.7	Name: Whitianga	Count:3148
+104	Lat: -36.8333	Long: 174.65	Name: Te Atatu	Count:3640
+105	Lat: -36.8333	Long: 174.5226	Name: Auckland	Count:3620
+106	Lat: -36.8303	Long: 174.7969	Name: Auckland	Count:5291
+107	Lat: -35.3867	Long: 174.0249	Name: Moerewa	Count:1179
+108	Lat: -43.6405	Long: 172.4841	Name: Christchurch	Count:2256
+109	Lat: -41.2869	Long: 174.7405	Name: Wellington	Count:59380
+110	Lat: -41.5056	Long: 173.8293	Name: Blenheim	Count:3353
+111	Lat: -40.3658	Long: 175.5885	Name: Palmerston North	Count:35074
+112	Lat: -38.0614	Long: 176.9708	Name: Whakatane	Count:964
+113	Lat: -38.1807	Long: 175.223	Name: Otorohanga	Count:3702
+114	Lat: -36.1881	Long: 174.429	Name: Kaiwaka	Count:512
+115	Lat: -40.1775	Long: 175.3863	Name: Bulls	Count:1230
+116	Lat: -37.7961	Long: 175.3088	Name: Hamilton	Count:49955
+117	Lat: -43.5571	Long: 172.6189	Name: Christchurch	Count:953
+118	Lat: -35.8	Long: 174.3167	Name: Portland	Count:789
+119	Lat: -37.2833	Long: 175.5	Name: Ngatea	Count:2204
+120	Lat: -36.7931	Long: 175.0922	Name: Manukau	Count:440
+121	Lat: -36.6949	Long: 174.7506	Name: Torbay	Count:1005
+122	Lat: -38.8833	Long: 175.3333	Name: Manunui	Count:492
+123	Lat: -40.5035	Long: 175.5456	Name: Palmerston North	Count:933
+124	Lat: -36.8758	Long: 174.8277	Name: Auckland	Count:3199
+125	Lat: -44.395	Long: 171.2532	Name: Timaru	Count:430
+126	Lat: -46.1327	Long: 167.6766	Name: Tuatapere	Count:553
+127	Lat: -37.1355	Long: 175.5456	Name: Thames	Count:5773
+128	Lat: -41.175	Long: 174.8503	Name: Wellington	Count:18275
+129	Lat: -44.0947	Long: 170.8289	Name: Fairlie	Count:82
+130	Lat: -43.5833	Long: 172.6333	Name: Cashmere Hills	Count:1158
+131	Lat: -43.5833	Long: 172.3833	Name: Rolleston	Count:6378
+132	Lat: -43.5833	Long: 172.5667	Name: Halswell	Count:892
+133	Lat: -42.65	Long: 173.05	Name: Waiau	Count:810
+134	Lat: -46.3136	Long: 168.4063	Name: Invercargill	Count:1651
+135	Lat: -43.5831	Long: 172.6644	Name: Christchurch	Count:23536
+136	Lat: -40.3326	Long: 175.63	Name: Palmerston North	Count:35669
+137	Lat: -45.9397	Long: 170.337	Name: Dunedin	Count:1148
+138	Lat: -45.8667	Long: 170.5	Name: Dunedin	Count:76281
+139	Lat: -45.8667	Long: 170.2333	Name: Outram	Count:656
+140	Lat: -44.4575	Long: 171.0532	Name: Timaru	Count:1343
+141	Lat: -41.2375	Long: 173.0318	Name: Nelson	Count:369
+142	Lat: -37.8	Long: 174.8833	Name: Raglan	Count:2707
+143	Lat: -36.6765	Long: 174.4527	Name: Helensville	Count:2922
+144	Lat: -41	Long: 174	Name: 	Count:6950976
+145	Lat: -40.5336	Long: 175.2628	Name: Levin	Count:461
+146	Lat: -44.7	Long: 169.15	Name: Wanaka	Count:15588
+147	Lat: -35.5667	Long: 174.3667	Name: Marua	Count:10
+148	Lat: -35.7762	Long: 174.268	Name: Whangarei	Count:3004
+149	Lat: -40.9481	Long: 172.8863	Name: Takaka	Count:3538
+150	Lat: -35.2764	Long: 173.4408	Name: Rawene	Count:502
+151	Lat: -45.2408	Long: 169.7576	Name: Ranfurly	Count:953
+152	Lat: -36.7726	Long: 174.5488	Name: Auckland	Count:1456
+153	Lat: -38	Long: 175.2	Name: Pirongia	Count:266
+154	Lat: -41.2829	Long: 174.7842	Name: Wellington	Count:82414
+155	Lat: -37.0234	Long: 174.8856	Name: Manukau	Count:37125
+156	Lat: -36.6167	Long: 174.6667	Name: Silverdale	Count:6112
+157	Lat: -39.5917	Long: 174.2833	Name: Hawera	Count:3794
+158	Lat: -37.4922	Long: 175.9169	Name: Athenree	Count:1969
+159	Lat: -36.5667	Long: 174.7	Name: Orewa	Count:16962
+160	Lat: -35.2628	Long: 174.1228	Name: Russell	Count:266
+161	Lat: -38.2229	Long: 175.8685	Name: Tokoroa	Count:6050
+162	Lat: -44.4032	Long: 168.8713	Name: Makarora Wharf	Count:3220
+163	Lat: -39.1936	Long: 173.8777	Name: Okato	Count:646
+164	Lat: -41.2833	Long: 174.75	Name: Northland	Count:984
+165	Lat: -41.2833	Long: 173.2833	Name: Nelson	Count:90126
+166	Lat: -42.7	Long: 172.95	Name: Rotherham	Count:923
+167	Lat: -39.5833	Long: 176.9167	Name: Clive	Count:266
+168	Lat: -36.7753	Long: 174.7199	Name: North Shore	Count:45750
+169	Lat: -38.1444	Long: 175.2717	Name: Otorohanga	Count:594
+170	Lat: -39.3292	Long: 173.8783	Name: Upper Kahui	Count:410
+171	Lat: -37.0333	Long: 174.8667	Name: Weymouth	Count:2851
+172	Lat: -37.0333	Long: 174.9167	Name: Manukau	Count:8573
+173	Lat: -37.0874	Long: 174.9409	Name: Papakura	Count:11599
+174	Lat: -43.1667	Long: 172.7333	Name: Amberley	Count:2933
+175	Lat: -40.9769	Long: 174.9682	Name: Paraparaumu	Count:1189
+176	Lat: -36.8017	Long: 174.7446	Name: North Shore	Count:1087
+177	Lat: -45.8447	Long: 170.6214	Name: Dunedin	Count:2707
+178	Lat: -37.7	Long: 176.1167	Name: Bethlehem	Count:1292
+179	Lat: -37.7146	Long: 176.3294	Name: Tauranga	Count:27003
+180	Lat: -40.2905	Long: 175.7028	Name: Palmerston North	Count:1507
+181	Lat: -36.6374	Long: 174.693	Name: Auckland	Count:1128
+182	Lat: -43.4	Long: 170.1833	Name: Franz Josef	Count:1435
+183	Lat: -37.0609	Long: 174.9656	Name: Red Hill	Count:21926
+184	Lat: -36.6232	Long: 174.7063	Name: Auckland	Count:52201
+185	Lat: -39.7719	Long: 175.0626	Name: Wanganui	Count:533
+186	Lat: -43.6013	Long: 172.377	Name: Christchurch	Count:10635
+187	Lat: -43.6416	Long: 172.4835	Name: Lincoln	Count:3292
+188	Lat: -36.1195	Long: 174.0709	Name: Ruawai	Count:1240
+189	Lat: -46.3333	Long: 168.85	Name: Wyndham	Count:1005
+190	Lat: -38.6673	Long: 178.0286	Name: Gisborne	Count:32643
+191	Lat: -40.8733	Long: 175.0507	Name: Paraparaumu	Count:6737
+192	Lat: -35.8069	Long: 174.4823	Name: Whangarei	Count:2758
+193	Lat: -37.55	Long: 175.9167	Name: Katikati	Count:8194
+194	Lat: -44.4	Long: 171.25	Name: Timaru	Count:16265
+195	Lat: -37.7974	Long: 175.2604	Name: Hamilton	Count:38376
+196	Lat: -39.5534	Long: 174.1949	Name: Hawera	Count:707
+197	Lat: -45.1907	Long: 169.3237	Name: Clyde	Count:687
+198	Lat: -41.25	Long: 174.7833	Name: Khandallah	Count:1169
+199	Lat: -43.748	Long: 172.3276	Name: Leeston	Count:923
+200	Lat: -37.0616	Long: 174.9417	Name: Papakura	Count:625
+201	Lat: -37.2484	Long: 174.7359	Name: Waiuku	Count:12727
+202	Lat: -36.3544	Long: 174.8003	Name: Warkworth	Count:666
+203	Lat: -41.1245	Long: 174.8198	Name: Porirua	Count:15824
+204	Lat: -36.8236	Long: 174.7918	Name: Auckland	Count:34807
+205	Lat: -39.429	Long: 174.2996	Name: Eltham	Count:2594
+206	Lat: -46.3084	Long: 168.7938	Name: Edendale	Count:564
+207	Lat: -37.3376	Long: 175.7408	Name: Paeroa	Count:523
+208	Lat: -36.8988	Long: 174.5918	Name: Auckland	Count:93305
+209	Lat: -37.5777	Long: 175.2696	Name: Hamilton	Count:1497
+210	Lat: -37.6	Long: 175.6334	Name: Waitoa	Count:840
+211	Lat: -42.4066	Long: 173.6889	Name: Kaikoura	Count:205
+212	Lat: -36.8975	Long: 174.6973	Name: Auckland	Count:2974
+213	Lat: -34.9757	Long: 173.2179	Name: Awanui	Count:1025
+214	Lat: -43.7012	Long: 172.6222	Name: Christchurch	Count:1753
+215	Lat: -36.9781	Long: 174.9855	Name: Auckland	Count:4625
+216	Lat: -39.4833	Long: 174.2667	Name: Te Roti	Count:666
+217	Lat: -39.4833	Long: 175.6667	Name: Waiouru	Count:492
+218	Lat: -39.4833	Long: 176.9167	Name: Napier City	Count:96741
+219	Lat: -38.1218	Long: 176.7807	Name: Whakatane	Count:902
+220	Lat: -36.9559	Long: 174.8184	Name: Auckland	Count:56970
+221	Lat: -37.7656	Long: 175.6598	Name: Matamata	Count:389
+222	Lat: -42.9333	Long: 172.6333	Name: Hawarden	Count:389
+223	Lat: -46.2799	Long: 169.841	Name: Kaitangata	Count:174
+224	Lat: -37.1974	Long: 175.869	Name: Whangamata	Count:512
+225	Lat: -40.4749	Long: 175.2812	Name: Foxton	Count:584
+226	Lat: -43.4859	Long: 172.1154	Name: Darfield	Count:3415
+227	Lat: -42.8167	Long: 173.2667	Name: Cheviot	Count:964
+228	Lat: -41.2059	Long: 172.1609	Name: Karamea	Count:379
+229	Lat: -36.8872	Long: 174.7709	Name: Auckland	Count:94423
+230	Lat: -37.8386	Long: 176.1706	Name: Tauranga	Count:2451
+231	Lat: -39.8531	Long: 174.8924	Name: Wanganui	Count:707
+232	Lat: -45.6302	Long: 170.5342	Name: Dunedin	Count:943
+233	Lat: -43.5559	Long: 172.669	Name: Christchurch	Count:29279
+234	Lat: -37.7462	Long: 175.2707	Name: Hamilton	Count:46683
+235	Lat: -45.9556	Long: 170.0903	Name: Berwick	Count:2112
+236	Lat: -39.6667	Long: 176.8833	Name: Havelock North	Count:820
+237	Lat: -38.7037	Long: 176.0588	Name: Taupo	Count:30336
+238	Lat: -37.8109	Long: 174.8709	Name: Raglan	Count:2184
+239	Lat: -36.8768	Long: 174.8042	Name: Auckland	Count:85624
+240	Lat: -36.7222	Long: 174.6236	Name: Auckland	Count:7404
+241	Lat: -41.2809	Long: 174.7794	Name: Wellington	Count:2769
+242	Lat: -43.2101	Long: 172.1779	Name: Oxford	Count:584
+243	Lat: -43.7503	Long: 172.9324	Name: Duvauchelle	Count:1446
+244	Lat: -35.749	Long: 174.327	Name: Whangarei	Count:14491
+245	Lat: -40.621	Long: 175.3004	Name: Levin	Count:625
+246	Lat: -36.8531	Long: 174.6466	Name: Auckland	Count:89623
+247	Lat: -43.9515	Long: 176.561	Name: Waitangi	Count:430
+248	Lat: -40.6333	Long: 175.275	Name: Levin	Count:15578
+249	Lat: -41.5	Long: 173.8333	Name: Renwick	Count:5855
+250	Lat: -39.5268	Long: 176.8511	Name: Taradale	Count:16757
+251	Lat: -43.5177	Long: 172.5884	Name: Christchurch	Count:1456
+252	Lat: -38.172	Long: 177.4113	Name: Opotiki	Count:953
+253	Lat: -36.9333	Long: 174.8	Name: Favona	Count:1517
+254	Lat: -36.9333	Long: 174.6667	Name: Titirangi North	Count:892
+255	Lat: -40.3691	Long: 175.6288	Name: Palmerston North	Count:43227
+256	Lat: -43.3206	Long: 172.6648	Name: Woodend	Count:2194
+257	Lat: -36.8461	Long: 174.7292	Name: Herne Bay	Count:235
+258	Lat: -43.5079	Long: 172.7022	Name: Christchurch	Count:26623
+259	Lat: -36.8804	Long: 174.798	Name: Remuera	Count:3476
+260	Lat: -41.2167	Long: 174.9167	Name: Lower Hutt	Count:73481
+261	Lat: -45.4033	Long: 167.7195	Name: Te Anau	Count:2410
+262	Lat: -43.6024	Long: 172.7241	Name: Christchurch	Count:6040
+263	Lat: -38.4571	Long: 176.709	Name: Murupara	Count:1405
+264	Lat: -35.9333	Long: 173.8833	Name: Dargaville	Count:1979
+265	Lat: -43.5802	Long: 172.567	Name: Christchurch	Count:523
+266	Lat: -46.2	Long: 169.3667	Name: Clinton	Count:51
+267	Lat: -36.8578	Long: 174.7579	Name: Auckland	Count:871
+268	Lat: -39.5417	Long: 174.2726	Name: Hawera	Count:1097
+269	Lat: -37.9555	Long: 176.9225	Name: Whakatane	Count:17085
+270	Lat: -37.6348	Long: 176.0467	Name: Tauranga	Count:1117
+271	Lat: -41.2466	Long: 174.7942	Name: Wellington	Count:24798
+272	Lat: -40.8215	Long: 175.5948	Name: Masterton	Count:1446
+273	Lat: -36.8873	Long: 174.8528	Name: Auckland	Count:77235
+274	Lat: -40.7583	Long: 175.15	Name: Otaki	Count:2881
+275	Lat: -41.2	Long: 173.05	Name: Tasman	Count:717
+276	Lat: -35.2167	Long: 173.9667	Name: Kerikeri	Count:984
+277	Lat: -38.1016	Long: 175.5796	Name: Cambridge	Count:574
+278	Lat: -37.8097	Long: 176.025	Name: Tauranga	Count:1117
+279	Lat: -36.1258	Long: 174.5746	Name: Mangawhai	Count:892
+280	Lat: -37.3735	Long: 175.6712	Name: Paeroa	Count:666
+281	Lat: -35.7549	Long: 174.2081	Name: Maungatapere	Count:461
+282	Lat: -36.9097	Long: 174.8145	Name: Auckland	Count:215
+283	Lat: -38.0905	Long: 176.6964	Name: Kawerau	Count:5896
+284	Lat: -46.1034	Long: 169.5665	Name: Balclutha	Count:625
+285	Lat: -39.5854	Long: 174.2825	Name: Hawera	Count:7681
+286	Lat: -43.8833	Long: 169.05	Name: Haast	Count:71
+287	Lat: -39.5333	Long: 174.2	Name: Okaiawa	Count:297
+288	Lat: -36.6333	Long: 174.7667	Name: Whangaparaoa	Count:2789
+289	Lat: -40.9497	Long: 175.6614	Name: Masterton	Count:1312
+290	Lat: -40.6667	Long: 172.6833	Name: Collingwood	Count:656
+291	Lat: -45.7333	Long: 170.05	Name: Clarks	Count:1087
+292	Lat: -45.8333	Long: 170.6	Name: Sawyers Bay	Count:1435
+293	Lat: -35.6129	Long: 174.522	Name: Ngunguru	Count:297
+294	Lat: -39.2	Long: 173.8833	Name: Okato	Count:871
+295	Lat: -42.4667	Long: 171.25	Name: Kaiata	Count:1220
+296	Lat: -42.4667	Long: 171.2	Name: Greymouth	Count:3968
+297	Lat: -36.3519	Long: 174.7169	Name: Matakana	Count:1958
+298	Lat: -36.9647	Long: 174.9241	Name: Manukau	Count:40489
+299	Lat: -40.8833	Long: 175.0667	Name: Waikanae	Count:13188
+300	Lat: -35.2336	Long: 173.9593	Name: Kerikeri	Count:8501
+301	Lat: -36.9167	Long: 174.65	Name: Glen Eden	Count:5322
+302	Lat: -36.9167	Long: 174.6167	Name: Oratia	Count:1866
+303	Lat: -36.9167	Long: 174.8167	Name: Penrose	Count:369
+304	Lat: -41.75	Long: 171.5667	Name: Westport	Count:492
+305	Lat: -43.6438	Long: 172.6814	Name: Christchurch	Count:2851
+306	Lat: -35.3167	Long: 173.7833	Name: Okaihau	Count:615
+307	Lat: -39.4523	Long: 173.8572	Name: Opunake	Count:1907
+308	Lat: -40.9516	Long: 175.6535	Name: Masterton	Count:14152
+309	Lat: -39.9401	Long: 175.0133	Name: Wanganui	Count:22757
+310	Lat: -45.7391	Long: 168.4462	Name: Lumsden	Count:646
+311	Lat: -43.5419	Long: 172.213	Name: Darfield	Count:2369
+312	Lat: -39.4556	Long: 173.8583	Name: Opunake	Count:1712
+313	Lat: -39.0572	Long: 174.0741	Name: New Plymouth	Count:1589
+314	Lat: -45.8758	Long: 170.3489	Name: Mosgiel	Count:820
+315	Lat: -39.0487	Long: 174.2197	Name: New Plymouth	Count:492
+316	Lat: -42.7904	Long: 173.1121	Name: Cheviot	Count:974
+317	Lat: -44.0984	Long: 170.8295	Name: Fairlie	Count:1128
+318	Lat: -34.9833	Long: 173.5333	Name: Mangonui	Count:2410
+319	Lat: -35.6833	Long: 174.3167	Name: Kamo	Count:574
+320	Lat: -37.1	Long: 174.95	Name: Drury	Count:4153
+321	Lat: -46.45	Long: 169.6667	Name: Owaka	Count:789
+322	Lat: -43.5008	Long: 172.6257	Name: Christchurch	Count:38909
+323	Lat: -35.6306	Long: 174.1057	Name: Whangarei	Count:379
+324	Lat: -43.5319	Long: 172.6316	Name: Christchurch	Count:8891
+325	Lat: -37.1222	Long: 175.2316	Name: Papakura	Count:3384
+326	Lat: -39.9478	Long: 175.5212	Name: Hunterville	Count:348
+327	Lat: -41.3437	Long: 173.185	Name: Richmond	Count:3968
+328	Lat: -37.3714	Long: 175.8798	Name: Waihi	Count:984
+329	Lat: -41.116	Long: 175.6531	Name: Masterton	Count:533
+330	Lat: -36.8472	Long: 174.7692	Name: Auckland	Count:21680
+331	Lat: -35.5909	Long: 174.2815	Name: Whangarei	Count:51
+332	Lat: -36.8075	Long: 174.7864	Name: Belmont	Count:18613
+333	Lat: -35.6147	Long: 174.4391	Name: Whangarei	Count:2963
+334	Lat: -45.8534	Long: 170.5626	Name: Dunedin	Count:1794
+335	Lat: -36.7917	Long: 174.7758	Name: Takapuna	Count:2245
+336	Lat: -38.8333	Long: 174.9833	Name: Ohura	Count:82
+337	Lat: -37.6905	Long: 175.3075	Name: Hamilton	Count:4471
+338	Lat: -41.0629	Long: 174.8705	Name: Wellington	Count:7404
+339	Lat: -43.5167	Long: 172.5718	Name: Christchurch	Count:789
+340	Lat: -43.5167	Long: 172.3667	Name: West Melton	Count:584
+341	Lat: -43.5167	Long: 172.5167	Name: Yaldhurst	Count:1866
+342	Lat: -37.9524	Long: 176.9959	Name: Whakatane	Count:420
+343	Lat: -39.6806	Long: 176.8867	Name: Hastings	Count:10071
+344	Lat: -43.5333	Long: 172.65	Name: Linwood	Count:974
+345	Lat: -43.5333	Long: 172.6333	Name: Christchurch	Count:661446
+346	Lat: -36.9784	Long: 174.7817	Name: Auckland	Count:36058
+347	Lat: -43.9167	Long: 171.7167	Name: Tinwald	Count:2727
+348	Lat: -46.1208	Long: 169.9694	Name: Milton	Count:215
+349	Lat: -42.3167	Long: 172.1833	Name: Springs Junction	Count:2071
+350	Lat: -43.4492	Long: 172.6875	Name: Christchurch	Count:28623
+351	Lat: -38.4667	Long: 176.7	Name: Murupara	Count:687
+352	Lat: -43.65	Long: 172.4833	Name: Lincoln	Count:2451
+353	Lat: -36.8565	Long: 174.8482	Name: Auckland	Count:93992
+354	Lat: -38.7041	Long: 176.1355	Name: Taupo	Count:2481
+355	Lat: -40.2789	Long: 176.6283	Name: Porangahau	Count:1158
+356	Lat: -38.1178	Long: 176.2514	Name: Rotorua	Count:10030
+357	Lat: -35.1769	Long: 173.876	Name: Kerikeri	Count:1692
+358	Lat: -36.8833	Long: 175	Name: Beachlands	Count:1712
+359	Lat: -36.8833	Long: 174.7	Name: Avondale	Count:2553
+360	Lat: -36.8833	Long: 174.8667	Name: Panmure	Count:30
+361	Lat: -36.8833	Long: 174.9333	Name: Auckland	Count:14993
+362	Lat: -36.8833	Long: 174.9167	Name: Pakuranga	Count:9496
+363	Lat: -41.4122	Long: 175.5153	Name: Waipawa	Count:2645
+364	Lat: -41.2338	Long: 174.8757	Name: Lower Hutt	Count:6430
+365	Lat: -36.6868	Long: 174.4557	Name: North Shore	Count:1917
+366	Lat: -40.9167	Long: 175.0167	Name: Paraparaumu	Count:5158
+367	Lat: -36.9214	Long: 174.7393	Name: Auckland	Count:33741
+368	Lat: -42.1	Long: 171.3333	Name: Punakaiki	Count:174
+369	Lat: -36.898	Long: 174.8092	Name: Auckland	Count:2358
+370	Lat: -36.898	Long: 174.9308	Name: Auckland	Count:85634
+371	Lat: -38.2072	Long: 177.1206	Name: Waimana	Count:461
+372	Lat: -37.1667	Long: 174.9833	Name: Bombay	Count:2451
+373	Lat: -42	Long: 174	Name: 	Count:10
+374	Lat: -39.1487	Long: 174.0832	Name: New Plymouth	Count:4891
+375	Lat: -36.7987	Long: 174.6378	Name: Auckland	Count:32110
+376	Lat: -40.9051	Long: 175.5684	Name: Masterton	Count:1046
+377	Lat: -36.817	Long: 175.6913	Name: Whitianga	Count:779
+378	Lat: -35.9673	Long: 173.9916	Name: Dargaville	Count:389
+379	Lat: -45.1301	Long: 170.0998	Name: Ranfurly	Count:1692
+380	Lat: -36.9121	Long: 174.8708	Name: Auckland	Count:430
+381	Lat: -39.898	Long: 176.6275	Name: Otane	Count:482
+382	Lat: -35.7562	Long: 174.1728	Name: Whangarei	Count:3281
+383	Lat: -37.4057	Long: 175.8178	Name: Waihi	Count:2543
+384	Lat: -46.3867	Long: 168.5511	Name: Invercargill	Count:1292
+385	Lat: -43.541	Long: 172.71	Name: Christchurch	Count:24736
+386	Lat: -45.1333	Long: 170.1	Name: Ranfurly	Count:440
+387	Lat: -38.14	Long: 176.25	Name: Rotorua	Count:20675
+388	Lat: -39	Long: 174.3833	Name: Urenui	Count:2810
+389	Lat: -39	Long: 175.9333	Name: Turangi	Count:430
+390	Lat: -41.3052	Long: 174.779	Name: Wellington	Count:112555
+391	Lat: -36.7834	Long: 175.0105	Name: Auckland	Count:1958
+392	Lat: -40.3989	Long: 175.4478	Name: Palmerston North	Count:707
+393	Lat: -41.3155	Long: 174.8166	Name: Wellington	Count:51237
+394	Lat: -39.4909	Long: 176.9182	Name: Napier City	Count:1743
+395	Lat: -35.2333	Long: 173.2167	Name: Manukau	Count:18962
+396	Lat: -36.8447	Long: 174.7336	Name: Auckland	Count:47247
+397	Lat: -43.101	Long: 172.6438	Name: Amberley	Count:369
+398	Lat: -40.2317	Long: 175.4358	Name: Palmerston North	Count:471
+399	Lat: -39.1464	Long: 173.9507	Name: New Plymouth	Count:1887
+400	Lat: -41.2634	Long: 174.9483	Name: Lower Hutt	Count:25577
+401	Lat: -37.8198	Long: 175.2282	Name: Hamilton	Count:1835
+402	Lat: -37.8198	Long: 175.2865	Name: Hamilton	Count:11270
+403	Lat: -45.8944	Long: 170.4994	Name: Dunedin	Count:3343
+404	Lat: -38.925	Long: 174.25	Name: Waitara	Count:881
+405	Lat: -37.9878	Long: 175.7524	Name: Tirau	Count:4584
+406	Lat: -37.6417	Long: 176.1861	Name: Mount Maunganui	Count:7968
+407	Lat: -46.3894	Long: 168.3722	Name: Invercargill	Count:45247
+408	Lat: -39.65	Long: 176.8333	Name: Hastings	Count:27967
+409	Lat: -43.2833	Long: 172.7167	Name: Waikuku Beach	Count:3804
+410	Lat: -36.6687	Long: 174.6549	Name: Auckland	Count:1784
+411	Lat: -37.905	Long: 175.0829	Name: Hamilton	Count:1271
+412	Lat: -41.2333	Long: 174.7833	Name: Johnsonville	Count:1917
+413	Lat: -41.2333	Long: 174.8833	Name: Petone	Count:1281
+414	Lat: -36.9005	Long: 174.8557	Name: Auckland	Count:1784
+415	Lat: -36.7	Long: 174.75	Name: Torbay	Count:3979
+416	Lat: -46.1224	Long: 169.9704	Name: Milton	Count:810
+417	Lat: -46.2339	Long: 169.75	Name: Balclutha	Count:112
+418	Lat: -37.0135	Long: 174.9183	Name: Manukau	Count:27720
+419	Lat: -36.6172	Long: 174.7966	Name: Auckland	Count:18378
+420	Lat: -39.0333	Long: 177.3667	Name: Wairoa	Count:1948
+421	Lat: -37.6686	Long: 176.2664	Name: Tauranga	Count:88424
+422	Lat: -44.6167	Long: 170.2667	Name: Otematata	Count:61
+423	Lat: -42.35	Long: 171.5333	Name: Ahaura	Count:1261
+424	Lat: -36.863	Long: 174.7432	Name: Auckland	Count:93633
+425	Lat: -36.8918	Long: 174.7745	Name: Auckland	Count:112
+426	Lat: -37.7167	Long: 176.1333	Name: Greerton	Count:30
+427	Lat: -40.3833	Long: 175.55	Name: Palmerston North	Count:61
+428	Lat: -37.2045	Long: 174.7562	Name: Waiuku	Count:5312
+429	Lat: -37.2667	Long: 174.95	Name: Tuakau	Count:18747
+430	Lat: -37.761	Long: 175.2474	Name: Hamilton	Count:60590
+431	Lat: -43.5565	Long: 172.6024	Name: Christchurch	Count:47063
+432	Lat: -43.1628	Long: 172.7248	Name: Amberley	Count:1087
+433	Lat: -43.4717	Long: 172.0706	Name: Darfield	Count:3948
+434	Lat: -41.7486	Long: 171.5903	Name: Westport	Count:5394
+435	Lat: -41.2838	Long: 174.7763	Name: Wellington	Count:758
+436	Lat: -37.2674	Long: 174.9395	Name: Tuakau	Count:5189
+437	Lat: -43.55	Long: 172.6833	Name: Woolston	Count:123
+438	Lat: -37.2446	Long: 175.1648	Name: Te Kauwhata	Count:215
+439	Lat: -36.1077	Long: 174.3568	Name: Maungaturoto	Count:594
+440	Lat: -46.4	Long: 168.35	Name: Invercargill	Count:32623
+441	Lat: -36.8702	Long: 174.7107	Name: Auckland	Count:676
+442	Lat: -37.8003	Long: 174.87	Name: Raglan	Count:410
+443	Lat: -45.8777	Long: 170.5018	Name: Dunedin	Count:317
+444	Lat: -36.4018	Long: 174.6626	Name: Warkworth	Count:4050
+445	Lat: -44.8414	Long: 168.7167	Name: Queenstown	Count:2922
+446	Lat: -36.8714	Long: 174.8978	Name: Auckland	Count:45914
+447	Lat: -36.8844	Long: 174.7238	Name: Auckland	Count:113550
+448	Lat: -41.3097	Long: 173.2432	Name: Nelson	Count:6963
+449	Lat: -43.7046	Long: 172.4643	Name: Christchurch	Count:4973
+450	Lat: -46.4308	Long: 168.2429	Name: Invercargill	Count:1343
+451	Lat: -37.3667	Long: 175.6667	Name: Paeroa	Count:3466
+452	Lat: -39.9336	Long: 175.8575	Name: Hunterville	Count:369
+453	Lat: -35.6943	Long: 174.4312	Name: Whangarei	Count:82
+454	Lat: -43.4957	Long: 172.568	Name: Christchurch	Count:53585
+455	Lat: -38.1483	Long: 176.2067	Name: Rotorua	Count:3220
+456	Lat: -36.801	Long: 174.778	Name: North Shore	Count:29259
+457	Lat: -36.4	Long: 174.6667	Name: Warkworth	Count:2256
+458	Lat: -41.2095	Long: 174.9015	Name: Lower Hutt	Count:2010
+459	Lat: -46.275	Long: 169.85	Name: Kaitangata	Count:164
+460	Lat: -36.95	Long: 174.9	Name: East Tamaki	Count:4235
+461	Lat: -39.613	Long: 176.9451	Name: Hastings	Count:1158
+462	Lat: -37.6861	Long: 176.1667	Name: Tauranga	Count:110668
+463	Lat: -36.8546	Long: 174.584	Name: Auckland	Count:40858
+464	Lat: -37.7849	Long: 175.276	Name: Hamilton	Count:16675
+465	Lat: -36.8585	Long: 174.7053	Name: Auckland	Count:42868
+466	Lat: -43.5884	Long: 172.579	Name: Christchurch	Count:39248
+467	Lat: -36.9927	Long: 175.0373	Name: Auckland	Count:933
+468	Lat: -37.1147	Long: 174.9742	Name: Manukau	Count:2184
+469	Lat: -36.315	Long: 174.447	Name: Wellsford	Count:543
+470	Lat: -45.5923	Long: 170.6938	Name: Karitane	Count:2256
+471	Lat: -36.4709	Long: 174.6573	Name: Warkworth	Count:1835
+472	Lat: -36.9155	Long: 174.7991	Name: Auckland	Count:77553
+473	Lat: -39.9333	Long: 175.05	Name: Wanganui	Count:19352
+474	Lat: -46.3667	Long: 168.4167	Name: Myross Bush	Count:1097
+475	Lat: -40.2167	Long: 176.0833	Name: Tahoraiti	Count:2943
+476	Lat: -36.8507	Long: 174.7632	Name: Auckland	Count:4625
+477	Lat: -36.8507	Long: 174.8577	Name: Auckland	Count:2010
+478	Lat: -40.6222	Long: 175.2866	Name: Levin	Count:830
+479	Lat: -46.15	Long: 168	Name: Otautau	Count:410
+480	Lat: -46.15	Long: 168.3333	Name: Winton	Count:1476
+481	Lat: -36.8641	Long: 174.7621	Name: Auckland	Count:4122
+482	Lat: -37.381	Long: 175.671	Name: Paeroa	Count:71
+483	Lat: -36.85	Long: 174.55	Name: Waitakere City	Count:13752
+484	Lat: -36.85	Long: 174.7333	Name: Ponsonby	Count:933
+485	Lat: -36.85	Long: 174.8667	Name: Saint Heliers	Count:1384
+486	Lat: -36.85	Long: 174.8167	Name: Orakei	Count:4932
+487	Lat: -41.2881	Long: 173.3357	Name: Nelson	Count:12224
+488	Lat: -37.6553	Long: 176.2004	Name: Tauranga	Count:1179
+489	Lat: -45.8839	Long: 170.3552	Name: Dunedin	Count:15014
+490	Lat: -36.7604	Long: 174.4673	Name: Auckland	Count:1220
+491	Lat: -40.3	Long: 175.75	Name: Ashhurst	Count:3712
+492	Lat: -37.185	Long: 175.0338	Name: Manukau	Count:5804
+493	Lat: -39.6462	Long: 176.8502	Name: Hastings	Count:10153
+494	Lat: -40.5584	Long: 175.2388	Name: Levin	Count:123
+495	Lat: -37.6536	Long: 176.2044	Name: Tauranga	Count:24541
+496	Lat: -39.6279	Long: 176.8137	Name: Hastings	Count:17506
+497	Lat: -36.5	Long: 174.6667	Name: Puhoi	Count:1712
+498	Lat: -43.5341	Long: 172.637	Name: Christchurch	Count:77829
+499	Lat: -39.498	Long: 176.8799	Name: Onekawa	Count:10399
+500	Lat: -43.5286	Long: 172.6392	Name: Christchurch	Count:30
+501	Lat: -38.0833	Long: 177.2833	Name: Opotiki	Count:482
+502	Lat: -36.7875	Long: 174.5296	Name: Auckland	Count:4686
+503	Lat: -36.7875	Long: 174.7729	Name: North Shore	Count:564
+504	Lat: -36.8818	Long: 175.0134	Name: Auckland	Count:9506
+505	Lat: -37.1436	Long: 175.0191	Name: Manukau	Count:3486
+506	Lat: -41.3154	Long: 174.8854	Name: Wellington	Count:1907
+507	Lat: -35.0088	Long: 173.621	Name: Taipa	Count:1405
+508	Lat: -36.9738	Long: 175.0179	Name: Auckland	Count:4276
+509	Lat: -39.4856	Long: 174.2924	Name: Hawera	Count:328
+510	Lat: -35.7245	Long: 174.3213	Name: Whangarei	Count:1066
+511	Lat: -36.8052	Long: 174.9811	Name: Auckland	Count:142778
+512	Lat: -46.1885	Long: 168.0818	Name: Otautau	Count:297
+513	Lat: -35.282	Long: 174.0915	Name: Paihia	Count:1312
+514	Lat: -39.2227	Long: 173.8774	Name: New Plymouth	Count:379
+515	Lat: -39.8817	Long: 176.7075	Name: Hastings	Count:697
+516	Lat: -36.6275	Long: 174.7314	Name: Stanmore Bay	Count:461
+517	Lat: -43.5966	Long: 172.3476	Name: Christchurch	Count:1261
+518	Lat: -41.2902	Long: 174.7757	Name: Wellington	Count:799
+519	Lat: -38.576	Long: 177.9556	Name: Gisborne	Count:194
+520	Lat: -43.0667	Long: 172.75	Name: Waipara	Count:1199
+521	Lat: -42.382	Long: 171.372	Name: Greymouth	Count:512
+522	Lat: -37.3865	Long: 175.8446	Name: Waihi	Count:6420
+523	Lat: -40.9	Long: 174.9833	Name: Paraparaumu Beach	Count:1117
+524	Lat: -37.0408	Long: 174.8752	Name: Manukau	Count:19393
+525	Lat: -45.75	Long: 170.5667	Name: Waitati	Count:584
+526	Lat: -41.2825	Long: 174.775	Name: Wellington	Count:1620
+527	Lat: -41.3498	Long: 173.1862	Name: Richmond	Count:1774
+528	Lat: -36.7932	Long: 175.0362	Name: Auckland	Count:25567
+529	Lat: -42.7416	Long: 171.0127	Name: Hokitika	Count:871
+530	Lat: -45.9	Long: 168.75	Name: Riversdale	Count:1835
+531	Lat: -43.4325	Long: 172.589	Name: Christchurch	Count:1230
+532	Lat: -43.5432	Long: 172.5252	Name: Christchurch	Count:1138
+533	Lat: -45.8904	Long: 170.3894	Name: Dunedin	Count:1487
+534	Lat: -37.9167	Long: 175.3167	Name: Ohaupo	Count:2625
+535	Lat: -36.9125	Long: 174.7335	Name: Auckland	Count:115283
+536	Lat: -36.7667	Long: 175.5	Name: Coromandel	Count:1158
+537	Lat: -36.7667	Long: 174.6833	Name: Greenhithe	Count:6040
+538	Lat: -36.7667	Long: 174.5667	Name: Kumeu	Count:5620
+539	Lat: -45.8125	Long: 170.6042	Name: Dunedin	Count:1107
+540	Lat: -35.3838	Long: 174.0668	Name: Kawakawa	Count:1312
+541	Lat: -46.1414	Long: 168.3187	Name: Winton	Count:1620
+542	Lat: -41.1943	Long: 174.9522	Name: Lower Hutt	Count:42212
+543	Lat: -36.9915	Long: 174.8466	Name: Manukau	Count:83183
+544	Lat: -41.2456	Long: 173.0951	Name: Mapua	Count:225
+545	Lat: -35.6304	Long: 174.216	Name: Whangarei	Count:4686
+546	Lat: -40.4667	Long: 175.3	Name: Foxton	Count:1292
+547	Lat: -45.9059	Long: 170.4912	Name: Dunedin	Count:20490
+548	Lat: -36.8557	Long: 174.6298	Name: Auckland	Count:2727
+549	Lat: -37.1032	Long: 174.8609	Name: Auckland	Count:5086
+550	Lat: -39.0028	Long: 175.8069	Name: Turangi	Count:461
+551	Lat: -35.9833	Long: 174.45	Name: Waipu	Count:1763
+552	Lat: -37.7708	Long: 175.2985	Name: Hamilton	Count:20983
+553	Lat: -37.5499	Long: 175.9175	Name: Katikati	Count:1599
+554	Lat: -41.1167	Long: 175.1167	Name: Mangaroa	Count:358
+555	Lat: -41.1167	Long: 174.8667	Name: Paremata	Count:523
+556	Lat: -38.5064	Long: 174.971	Name: Piopio	Count:143
+557	Lat: -37.2926	Long: 175.4673	Name: Ngatea	Count:830
+558	Lat: -45.875	Long: 170.3472	Name: Mosgiel	Count:3251
+559	Lat: -45.8778	Long: 170.3416	Name: Dunedin	Count:3117
+560	Lat: -37.7273	Long: 176.1538	Name: Tauranga	Count:66138
+561	Lat: -37.8514	Long: 175.3865	Name: Hamilton	Count:4091
+562	Lat: -36.8058	Long: 174.7083	Name: North Shore	Count:65020
+563	Lat: -44.733	Long: 170.4698	Name: Kurow	Count:543
+564	Lat: -36.75	Long: 174.5	Name: Waimauku	Count:974
+565	Lat: -36.75	Long: 174.6	Name: Riverhead	Count:2666
+566	Lat: -36.75	Long: 174.7667	Name: Campbells Bay	Count:1979
+567	Lat: -42.3888	Long: 171.2964	Name: Greymouth	Count:943
+568	Lat: -37.4039	Long: 175.144	Name: Te Kauwhata	Count:461
+569	Lat: -37.4039	Long: 175.9432	Name: Waihi Beach	Count:7445
+570	Lat: -37.8322	Long: 174.9795	Name: Hamilton	Count:758
+571	Lat: -35.9542	Long: 173.8785	Name: Dargaville	Count:1856
+572	Lat: -35.3201	Long: 173.7713	Name: Okaihau	Count:92
+573	Lat: -36.8917	Long: 174.8071	Name: Auckland	Count:44458
+574	Lat: -46.1673	Long: 169.9725	Name: Milton	Count:4102
+575	Lat: -45.002	Long: 168.7928	Name: Queenstown	Count:10
+576	Lat: -35.7429	Long: 174.4705	Name: Whangarei	Count:430
+577	Lat: -37.7852	Long: 175.2802	Name: Hamilton	Count:1446
+578	Lat: -37.5909	Long: 175.6224	Name: Waitoa	Count:1128
+579	Lat: -37.3715	Long: 175.6157	Name: Paeroa	Count:1251
+580	Lat: -37.2735	Long: 175.4893	Name: Ngatea	Count:1876
+581	Lat: -39.052	Long: 174.1192	Name: New Plymouth	Count:24213
+582	Lat: -40.6766	Long: 175.2619	Name: Levin	Count:779
+583	Lat: -38.0138	Long: 177.2788	Name: Whakatane	Count:1630
+584	Lat: -36.2833	Long: 174.5167	Name: Wellsford	Count:19167
+585	Lat: -36.58	Long: 174.6853	Name: North Shore	Count:13968
+586	Lat: -36.876	Long: 174.6829	Name: Rosebank	Count:13916
+587	Lat: -45.8962	Long: 170.5368	Name: Dunedin	Count:17557
+588	Lat: -37.8833	Long: 175.4667	Name: Leamington	Count:799
+589	Lat: -36.856	Long: 174.8147	Name: Auckland	Count:1148
+590	Lat: -42.5254	Long: 171.2455	Name: Greymouth	Count:7025
+591	Lat: -36.9234	Long: 174.7015	Name: Auckland	Count:140235
+592	Lat: -36.6884	Long: 174.6927	Name: Auckland	Count:3302
+593	Lat: -40.4708	Long: 175.2874	Name: Foxton	Count:1138
+594	Lat: -37.2457	Long: 175.0215	Name: Pukekohe East	Count:574
+595	Lat: -36.7384	Long: 174.7534	Name: North Shore	Count:605
+596	Lat: -41.1333	Long: 174.85	Name: Porirua	Count:20162
+597	Lat: -41.2942	Long: 174.7762	Name: Wellington	Count:1456
+598	Lat: -41.2942	Long: 174.7831	Name: Wellington	Count:1087
+599	Lat: -43.5524	Long: 172.4438	Name: Christchurch	Count:3620
+600	Lat: -38.6868	Long: 176.0718	Name: Taupo	Count:933
+601	Lat: -38.4333	Long: 176.35	Name: Reporoa	Count:1076
+602	Lat: -35.2289	Long: 173.9487	Name: Kerikeri	Count:564
+603	Lat: -36.9177	Long: 174.8356	Name: Auckland	Count:39525
+604	Lat: -37.7881	Long: 175.2644	Name: Hamilton	Count:1005
+605	Lat: -36.8	Long: 174.75	Name: North Shore	Count:38109
+606	Lat: -46.1333	Long: 167.6833	Name: Tuatapere	Count:553
+607	Lat: -43.5753	Long: 172.7589	Name: Christchurch	Count:6943
+608	Lat: -43.5352	Long: 172.6403	Name: Christchurch	Count:102
+609	Lat: -40.4745	Long: 175.5097	Name: Palmerston North	Count:276
+610	Lat: -36.9808	Long: 174.5827	Name: Auckland	Count:35576
+611	Lat: -43.5404	Long: 172.6585	Name: Christchurch	Count:3045
+612	Lat: -36.881	Long: 174.6347	Name: Auckland	Count:2338
+613	Lat: -36.35	Long: 174.7167	Name: Matakana	Count:1497
+614	Lat: -40.8459	Long: 175.8391	Name: Masterton	Count:492
+615	Lat: -46.2018	Long: 168.3909	Name: Invercargill	Count:1722
+616	Lat: -36.501	Long: 174.5307	Name: Warkworth	Count:3856
+617	Lat: -45.8366	Long: 170.5074	Name: Dunedin	Count:28797
+618	Lat: -36.9656	Long: 174.4894	Name: Auckland	Count:1517
+619	Lat: -36.8123	Long: 174.7254	Name: North Shore	Count:1528
+620	Lat: -36.7596	Long: 174.571	Name: Auckland	Count:4922
+621	Lat: -37	Long: 175.05	Name: Clevedon	Count:369
+622	Lat: -39.528	Long: 174.3533	Name: Hawera	Count:2410
+623	Lat: -37.6167	Long: 175.6333	Name: Waitoa	Count:646
+624	Lat: -37.6167	Long: 175.1833	Name: Taupiri	Count:2625
+625	Lat: -37.2333	Long: 174.9167	Name: Auckland	Count:328
+626	Lat: -40.3581	Long: 175.6107	Name: Palmerston North	Count:5691
+627	Lat: -40.9005	Long: 175.1072	Name: Paraparaumu	Count:3107
+628	Lat: -35.35	Long: 173.5333	Name: Kohukohu	Count:810
+629	Lat: -36.8481	Long: 174.7437	Name: Auckland	Count:1169
+630	Lat: -36.2914	Long: 174.5168	Name: Wellsford	Count:1446
+631	Lat: -41.1304	Long: 174.8788	Name: Porirua	Count:65851
+632	Lat: -36.8568	Long: 174.7811	Name: Auckland	Count:3353
+633	Lat: -35.72	Long: 174.33	Name: Whangarei	Count:50898
+634	Lat: -36.9856	Long: 175.4922	Name: Tapu	Count:502
+635	Lat: -37.2732	Long: 175.3863	Name: Thames	Count:2051
+636	Lat: -45.8185	Long: 170.6084	Name: Dunedin	Count:717
+637	Lat: -38.2333	Long: 175.8667	Name: Tokoroa	Count:4184
+638	Lat: -40.3454	Long: 175.5952	Name: Palmerston North	Count:1312
+639	Lat: -46.35	Long: 168.0167	Name: Riverton	Count:2574
+640	Lat: -46.35	Long: 168.8167	Name: Menzies Ferry	Count:892
+641	Lat: -36.8153	Long: 174.7458	Name: Northcote Point	Count:1774
+642	Lat: -42.9805	Long: 173.0928	Name: Cheviot	Count:533
+643	Lat: -41.4	Long: 173.05	Name: Wakefield	Count:1435
+644	Lat: -39.5673	Long: 174.3894	Name: Hawera	Count:1620
+645	Lat: -45.1272	Long: 170.1027	Name: Ranfurly	Count:133
+646	Lat: -37.1333	Long: 175.5333	Name: Thames	Count:6819
+647	Lat: -37.2626	Long: 174.9591	Name: Tuakau	Count:1353
+648	Lat: -41.2667	Long: 173	Name: Upper Moutere	Count:123
+649	Lat: -41.2667	Long: 174.95	Name: Wainuiomata	Count:3517
+650	Lat: -41.2667	Long: 174.05	Name: Waikawa	Count:584
+651	Lat: -41.2667	Long: 174.7833	Name: Kaiwharawhara	Count:1097
+652	Lat: -37.7794	Long: 175.136	Name: Hamilton	Count:358
+653	Lat: -44.3333	Long: 171.2167	Name: Levels	Count:471
+654	Lat: -36.9373	Long: 174.8935	Name: Auckland	Count:41699
+655	Lat: -36.8547	Long: 174.8317	Name: Mission Bay	Count:2943
+656	Lat: -40.9597	Long: 175.6575	Name: Masterton	Count:11435
+657	Lat: -40.7402	Long: 175.1404	Name: Otaki	Count:6266
+658	Lat: -37.963	Long: 176.8355	Name: Edgecumbe	Count:1743
+659	Lat: -39.8865	Long: 176.292	Name: Blackburn	Count:358
+660	Lat: -45.8714	Long: 170.5119	Name: Dunedin	Count:43453
+661	Lat: -36.7167	Long: 174.75	Name: Browns Bay	Count:5086
+662	Lat: -36.7167	Long: 174.7	Name: Albany	Count:3763
+663	Lat: -41.3833	Long: 173.1167	Name: Brightwater	Count:1312
+664	Lat: -37.1003	Long: 175.0012	Name: Manukau	Count:1784
+665	Lat: -36.8877	Long: 174.7529	Name: Auckland	Count:96700
+666	Lat: -36.857	Long: 174.7914	Name: Auckland	Count:28623
+667	Lat: -39.6232	Long: 176.7618	Name: Hastings	Count:2451
+668	Lat: -38.1833	Long: 175.2	Name: Otorohanga	Count:4697
+669	Lat: -37.1958	Long: 175.6659	Name: Thames	Count:1528
+670	Lat: -36.5856	Long: 174.6943	Name: North Shore	Count:1066
+671	Lat: -36.9104	Long: 174.8925	Name: Auckland	Count:53257
+672	Lat: -40.35	Long: 175.6167	Name: Palmerston North	Count:167238
+673	Lat: -43.5225	Long: 172.5813	Name: Christchurch	Count:44150
+674	Lat: -45.8792	Long: 170.472	Name: Dunedin	Count:16819
+675	Lat: -43.7612	Long: 172.2977	Name: Leeston	Count:4379
+676	Lat: -37.1833	Long: 175.8231	Name: Whangamata	Count:1312
+677	Lat: -43.4611	Long: 172.5247	Name: Christchurch	Count:32766
+678	Lat: -42.7183	Long: 170.9651	Name: Hokitika	Count:3004
+679	Lat: -36.9158	Long: 174.6922	Name: Auckland	Count:61820
+680	Lat: -41.1971	Long: 174.9198	Name: Lower Hutt	Count:79173
+681	Lat: -45.0379	Long: 168.6879	Name: Queenstown	Count:29300
+682	Lat: -43.2993	Long: 172.1896	Name: Oxford	Count:3292
+683	Lat: -37.045	Long: 174.9202	Name: Manukau	Count:9424
+684	Lat: -39.4292	Long: 174.3	Name: Eltham	Count:779
+685	Lat: -37.25	Long: 174.75	Name: Waiuku	Count:17352
+686	Lat: -38.5567	Long: 176.8892	Name: Murupara	Count:912
+687	Lat: -40.0084	Long: 175.2327	Name: Wanganui	Count:2358
+688	Lat: -46.4109	Long: 168.3511	Name: Invercargill	Count:1035
+689	Lat: -37.7138	Long: 176.0076	Name: Tauranga	Count:2081
+690	Lat: -41.3375	Long: 174.7506	Name: Wellington	Count:24551
+691	Lat: -36.969	Long: 174.8822	Name: Manukau	Count:8994
+692	Lat: -42.3891	Long: 173.6637	Name: Kaikoura	Count:266
+693	Lat: -41.2128	Long: 174.8499	Name: Wellington	Count:10
+694	Lat: -37.4	Long: 175.15	Name: Te Kauwhata	Count:1066
+695	Lat: -37.4	Long: 175.9333	Name: Waihi Beach	Count:6943
+696	Lat: -36.7829	Long: 174.4262	Name: Muriwai Beach	Count:2153
+697	Lat: -40.0333	Long: 176.35	Name: Takapau	Count:594
+698	Lat: -42.4169	Long: 171.2586	Name: Greymouth	Count:451
+699	Lat: -41.271	Long: 173.2837	Name: Nelson	Count:1599
+700	Lat: -36.9042	Long: 174.6474	Name: Waitakere	Count:33166

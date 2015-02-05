@@ -1,0 +1,37 @@
+Locations in Saudi Arabia
+0	Lat: 26.0049	Long: 42.3853	Name: At Tuwal	Count:16070
+1	Lat: 26.326	Long: 43.975	Name: Buraidah	Count:1025
+2	Lat: 29.9697	Long: 40.2064	Name: Sakaka	Count:594
+3	Lat: 27.0112	Long: 49.6583	Name: Jubail	Count:35228
+4	Lat: 28.3998	Long: 36.5715	Name: Tabuk	Count:543
+5	Lat: 24.0891	Long: 38.0637	Name: Yanbu` al Bahr	Count:3435
+6	Lat: 25.9371	Long: 49.6776	Name: Abqaiq	Count:635
+7	Lat: 21.4133	Long: 39.8947	Name: Mina	Count:10
+8	Lat: 18.2164	Long: 42.5053	Name: Abha	Count:3774
+9	Lat: 26.5208	Long: 50.0245	Name: Al Qatif	Count:32694
+10	Lat: 22.7986	Long: 39.0349	Name: Rabigh	Count:707
+11	Lat: 24.6537	Long: 46.7152	Name: Riyadh	Count:3816169
+12	Lat: 21.5169	Long: 39.2192	Name: Jeddah	Count:2027527
+13	Lat: 26.3032	Long: 50.1353	Name: Dhahran	Count:53913
+14	Lat: 26.2794	Long: 50.2083	Name: Khobar	Count:148757
+15	Lat: 17.4667	Long: 44.1	Name: Najran	Count:205
+16	Lat: 25.3646	Long: 49.5653	Name: Al Hufuf	Count:19249
+17	Lat: 23.9994	Long: 38.2275	Name: Madinat Yanbu` as Sina`iyah	Count:748
+18	Lat: 26.6499	Long: 49.9522	Name: Safwa	Count:1538
+19	Lat: 21.2703	Long: 40.4158	Name: Ta'if	Count:13547
+20	Lat: 28.4237	Long: 48.5091	Name: Ra's al Khafji	Count:174
+21	Lat: 26.6439	Long: 50.1592	Name: Ras Tanura	Count:830
+22	Lat: 24.4686	Long: 39.6142	Name: Medina	Count:13978
+23	Lat: 26.4344	Long: 50.1033	Name: Dammam	Count:400092
+24	Lat: 24.1822	Long: 47.3288	Name: Al Yamamah	Count:123
+25	Lat: 26.7079	Long: 50.0619	Name: Rahimah	Count:164
+26	Lat: 22.1555	Long: 39.3202	Name: Khulays	Count:994
+27	Lat: 24.6494	Long: 46.7786	Name: Al Faruq	Count:10583
+28	Lat: 25	Long: 45	Name: 	Count:6447045
+29	Lat: 16.8892	Long: 42.5511	Name: Jizan	Count:697
+30	Lat: 21.4267	Long: 39.8261	Name: Mecca	Count:160039
+31	Lat: 17.1495	Long: 42.6254	Name: Sabya	Count:697
+32	Lat: 27.5219	Long: 41.6907	Name: Hayil	Count:2266
+33	Lat: 18.3064	Long: 42.7292	Name: Khamis Mushait	Count:1230
+34	Lat: 18.6333	Long: 42	Name: Jazirah	Count:20
+35	Lat: 26.4852	Long: 50.0405	Name: Sayhat	Count:2522

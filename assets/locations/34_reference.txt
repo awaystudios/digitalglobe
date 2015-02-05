@@ -1,0 +1,1768 @@
+Locations in Poland
+0	Lat: 49.989	Long: 19.6821	Name: Czernichow	Count:205
+1	Lat: 52.5333	Long: 18.6	Name: Dabrowa	Count:51
+2	Lat: 54.6314	Long: 18.503	Name: Rewa	Count:297
+3	Lat: 52.6605	Long: 17.9567	Name: Mogilno	Count:2471
+4	Lat: 53.1952	Long: 16.1553	Name: Tuczno	Count:533
+5	Lat: 49.9696	Long: 18.522	Name: Mszana	Count:82
+6	Lat: 51.764	Long: 15.7534	Name: Kielcz	Count:194
+7	Lat: 52.1643	Long: 15.8346	Name: Babimost	Count:410
+8	Lat: 51.5112	Long: 15.0819	Name: Wymiarki	Count:174
+9	Lat: 50.1587	Long: 19.5205	Name: Karniowice	Count:974
+10	Lat: 50.1004	Long: 19.3222	Name: Libiaz	Count:287
+11	Lat: 51.8222	Long: 21.1958	Name: Piaseczno	Count:10265
+12	Lat: 51.7479	Long: 19.3322	Name: Konstantynow Lodzki	Count:1589
+13	Lat: 54.4005	Long: 17.7596	Name: Siemirowice	Count:728
+14	Lat: 53.1456	Long: 14.8929	Name: Pyrzyce	Count:461
+15	Lat: 51.3099	Long: 17.0628	Name: Trzebnica	Count:2092
+16	Lat: 53.6037	Long: 16.8053	Name: Lotyn	Count:10
+17	Lat: 50.2976	Long: 18.6766	Name: Gliwice	Count:27505
+18	Lat: 51.7032	Long: 22.8847	Name: Milanow	Count:297
+19	Lat: 49.8486	Long: 18.897	Name: Rudzica	Count:1876
+20	Lat: 52.9877	Long: 15.2045	Name: Barlinek	Count:953
+21	Lat: 51.194	Long: 23.3977	Name: Staw	Count:174
+22	Lat: 53.9238	Long: 22.174	Name: Stare Juchy	Count:153
+23	Lat: 51.9203	Long: 17.6483	Name: Kotlin	Count:71
+24	Lat: 49.4776	Long: 20.0292	Name: Nowy Targ	Count:3897
+25	Lat: 53.7388	Long: 22.4766	Name: Dabrowskie	Count:82
+26	Lat: 50.2155	Long: 18.5742	Name: Pilchowice	Count:41
+27	Lat: 50.3966	Long: 19.007	Name: Dobieszowice	Count:276
+28	Lat: 54.7594	Long: 18.3994	Name: Swarzewo	Count:266
+29	Lat: 50.7544	Long: 18.6146	Name: Ciasna	Count:174
+30	Lat: 52.9253	Long: 16.7019	Name: Paliszewo	Count:174
+31	Lat: 52.3807	Long: 18.0481	Name: Ostrowite	Count:246
+32	Lat: 52.4652	Long: 16.6646	Name: Tarnowo Podgorne	Count:635
+33	Lat: 49.9959	Long: 19.4347	Name: Zator	Count:440
+34	Lat: 53.289	Long: 19.2724	Name: Gmina Bobrowo	Count:912
+35	Lat: 51.1236	Long: 15.9158	Name: Złotoryja	Count:2317
+36	Lat: 50.6409	Long: 16.6402	Name: Ostroszowice	Count:266
+37	Lat: 52.5136	Long: 16.7594	Name: Rokietnica	Count:276
+38	Lat: 54.316	Long: 18.2697	Name: Dzierzazno	Count:584
+39	Lat: 51.7854	Long: 21.1869	Name: Warka	Count:1446
+40	Lat: 50.0271	Long: 21.7572	Name: Iwierzyce	Count:143
+41	Lat: 50.3789	Long: 17.7655	Name: Wilkow	Count:523
+42	Lat: 52.5415	Long: 18.8345	Name: Lubraniec	Count:830
+43	Lat: 52.0073	Long: 16.3013	Name: Przemet	Count:338
+44	Lat: 52.483	Long: 21.1447	Name: Zalubice Nowe	Count:30
+45	Lat: 51.5974	Long: 18.9313	Name: Zdunska Wola	Count:7086
+46	Lat: 50.0889	Long: 19.0935	Name: Bierun	Count:840
+47	Lat: 50.6543	Long: 17.0118	Name: Henrykow	Count:153
+48	Lat: 51.2249	Long: 20.8586	Name: Szydlowiec	Count:1363
+49	Lat: 52.073	Long: 23.6008	Name: Terespol	Count:287
+50	Lat: 52.9915	Long: 17.4871	Name: Kcynia	Count:779
+51	Lat: 52.9931	Long: 16.914	Name: Chodzież	Count:1169
+52	Lat: 54.4223	Long: 16.8675	Name: Sycewice	Count:51
+53	Lat: 50.0606	Long: 18.4257	Name: Rydułtowy	Count:2645
+54	Lat: 52.6201	Long: 17.2026	Name: Stawiany	Count:276
+55	Lat: 50.6184	Long: 19.7544	Name: Grabiec	Count:881
+56	Lat: 50.5333	Long: 20.2301	Name: Pokrzywnica	Count:143
+57	Lat: 54.3091	Long: 22.3039	Name: Gołdap	Count:2563
+58	Lat: 49.8558	Long: 20.8077	Name: Gmina Zakliczyn	Count:3045
+59	Lat: 49.8558	Long: 22.7017	Name: Mackowice	Count:61
+60	Lat: 49.7251	Long: 18.7	Name: Dziegielow	Count:297
+61	Lat: 51.7667	Long: 19.8	Name: Koluszki	Count:3015
+62	Lat: 51.7667	Long: 21.8667	Name: Ostrowek	Count:1497
+63	Lat: 50.7213	Long: 16.8379	Name: Niemcza	Count:687
+64	Lat: 51.3973	Long: 17.6673	Name: Miedzyborz	Count:246
+65	Lat: 51.9923	Long: 20.8901	Name: MaryLka	Count:205
+66	Lat: 52.8033	Long: 21.8955	Name: Ostrow Mazowiecka	Count:1363
+67	Lat: 50.1321	Long: 19.5901	Name: Wola Filipowska	Count:205
+68	Lat: 51.5574	Long: 20.8648	Name: Radzanow	Count:492
+69	Lat: 53.2815	Long: 14.7811	Name: Stare Czarnowo	Count:235
+70	Lat: 49.9628	Long: 20.1461	Name: Trabki	Count:82
+71	Lat: 52.1537	Long: 18.0521	Name: Rzgow Pierwszy	Count:297
+72	Lat: 50.4208	Long: 17.5359	Name: Scinawa Nyska	Count:215
+73	Lat: 53.8913	Long: 14.4377	Name: Wicko	Count:164
+74	Lat: 51.2737	Long: 16.3638	Name: Prochowice	Count:164
+75	Lat: 53.5587	Long: 16.2337	Name: Czaplinek	Count:71
+76	Lat: 51.3054	Long: 16.1842	Name: Raszowka	Count:389
+77	Lat: 51.4221	Long: 20.5047	Name: Bieliny	Count:1046
+78	Lat: 50.1608	Long: 19.98	Name: Michalowice	Count:471
+79	Lat: 53.9476	Long: 17.4526	Name: Mielno	Count:215
+80	Lat: 51.9915	Long: 15.7812	Name: Klenica	Count:297
+81	Lat: 52.0084	Long: 16.0473	Name: Swietno	Count:379
+82	Lat: 51.463	Long: 19.3944	Name: Druzbice	Count:143
+83	Lat: 52.8776	Long: 18.7032	Name: Aleksandrów Kujawski	Count:1353
+84	Lat: 52.082	Long: 20.0078	Name: Arkadia	Count:123
+85	Lat: 51.6928	Long: 18.9775	Name: Szadek	Count:502
+86	Lat: 52.799	Long: 21.5633	Name: Prabuty	Count:205
+87	Lat: 53.6481	Long: 22.4597	Name: Grajewo	Count:1620
+88	Lat: 49.3333	Long: 22.6667	Name: Czarna	Count:594
+89	Lat: 51.8954	Long: 17.7829	Name: Pleszew	Count:1558
+90	Lat: 50.2962	Long: 22.4639	Name: Kurylowka	Count:225
+91	Lat: 51.8833	Long: 20.15	Name: Jozefatow	Count:440
+92	Lat: 52.3966	Long: 16.6357	Name: Wieckowice	Count:1876
+93	Lat: 50.9313	Long: 16.3732	Name: Stanowice	Count:246
+94	Lat: 51.4349	Long: 22.7787	Name: Brzostowka	Count:20
+95	Lat: 51.4349	Long: 18.9473	Name: Gmina Widawa	Count:348
+96	Lat: 51.1445	Long: 18.9961	Name: Pajeczno	Count:215
+97	Lat: 51.8879	Long: 19.4257	Name: Dabrowka Wielka	Count:10
+98	Lat: 53.1744	Long: 20.3016	Name: Ilowo	Count:164
+99	Lat: 50.4226	Long: 22.738	Name: Gmina Księżpol	Count:164
+100	Lat: 50.1242	Long: 19.9204	Name: Zielonki	Count:358
+101	Lat: 50.3465	Long: 19.1706	Name: Bory	Count:256
+102	Lat: 52.8763	Long: 15.5326	Name: Strzelce Krajenskie	Count:369
+103	Lat: 53.2622	Long: 20.8977	Name: Chorzele	Count:10
+104	Lat: 52.6127	Long: 16.5819	Name: Szamotuły	Count:1825
+105	Lat: 53.6356	Long: 19.4573	Name: Zabrowo	Count:71
+106	Lat: 50.7468	Long: 21.2841	Name: Podgorze	Count:164
+107	Lat: 49.9117	Long: 18.5057	Name: Golkowice	Count:543
+108	Lat: 52.0089	Long: 20.5449	Name: Radziejowice	Count:471
+109	Lat: 50.518	Long: 17.4973	Name: Jasienica Dolna	Count:1394
+110	Lat: 52.8586	Long: 18.6547	Name: Służewo	Count:1425
+111	Lat: 51.1537	Long: 15.0088	Name: Zgorzelec	Count:1589
+112	Lat: 49.612	Long: 19.73	Name: Sidzina	Count:102
+113	Lat: 51.4008	Long: 16.2034	Name: Lubin	Count:10573
+114	Lat: 51.8256	Long: 20.8085	Name: Belsk Duzy	Count:153
+115	Lat: 49.7078	Long: 20.6393	Name: Tegoborze	Count:482
+116	Lat: 50.0757	Long: 20.4533	Name: Dziewin	Count:164
+117	Lat: 53.7574	Long: 19.1983	Name: Prabuty	Count:358
+118	Lat: 53.6388	Long: 15.6223	Name: Lobez	Count:707
+119	Lat: 50.8831	Long: 20.7151	Name: Wola Kopcowa	Count:184
+120	Lat: 51.5386	Long: 20.0176	Name: Tomaszów Mazowiecki	Count:5076
+121	Lat: 50.7714	Long: 16.2843	Name: Wałbrzych	Count:7948
+122	Lat: 50.0983	Long: 18.6812	Name: Szczejkowice	Count:246
+123	Lat: 50.0983	Long: 21.9611	Name: Rudna Mala	Count:61
+124	Lat: 51.929	Long: 22.3796	Name: Lukow	Count:2984
+125	Lat: 50.9675	Long: 20.5204	Name: Bobrza	Count:225
+126	Lat: 49.2962	Long: 19.9568	Name: Zakopane	Count:840
+127	Lat: 53.945	Long: 21.8821	Name: Miłki	Count:389
+128	Lat: 52.3453	Long: 18.6658	Name: Gmina Babiak	Count:133
+129	Lat: 51.9724	Long: 20.518	Name: Mszczonów	Count:687
+130	Lat: 53.7106	Long: 19.8073	Name: Rogowo	Count:164
+131	Lat: 50.6702	Long: 16.0669	Name: Chelmsko Slaskie	Count:225
+132	Lat: 52.4275	Long: 16.7838	Name: Przezmierowo	Count:687
+133	Lat: 51.7186	Long: 19.6491	Name: Kraszew	Count:256
+134	Lat: 50.6546	Long: 23.3663	Name: Labunie	Count:20
+135	Lat: 51.9625	Long: 16.8205	Name: Krzywin	Count:1066
+136	Lat: 50.4747	Long: 17.9654	Name: Krapkowice	Count:1825
+137	Lat: 53.1902	Long: 15.202	Name: Dolice	Count:225
+138	Lat: 50.4348	Long: 18.9082	Name: Naklo	Count:1138
+139	Lat: 52.388	Long: 18.5017	Name: Sompolno	Count:1384
+140	Lat: 49.8224	Long: 19.0469	Name: Bielsko-Biala	Count:17024
+141	Lat: 54.2552	Long: 23.0681	Name: Szypliszki	Count:379
+142	Lat: 50.4083	Long: 19.2114	Name: Wojkowice Koscielne	Count:10
+143	Lat: 50.903	Long: 18.937	Name: Klobuck	Count:687
+144	Lat: 50.1648	Long: 19.4582	Name: Trzebinia	Count:2645
+145	Lat: 52.3278	Long: 16.9109	Name: Czapury	Count:256
+146	Lat: 50.4601	Long: 20.379	Name: Tomaszow	Count:1610
+147	Lat: 52.3723	Long: 21.2675	Name: Wołomin	Count:564
+148	Lat: 50.8672	Long: 17.0659	Name: Borek Strzelinski	Count:143
+149	Lat: 51.588	Long: 19.1251	Name: Lask	Count:953
+150	Lat: 54.6295	Long: 17.6548	Name: Krepa Kaszubska	Count:410
+151	Lat: 52.3553	Long: 14.5648	Name: Słubice	Count:871
+152	Lat: 53.154	Long: 17.2676	Name: Wyrzysk	Count:1302
+153	Lat: 54.4437	Long: 18.4183	Name: Chwaszczyno	Count:1856
+154	Lat: 50.7327	Long: 21.2768	Name: Iwaniska	Count:123
+155	Lat: 52.4682	Long: 19.6121	Name: Lack	Count:112
+156	Lat: 49.5217	Long: 19.9857	Name: Klikuszowa	Count:143
+157	Lat: 53.0798	Long: 18.2209	Name: Solec Kujawski	Count:3045
+158	Lat: 50.9222	Long: 16.1009	Name: Gmina Bolków	Count:1507
+159	Lat: 50.9418	Long: 20.0469	Name: Oleszno	Count:20
+160	Lat: 52.7384	Long: 20.7167	Name: Gąsocin	Count:174
+161	Lat: 51.3044	Long: 16.9107	Name: Oborniki Śląskie	Count:338
+162	Lat: 50.4888	Long: 19.3482	Name: Poreba	Count:1517
+163	Lat: 52.6226	Long: 18.5284	Name: Radziejów	Count:266
+164	Lat: 54.2876	Long: 18.961	Name: Drewnica	Count:164
+165	Lat: 50.8995	Long: 16.7446	Name: Sobotka	Count:215
+166	Lat: 52.5549	Long: 16.0829	Name: Kwilcz	Count:143
+167	Lat: 49.6762	Long: 19.0956	Name: Lipowa	Count:235
+168	Lat: 54.0094	Long: 15.9866	Name: Białogard	Count:420
+169	Lat: 53.7429	Long: 19.2575	Name: Stankowo	Count:235
+170	Lat: 52.6813	Long: 20.2585	Name: Baboszewo	Count:564
+171	Lat: 52.7041	Long: 21.083	Name: Pułtusk	Count:30
+172	Lat: 50.8456	Long: 18.9241	Name: Wreczyca Wielka	Count:225
+173	Lat: 51.9049	Long: 21.5563	Name: Wola Rebkowska	Count:748
+174	Lat: 52.4782	Long: 17.2845	Name: Pobiedziska	Count:1343
+175	Lat: 50.0955	Long: 22.4371	Name: Swietoniowa	Count:102
+176	Lat: 53.3503	Long: 18.313	Name: Gruczno	Count:1640
+177	Lat: 50.4242	Long: 18.1238	Name: Zdzieszowice	Count:451
+178	Lat: 52.7095	Long: 18.794	Name: Gmina Bądkowo	Count:923
+179	Lat: 51.8974	Long: 21.6144	Name: Garwolin	Count:1353
+180	Lat: 52.1876	Long: 21.1307	Name: Kuligow	Count:625
+181	Lat: 52.0705	Long: 17.5624	Name: Zerkow	Count:82
+182	Lat: 50.2046	Long: 19.1589	Name: Brzezinka	Count:71
+183	Lat: 51.6403	Long: 15.0028	Name: Lipinki Luzyckie	Count:287
+184	Lat: 49.6708	Long: 21.6834	Name: Zrecin	Count:30
+185	Lat: 49.5667	Long: 21.8	Name: Iwonicz-Zdroj	Count:410
+186	Lat: 53.7799	Long: 20.4942	Name: Olsztyn	Count:39114
+187	Lat: 52.4479	Long: 15.5817	Name: Międzyrzecz	Count:1620
+188	Lat: 49.7682	Long: 21.6206	Name: Chrzastowka	Count:61
+189	Lat: 50.0494	Long: 19.6462	Name: Rybna	Count:933
+190	Lat: 49.731	Long: 19.6776	Name: Makow Podhalanski	Count:1128
+191	Lat: 51.663	Long: 16.0757	Name: Głogów	Count:3025
+192	Lat: 50.3428	Long: 21.4594	Name: Chorzelow	Count:533
+193	Lat: 50.5868	Long: 20.9547	Name: Grabki Duze	Count:451
+194	Lat: 50.8823	Long: 16.9892	Name: Gmina Borów	Count:82
+195	Lat: 51.4584	Long: 18.8313	Name: Burzenin	Count:553
+196	Lat: 49.8364	Long: 18.911	Name: Jasienica	Count:215
+197	Lat: 52.4481	Long: 17.0856	Name: Kobylnica	Count:1107
+198	Lat: 52.129	Long: 18.5703	Name: Olimpia	Count:625
+199	Lat: 49.8487	Long: 18.64	Name: Konczyce Male	Count:646
+200	Lat: 52.1182	Long: 16.3513	Name: Wielichowo	Count:205
+201	Lat: 52.2116	Long: 22.7141	Name: Łosice	Count:256
+202	Lat: 53.9968	Long: 20.9935	Name: Gmina Kolno	Count:61
+203	Lat: 50.7831	Long: 16.0304	Name: Kamienna Gora	Count:440
+204	Lat: 49.8961	Long: 18.8181	Name: Chybie	Count:92
+205	Lat: 51.401	Long: 21.1581	Name: Radom	Count:22603
+206	Lat: 53.6951	Long: 17.5661	Name: Chojnice	Count:2492
+207	Lat: 52.6128	Long: 18.4427	Name: Chełmce	Count:307
+208	Lat: 50.8012	Long: 20.8057	Name: Daleszyce	Count:440
+209	Lat: 50.3064	Long: 18.7833	Name: Zabrze	Count:33966
+210	Lat: 53.7255	Long: 18.4941	Name: Osiek	Count:112
+211	Lat: 50.7798	Long: 15.7609	Name: Karpacz	Count:92
+212	Lat: 50.579	Long: 16.5029	Name: Nowa Ruda	Count:2594
+213	Lat: 52.7639	Long: 20.5431	Name: Ojrzen	Count:133
+214	Lat: 51.5979	Long: 21.9708	Name: Moszczanka	Count:369
+215	Lat: 50.0664	Long: 20.3134	Name: Zabierzow Bochenski	Count:369
+216	Lat: 51.9411	Long: 17.5625	Name: Witaszyce	Count:605
+217	Lat: 49.7333	Long: 19.6	Name: Sucha Beskidzka	Count:2615
+218	Lat: 50.416	Long: 20.2097	Name: Adama	Count:471
+219	Lat: 50.5283	Long: 18.0097	Name: Gorazdze	Count:543
+220	Lat: 49.8264	Long: 19.6327	Name: Stryszow	Count:246
+221	Lat: 52.3502	Long: 20.8542	Name: Dziekanow Lesny	Count:10
+222	Lat: 53.0675	Long: 19.4157	Name: Rypin	Count:2399
+223	Lat: 54.1331	Long: 16.0389	Name: Biesiekierz	Count:194
+224	Lat: 52.4115	Long: 20.1929	Name: Rebowo	Count:461
+225	Lat: 52.471	Long: 21.1024	Name: Siwek	Count:1763
+226	Lat: 50.5752	Long: 19.3246	Name: Myszkow	Count:1446
+227	Lat: 51.1333	Long: 21.1833	Name: Jasieniec	Count:430
+228	Lat: 53.8072	Long: 21.9459	Name: Orzysz	Count:553
+229	Lat: 53.9886	Long: 22.7825	Name: Raczki	Count:369
+230	Lat: 52.3668	Long: 16.8055	Name: Plewiska	Count:799
+231	Lat: 52.53	Long: 19.1499	Name: Kowal	Count:984
+232	Lat: 49.7739	Long: 19.6006	Name: Zembrzyce	Count:533
+233	Lat: 52.6978	Long: 21.8531	Name: Brok	Count:133
+234	Lat: 51.6006	Long: 18.0893	Name: Wielowies	Count:512
+235	Lat: 51.0308	Long: 15.4202	Name: Gryfow Slaski	Count:543
+236	Lat: 53.2779	Long: 16.4712	Name: Walcz	Count:2040
+237	Lat: 52.4233	Long: 16.9739	Name: Glowna	Count:61
+238	Lat: 50.4288	Long: 18.1849	Name: Lesnica	Count:307
+239	Lat: 50.8526	Long: 19.9668	Name: Wloszczowa	Count:287
+240	Lat: 49.6867	Long: 19.1942	Name: Żywiec	Count:2820
+241	Lat: 51.6187	Long: 19.5345	Name: Tuszyn	Count:10
+242	Lat: 50.5905	Long: 21.0054	Name: Gmina Szydłów	Count:51
+243	Lat: 51.1037	Long: 19.2345	Name: Praca	Count:2266
+244	Lat: 54.036	Long: 19.0345	Name: Malbork	Count:4317
+245	Lat: 50.7333	Long: 20.45	Name: Checiny	Count:574
+246	Lat: 52.3541	Long: 20.9051	Name: Lomianki Dolne	Count:1938
+247	Lat: 50.6044	Long: 19.0018	Name: Lubsza	Count:215
+248	Lat: 53.7079	Long: 16.6994	Name: Szczecinek	Count:6184
+249	Lat: 50.3788	Long: 19.765	Name: Wolbrom	Count:2010
+250	Lat: 53.2232	Long: 18.2705	Name: Czarze	Count:1712
+251	Lat: 52.0833	Long: 20.7833	Name: Otrebusy	Count:728
+252	Lat: 49.5854	Long: 20.6124	Name: Stadla	Count:738
+253	Lat: 54.1936	Long: 16.1849	Name: Koszalin	Count:17608
+254	Lat: 53.2732	Long: 18.4448	Name: Kijewo Krolewskie	Count:143
+255	Lat: 52.3097	Long: 18.1636	Name: Kazimierz Biskupi	Count:123
+256	Lat: 50.9175	Long: 15.5719	Name: Stara Kamienica	Count:338
+257	Lat: 50.3262	Long: 19.2244	Name: Dąbrowa Górnicza	Count:7814
+258	Lat: 52.5999	Long: 18.0393	Name: Gębice	Count:205
+259	Lat: 51.1898	Long: 19.8534	Name: Reczno	Count:369
+260	Lat: 49.6494	Long: 19.8301	Name: Jordanow	Count:789
+261	Lat: 52.1189	Long: 21.308	Name: Otwock	Count:3968
+262	Lat: 52.4468	Long: 16.9829	Name: Kozieglowy	Count:1312
+263	Lat: 53.9162	Long: 15.1982	Name: Gryfice	Count:1722
+264	Lat: 50.8567	Long: 15.7322	Name: Staniszow	Count:20
+265	Lat: 50.0119	Long: 19.9583	Name: Kurdwanow	Count:410
+266	Lat: 50.0119	Long: 18.9476	Name: Piasek	Count:225
+267	Lat: 51.4629	Long: 22.6078	Name: Lubartow	Count:2256
+268	Lat: 49.9614	Long: 19.1432	Name: Jawiszowice	Count:1302
+269	Lat: 50.6867	Long: 16.6217	Name: Bielawa	Count:892
+270	Lat: 49.4926	Long: 19.6223	Name: Lipnica Wielka	Count:235
+271	Lat: 51.4683	Long: 16.6139	Name: Winsko	Count:246
+272	Lat: 54.2743	Long: 18.6908	Name: Rokitnica	Count:133
+273	Lat: 49.9815	Long: 18.2673	Name: Krzyzanowice	Count:153
+274	Lat: 50.0783	Long: 19.2253	Name: Gorzow	Count:4481
+275	Lat: 53.0099	Long: 17.7387	Name: Gmina Szubin	Count:266
+276	Lat: 51.895	Long: 18.3002	Name: Cekow	Count:328
+277	Lat: 54.2157	Long: 21.7372	Name: Węgorzewo	Count:246
+278	Lat: 53.7763	Long: 15.7755	Name: Swidwin	Count:1774
+279	Lat: 52.5451	Long: 19.5727	Name: Soczewka	Count:276
+280	Lat: 50.55	Long: 18.9833	Name: Zielona	Count:512
+281	Lat: 51.1201	Long: 15.2877	Name: Luban	Count:1025
+282	Lat: 49.559	Long: 22.203	Name: Sanok	Count:4297
+283	Lat: 52.5752	Long: 17.0105	Name: Murowana Goslina	Count:2810
+284	Lat: 50.9417	Long: 20.4203	Name: Strawczyn	Count:133
+285	Lat: 52.133	Long: 16.2023	Name: Rostarzewo	Count:92
+286	Lat: 53.1333	Long: 23.15	Name: Białystok	Count:46006
+287	Lat: 52.4658	Long: 17.6792	Name: Niechanowo	Count:1087
+288	Lat: 51.3897	Long: 22.1871	Name: Kurów	Count:205
+289	Lat: 51.19	Long: 19.1315	Name: Bogumilowice	Count:399
+290	Lat: 49.7542	Long: 21.9717	Name: Blizne	Count:307
+291	Lat: 50.805	Long: 23.8925	Name: Hrubieszów	Count:1610
+292	Lat: 49.7118	Long: 19.4703	Name: Lachowice	Count:102
+293	Lat: 52.7523	Long: 16.9905	Name: Rogozno	Count:687
+294	Lat: 50.0697	Long: 21.696	Name: Sedziszow Malopolski	Count:892
+295	Lat: 53.8401	Long: 19.4044	Name: Stary Dzierzgoń	Count:307
+296	Lat: 51.3199	Long: 21.9549	Name: Kazimierz Dolny	Count:266
+297	Lat: 50.0372	Long: 22.0049	Name: Rzeszów	Count:66210
+298	Lat: 50.3642	Long: 19.0919	Name: Grodkow	Count:328
+299	Lat: 53.5043	Long: 19.7497	Name: Lubawa	Count:328
+300	Lat: 49.9576	Long: 19.6456	Name: Brzeznica	Count:687
+301	Lat: 53.6911	Long: 15.4911	Name: Karnice	Count:430
+302	Lat: 51.4988	Long: 18.4488	Name: Braszewice	Count:399
+303	Lat: 54.7776	Long: 18.1607	Name: Krokowa	Count:205
+304	Lat: 51.502	Long: 19.8326	Name: Wolborz	Count:348
+305	Lat: 51.7903	Long: 21.5923	Name: Laskarzew	Count:1271
+306	Lat: 49.6581	Long: 21.1597	Name: Gorlice	Count:953
+307	Lat: 50.1908	Long: 18.4508	Name: Rudy	Count:276
+308	Lat: 52.0879	Long: 21.074	Name: Chyliczki	Count:112
+309	Lat: 53.0862	Long: 21.5757	Name: Ostrołęka	Count:4020
+310	Lat: 49.477	Long: 19.6934	Name: Jablonka	Count:266
+311	Lat: 53.1542	Long: 18.8982	Name: Kowalewo Pomorskie	Count:471
+312	Lat: 50.148	Long: 19.7932	Name: Bolechowice	Count:174
+313	Lat: 53.5076	Long: 18.6358	Name: Grupa	Count:194
+314	Lat: 49.8987	Long: 18.9663	Name: Ligota	Count:102
+315	Lat: 49.7713	Long: 18.8575	Name: Gorki Wielkie	Count:51
+316	Lat: 54.2167	Long: 19.3833	Name: Ostrog	Count:717
+317	Lat: 54.2167	Long: 21.35	Name: Barciany	Count:153
+318	Lat: 52.77	Long: 23.1909	Name: Bielsk Podlaski	Count:3189
+319	Lat: 52.6033	Long: 18.902	Name: Brześć Kujawski	Count:10
+320	Lat: 52.4806	Long: 21.1197	Name: Zalubice Stare	Count:1210
+321	Lat: 51.2665	Long: 17.3401	Name: Dobroszyce	Count:102
+322	Lat: 52.7068	Long: 16.3844	Name: Wronki	Count:2820
+323	Lat: 51.8838	Long: 21.5593	Name: Rebkow	Count:266
+324	Lat: 52.0259	Long: 15.2172	Name: Krosno Odrzanskie	Count:225
+325	Lat: 50.0389	Long: 18.7885	Name: Suszec	Count:420
+326	Lat: 53.3982	Long: 19.5776	Name: Kurzetnik	Count:153
+327	Lat: 50.806	Long: 17.9369	Name: Brynica	Count:41
+328	Lat: 53.4149	Long: 15.2394	Name: Chociwel	Count:266
+329	Lat: 50.8587	Long: 24.1121	Name: Zosin	Count:153
+330	Lat: 51.7625	Long: 21.3834	Name: Magnuszew	Count:92
+331	Lat: 50.8761	Long: 15.8816	Name: Trzcinsko	Count:174
+332	Lat: 49.8599	Long: 18.9964	Name: Mazancowice	Count:533
+333	Lat: 52.0718	Long: 18.1648	Name: Rychwal	Count:605
+334	Lat: 49.6614	Long: 20.9668	Name: Stroze	Count:235
+335	Lat: 52.55	Long: 19.7	Name: Płock	Count:24592
+336	Lat: 51.9274	Long: 21.687	Name: Gloskow	Count:205
+337	Lat: 52.0695	Long: 17.5082	Name: Chrzan	Count:656
+338	Lat: 49.8049	Long: 22.9349	Name: Medyka	Count:92
+339	Lat: 54.2209	Long: 19.5815	Name: Majewo	Count:164
+340	Lat: 53.6575	Long: 20.4007	Name: Stawiguda	Count:1989
+341	Lat: 51.7894	Long: 19.3272	Name: Rabien	Count:51
+342	Lat: 51.8721	Long: 21.509	Name: Stoczek	Count:287
+343	Lat: 52.9718	Long: 17.7264	Name: Kowalewo	Count:20
+344	Lat: 52.1981	Long: 21.4462	Name: Debe Wielkie	Count:1117
+345	Lat: 50.8891	Long: 21.5143	Name: Cmielow	Count:697
+346	Lat: 53.148	Long: 22.987	Name: Choroszcz	Count:440
+347	Lat: 51.4167	Long: 21.9667	Name: Puławy	Count:5312
+348	Lat: 51.4167	Long: 20.2667	Name: Bukowiec Opoczynski	Count:133
+349	Lat: 53.0225	Long: 23.6307	Name: Kobylanka	Count:533
+350	Lat: 50.2033	Long: 18.2771	Name: Budziska	Count:51
+351	Lat: 52.4938	Long: 19.25	Name: Baruchowo	Count:379
+352	Lat: 52.9414	Long: 20.5543	Name: Regimin	Count:20
+353	Lat: 51.4475	Long: 20.448	Name: Strzyzow	Count:933
+354	Lat: 53.6274	Long: 21.8125	Name: Pisz	Count:1692
+355	Lat: 53.2167	Long: 18.0333	Name: Maksymilianowo	Count:2204
+356	Lat: 49.4376	Long: 19.8539	Name: Czarny Dunajec	Count:871
+357	Lat: 49.8205	Long: 20.0195	Name: Trzemesnia	Count:1066
+358	Lat: 51.2618	Long: 18.4125	Name: Mirkow	Count:215
+359	Lat: 52.4542	Long: 20.9634	Name: Wieliszew	Count:625
+360	Lat: 51.5291	Long: 15.9479	Name: Sieroszowice	Count:30
+361	Lat: 50.2698	Long: 19.7268	Name: Suloszowa	Count:174
+362	Lat: 53.0362	Long: 16.6932	Name: Miroslaw	Count:1107
+363	Lat: 52.7266	Long: 23.0847	Name: Zawady	Count:30
+364	Lat: 50.8092	Long: 16.257	Name: Szczawno-Zdroj	Count:133
+365	Lat: 51.1381	Long: 22.5061	Name: Prawiedniki	Count:358
+366	Lat: 51.8054	Long: 16.3174	Name: Wschowa	Count:451
+367	Lat: 50.7744	Long: 17.8574	Name: Dobrzen Wielki	Count:225
+368	Lat: 50.2654	Long: 20.4931	Name: Kazimierza Wielka	Count:174
+369	Lat: 49.8551	Long: 19.2169	Name: Kobiernice	Count:143
+370	Lat: 53.5757	Long: 18.6733	Name: Komorsk	Count:328
+371	Lat: 52.8554	Long: 17.9413	Name: Barcin	Count:51
+372	Lat: 52.5875	Long: 16.2633	Name: Gnuszyn	Count:184
+373	Lat: 51.5264	Long: 17.2769	Name: Milicz	Count:1599
+374	Lat: 52.1428	Long: 20.7179	Name: Gmina Brwinów	Count:1148
+375	Lat: 53.646	Long: 18.7508	Name: Nebrowo Wielkie	Count:440
+376	Lat: 50.1161	Long: 21.8593	Name: Bratkowice	Count:348
+377	Lat: 50.2	Long: 20.2333	Name: Koniusza	Count:512
+378	Lat: 51.1646	Long: 16.594	Name: Środa Śląska	Count:2471
+379	Lat: 51.3758	Long: 20.2867	Name: Opoczno	Count:605
+380	Lat: 51.5062	Long: 16.0726	Name: Polkowice	Count:2881
+381	Lat: 53.25	Long: 19.4	Name: Brodnica	Count:2276
+382	Lat: 50.5634	Long: 21.1687	Name: Staszow	Count:933
+383	Lat: 51.5032	Long: 15.2022	Name: Ilowa	Count:358
+384	Lat: 51.9708	Long: 17.4988	Name: Jarocin	Count:2194
+385	Lat: 51.8916	Long: 15.3981	Name: Swidnica	Count:707
+386	Lat: 53.7272	Long: 19.0242	Name: Rakowice	Count:194
+387	Lat: 50.0682	Long: 22.229	Name: Lancut	Count:3599
+388	Lat: 50.8638	Long: 21.0899	Name: Nowa Slupia	Count:1466
+389	Lat: 53.0406	Long: 16.4563	Name: Trzcianka	Count:1056
+390	Lat: 54.3265	Long: 19.1784	Name: Sztutowo	Count:1476
+391	Lat: 51.8235	Long: 17.2304	Name: Pogorzela	Count:287
+392	Lat: 49.758	Long: 21.5973	Name: Szebnie	Count:235
+393	Lat: 50.1841	Long: 20.8571	Name: Gorzyce	Count:225
+394	Lat: 50.9833	Long: 20.6833	Name: Zagnansk	Count:287
+395	Lat: 51.6684	Long: 16.538	Name: Gora	Count:4368
+396	Lat: 52.3556	Long: 16.5183	Name: Buk	Count:1302
+397	Lat: 50.9421	Long: 17.2996	Name: Olawa	Count:6953
+398	Lat: 49.9765	Long: 18.9473	Name: Pszczyna	Count:2748
+399	Lat: 49.9765	Long: 19.8233	Name: Skawina	Count:3804
+400	Lat: 52.2859	Long: 16.9957	Name: Poznan	Count:533
+401	Lat: 53.3851	Long: 18.9361	Name: Radzyń Chełmiński	Count:92
+402	Lat: 50.0414	Long: 18.3114	Name: Lubomia	Count:820
+403	Lat: 50.9721	Long: 16.9316	Name: Kobierzyce	Count:10911
+404	Lat: 50.2408	Long: 20.0824	Name: Slomniki	Count:851
+405	Lat: 54.5706	Long: 18.4105	Name: Rumia	Count:7937
+406	Lat: 49.6486	Long: 19.7817	Name: Bystra	Count:1774
+407	Lat: 49.6334	Long: 21.4847	Name: Osiek Jasielski	Count:174
+408	Lat: 51.3769	Long: 20.3464	Name: Dzielna	Count:215
+409	Lat: 50.2924	Long: 16.8756	Name: Stronie Slaskie	Count:20
+410	Lat: 51.2236	Long: 16.2494	Name: Kunice	Count:492
+411	Lat: 49.8141	Long: 18.7168	Name: Debowiec	Count:1035
+412	Lat: 49.8141	Long: 22.2328	Name: Dynow	Count:287
+413	Lat: 50.0655	Long: 18.9394	Name: Kobior	Count:143
+414	Lat: 52.5422	Long: 16.9443	Name: Biedrusko	Count:276
+415	Lat: 52.6929	Long: 17.5163	Name: Gniezno	Count:338
+416	Lat: 50.3224	Long: 22.1364	Name: Kamien	Count:205
+417	Lat: 49.7114	Long: 19.9733	Name: Lubien	Count:512
+418	Lat: 51.1626	Long: 19.7489	Name: Janow	Count:266
+419	Lat: 50.784	Long: 17.0664	Name: Gmina Strzelin	Count:1046
+420	Lat: 52.6861	Long: 14.7596	Name: Boguslaw	Count:41
+421	Lat: 50.0593	Long: 19.2952	Name: Gromiec	Count:225
+422	Lat: 52.3902	Long: 20.1909	Name: Wyszogrod	Count:358
+423	Lat: 52.3321	Long: 17.1105	Name: Komorniki	Count:728
+424	Lat: 50.3757	Long: 22.1444	Name: Jezowe	Count:102
+425	Lat: 49.4798	Long: 22.0613	Name: Bukowsko	Count:543
+426	Lat: 52.1682	Long: 22.2773	Name: Siedlce	Count:8901
+427	Lat: 51.8039	Long: 15.716	Name: Nowa Sol	Count:2881
+428	Lat: 53.1218	Long: 17.6509	Name: Wystep	Count:266
+429	Lat: 52.8117	Long: 17.2074	Name: Wagrowiec	Count:1548
+430	Lat: 52.4352	Long: 15.2584	Name: Trzemeszno Lubuskie	Count:1056
+431	Lat: 51.7341	Long: 18.2223	Name: Opatowek	Count:184
+432	Lat: 53.8437	Long: 14.6133	Name: Wolin	Count:830
+433	Lat: 50.1917	Long: 19.8606	Name: Smardzowice	Count:41
+434	Lat: 52.9533	Long: 17.9147	Name: Labiszyn	Count:410
+435	Lat: 49.933	Long: 19.1028	Name: Dankowice	Count:317
+436	Lat: 54.3196	Long: 18.5125	Name: Otomin	Count:358
+437	Lat: 52.8798	Long: 16.0139	Name: Krzyz Wielkopolski	Count:471
+438	Lat: 50.5358	Long: 22.7276	Name: Biłgoraj	Count:1333
+439	Lat: 52.229	Long: 19.3617	Name: Kutno	Count:5568
+440	Lat: 51.172	Long: 19.3381	Name: Brudzice	Count:102
+441	Lat: 53.4227	Long: 19.5925	Name: Nowe Miasto Lubawskie	Count:451
+442	Lat: 51.3665	Long: 19.3745	Name: Bełchatów	Count:3220
+443	Lat: 54.1719	Long: 21.1399	Name: Korsze	Count:1558
+444	Lat: 50.3232	Long: 17.5762	Name: Prudnik	Count:2492
+445	Lat: 50.007	Long: 18.5843	Name: Swierklany	Count:1466
+446	Lat: 51.5753	Long: 20.8801	Name: Smardzew	Count:235
+447	Lat: 51.2612	Long: 19.4721	Name: Wlodzimierz	Count:143
+448	Lat: 52.09	Long: 18.8231	Name: Gmina Dąbie	Count:389
+449	Lat: 50.3363	Long: 19.6021	Name: Jaroszowiec	Count:369
+450	Lat: 52.707	Long: 16.5295	Name: Obrzycko	Count:379
+451	Lat: 53.5716	Long: 18.0114	Name: Cekcyn	Count:297
+452	Lat: 54.0721	Long: 18.4468	Name: Skarszewy	Count:840
+453	Lat: 50.3197	Long: 19.1452	Name: Będzin	Count:2984
+454	Lat: 50.0921	Long: 18.5475	Name: Rybnik	Count:18244
+455	Lat: 50.3943	Long: 18.6833	Name: Karchowice	Count:256
+456	Lat: 51.6429	Long: 22.9084	Name: Parczew	Count:338
+457	Lat: 52.1137	Long: 19.9487	Name: Lowicz	Count:2851
+458	Lat: 50.6099	Long: 18.4777	Name: Zawadzkie	Count:287
+459	Lat: 49.6737	Long: 19.2886	Name: Pewel Mala	Count:297
+460	Lat: 49.6737	Long: 20.0783	Name: Mszana Dolna	Count:1158
+461	Lat: 50.2961	Long: 21.7303	Name: Cmolas	Count:82
+462	Lat: 49.8667	Long: 18.7	Name: Pruchna	Count:728
+463	Lat: 50.444	Long: 19.1243	Name: Mierzecice	Count:164
+464	Lat: 51.5207	Long: 20.0657	Name: Bialobrzegi	Count:102
+465	Lat: 52.3165	Long: 16.1336	Name: Nowy Tomysl	Count:3507
+466	Lat: 50.2276	Long: 18.4748	Name: Barglowka	Count:143
+467	Lat: 54.0277	Long: 14.7682	Name: Dziwnow	Count:143
+468	Lat: 53.3839	Long: 19.9305	Name: Rybno	Count:30
+469	Lat: 52.3868	Long: 17.0751	Name: Zalasewo	Count:266
+470	Lat: 52.45	Long: 16.3475	Name: Niewierz	Count:153
+471	Lat: 53.4192	Long: 18.0909	Name: Swiekatowo	Count:92
+472	Lat: 52.2126	Long: 20.7707	Name: Oltarzew	Count:112
+473	Lat: 50.0591	Long: 22.4949	Name: Przeworsk	Count:4512
+474	Lat: 52.4287	Long: 20.9495	Name: Lajsk	Count:30
+475	Lat: 52.2408	Long: 17.0029	Name: Mieczewo	Count:276
+476	Lat: 50.7273	Long: 19.0093	Name: Konopiska	Count:1240
+477	Lat: 50.8856	Long: 21.8579	Name: Annopol	Count:1035
+478	Lat: 49.5608	Long: 20.4345	Name: Lacko	Count:133
+479	Lat: 53.6689	Long: 15.1234	Name: Nowogard	Count:2861
+480	Lat: 53.9974	Long: 18.5334	Name: Kokoszkowy	Count:143
+481	Lat: 52.0655	Long: 20.4815	Name: Miedzyborow	Count:143
+482	Lat: 50.0164	Long: 22.6778	Name: Jarosław	Count:14932
+483	Lat: 49.7865	Long: 20.974	Name: Ciezkowice	Count:799
+484	Lat: 50.8431	Long: 20.9824	Name: Nowa Huta	Count:574
+485	Lat: 52.7877	Long: 17.7302	Name: Biskupin	Count:2440
+486	Lat: 50.3822	Long: 16.5582	Name: Dunaj	Count:492
+487	Lat: 54.1287	Long: 20.5781	Name: Lidzbark Warmiński	Count:1897
+488	Lat: 54.6019	Long: 18.3544	Name: Reda	Count:9496
+489	Lat: 51.9584	Long: 21.5262	Name: Pilawa	Count:420
+490	Lat: 49.5632	Long: 20.6346	Name: Stary Sacz	Count:51
+491	Lat: 52.0891	Long: 22.2791	Name: Wisniew	Count:61
+492	Lat: 51.7541	Long: 19.2082	Name: Gmina Lutomiersk	Count:410
+493	Lat: 51.7833	Long: 22.6167	Name: Radzyn Podlaski	Count:502
+494	Lat: 50.9533	Long: 23.6324	Name: Turowiec	Count:205
+495	Lat: 52.2652	Long: 15.6864	Name: Szczaniec	Count:953
+496	Lat: 49.7172	Long: 19.0318	Name: Szczyrk	Count:338
+497	Lat: 50.7965	Long: 19.1241	Name: Częstochowa	Count:25854
+498	Lat: 50.8116	Long: 17.201	Name: Wiazow	Count:1210
+499	Lat: 51.1975	Long: 15.3971	Name: Nowogrodziec	Count:184
+500	Lat: 51.6765	Long: 17.9456	Name: Biskupice Oloboczne	Count:502
+501	Lat: 49.8856	Long: 19.6489	Name: Zebrzydowice	Count:82
+502	Lat: 51.7648	Long: 17.1245	Name: Pepowo	Count:297
+503	Lat: 54.199	Long: 18.42	Name: Mierzeszyn	Count:358
+504	Lat: 50.6092	Long: 17.9318	Name: Chrzowice	Count:605
+505	Lat: 51.5118	Long: 21.1205	Name: Gmina Jedlińsk	Count:348
+506	Lat: 52.5315	Long: 21.6909	Name: Lochow	Count:943
+507	Lat: 50.0667	Long: 20.0167	Name: Czyzyny	Count:297
+508	Lat: 50.3704	Long: 19.0617	Name: Wojkowice	Count:687
+509	Lat: 52.5787	Long: 18.9961	Name: Kruszyn	Count:92
+510	Lat: 53.927	Long: 18.7009	Name: Pelplin	Count:666
+511	Lat: 52.2613	Long: 20.818	Name: Zielonki-Wies	Count:1846
+512	Lat: 52.087	Long: 17.4039	Name: Nowe Miasto nad Warta	Count:184
+513	Lat: 50.1343	Long: 19.8523	Name: Tomaszowice	Count:328
+514	Lat: 52.7382	Long: 15.4088	Name: Santok	Count:20
+515	Lat: 51.0244	Long: 15.0616	Name: Zawidow	Count:317
+516	Lat: 50.0154	Long: 20.1684	Name: Podleze	Count:246
+517	Lat: 51.5917	Long: 22.1114	Name: Ulez	Count:482
+518	Lat: 50.9056	Long: 14.9594	Name: Bogatynia	Count:430
+519	Lat: 53.3906	Long: 19.157	Name: Jabłonowo Pomorskie	Count:194
+520	Lat: 50.2435	Long: 19.9033	Name: Minoga	Count:133
+521	Lat: 54.0594	Long: 15.2794	Name: Trzebiatów	Count:1569
+522	Lat: 53.1094	Long: 19.0542	Name: Golub-Dobrzyn	Count:840
+523	Lat: 52.2276	Long: 17.2799	Name: Sroda Wielkopolska	Count:1815
+524	Lat: 52.2276	Long: 16.3653	Name: Grodzisk Wielkopolski	Count:923
+525	Lat: 50.45	Long: 16.25	Name: Kudowa-Zdrój	Count:1179
+526	Lat: 52.9121	Long: 23.5219	Name: Narew	Count:184
+527	Lat: 50.2307	Long: 19.855	Name: Skala	Count:2522
+528	Lat: 52.6302	Long: 18.1739	Name: Strzelno	Count:482
+529	Lat: 51.3313	Long: 19.1138	Name: Szczercow	Count:379
+530	Lat: 54.2131	Long: 19.1177	Name: Nowy Dwor Gdanski	Count:1476
+531	Lat: 52.4691	Long: 16.9873	Name: Czerwonak	Count:1302
+532	Lat: 52.6699	Long: 15.3138	Name: Deszczno	Count:482
+533	Lat: 52.188	Long: 20.8405	Name: Piastow	Count:2420
+534	Lat: 50.2862	Long: 21.4327	Name: Mielec	Count:9783
+535	Lat: 50.4037	Long: 16.5127	Name: Polanica-Zdrój	Count:307
+536	Lat: 50.423	Long: 17.5466	Name: Scinawa Mala	Count:205
+537	Lat: 54.4868	Long: 18.2226	Name: Szemud	Count:430
+538	Lat: 51.1619	Long: 21.2364	Name: Ilza	Count:194
+539	Lat: 53.5626	Long: 20.9875	Name: Szczytno	Count:3907
+540	Lat: 50.3079	Long: 18.8552	Name: Ruda Śląska	Count:27095
+541	Lat: 52.7999	Long: 18.872	Name: Waganiec	Count:194
+542	Lat: 53.35	Long: 18.4333	Name: Chełmno	Count:2553
+543	Lat: 53.5814	Long: 20.2886	Name: Olsztynek	Count:840
+544	Lat: 51.5086	Long: 20.9861	Name: Zabia Wola	Count:256
+545	Lat: 52.1224	Long: 16.4521	Name: Puszczykowo	Count:1599
+546	Lat: 51.8272	Long: 17.4531	Name: Kozmin Wielkopolski	Count:861
+547	Lat: 49.9115	Long: 18.9426	Name: Zabrzeg	Count:153
+548	Lat: 50.1297	Long: 19.1073	Name: Ledziny	Count:2328
+549	Lat: 53.4443	Long: 19.1033	Name: Swiecie nad Osa	Count:82
+550	Lat: 50.3195	Long: 20.673	Name: Ostrow	Count:2338
+551	Lat: 51.2863	Long: 15.2247	Name: Wegliniec	Count:317
+552	Lat: 49.8986	Long: 21.8889	Name: Polomia	Count:748
+553	Lat: 53.0352	Long: 23.6106	Name: Michałowo	Count:502
+554	Lat: 53.1348	Long: 21.9763	Name: Mikolajki	Count:133
+555	Lat: 49.932	Long: 20.9472	Name: Plesna	Count:20
+556	Lat: 50.7247	Long: 23.2606	Name: Zamość	Count:5179
+557	Lat: 50.1263	Long: 19.8664	Name: Modlnica	Count:30
+558	Lat: 51.0122	Long: 20.483	Name: Mniow	Count:338
+559	Lat: 53.1653	Long: 16.653	Name: Dolaszewo	Count:656
+560	Lat: 51.1867	Long: 19.2111	Name: Sulmierzyce	Count:174
+561	Lat: 51.5893	Long: 18.9269	Name: Zduny	Count:143
+562	Lat: 50.6796	Long: 16.2101	Name: Kowalowa	Count:358
+563	Lat: 51.4373	Long: 15.0966	Name: Gozdnica	Count:184
+564	Lat: 50.1086	Long: 18.4308	Name: Gaszowice	Count:697
+565	Lat: 49.6792	Long: 21.8341	Name: Kroscienko Wyzne	Count:430
+566	Lat: 50.3895	Long: 18.3499	Name: Ujazd	Count:71
+567	Lat: 50.3895	Long: 19.0417	Name: Rogoznik	Count:82
+568	Lat: 54.2133	Long: 18.0416	Name: Gołubie	Count:635
+569	Lat: 54.086	Long: 19.3045	Name: Gronowo Elblaskie	Count:564
+570	Lat: 52.0927	Long: 21.6196	Name: Siennica	Count:266
+571	Lat: 49.6954	Long: 22.0202	Name: Brzozow	Count:830
+572	Lat: 50.5033	Long: 20.4586	Name: Pawlowice	Count:276
+573	Lat: 50.087	Long: 19.7919	Name: Balice	Count:256
+574	Lat: 52.2333	Long: 20.85	Name: Ozarow Mazowiecki	Count:3866
+575	Lat: 52.2333	Long: 20.25	Name: Sochaczew	Count:1169
+576	Lat: 50.05	Long: 22.7118	Name: Szowsko	Count:276
+577	Lat: 51.283	Long: 18.8229	Name: Zofia	Count:12983
+578	Lat: 53.8996	Long: 18.2331	Name: Frank	Count:143
+579	Lat: 50.7493	Long: 17.6179	Name: Lewin Brzeski	Count:923
+580	Lat: 50.7594	Long: 16.9025	Name: Ksieginice	Count:205
+581	Lat: 54.2265	Long: 18.6439	Name: Legowo	Count:2184
+582	Lat: 50.779	Long: 16.7758	Name: Sieniawka	Count:246
+583	Lat: 52.0819	Long: 20.9917	Name: Iwiczna	Count:1517
+584	Lat: 54.2268	Long: 16.2948	Name: Sianow	Count:1158
+585	Lat: 54.608	Long: 18.1555	Name: Gościcino	Count:1138
+586	Lat: 50.1922	Long: 20.291	Name: Proszowice	Count:1035
+587	Lat: 52.2553	Long: 18.9112	Name: Kłodawa	Count:297
+588	Lat: 49.6892	Long: 19.9578	Name: Tenczyn	Count:256
+589	Lat: 51.7167	Long: 22.8167	Name: Ogrody	Count:1363
+590	Lat: 51.7167	Long: 18	Name: Nowe Skalmierzyce	Count:1046
+591	Lat: 50.03	Long: 21.6885	Name: Sedziszow Malopolski	Count:2297
+592	Lat: 49.9519	Long: 20.9317	Name: Rzuchowa	Count:41
+593	Lat: 51.6458	Long: 17.3767	Name: Zduny	Count:779
+594	Lat: 50.5306	Long: 18.7241	Name: Tworog	Count:410
+595	Lat: 49.9771	Long: 22.1353	Name: Chmielnik	Count:410
+596	Lat: 52.8924	Long: 18.4081	Name: Gniewkowo	Count:543
+597	Lat: 54.0381	Long: 15.88	Name: Karlino	Count:1097
+598	Lat: 54.0381	Long: 21.7644	Name: Giżycko	Count:5979
+599	Lat: 52.6707	Long: 19.8047	Name: Bielsk	Count:348
+600	Lat: 50.2195	Long: 19.9781	Name: Iwanowice	Count:1097
+601	Lat: 54.363	Long: 17.7236	Name: Bochowo	Count:707
+602	Lat: 51.2549	Long: 16.0612	Name: Milkowice	Count:61
+603	Lat: 51.3402	Long: 16.24	Name: Pieszkow	Count:133
+604	Lat: 52.8294	Long: 16.7915	Name: Skrzetusz	Count:164
+605	Lat: 50.9593	Long: 16.3472	Name: Strzegom	Count:2256
+606	Lat: 52.3637	Long: 17.1251	Name: Gowarzewo	Count:317
+607	Lat: 49.9309	Long: 19.934	Name: Swiatniki Gorne	Count:112
+608	Lat: 54.0804	Long: 18.2348	Name: Liniewo	Count:215
+609	Lat: 49.6167	Long: 19.95	Name: Rabka-Zdroj	Count:4184
+610	Lat: 54.4391	Long: 18.3446	Name: Warzno	Count:471
+611	Lat: 49.8606	Long: 21.0423	Name: Lubaszowa	Count:61
+612	Lat: 53.9877	Long: 20.3908	Name: Dobre Miasto	Count:964
+613	Lat: 50.0451	Long: 22.0922	Name: Krasne	Count:143
+614	Lat: 53.472	Long: 20.0575	Name: Samin	Count:215
+615	Lat: 51.6554	Long: 19.3456	Name: Pabianice	Count:5250
+616	Lat: 50.6836	Long: 19.6263	Name: Lelow	Count:1948
+617	Lat: 50.8983	Long: 15.7299	Name: Jelenia Góra	Count:11629
+618	Lat: 50.5457	Long: 20.0472	Name: Pila	Count:143
+619	Lat: 51.1838	Long: 15.8574	Name: Zagrodno	Count:143
+620	Lat: 50.3802	Long: 18.9784	Name: Bobrowniki	Count:235
+621	Lat: 50.3802	Long: 19.6476	Name: Bydlin	Count:492
+622	Lat: 54.0994	Long: 22.9331	Name: Suwałki	Count:8532
+623	Lat: 54.7167	Long: 18.0167	Name: Gniewino	Count:266
+624	Lat: 53.764	Long: 19.8306	Name: Miłomłyn	Count:184
+625	Lat: 49.9894	Long: 18.3519	Name: Rogow	Count:41
+626	Lat: 52.6069	Long: 16.087	Name: Przemysl	Count:1835
+627	Lat: 54.1321	Long: 15.7216	Name: Dygowo	Count:738
+628	Lat: 51.5575	Long: 22.1356	Name: Baranow	Count:328
+629	Lat: 52.1937	Long: 14.7969	Name: Cybinka	Count:625
+630	Lat: 50.2621	Long: 21.3079	Name: Wadowice Gorne	Count:369
+631	Lat: 53.5372	Long: 17.2356	Name: Debrzno Wies	Count:30
+632	Lat: 49.9053	Long: 18.7755	Name: Zablocie	Count:215
+633	Lat: 54.38	Long: 16.3156	Name: Dabki	Count:615
+634	Lat: 50.9487	Long: 16.4391	Name: Pastuchow	Count:646
+635	Lat: 49.7896	Long: 20.1165	Name: Wisniowa	Count:307
+636	Lat: 52.599	Long: 15.8907	Name: Międzychód	Count:1599
+637	Lat: 50.2627	Long: 19.4673	Name: Bukowno	Count:61
+638	Lat: 50.7185	Long: 16.5873	Name: Pieszyce	Count:225
+639	Lat: 49.8009	Long: 18.7877	Name: Skoczow	Count:2933
+640	Lat: 49.7983	Long: 22.546	Name: Krzywcza	Count:133
+641	Lat: 52.7427	Long: 18.9185	Name: Lubanie	Count:41
+642	Lat: 50.9642	Long: 16.2325	Name: Roztoka	Count:1015
+643	Lat: 49.5544	Long: 21.6739	Name: Dukla	Count:10
+644	Lat: 51.3046	Long: 22.8832	Name: Leczna	Count:1804
+645	Lat: 52.3953	Long: 21.1449	Name: Slupno	Count:389
+646	Lat: 53.4095	Long: 18.4451	Name: Gmina Świecie	Count:5507
+647	Lat: 51.9167	Long: 16.8	Name: Kleszczewo	Count:174
+648	Lat: 54.3465	Long: 17.8924	Name: Gmina Sierakowice	Count:625
+649	Lat: 50.7667	Long: 21.7667	Name: Stary Garbow	Count:71
+650	Lat: 51.4189	Long: 15.9027	Name: Chocianow	Count:20
+651	Lat: 49.8795	Long: 21.1377	Name: Ryglice	Count:51
+652	Lat: 49.8901	Long: 22.3478	Name: Hucisko Jawornickie	Count:61
+653	Lat: 51.4257	Long: 17.9301	Name: Ostrzeszow	Count:656
+654	Lat: 50.1861	Long: 18.759	Name: Ornontowice	Count:974
+655	Lat: 53.8265	Long: 22.3654	Name: Ełk	Count:7640
+656	Lat: 49.5028	Long: 21.6991	Name: Trzciana	Count:266
+657	Lat: 53.837	Long: 20.4781	Name: Dywity	Count:1507
+658	Lat: 51.3434	Long: 19.5833	Name: Wola Krzysztoporska	Count:317
+659	Lat: 50.8777	Long: 24.0526	Name: Marta	Count:1097
+660	Lat: 49.8843	Long: 19.1462	Name: Pisarzowice	Count:235
+661	Lat: 52.3213	Long: 21.1027	Name: Marki	Count:2543
+662	Lat: 51.905	Long: 16.678	Name: Osieczna	Count:1507
+663	Lat: 54.0923	Long: 18.7947	Name: Tczew	Count:6819
+664	Lat: 52.0269	Long: 21.0322	Name: Zalesie Górne	Count:902
+665	Lat: 53.0393	Long: 21.9881	Name: Śniadowo	Count:112
+666	Lat: 51.2374	Long: 21.3727	Name: Wolka	Count:2861
+667	Lat: 52.3046	Long: 16.9087	Name: Wiorek	Count:215
+668	Lat: 54.2139	Long: 18.9502	Name: Ostaszewo	Count:143
+669	Lat: 51.5932	Long: 17.7012	Name: Tarchaly Wielkie	Count:194
+670	Lat: 53.3994	Long: 20.9466	Name: Wielbark	Count:256
+671	Lat: 52.9217	Long: 14.8633	Name: Mysliborz	Count:1517
+672	Lat: 52.3124	Long: 17.8204	Name: Strzalkowo	Count:1466
+673	Lat: 50.1597	Long: 23.1224	Name: Lubaczow	Count:482
+674	Lat: 51.4708	Long: 18.7494	Name: Bedkow	Count:215
+675	Lat: 53.0369	Long: 18.4834	Name: Rozgarty	Count:61
+676	Lat: 51.6374	Long: 22.0689	Name: Wrzosowka	Count:10
+677	Lat: 50.9806	Long: 17.0422	Name: Zorawina	Count:174
+678	Lat: 54.5028	Long: 17.2712	Name: Damnica	Count:1076
+679	Lat: 51.6292	Long: 15.8825	Name: Gaworzyce	Count:502
+680	Lat: 49.9358	Long: 18.4463	Name: Laziska	Count:184
+681	Lat: 53.9245	Long: 18.491	Name: Koteze	Count:30
+682	Lat: 50.5484	Long: 18.3811	Name: Jemielnica	Count:953
+683	Lat: 52.0687	Long: 22.4188	Name: Grodzisk	Count:451
+684	Lat: 49.8833	Long: 19.5667	Name: Klecza Dolna	Count:225
+685	Lat: 49.8833	Long: 19.0667	Name: Katy	Count:461
+686	Lat: 49.8833	Long: 22.1	Name: Blazowa	Count:1076
+687	Lat: 49.8833	Long: 21.4053	Name: Brzostek	Count:276
+688	Lat: 53.1728	Long: 21.2568	Name: Orzel	Count:225
+689	Lat: 51.9036	Long: 19.604	Name: Strykow	Count:205
+690	Lat: 52.724	Long: 22.7283	Name: Rudka	Count:194
+691	Lat: 50.9654	Long: 21.6045	Name: Teofilow	Count:1671
+692	Lat: 50.4615	Long: 21.5661	Name: Wola Baranowska	Count:287
+693	Lat: 52.5909	Long: 14.6512	Name: Kostrzyn nad Odra	Count:112
+694	Lat: 50.0061	Long: 20.9553	Name: Tarnów	Count:13045
+695	Lat: 50.1193	Long: 19.855	Name: Modlniczka	Count:348
+696	Lat: 52.4812	Long: 16.8808	Name: Suchy Las	Count:307
+697	Lat: 51.976	Long: 21.0975	Name: Warsaw	Count:1384
+698	Lat: 54.4212	Long: 16.4097	Name: Darłowo	Count:225
+699	Lat: 49.9382	Long: 19.3859	Name: Gieraltowice	Count:51
+700	Lat: 51.0371	Long: 16.9676	Name: Bielany Wroclawskie	Count:266
+701	Lat: 52.2825	Long: 16.7016	Name: Steszew	Count:1661
+702	Lat: 49.6731	Long: 20.6912	Name: Wieloglowy	Count:461
+703	Lat: 50.1395	Long: 19.4063	Name: Chrzanów	Count:6153
+704	Lat: 52.2569	Long: 20.5891	Name: Leszno	Count:830
+705	Lat: 53.3051	Long: 23.2815	Name: Czarna Białostocka	Count:840
+706	Lat: 54.277	Long: 18.5043	Name: Lublewo	Count:420
+707	Lat: 51.6	Long: 18.75	Name: Sieradz	Count:3753
+708	Lat: 51.1751	Long: 18.4648	Name: Mokrsko	Count:440
+709	Lat: 54.3333	Long: 18.2	Name: Kartuzy	Count:4061
+710	Lat: 52.8549	Long: 22.5124	Name: Szepietowo	Count:123
+711	Lat: 49.8727	Long: 21.797	Name: Strzyzow	Count:1097
+712	Lat: 52.5126	Long: 21.0691	Name: Serock	Count:2440
+713	Lat: 53.7693	Long: 18.1141	Name: Szlachta	Count:194
+714	Lat: 51.1914	Long: 20.4082	Name: Gmina Końskie	Count:1640
+715	Lat: 52.6318	Long: 19.9884	Name: Staroźreby	Count:112
+716	Lat: 51.9667	Long: 21.421	Name: Osieck	Count:523
+717	Lat: 51.9667	Long: 15.4525	Name: Przylep	Count:994
+718	Lat: 51.9667	Long: 20.15	Name: Skierniewice	Count:8009
+719	Lat: 49.7271	Long: 20.328	Name: Tymbark	Count:153
+720	Lat: 51.5938	Long: 19.3842	Name: Huta Dlutowska	Count:256
+721	Lat: 49.7607	Long: 18.7573	Name: Goleszow	Count:205
+722	Lat: 49.5921	Long: 19.1073	Name: Cisiec	Count:194
+723	Lat: 50.1935	Long: 21.2729	Name: Radomysl Wielki	Count:235
+724	Lat: 50.7599	Long: 16.6774	Name: Uciechow	Count:143
+725	Lat: 51.7121	Long: 20.1514	Name: Zielone	Count:287
+726	Lat: 52.1819	Long: 21.566	Name: Mińsk Mazowiecki	Count:3486
+727	Lat: 52.0719	Long: 15.8613	Name: Kargowa	Count:164
+728	Lat: 50.1282	Long: 20.1299	Name: Kocmyrzow	Count:1025
+729	Lat: 50.202	Long: 17.8294	Name: Glubczyce	Count:1220
+730	Lat: 50.1803	Long: 22.1428	Name: Medynia Glogowska	Count:584
+731	Lat: 52.446	Long: 21.4835	Name: Chrzesne	Count:317
+732	Lat: 52.0387	Long: 21.4335	Name: Karpiska	Count:317
+733	Lat: 50.4819	Long: 21.5729	Name: Skopanie	Count:410
+734	Lat: 52.2072	Long: 18.632	Name: Koło	Count:676
+735	Lat: 53.2539	Long: 14.4901	Name: Gryfino	Count:1261
+736	Lat: 50.1302	Long: 18.7177	Name: Belk	Count:184
+737	Lat: 54.1751	Long: 15.5914	Name: Kołobrzeg	Count:4225
+738	Lat: 51.8625	Long: 20.8676	Name: Grojec	Count:3302
+739	Lat: 54.383	Long: 17.8461	Name: Zalakowo	Count:287
+740	Lat: 54.3354	Long: 18.9512	Name: Mikoszewo	Count:102
+741	Lat: 50.7683	Long: 16.1378	Name: Czarny Bor	Count:348
+742	Lat: 54.5829	Long: 16.8633	Name: Ustka	Count:2933
+743	Lat: 52.0061	Long: 19.8034	Name: Domaniewice	Count:112
+744	Lat: 49.4103	Long: 20.9555	Name: Krynica-Zdroj	Count:799
+745	Lat: 51.5473	Long: 18.6605	Name: Izabela	Count:994
+746	Lat: 50.9136	Long: 16.4298	Name: Jaworzyna Slaska	Count:235
+747	Lat: 51.0901	Long: 19.1018	Name: Konstantynow	Count:82
+748	Lat: 50.5169	Long: 20.0374	Name: Klimontow	Count:851
+749	Lat: 51.6158	Long: 15.3148	Name: Żagań	Count:3015
+750	Lat: 49.9155	Long: 20.4614	Name: Nowy Wisnicz	Count:184
+751	Lat: 51.5313	Long: 20.3692	Name: Poswietne	Count:205
+752	Lat: 51.4129	Long: 21.9097	Name: Klikawa	Count:225
+753	Lat: 52.0991	Long: 18.4707	Name: Gmina Władysławów	Count:492
+754	Lat: 51.2845	Long: 22.2322	Name: Bochotnica	Count:71
+755	Lat: 52.8071	Long: 18.0868	Name: Pakość	Count:30
+756	Lat: 52.5098	Long: 20.263	Name: Nacpolsk	Count:256
+757	Lat: 50.1469	Long: 19.1856	Name: Imielin	Count:205
+758	Lat: 52.252	Long: 16.8462	Name: Budzyn	Count:461
+759	Lat: 54.2764	Long: 18.5868	Name: Straszyn	Count:3753
+760	Lat: 53.5869	Long: 19.561	Name: Iława	Count:3589
+761	Lat: 51.851	Long: 17.9357	Name: Gmina Gołuchów	Count:10
+762	Lat: 53.5403	Long: 20.02	Name: Dylewo	Count:687
+763	Lat: 50.0368	Long: 19.2308	Name: Oświęcim	Count:5322
+764	Lat: 52.0933	Long: 21.118	Name: Konstancin-Jeziorna	Count:2727
+765	Lat: 52.4075	Long: 22.2519	Name: Sokołów Podlaski	Count:246
+766	Lat: 51.2833	Long: 22.15	Name: Naleczow	Count:1312
+767	Lat: 51.0513	Long: 16.1935	Name: Jawor	Count:3035
+768	Lat: 51.0513	Long: 18.4583	Name: Praszka	Count:1363
+769	Lat: 51.7959	Long: 17.5151	Name: Trzemeszno	Count:112
+770	Lat: 49.8035	Long: 18.6028	Name: Pogwizdow	Count:502
+771	Lat: 50.0526	Long: 21.6091	Name: Ropczyce	Count:3343
+772	Lat: 53.5493	Long: 14.9554	Name: Mosty	Count:10
+773	Lat: 53.5493	Long: 14.5181	Name: Trzeszczyn	Count:451
+774	Lat: 53.9667	Long: 18.9667	Name: Gora	Count:225
+775	Lat: 49.7306	Long: 19.0797	Name: Buczkowice	Count:1251
+776	Lat: 54.2729	Long: 18.4692	Name: Kolbudy	Count:420
+777	Lat: 50.7423	Long: 20.6258	Name: Gmina Morawica	Count:328
+778	Lat: 53.7345	Long: 17.5093	Name: Charzykowy	Count:1548
+779	Lat: 50.0592	Long: 19.0926	Name: Bojszowy	Count:194
+780	Lat: 52.8047	Long: 17.8242	Name: Pniewy	Count:276
+781	Lat: 52.5908	Long: 20.8032	Name: Nasielsk	Count:1169
+782	Lat: 51.9531	Long: 15.8094	Name: Bojadla	Count:338
+783	Lat: 52.8529	Long: 19.6689	Name: Sierpc	Count:369
+784	Lat: 53.4973	Long: 15.0579	Name: Maszewo	Count:728
+785	Lat: 50.3353	Long: 19.5617	Name: Klucze	Count:656
+786	Lat: 50.3032	Long: 20.8043	Name: Nowy Korczyn	Count:92
+787	Lat: 50.1939	Long: 21.4785	Name: Przeclaw	Count:82
+788	Lat: 50.7289	Long: 18.446	Name: Dobrodzien	Count:687
+789	Lat: 53.7469	Long: 16.3541	Name: Barwice	Count:235
+790	Lat: 52.307	Long: 16.4133	Name: Opalenica	Count:1138
+791	Lat: 52.3703	Long: 16.7363	Name: Paledzie	Count:492
+792	Lat: 49.551	Long: 18.955	Name: Koniakow	Count:287
+793	Lat: 52.396	Long: 17.2279	Name: Kostrzyn	Count:1292
+794	Lat: 50.6894	Long: 16.7113	Name: Pilawa	Count:871
+795	Lat: 50.8445	Long: 22.1348	Name: Trzydnik Duzy	Count:266
+796	Lat: 52.4121	Long: 20.8838	Name: Chotomow	Count:1066
+797	Lat: 52.8772	Long: 18.7929	Name: Ciechocinek	Count:1158
+798	Lat: 49.7041	Long: 20.4225	Name: Limanowa	Count:3179
+799	Lat: 52.5815	Long: 16.7079	Name: Lulin	Count:266
+800	Lat: 50.9743	Long: 18.2138	Name: Kluczbork	Count:1487
+801	Lat: 50.6006	Long: 19.1613	Name: Kozieglowy	Count:748
+802	Lat: 50.7948	Long: 23.0417	Name: Nielisz	Count:102
+803	Lat: 50.3134	Long: 22.961	Name: Obsza	Count:1107
+804	Lat: 53.5641	Long: 22.2854	Name: Szczuczyn	Count:194
+805	Lat: 53.827	Long: 14.9774	Name: Golczewo	Count:123
+806	Lat: 51.2208	Long: 19.0431	Name: Rzasnia	Count:205
+807	Lat: 50.7306	Long: 21.3166	Name: Tecza	Count:440
+808	Lat: 50.8114	Long: 20.2648	Name: Malogoszcz	Count:133
+809	Lat: 52.4142	Long: 17.0896	Name: Swarzedz	Count:3107
+810	Lat: 50.887	Long: 18.6921	Name: Przystajn	Count:1507
+811	Lat: 50.772	Long: 19.6789	Name: Koniecpol	Count:4194
+812	Lat: 54.1464	Long: 18.599	Name: Sobowidz	Count:246
+813	Lat: 51.114	Long: 18.2132	Name: Byczyna	Count:184
+814	Lat: 53.2011	Long: 23.207	Name: Wasilkow	Count:533
+815	Lat: 51.4064	Long: 21.9328	Name: Gora Pulawska	Count:41
+816	Lat: 50.1503	Long: 18.6799	Name: Czerwionka-Leszczyny	Count:1466
+817	Lat: 53.1846	Long: 20.257	Name: Narzym	Count:338
+818	Lat: 53.0146	Long: 18.8916	Name: Kuzniki	Count:379
+819	Lat: 51.0833	Long: 17.0833	Name: Krzyki-Partynice	Count:194
+820	Lat: 50.195	Long: 19.8785	Name: Cianowice Duze	Count:287
+821	Lat: 53.5329	Long: 16.0113	Name: Zlocieniec	Count:1446
+822	Lat: 51.5114	Long: 18.8512	Name: Tyczyn	Count:717
+823	Lat: 49.6922	Long: 22.4782	Name: Bircza	Count:184
+824	Lat: 51.6563	Long: 20.1601	Name: Czerniewice	Count:30
+825	Lat: 52.4665	Long: 17.0185	Name: Kicin	Count:830
+826	Lat: 53.9091	Long: 14.24	Name: Świnoujście	Count:3681
+827	Lat: 52.6474	Long: 16.8141	Name: Oborniki	Count:1558
+828	Lat: 51	Long: 18.4	Name: Gorz	Count:2717
+829	Lat: 52.3021	Long: 16.7659	Name: Rosnowko	Count:164
+830	Lat: 53.1238	Long: 17.8398	Name: Lochowo	Count:246
+831	Lat: 51.0259	Long: 17.1151	Name: Swieta Katarzyna	Count:92
+832	Lat: 50.2566	Long: 20.9015	Name: Swiebodzin	Count:1251
+833	Lat: 51.268	Long: 16.7217	Name: Brzeg Dolny	Count:2769
+834	Lat: 51.7313	Long: 20.8522	Name: Goszczyn	Count:246
+835	Lat: 50.9407	Long: 20.9572	Name: Bodzentyn	Count:328
+836	Lat: 53.7244	Long: 19.7785	Name: Zalewo	Count:389
+837	Lat: 53.5421	Long: 14.5552	Name: Police	Count:3927
+838	Lat: 50.4271	Long: 21.2824	Name: Gmina Połaniec	Count:1456
+839	Lat: 49.72	Long: 19.2666	Name: Lekawica	Count:225
+840	Lat: 53.1167	Long: 20.3833	Name: Mława	Count:10
+841	Lat: 49.6508	Long: 19.3219	Name: Jelesnia	Count:430
+842	Lat: 52.3032	Long: 21.1585	Name: Zielonka	Count:1066
+843	Lat: 50.814	Long: 18.8367	Name: Weglowice	Count:584
+844	Lat: 51.55	Long: 23.55	Name: Wlodawa	Count:543
+845	Lat: 51.85	Long: 15.8667	Name: Piaski	Count:830
+846	Lat: 51.2367	Long: 19.9563	Name: Stara	Count:225
+847	Lat: 51.6521	Long: 17.1704	Name: Jutrosin	Count:543
+848	Lat: 52.1565	Long: 17.1643	Name: Zaniemysl	Count:307
+849	Lat: 52.1088	Long: 21.1325	Name: Bielawa	Count:471
+850	Lat: 51.1351	Long: 16.7831	Name: Lutynia	Count:102
+851	Lat: 49.7515	Long: 19.9617	Name: Pcim	Count:1343
+852	Lat: 49.679	Long: 20.8446	Name: Korzenna	Count:1651
+853	Lat: 53.4874	Long: 14.3861	Name: Dobra	Count:30
+854	Lat: 50.3837	Long: 18.761	Name: Wieszowa	Count:1066
+855	Lat: 52.2461	Long: 21.2804	Name: Sulejowek	Count:287
+856	Lat: 51.2101	Long: 16.1619	Name: Legnica	Count:16737
+857	Lat: 51.2732	Long: 15.9359	Name: Chojnów	Count:2328
+858	Lat: 50.4603	Long: 17.8545	Name: Strzeleczki	Count:153
+859	Lat: 50.1892	Long: 21.217	Name: Radomysl Wielki	Count:51
+860	Lat: 53.6219	Long: 20.0668	Name: Szyldak	Count:235
+861	Lat: 52.4894	Long: 23.271	Name: Borki	Count:10
+862	Lat: 54.0265	Long: 18.3213	Name: Pogodki	Count:10
+863	Lat: 51.3033	Long: 19.6455	Name: Rozprza	Count:143
+864	Lat: 50.0694	Long: 22.1201	Name: Strazow	Count:1230
+865	Lat: 49.8677	Long: 19.6842	Name: Kalwaria Zebrzydowska	Count:892
+866	Lat: 52.8536	Long: 17.7167	Name: Znin	Count:564
+867	Lat: 52.4896	Long: 18.156	Name: Wilczyn	Count:420
+868	Lat: 52.2479	Long: 15.8171	Name: Zbaszynek	Count:553
+869	Lat: 52.1492	Long: 21.3553	Name: Dziechciniec	Count:1210
+870	Lat: 52.1687	Long: 17.8962	Name: Zagorow	Count:30
+871	Lat: 52.3613	Long: 21.2862	Name: Duczki	Count:225
+872	Lat: 50.8493	Long: 16.1786	Name: Stare Bogaczowice	Count:502
+873	Lat: 50.4017	Long: 19.083	Name: Gora Siewierska	Count:656
+874	Lat: 51.312	Long: 20.7631	Name: Niska Jablonica	Count:30
+875	Lat: 54.7856	Long: 18.1948	Name: Slawoszyno	Count:287
+876	Lat: 54.6213	Long: 18.1756	Name: Bolszewo	Count:1035
+877	Lat: 49.4309	Long: 22.5848	Name: Ustrzyki Dolne	Count:3066
+878	Lat: 51.5024	Long: 19.7171	Name: Gmina Moszczenica	Count:174
+879	Lat: 51.221	Long: 18.5665	Name: Wieluń	Count:2287
+880	Lat: 49.9558	Long: 19.5668	Name: Tluczan	Count:164
+881	Lat: 54.4878	Long: 18.3408	Name: Koleczkowo	Count:184
+882	Lat: 50.9112	Long: 16.2397	Name: Dobromierz	Count:92
+883	Lat: 54.0333	Long: 16.2	Name: Pomorskie	Count:112
+884	Lat: 51.5767	Long: 17.6706	Name: Odolanow	Count:1240
+885	Lat: 53.7705	Long: 22.3346	Name: Nowa Wies Elcka	Count:553
+886	Lat: 49.8971	Long: 19.0617	Name: Bestwina	Count:912
+887	Lat: 53.2282	Long: 20.0343	Name: Grodki	Count:440
+888	Lat: 50.0108	Long: 21.8421	Name: Zglobien	Count:256
+889	Lat: 54.0616	Long: 19.6593	Name: Pasłęk	Count:1138
+890	Lat: 52.2197	Long: 21.1605	Name: Warsaw	Count:143
+891	Lat: 51.1172	Long: 20.8957	Name: Skarzysko-Kamienna	Count:2328
+892	Lat: 51.0726	Long: 16.8818	Name: Smolec	Count:728
+893	Lat: 52.0495	Long: 16.1033	Name: Keblowo	Count:184
+894	Lat: 50.0816	Long: 20.7062	Name: Borzecin	Count:153
+895	Lat: 50.4735	Long: 19.2335	Name: Siewierz	Count:102
+896	Lat: 52.3645	Long: 15.873	Name: Trzciel	Count:143
+897	Lat: 50.4486	Long: 19.5193	Name: Ogrodzieniec	Count:635
+898	Lat: 50.2137	Long: 19.7383	Name: Jerzmanowice	Count:482
+899	Lat: 50.0017	Long: 18.9899	Name: Jankowice	Count:1066
+900	Lat: 50.2792	Long: 19.5632	Name: Olkusz	Count:1189
+901	Lat: 51.0107	Long: 16.9557	Name: Domaslaw	Count:194
+902	Lat: 49.2896	Long: 19.8873	Name: Koscielisko	Count:543
+903	Lat: 53.7249	Long: 18.9311	Name: Kwidzyn	Count:4420
+904	Lat: 51.125	Long: 17.5414	Name: Bierutow	Count:102
+905	Lat: 50.6007	Long: 17.0402	Name: Ziebice	Count:594
+906	Lat: 49.6516	Long: 19.5489	Name: Zawoja	Count:307
+907	Lat: 53.3306	Long: 18.1958	Name: Pruszcz Pomorski	Count:605
+908	Lat: 50.2983	Long: 16.653	Name: Bystrzyca Klodzka	Count:389
+909	Lat: 50.6316	Long: 16.5149	Name: Jugow	Count:276
+910	Lat: 52.9726	Long: 17.0885	Name: Margonin	Count:451
+911	Lat: 54.1875	Long: 19.7227	Name: Młynary	Count:123
+912	Lat: 52.2084	Long: 20.724	Name: Plochocin	Count:1240
+913	Lat: 52.7989	Long: 18.2639	Name: Inowrocław	Count:10563
+914	Lat: 54.1368	Long: 18.7205	Name: Milobadz	Count:164
+915	Lat: 50.0378	Long: 18.4015	Name: Pszow	Count:246
+916	Lat: 51.8046	Long: 15.246	Name: Gmina Nowogród Bobrzański	Count:964
+917	Lat: 51.2156	Long: 19.5929	Name: Gorzkowice	Count:266
+918	Lat: 53.7974	Long: 18.5289	Name: Skorcz	Count:410
+919	Lat: 49.51	Long: 20.3957	Name: Tylmanowa	Count:10
+920	Lat: 50.1572	Long: 17.9871	Name: Baborow	Count:512
+921	Lat: 50.3566	Long: 17.8663	Name: Glogowek	Count:194
+922	Lat: 53.9171	Long: 19.926	Name: Morąg	Count:348
+923	Lat: 49.7634	Long: 22.0562	Name: Rozanka	Count:256
+924	Lat: 52.4167	Long: 16.9667	Name: Poznan	Count:173966
+925	Lat: 51.2263	Long: 16.4844	Name: Malczyce	Count:307
+926	Lat: 51.5696	Long: 22.5332	Name: Serock	Count:143
+927	Lat: 49.5258	Long: 20.8613	Name: Labowa	Count:82
+928	Lat: 50.6033	Long: 20.8445	Name: Gmina Gnojno	Count:328
+929	Lat: 50.1931	Long: 22.0955	Name: Nienadowka	Count:41
+930	Lat: 51.5077	Long: 18.116	Name: Grabow nad Prosna	Count:1169
+931	Lat: 51.9189	Long: 16.1871	Name: Wijewo	Count:492
+932	Lat: 51.0365	Long: 17.1491	Name: Siechnice	Count:2266
+933	Lat: 51.3559	Long: 21.5827	Name: Zwolen	Count:71
+934	Lat: 53.5298	Long: 15.8099	Name: Drawsko Pomorskie	Count:605
+935	Lat: 49.8376	Long: 21.6089	Name: Frysztak	Count:184
+936	Lat: 53.214	Long: 23.0589	Name: Bohdan	Count:123
+937	Lat: 54.4347	Long: 18.5708	Name: Sopot	Count:2810
+938	Lat: 51.0109	Long: 18.5143	Name: Prosna	Count:51
+939	Lat: 50.6579	Long: 23.2271	Name: Lipsko	Count:471
+940	Lat: 50.2496	Long: 22.3153	Name: Brzoza Krolewska	Count:30
+941	Lat: 50.2261	Long: 18.616	Name: Nieborowice	Count:225
+942	Lat: 51.12	Long: 15.8177	Name: Pielgrzymka	Count:235
+943	Lat: 54.099	Long: 18.5557	Name: Godziszewo	Count:287
+944	Lat: 50.831	Long: 21.5667	Name: Koszyce	Count:369
+945	Lat: 49.6629	Long: 20.6322	Name: Kleczany	Count:1087
+946	Lat: 50.4163	Long: 18.753	Name: Zbroslawice	Count:30
+947	Lat: 53.6463	Long: 18.718	Name: Nowe Lignowy	Count:748
+948	Lat: 51.2891	Long: 18.7929	Name: Gmina Osjaków	Count:379
+949	Lat: 50.7065	Long: 16.0008	Name: Lubawka	Count:564
+950	Lat: 50.4439	Long: 16.8737	Name: Zloty Stok	Count:133
+951	Lat: 50.4915	Long: 18.0235	Name: Gogolin	Count:215
+952	Lat: 53.9339	Long: 18.3264	Name: Zblewo	Count:51
+953	Lat: 53.8365	Long: 16.4348	Name: Grzmiaca	Count:51
+954	Lat: 50.8246	Long: 20.521	Name: Zgorsko	Count:697
+955	Lat: 50.7003	Long: 16.4407	Name: Walim	Count:184
+956	Lat: 50.3361	Long: 18.4808	Name: Bojszow	Count:164
+957	Lat: 50.3058	Long: 18.9742	Name: Chorzów	Count:9906
+958	Lat: 53.2303	Long: 16.6818	Name: Stara Lubianka	Count:246
+959	Lat: 51.8005	Long: 19.7499	Name: Brzeziny	Count:964
+960	Lat: 54.3797	Long: 19.82	Name: Braniewo	Count:605
+961	Lat: 52.2947	Long: 17.5451	Name: Oblaczkowo	Count:482
+962	Lat: 49.5595	Long: 19.0905	Name: Milowka	Count:461
+963	Lat: 50.732	Long: 16.6487	Name: Dzierzoniow	Count:2287
+964	Lat: 50.3608	Long: 22.7427	Name: Tarnogrod	Count:1271
+965	Lat: 49.9541	Long: 18.853	Name: Wisla Wielka	Count:1712
+966	Lat: 51.1235	Long: 21.9412	Name: Elzbieta	Count:1117
+967	Lat: 52.1791	Long: 19.6061	Name: Odolin	Count:205
+968	Lat: 52.4863	Long: 18.4199	Name: Katarzyna	Count:194
+969	Lat: 50.2197	Long: 18.6507	Name: Knurow	Count:5620
+970	Lat: 50.6232	Long: 18.9725	Name: Babienica	Count:461
+971	Lat: 53.2191	Long: 15.7577	Name: Drawno	Count:861
+972	Lat: 49.7825	Long: 22.7923	Name: Przemysl	Count:3548
+973	Lat: 54.0406	Long: 23.3518	Name: Giby	Count:246
+974	Lat: 49.7458	Long: 19.0588	Name: Meszna	Count:10
+975	Lat: 54.4845	Long: 17.4848	Name: Gmina Potęgowo	Count:287
+976	Lat: 51.3037	Long: 22.4358	Name: Jastkow	Count:358
+977	Lat: 51.8523	Long: 21.379	Name: Wilga	Count:1097
+978	Lat: 50.0176	Long: 18.5312	Name: Marklowice	Count:758
+979	Lat: 50.9882	Long: 16.4206	Name: Jaroszow	Count:461
+980	Lat: 53.4323	Long: 20.036	Name: Dabrowno	Count:399
+981	Lat: 53.9455	Long: 15.5313	Name: Ryman	Count:328
+982	Lat: 50.0653	Long: 19.54	Name: Alwernia	Count:266
+983	Lat: 51.5337	Long: 17.9745	Name: Mikstat	Count:184
+984	Lat: 50.2427	Long: 16.6354	Name: Dlugopole-Zdroj	Count:194
+985	Lat: 52.4159	Long: 21.1841	Name: Radzymin	Count:2245
+986	Lat: 50.4042	Long: 18.7209	Name: Kamieniec	Count:1117
+987	Lat: 50.8333	Long: 20.6667	Name: Kielce	Count:21772
+988	Lat: 49.4394	Long: 20.1425	Name: Nowa Biala	Count:912
+989	Lat: 52.4131	Long: 16.7768	Name: Wysogotowo	Count:348
+990	Lat: 50.4	Long: 18.6333	Name: Pyskowice	Count:1917
+991	Lat: 50.5128	Long: 18.7753	Name: Brudzowice	Count:205
+992	Lat: 51.3889	Long: 21.021	Name: Slawno B	Count:153
+993	Lat: 50.6486	Long: 21.897	Name: Zaleszany	Count:892
+994	Lat: 50.3879	Long: 16.6347	Name: Krosnowice	Count:235
+995	Lat: 54.3122	Long: 18.4713	Name: Sulmin	Count:266
+996	Lat: 50.1272	Long: 19.4615	Name: Pila Koscielecka	Count:246
+997	Lat: 51.9171	Long: 16.5661	Name: Gmina Lipno	Count:471
+998	Lat: 52.5399	Long: 18.2296	Name: Kusnierz	Count:984
+999	Lat: 51.25	Long: 22.5667	Name: Lublin	Count:34715
+1000	Lat: 52.0011	Long: 21.0989	Name: Dobiesz	Count:164
+1001	Lat: 51.3188	Long: 18.6255	Name: Bolkow	Count:851
+1002	Lat: 51.0307	Long: 16.7691	Name: Katy Wroclawskie	Count:246
+1003	Lat: 54.0137	Long: 18.9164	Name: Miloradz	Count:246
+1004	Lat: 50.0721	Long: 22.3302	Name: Kosina	Count:779
+1005	Lat: 50.6423	Long: 20.3871	Name: Rakow	Count:256
+1006	Lat: 51.0136	Long: 22.5392	Name: Bychawa	Count:112
+1007	Lat: 50.1855	Long: 19.4797	Name: Myslachowice	Count:205
+1008	Lat: 52.0177	Long: 18.5056	Name: Turek	Count:2122
+1009	Lat: 52.3295	Long: 21.1912	Name: Kobylka	Count:3127
+1010	Lat: 49.9132	Long: 19.4154	Name: Frydrychowice	Count:174
+1011	Lat: 54.0981	Long: 18.0613	Name: Wielki Klincz	Count:133
+1012	Lat: 53.0203	Long: 20.8824	Name: Przasnysz	Count:471
+1013	Lat: 51.8593	Long: 20.2849	Name: Nowy Dwor	Count:1569
+1014	Lat: 51.3513	Long: 22.3411	Name: Garbow	Count:133
+1015	Lat: 54.6099	Long: 18.512	Name: Mechelinki	Count:41
+1016	Lat: 49.7548	Long: 20.2629	Name: Wilkowisko	Count:235
+1017	Lat: 49.9374	Long: 19.2015	Name: Bielany	Count:594
+1018	Lat: 49.97	Long: 20.6077	Name: Brzesko	Count:1528
+1019	Lat: 53.8667	Long: 21.3	Name: Mragowo	Count:4153
+1020	Lat: 52.7354	Long: 14.7039	Name: Debno	Count:1589
+1021	Lat: 51.1	Long: 17.0333	Name: Wrocław	Count:163433
+1022	Lat: 51.3201	Long: 20.6836	Name: Borkowice	Count:10
+1023	Lat: 51.1943	Long: 15.5262	Name: Nowa	Count:256
+1024	Lat: 51.6382	Long: 15.1417	Name: Zary	Count:2174
+1025	Lat: 50.0255	Long: 19.9857	Name: Prokocim	Count:205
+1026	Lat: 52.4436	Long: 15.1183	Name: Gmina Sulęcin	Count:440
+1027	Lat: 52.3758	Long: 21.9642	Name: Liw	Count:215
+1028	Lat: 50.4667	Long: 20.7167	Name: Busko-Zdrój	Count:881
+1029	Lat: 51.7447	Long: 16.6858	Name: Kaczkowo	Count:287
+1030	Lat: 54.1248	Long: 17.9721	Name: Koscierzyna	Count:2061
+1031	Lat: 52.6514	Long: 19.0728	Name: Włocławek	Count:6543
+1032	Lat: 50.8194	Long: 23.1657	Name: Stary Zamosc	Count:1405
+1033	Lat: 52.4272	Long: 22.8623	Name: Siemiatycze	Count:1435
+1034	Lat: 50.847	Long: 15.603	Name: Piechowice	Count:820
+1035	Lat: 50.899	Long: 21.222	Name: Wasniow	Count:276
+1036	Lat: 53.5524	Long: 23.4503	Name: Sidra	Count:174
+1037	Lat: 53.0672	Long: 19.9114	Name: Żuromin	Count:20
+1038	Lat: 50.4723	Long: 17.3362	Name: Nysa	Count:2789
+1039	Lat: 53.155	Long: 16.7461	Name: Pila	Count:6573
+1040	Lat: 52.0209	Long: 21.1268	Name: Baniocha	Count:482
+1041	Lat: 50.248	Long: 18.7382	Name: Przyszowice	Count:276
+1042	Lat: 51.6171	Long: 20.5798	Name: Nowe Miasto nad Pilica	Count:164
+1043	Lat: 50.6698	Long: 16.1924	Name: Mieroszow	Count:184
+1044	Lat: 49.7162	Long: 21.8023	Name: Korczyna	Count:92
+1045	Lat: 50.3154	Long: 19.0782	Name: Czeladz	Count:1251
+1046	Lat: 53.9331	Long: 17.5258	Name: Laska	Count:41
+1047	Lat: 53.2802	Long: 18.9483	Name: Wabrzezno	Count:1322
+1048	Lat: 50.4364	Long: 16.6536	Name: Kłodzko	Count:4358
+1049	Lat: 50.9054	Long: 20.73	Name: Maslow	Count:92
+1050	Lat: 50.2395	Long: 20.5993	Name: Bejsce	Count:235
+1051	Lat: 51.3946	Long: 17.3269	Name: Bukowice	Count:297
+1052	Lat: 54.08	Long: 18.7389	Name: Rokitki	Count:287
+1053	Lat: 50.5134	Long: 18.3054	Name: Strzelce Opolskie	Count:2030
+1054	Lat: 50.5134	Long: 21.6654	Name: Chmielow	Count:30
+1055	Lat: 51.9452	Long: 17.9116	Name: Kuznia	Count:348
+1056	Lat: 49.8543	Long: 19.1384	Name: Kozy	Count:287
+1057	Lat: 54.0006	Long: 15.3858	Name: Dargoslaw	Count:194
+1058	Lat: 51.8085	Long: 21.8996	Name: Żelechów	Count:410
+1059	Lat: 52.1562	Long: 17.2874	Name: Garby	Count:430
+1060	Lat: 51.3719	Long: 18.2811	Name: Pedziwiatry	Count:482
+1061	Lat: 52.3232	Long: 17.5699	Name: Wrzesnia	Count:625
+1062	Lat: 50.1202	Long: 20.6433	Name: Szczurowa	Count:153
+1063	Lat: 53.3238	Long: 18.5054	Name: Stolno	Count:20
+1064	Lat: 51.4727	Long: 17.6323	Name: Sosnie	Count:61
+1065	Lat: 52.2904	Long: 17.8731	Name: Slupca	Count:1128
+1066	Lat: 52.0633	Long: 21.4806	Name: Kołbiel	Count:358
+1067	Lat: 51.6289	Long: 17.3574	Name: Cieszkow	Count:482
+1068	Lat: 53.186	Long: 18.6059	Name: Chełmża	Count:1374
+1069	Lat: 51.4766	Long: 21.4507	Name: Pionki	Count:974
+1070	Lat: 51.1134	Long: 22.3783	Name: Niedrzwica Duza	Count:194
+1071	Lat: 54.4745	Long: 18.3833	Name: Bojano	Count:902
+1072	Lat: 51.2639	Long: 15.9112	Name: Konradowka	Count:256
+1073	Lat: 51.3529	Long: 19.8879	Name: Sulejow	Count:246
+1074	Lat: 49.854	Long: 20.6353	Name: Tymowa	Count:92
+1075	Lat: 52.2361	Long: 21.681	Name: Izabelin	Count:153
+1076	Lat: 49.7325	Long: 19.4791	Name: Kukow	Count:194
+1077	Lat: 53.5867	Long: 17.8606	Name: Tuchola	Count:840
+1078	Lat: 50.8816	Long: 20.4617	Name: Piekoszow	Count:1046
+1079	Lat: 52.9147	Long: 19.1226	Name: Kikół	Count:143
+1080	Lat: 50.0167	Long: 20.05	Name: Biezanow-Prokocim	Count:369
+1081	Lat: 49.8798	Long: 19.2188	Name: Kety	Count:3763
+1082	Lat: 54.0364	Long: 22.5084	Name: Olecko	Count:399
+1083	Lat: 50.8533	Long: 21.369	Name: Gmina Sadowie	Count:153
+1084	Lat: 51.5608	Long: 21.8571	Name: Deblin	Count:564
+1085	Lat: 53.1403	Long: 19.2799	Name: Wapielsk	Count:61
+1086	Lat: 51.0251	Long: 18.4229	Name: Gorzow Slaski	Count:2892
+1087	Lat: 50.5795	Long: 18.0829	Name: Tarnow Opolski	Count:410
+1088	Lat: 51.0667	Long: 19.4544	Name: Radomsko	Count:1322
+1089	Lat: 52.7124	Long: 18.0335	Name: Kolodziejewo	Count:205
+1090	Lat: 51.0672	Long: 15.3845	Name: Olszyna	Count:1179
+1091	Lat: 52.314	Long: 15.0835	Name: Torzym	Count:287
+1092	Lat: 50.2415	Long: 21.7699	Name: Kolbuszowa	Count:482
+1093	Lat: 52.0446	Long: 17.7669	Name: Gizalki	Count:194
+1094	Lat: 49.9056	Long: 18.5324	Name: Skrbensko	Count:461
+1095	Lat: 51.6119	Long: 20.0371	Name: Lubochnia	Count:10
+1096	Lat: 51.0435	Long: 16.2753	Name: Msciwojow	Count:246
+1097	Lat: 51.9497	Long: 16.1825	Name: Wielen Zaobrzanski	Count:358
+1098	Lat: 51.8042	Long: 18.7185	Name: Peczniew	Count:348
+1099	Lat: 52.4291	Long: 21.6341	Name: Strachówka	Count:379
+1100	Lat: 49.6667	Long: 19.8667	Name: Naprawa	Count:1230
+1101	Lat: 54.5	Long: 18.55	Name: Gdynia	Count:71235
+1102	Lat: 49.9679	Long: 18.7228	Name: Pawlowice	Count:635
+1103	Lat: 51.1058	Long: 15.9917	Name: Prusice	Count:399
+1104	Lat: 50.9097	Long: 16.2825	Name: Szymanow	Count:287
+1105	Lat: 51.846	Long: 15.711	Name: Otyn	Count:205
+1106	Lat: 53.3328	Long: 19.3766	Name: Zbiczno	Count:287
+1107	Lat: 49.5586	Long: 21.6278	Name: Iwla	Count:102
+1108	Lat: 50.387	Long: 18.4285	Name: Lany	Count:235
+1109	Lat: 51.6401	Long: 23.4423	Name: Konstantyn	Count:358
+1110	Lat: 52.447	Long: 18.4708	Name: Sadlno	Count:225
+1111	Lat: 52.5083	Long: 18.0157	Name: Orchowo	Count:51
+1112	Lat: 54.2557	Long: 18.6084	Name: Juszkowo	Count:164
+1113	Lat: 50.642	Long: 17.6224	Name: Niemodlin	Count:153
+1114	Lat: 51.6956	Long: 21.8198	Name: Trojanow	Count:194
+1115	Lat: 53.8447	Long: 22.9801	Name: Augustów	Count:1405
+1116	Lat: 54.0391	Long: 18.6624	Name: Swarorzyn	Count:82
+1117	Lat: 49.3534	Long: 20.8959	Name: Muszyna	Count:328
+1118	Lat: 50.5185	Long: 22.1447	Name: Nisko	Count:287
+1119	Lat: 51.959	Long: 21.2316	Name: Czersk	Count:133
+1120	Lat: 52.0594	Long: 19.2018	Name: Łęczyca	Count:923
+1121	Lat: 50.5833	Long: 23.15	Name: Kaczor	Count:1363
+1122	Lat: 54.5803	Long: 18.0342	Name: Strzebielino	Count:51
+1123	Lat: 49.979	Long: 18.3609	Name: Belsznica	Count:964
+1124	Lat: 53.6996	Long: 19.963	Name: Ostróda	Count:4727
+1125	Lat: 51.624	Long: 21.9335	Name: Ryki	Count:266
+1126	Lat: 49.7008	Long: 19.7372	Name: Kojszowka	Count:102
+1127	Lat: 52.3035	Long: 19.1687	Name: Ostrowy	Count:51
+1128	Lat: 49.997	Long: 20.3002	Name: Klaj	Count:830
+1129	Lat: 49.9288	Long: 21.9284	Name: Lubenia	Count:338
+1130	Lat: 53.9689	Long: 18.5354	Name: Starogard Gdański	Count:3640
+1131	Lat: 53.9689	Long: 14.7728	Name: Kamien Pomorski	Count:1005
+1132	Lat: 51.4644	Long: 19.22	Name: Zelow	Count:502
+1133	Lat: 49.9838	Long: 20.9855	Name: Tarnowiec	Count:317
+1134	Lat: 50.0848	Long: 18.3971	Name: Czernica	Count:51
+1135	Lat: 52.423	Long: 19.5557	Name: Bielawy	Count:92
+1136	Lat: 52.423	Long: 20.8765	Name: Dabrowa Chotomowska	Count:194
+1137	Lat: 53.7185	Long: 20.3115	Name: Unieszewo	Count:184
+1138	Lat: 51.2206	Long: 22.7003	Name: Swidnik	Count:2317
+1139	Lat: 52.0577	Long: 21.3886	Name: Celestynów	Count:256
+1140	Lat: 51.8306	Long: 18.4073	Name: Liskow	Count:246
+1141	Lat: 53.8373	Long: 18.6349	Name: Borkowo	Count:235
+1142	Lat: 49.3424	Long: 20.1102	Name: Bukowina Tatrzanska	Count:287
+1143	Lat: 50.2989	Long: 19.3895	Name: Slawkow	Count:112
+1144	Lat: 49.8673	Long: 19.448	Name: Chocznia	Count:20
+1145	Lat: 53.5833	Long: 16.55	Name: Borne Sulinowo	Count:82
+1146	Lat: 50.0854	Long: 21.3966	Name: Zyrakow	Count:328
+1147	Lat: 50.6159	Long: 18.9163	Name: Strzebin	Count:266
+1148	Lat: 53.3609	Long: 20.4265	Name: Nidzica	Count:1948
+1149	Lat: 50.1345	Long: 19.6367	Name: Krzeszowice	Count:369
+1150	Lat: 51.03	Long: 19.4959	Name: Grzebien	Count:492
+1151	Lat: 54.7399	Long: 17.8919	Name: Choczewo	Count:389
+1152	Lat: 52.1006	Long: 21.5163	Name: Teresin	Count:1076
+1153	Lat: 52.6436	Long: 20.9367	Name: Winnica	Count:492
+1154	Lat: 51.8873	Long: 17.7294	Name: Pleszew	Count:697
+1155	Lat: 52.9856	Long: 22.2422	Name: Zambrów	Count:3948
+1156	Lat: 51.2784	Long: 17.9858	Name: Kępno	Count:615
+1157	Lat: 52.0619	Long: 17.2381	Name: Gmina Książ Wielkopolski	Count:317
+1158	Lat: 52.3977	Long: 16.1246	Name: Bolewice	Count:61
+1159	Lat: 51.1456	Long: 19.4079	Name: Dobroszyce	Count:3292
+1160	Lat: 53.4373	Long: 18.9417	Name: Melno	Count:205
+1161	Lat: 53.8297	Long: 20.6946	Name: Barczewo	Count:225
+1162	Lat: 54.7185	Long: 18.4108	Name: Puck	Count:3784
+1163	Lat: 49.9826	Long: 19.312	Name: Polanka Wielka	Count:328
+1164	Lat: 51.9822	Long: 20.8348	Name: Tarczyn	Count:4358
+1165	Lat: 52.3414	Long: 17.0798	Name: Tulce	Count:430
+1166	Lat: 52.0554	Long: 20.4415	Name: Żyrardów	Count:3979
+1167	Lat: 49.5539	Long: 21.9231	Name: Sieniawa	Count:523
+1168	Lat: 53.452	Long: 17.5398	Name: Sepolno Krajenskie	Count:205
+1169	Lat: 51.8447	Long: 19.4088	Name: Zgierz	Count:6717
+1170	Lat: 50.3424	Long: 16.8852	Name: Lądek Zdrój	Count:543
+1171	Lat: 50.4041	Long: 16.3904	Name: Duszniki-Zdroj	Count:1897
+1172	Lat: 50.1838	Long: 19.7912	Name: Beblo	Count:112
+1173	Lat: 49.7401	Long: 22.6415	Name: Olszany	Count:246
+1174	Lat: 50.6164	Long: 23.701	Name: Tyszowce	Count:523
+1175	Lat: 51.8931	Long: 18.9564	Name: Gmina Poddębice	Count:1384
+1176	Lat: 52.6333	Long: 18.7167	Name: Osięciny	Count:276
+1177	Lat: 50.942	Long: 22.2056	Name: Piaski	Count:246
+1178	Lat: 51.8206	Long: 19.8685	Name: Rogow	Count:276
+1179	Lat: 49.7167	Long: 20.05	Name: Kasinka	Count:276
+1180	Lat: 49.7167	Long: 18.9333	Name: Brenna	Count:256
+1181	Lat: 49.7167	Long: 21.65	Name: Jedlicze	Count:440
+1182	Lat: 50.0229	Long: 18.3404	Name: Syrynia	Count:235
+1183	Lat: 52.5418	Long: 22.8565	Name: Lipiny	Count:184
+1184	Lat: 53.2068	Long: 22.774	Name: Tykocin	Count:543
+1185	Lat: 53.2068	Long: 23.3362	Name: Supraśl	Count:738
+1186	Lat: 50.34	Long: 23.5208	Name: Lubycza Krolewska	Count:225
+1187	Lat: 51.0464	Long: 16.6126	Name: Gmina Kostomłoty	Count:440
+1188	Lat: 51.6498	Long: 17.8089	Name: Ostrów Wielkopolski	Count:7537
+1189	Lat: 54.2099	Long: 18.7676	Name: Suchy Dab	Count:225
+1190	Lat: 51.3459	Long: 22.9097	Name: Gmina Ludwin	Count:410
+1191	Lat: 52.6037	Long: 19.2521	Name: Smolnik	Count:10
+1192	Lat: 53.8647	Long: 20.9569	Name: Biskupiec	Count:1025
+1193	Lat: 54.7365	Long: 18.1496	Name: Karlikowo	Count:194
+1194	Lat: 51.3512	Long: 21.2165	Name: Makowiec	Count:20
+1195	Lat: 50.0143	Long: 20.119	Name: Wegrzce Wielkie	Count:440
+1196	Lat: 50.1372	Long: 18.9664	Name: Tychy	Count:15926
+1197	Lat: 54.0511	Long: 21.1441	Name: Reszel	Count:779
+1198	Lat: 51.2982	Long: 18.1574	Name: Wieruszow	Count:666
+1199	Lat: 52.144	Long: 16.7641	Name: Czempin	Count:379
+1200	Lat: 51.598	Long: 16.165	Name: Grebocice	Count:20
+1201	Lat: 51.116	Long: 18.8724	Name: Dzialoszyn	Count:871
+1202	Lat: 52.7401	Long: 19.2675	Name: Wielgie	Count:348
+1203	Lat: 52.4095	Long: 18.8124	Name: Chotel	Count:492
+1204	Lat: 49.6887	Long: 21.7706	Name: Krosno	Count:2799
+1205	Lat: 50.9672	Long: 19.2749	Name: Kruszyna	Count:512
+1206	Lat: 52.4917	Long: 17.4247	Name: Falkowo	Count:205
+1207	Lat: 52.289	Long: 20.0839	Name: Gizyce	Count:215
+1208	Lat: 50.6789	Long: 18.2159	Name: Ozimek	Count:164
+1209	Lat: 50.1405	Long: 21.4891	Name: Pustkow	Count:1169
+1210	Lat: 50.7383	Long: 19.1337	Name: Huta Stara	Count:984
+1211	Lat: 54.3916	Long: 18.4098	Name: Banino	Count:1907
+1212	Lat: 53.6545	Long: 23.3504	Name: Dabrowa Bialostocka	Count:338
+1213	Lat: 53.261	Long: 17.2552	Name: Lobzenica	Count:1353
+1214	Lat: 52.949	Long: 16.5149	Name: Kuznica Czarnkowska	Count:184
+1215	Lat: 51.9628	Long: 19.2951	Name: Ozorkow	Count:1548
+1216	Lat: 50.4094	Long: 22.3036	Name: Kopki	Count:30
+1217	Lat: 51.2233	Long: 19.3046	Name: Kleszczow	Count:348
+1218	Lat: 50.592	Long: 16.8184	Name: Ząbkowice Śląskie	Count:1969
+1219	Lat: 51.1352	Long: 20.1008	Name: Falkow	Count:82
+1220	Lat: 52.5931	Long: 19.0894	Name: Warzachewka Polska	Count:5088749
+1221	Lat: 50.4528	Long: 18.9257	Name: Nowe Chechlo	Count:143
+1222	Lat: 50.3434	Long: 17.9891	Name: Twardawa	Count:646
+1223	Lat: 52.857	Long: 15.6832	Name: Stare Kurowo	Count:246
+1224	Lat: 50.6678	Long: 18.2474	Name: Krasiejow	Count:328
+1225	Lat: 51.7654	Long: 16.4847	Name: Radoslaw	Count:3168
+1226	Lat: 52.1463	Long: 21.741	Name: Cegłów	Count:461
+1227	Lat: 50.8417	Long: 16.4791	Name: Świdnica	Count:14983
+1228	Lat: 50.3041	Long: 19.0358	Name: Siemianowice Śląskie	Count:3261
+1229	Lat: 50.8208	Long: 22.7483	Name: Turobin	Count:471
+1230	Lat: 50.1252	Long: 19.9548	Name: Bibice	Count:1599
+1231	Lat: 53.6639	Long: 18.8745	Name: Sadlinki	Count:205
+1232	Lat: 51.6875	Long: 18.3375	Name: Szczytniki	Count:112
+1233	Lat: 49.9	Long: 19.0667	Name: Bestwinka	Count:379
+1234	Lat: 49.9	Long: 19.1667	Name: Hecznarowice	Count:215
+1235	Lat: 49.9561	Long: 18.9062	Name: Laka	Count:461
+1236	Lat: 54.0975	Long: 17.7843	Name: Lipusz	Count:194
+1237	Lat: 52.0883	Long: 16.6487	Name: Kościan	Count:3035
+1238	Lat: 52.745	Long: 22.8361	Name: Brańsk	Count:553
+1239	Lat: 52.2442	Long: 19.6264	Name: Żychlin	Count:287
+1240	Lat: 52.2442	Long: 16.8513	Name: Mosina	Count:717
+1241	Lat: 53.1768	Long: 18.2989	Name: Dabrowa Chelminska	Count:523
+1242	Lat: 49.9167	Long: 19.1	Name: Debina	Count:92
+1243	Lat: 50.8865	Long: 20.1245	Name: Krasocin	Count:482
+1244	Lat: 51.2938	Long: 22.1481	Name: Wawolnica	Count:246
+1245	Lat: 52.8069	Long: 16.1737	Name: Mialy	Count:51
+1246	Lat: 53.4849	Long: 20.0916	Name: Grunwald	Count:71
+1247	Lat: 53.247	Long: 17.6083	Name: Mrocza	Count:666
+1248	Lat: 49.6248	Long: 20.9434	Name: Grybow	Count:974
+1249	Lat: 52.402	Long: 22.0167	Name: Węgrów	Count:246
+1250	Lat: 52.4304	Long: 20.7159	Name: Nowy Dwor Mazowiecki	Count:6850
+1251	Lat: 54.1764	Long: 17.4876	Name: Bytów	Count:2410
+1252	Lat: 52.347	Long: 16.8927	Name: Lubon	Count:3210
+1253	Lat: 49.8086	Long: 19.5647	Name: Mucharz	Count:164
+1254	Lat: 50.7476	Long: 19.1485	Name: Wrzosowa	Count:974
+1255	Lat: 52.7368	Long: 15.2288	Name: Gorzów Wielkopolski	Count:10553
+1256	Lat: 50.4882	Long: 19.4318	Name: Zawiercie	Count:2953
+1257	Lat: 50.171	Long: 18.9041	Name: Mikołów	Count:7886
+1258	Lat: 53.4205	Long: 16.8176	Name: Jastrowie	Count:256
+1259	Lat: 51.5248	Long: 18.7076	Name: Kozy	Count:20
+1260	Lat: 53.799	Long: 17.2522	Name: Przechlewo	Count:20
+1261	Lat: 52.4594	Long: 16.62	Name: Rumianek	Count:71
+1262	Lat: 49.5288	Long: 20.6519	Name: Barcice	Count:194
+1263	Lat: 51.1486	Long: 19.0441	Name: Siedlec	Count:112
+1264	Lat: 50.8734	Long: 19.1369	Name: Wierzchowisko	Count:328
+1265	Lat: 49.4664	Long: 20.2082	Name: Debno	Count:902
+1266	Lat: 51.75	Long: 19.4667	Name: Łódź	Count:159844
+1267	Lat: 53.4151	Long: 21.783	Name: Podgorne	Count:717
+1268	Lat: 54.1284	Long: 16.2952	Name: Manowo	Count:246
+1269	Lat: 50.1393	Long: 20.1162	Name: Luborzyca	Count:225
+1270	Lat: 53.032	Long: 18.7623	Name: Lubicz	Count:399
+1271	Lat: 51.5892	Long: 17.8238	Name: Przygodzice	Count:820
+1272	Lat: 52.4239	Long: 21.0342	Name: Nieporęt	Count:1405
+1273	Lat: 50.6855	Long: 19.1534	Name: Kamienica Polska	Count:1220
+1274	Lat: 54.0793	Long: 21.3706	Name: Kętrzyn	Count:1825
+1275	Lat: 51.2225	Long: 16.9743	Name: Szewce	Count:215
+1276	Lat: 51.5406	Long: 17.6402	Name: Garki	Count:389
+1277	Lat: 52.673	Long: 14.8995	Name: Witnica	Count:174
+1278	Lat: 49.9134	Long: 19.0048	Name: Czechowice-Dziedzice	Count:5394
+1279	Lat: 50.6199	Long: 21.9858	Name: Turbia	Count:1876
+1280	Lat: 53.4833	Long: 18.7741	Name: Grudziądz	Count:12275
+1281	Lat: 52.4366	Long: 14.8189	Name: Swiniary	Count:225
+1282	Lat: 49.6715	Long: 21.8882	Name: Haczow	Count:1035
+1283	Lat: 53.0532	Long: 16.7343	Name: Ujscie	Count:923
+1284	Lat: 52.0529	Long: 15.101	Name: Krosno Odrzanskie	Count:174
+1285	Lat: 50.4002	Long: 21.0407	Name: Pacanow	Count:235
+1286	Lat: 49.6038	Long: 22.0523	Name: Bazanowka	Count:10
+1287	Lat: 53.4072	Long: 23.5023	Name: Sokółka	Count:3497
+1288	Lat: 50.6359	Long: 18.8436	Name: Koszecin	Count:728
+1289	Lat: 51.7611	Long: 18.091	Name: Kalisz	Count:15609
+1290	Lat: 50.4398	Long: 20.9412	Name: Stopnica	Count:143
+1291	Lat: 50.206	Long: 19.2701	Name: Jaworzno	Count:5579
+1292	Lat: 53.2304	Long: 18.68	Name: Grzegorz	Count:9763
+1293	Lat: 50.7186	Long: 15.9236	Name: Miszkowice	Count:533
+1294	Lat: 51.8825	Long: 17.0123	Name: Gostyn	Count:3804
+1295	Lat: 51.9514	Long: 15.7154	Name: Zabor	Count:266
+1296	Lat: 50.426	Long: 17.6451	Name: Otoki	Count:205
+1297	Lat: 52.2927	Long: 21.1054	Name: Ząbki	Count:2820
+1298	Lat: 52.2238	Long: 20.0191	Name: Kocierzew Poludniowy	Count:174
+1299	Lat: 54.59	Long: 18.4861	Name: Kosakowo	Count:523
+1300	Lat: 53.3743	Long: 14.4716	Name: Przeclaw	Count:1353
+1301	Lat: 54.1355	Long: 19.0101	Name: Nowy Staw	Count:20
+1302	Lat: 50.0524	Long: 21.4148	Name: Debica	Count:10778
+1303	Lat: 53.2396	Long: 20.17	Name: Działdowo	Count:2594
+1304	Lat: 53.2603	Long: 19.8212	Name: Lidzbark	Count:574
+1305	Lat: 49.7411	Long: 21.7385	Name: Odrzykon	Count:256
+1306	Lat: 50.045	Long: 18.6943	Name: Żory	Count:5661
+1307	Lat: 49.575	Long: 20.5885	Name: Podegrodzie	Count:215
+1308	Lat: 50.2362	Long: 19.1411	Name: Mysłowice	Count:7322
+1309	Lat: 50.7615	Long: 18.3448	Name: Zebowice	Count:348
+1310	Lat: 53.7198	Long: 17.8121	Name: Zukowo	Count:41
+1311	Lat: 49.6	Long: 19.1333	Name: Wegierska Gorka	Count:676
+1312	Lat: 49.9336	Long: 18.6014	Name: Jastrzębie Zdrój	Count:1620
+1313	Lat: 53.5443	Long: 14.4659	Name: Tanowo	Count:348
+1314	Lat: 50.4278	Long: 21.7503	Name: Nowa Deba	Count:1435
+1315	Lat: 53.8516	Long: 18.4025	Name: Lubichowo	Count:317
+1316	Lat: 52.8456	Long: 18.3354	Name: Szadlowice	Count:379
+1317	Lat: 51.339	Long: 16.6468	Name: Wolow	Count:3281
+1318	Lat: 52.1064	Long: 20.6231	Name: Grodzisk Mazowiecki	Count:1517
+1319	Lat: 49.9667	Long: 20.9333	Name: Koszyce	Count:143
+1320	Lat: 49.9506	Long: 18.4053	Name: Gorzyczki	Count:328
+1321	Lat: 51.9329	Long: 21.305	Name: Sobienie Jeziory	Count:82
+1322	Lat: 52.6523	Long: 23.0444	Name: Boćki	Count:943
+1323	Lat: 50.6984	Long: 16.8935	Name: Brochocin	Count:82
+1324	Lat: 52.5165	Long: 15.411	Name: Bledzew	Count:451
+1325	Lat: 50.1559	Long: 18.7792	Name: Orzesze	Count:1630
+1326	Lat: 51.7874	Long: 16.6657	Name: Rydzyna	Count:205
+1327	Lat: 52.4294	Long: 19.4663	Name: Gostynin	Count:2440
+1328	Lat: 52.2023	Long: 17.6552	Name: Borzykowo	Count:666
+1329	Lat: 50.3518	Long: 18.4089	Name: Rudziniec	Count:410
+1330	Lat: 51.0748	Long: 20.2545	Name: Radoszyce	Count:246
+1331	Lat: 49.6912	Long: 19.1742	Name: Podlasie	Count:8019
+1332	Lat: 54.5672	Long: 18.1104	Name: Luzino	Count:523
+1333	Lat: 51.249	Long: 15.0468	Name: Piensk	Count:912
+1334	Lat: 52.8413	Long: 22.9812	Name: Gmina Wyszki	Count:297
+1335	Lat: 49.832	Long: 19.9441	Name: Myslenice	Count:7968
+1336	Lat: 49.6218	Long: 20.6971	Name: Nowy Sącz	Count:4861
+1337	Lat: 51.2444	Long: 17.0101	Name: Strzeszow	Count:133
+1338	Lat: 52.2145	Long: 16.633	Name: Modrze	Count:502
+1339	Lat: 51.9156	Long: 18.6153	Name: Dobra	Count:71
+1340	Lat: 51.9393	Long: 15.5058	Name: Zielona Góra	Count:9342
+1341	Lat: 54.3267	Long: 18.1011	Name: Gmina Chmielno	Count:61
+1342	Lat: 51.1391	Long: 20.5529	Name: Gmina Stąporków	Count:758
+1343	Lat: 50.4485	Long: 18.8515	Name: Tarnowskie Gory	Count:24962
+1344	Lat: 52.0742	Long: 20.7025	Name: Ksiazenice	Count:605
+1345	Lat: 54.7576	Long: 17.5563	Name: Leba	Count:184
+1346	Lat: 52.0782	Long: 21.2505	Name: Karczew	Count:553
+1347	Lat: 52.0782	Long: 21.0617	Name: Chylice	Count:41
+1348	Lat: 52.7987	Long: 16.7337	Name: Polajewo	Count:235
+1349	Lat: 51.2642	Long: 15.5697	Name: Bolesławiec	Count:4379
+1350	Lat: 53.011	Long: 14.401	Name: Nawodna	Count:584
+1351	Lat: 52.0012	Long: 21.0441	Name: Ustanow	Count:502
+1352	Lat: 53.6984	Long: 19.1054	Name: Mary	Count:153
+1353	Lat: 50.64	Long: 20.3059	Name: Gmina Jędrzejów	Count:1035
+1354	Lat: 50.3781	Long: 21.7486	Name: Majdan Krolewski	Count:164
+1355	Lat: 50.1464	Long: 18.8394	Name: Laziska Gorne	Count:1394
+1356	Lat: 51.1175	Long: 15.1958	Name: Siekierczyn	Count:30
+1357	Lat: 53.1847	Long: 18.0839	Name: Osielsko	Count:871
+1358	Lat: 51.3805	Long: 20.736	Name: Komorow	Count:358
+1359	Lat: 49.5979	Long: 20.4682	Name: Jastrzebie	Count:348
+1360	Lat: 52.107	Long: 22.1296	Name: Skorzec	Count:399
+1361	Lat: 51.5509	Long: 22.6043	Name: Leszkowice	Count:82
+1362	Lat: 50.0276	Long: 18.4477	Name: Radlin	Count:1107
+1363	Lat: 49.713	Long: 19.5198	Name: Stryszawa	Count:174
+1364	Lat: 50.8888	Long: 21.083	Name: Serwis	Count:5394
+1365	Lat: 51.0861	Long: 16.785	Name: Bogdaszowice	Count:82
+1366	Lat: 50.1102	Long: 21.1256	Name: Marek	Count:3066
+1367	Lat: 50.1102	Long: 20.8921	Name: Niedomice	Count:133
+1368	Lat: 53.4395	Long: 14.5939	Name: Szczecin	Count:58928
+1369	Lat: 50.8804	Long: 16.5798	Name: Marcinowice	Count:564
+1370	Lat: 50.1667	Long: 18.7667	Name: Maria	Count:4276
+1371	Lat: 51.6307	Long: 17.763	Name: Topola Mala	Count:1384
+1372	Lat: 50.5871	Long: 19.0604	Name: Wozniki	Count:112
+1373	Lat: 51.9211	Long: 20.5611	Name: Strzyze	Count:471
+1374	Lat: 53.0358	Long: 18.6048	Name: Toruń	Count:40037
+1375	Lat: 50.011	Long: 18.4551	Name: Wodzisław Śląski	Count:4563
+1376	Lat: 53.3418	Long: 15.0521	Name: Stargard Szczeciński	Count:9004
+1377	Lat: 53.7042	Long: 20.9605	Name: Dzwierzuty	Count:20
+1378	Lat: 51.0423	Long: 17.3533	Name: Jarkowice	Count:1835
+1379	Lat: 53.3617	Long: 17.0452	Name: Zlotow	Count:564
+1380	Lat: 50.1491	Long: 22.2451	Name: Rakszawa	Count:297
+1381	Lat: 50.3706	Long: 17.3604	Name: Nowy Swietow	Count:1056
+1382	Lat: 53.5667	Long: 19.7667	Name: Rożental	Count:92
+1383	Lat: 50.1571	Long: 21.2329	Name: Zarowka	Count:133
+1384	Lat: 51.2483	Long: 16.933	Name: Pegow	Count:10
+1385	Lat: 51.0519	Long: 21.0883	Name: Starachowice	Count:5661
+1386	Lat: 52.0637	Long: 16.7346	Name: Darnowo	Count:615
+1387	Lat: 51.2077	Long: 17.3865	Name: Olesnica	Count:10030
+1388	Lat: 52.0355	Long: 18.0059	Name: Ladek	Count:30
+1389	Lat: 51.5656	Long: 15.5361	Name: Szprotawa	Count:1999
+1390	Lat: 50.7146	Long: 19.1327	Name: Poczesna	Count:584
+1391	Lat: 53.9333	Long: 20.25	Name: Swiatki	Count:184
+1392	Lat: 49.8841	Long: 19.4915	Name: Wadowice	Count:1466
+1393	Lat: 52.912	Long: 20.0516	Name: Suwaki	Count:92
+1394	Lat: 52.4015	Long: 20.9266	Name: Legionowo	Count:9865
+1395	Lat: 53.1271	Long: 18.02	Name: Bydgoszcz	Count:55247
+1396	Lat: 50.6723	Long: 18.6867	Name: Lubliniec	Count:2317
+1397	Lat: 50.572	Long: 21.6848	Name: Tarnobrzeg	Count:5281
+1398	Lat: 49.7188	Long: 19.3747	Name: Slemien	Count:225
+1399	Lat: 51.3657	Long: 17.4698	Name: Twardogora	Count:5322
+1400	Lat: 50.0833	Long: 19.9167	Name: Krakow	Count:137568
+1401	Lat: 52.2094	Long: 16.8962	Name: Baranowko	Count:256
+1402	Lat: 50.1333	Long: 20.1167	Name: Baran	Count:1487
+1403	Lat: 50.9709	Long: 18.729	Name: Krzepice	Count:369
+1404	Lat: 50.0242	Long: 20.7317	Name: Bielcza	Count:789
+1405	Lat: 52.7229	Long: 19.6921	Name: Gozdowo	Count:143
+1406	Lat: 50.5016	Long: 21.478	Name: Lipnik	Count:133
+1407	Lat: 51.8023	Long: 20.4737	Name: Biała Rawska	Count:492
+1408	Lat: 50.3183	Long: 22.5864	Name: Brzyska Wola	Count:912
+1409	Lat: 51.4707	Long: 20.8566	Name: Jablonna	Count:553
+1410	Lat: 50.1727	Long: 18.0989	Name: Jastrzebie	Count:307
+1411	Lat: 51.606	Long: 17.5305	Name: Sulmierzyce	Count:543
+1412	Lat: 52.4519	Long: 14.8763	Name: Osno Lubuskie	Count:256
+1413	Lat: 52	Long: 20	Name: 	Count:3679575
+1414	Lat: 50.8575	Long: 17.4698	Name: Brzeg	Count:2102
+1415	Lat: 52.3134	Long: 16.7935	Name: Szreniawa	Count:194
+1416	Lat: 53.0196	Long: 23.1409	Name: Juchnowiec Koscielny	Count:461
+1417	Lat: 51.1707	Long: 18.3891	Name: Skomlin	Count:912
+1418	Lat: 50.0906	Long: 18.2075	Name: Racibórz	Count:5579
+1419	Lat: 53.1344	Long: 22.0417	Name: Konarzyce	Count:51
+1420	Lat: 50.0383	Long: 19.7683	Name: Liszki	Count:1261
+1421	Lat: 51.7906	Long: 23.2139	Name: Wisznice	Count:256
+1422	Lat: 51.9815	Long: 21.2151	Name: Gora Kalwaria	Count:287
+1423	Lat: 49.6625	Long: 21.7492	Name: Glowienka	Count:51
+1424	Lat: 50.0929	Long: 22.0054	Name: Zaczernie	Count:574
+1425	Lat: 50.0316	Long: 20.2177	Name: Niepolomice	Count:3825
+1426	Lat: 50.85	Long: 20.8167	Name: Gorno	Count:92
+1427	Lat: 50.85	Long: 16.758	Name: Sulistrowice	Count:61
+1428	Lat: 49.9841	Long: 20.0622	Name: Wieliczka	Count:2697
+1429	Lat: 51.5594	Long: 18.4654	Name: Kurek	Count:1394
+1430	Lat: 51.7454	Long: 15.5944	Name: Kozuchow	Count:287
+1431	Lat: 49.396	Long: 21.0237	Name: Tylicz	Count:92
+1432	Lat: 52.195	Long: 20.6161	Name: Błonie	Count:1097
+1433	Lat: 50.8598	Long: 16.3282	Name: Swiebodzice	Count:5804
+1434	Lat: 52.6313	Long: 17.4298	Name: Klecko	Count:287
+1435	Lat: 52.7169	Long: 19.1083	Name: Fabianki	Count:369
+1436	Lat: 49.6563	Long: 18.8591	Name: Wisla	Count:2256
+1437	Lat: 50.2597	Long: 21.9739	Name: Ranizow	Count:51
+1438	Lat: 52.8784	Long: 20.6188	Name: Ciechanów	Count:3445
+1439	Lat: 51.3155	Long: 17.1986	Name: Zawonia	Count:71
+1440	Lat: 50.957	Long: 21.2797	Name: Kunow	Count:10
+1441	Lat: 50.9397	Long: 15.2992	Name: Pobiedna	Count:10
+1442	Lat: 49.726	Long: 19.1472	Name: Lodygowice	Count:246
+1443	Lat: 51.9459	Long: 20.048	Name: Makow	Count:20
+1444	Lat: 52.3942	Long: 20.8367	Name: Rajszew	Count:225
+1445	Lat: 53.5638	Long: 14.83	Name: Goleniów	Count:2789
+1446	Lat: 52.4412	Long: 21.2894	Name: Wola Rasztowska	Count:92
+1447	Lat: 52.2475	Long: 17.0977	Name: Kornik	Count:3507
+1448	Lat: 52.1589	Long: 20.9217	Name: Raszyn	Count:2215
+1449	Lat: 52.8452	Long: 19.1826	Name: Lipno	Count:820
+1450	Lat: 50.9591	Long: 19.4525	Name: Ruda	Count:82
+1451	Lat: 51.8065	Long: 21.221	Name: Jozefow	Count:3312
+1452	Lat: 50.6155	Long: 20.7519	Name: Chmielnik	Count:728
+1453	Lat: 53.5342	Long: 17.5223	Name: Kamien Krajenski	Count:758
+1454	Lat: 50.1368	Long: 18.3648	Name: Bogunice	Count:184
+1455	Lat: 49.7437	Long: 21.4709	Name: Jaslo	Count:7014
+1456	Lat: 51.798	Long: 18.33	Name: Kozminek	Count:153
+1457	Lat: 54.3566	Long: 19.682	Name: Frombork	Count:10
+1458	Lat: 52.0131	Long: 16.5232	Name: Smigiel	Count:830
+1459	Lat: 54.5967	Long: 18.5	Name: Pierwoszyno	Count:471
+1460	Lat: 54.5967	Long: 18.101	Name: Keblowo	Count:3015
+1461	Lat: 49.8242	Long: 22.7991	Name: Zurawica	Count:307
+1462	Lat: 52.0761	Long: 20.1639	Name: Bolimów	Count:30
+1463	Lat: 49.8462	Long: 19.2625	Name: Czaniec	Count:297
+1464	Lat: 51.2858	Long: 18.5617	Name: Czarnozyly	Count:297
+1465	Lat: 51.6552	Long: 16.9558	Name: Miejska Gorka	Count:266
+1466	Lat: 51.1903	Long: 16.7371	Name: Gmina Miękinia	Count:779
+1467	Lat: 54.4678	Long: 17.0275	Name: Słupsk	Count:7558
+1468	Lat: 53.0564	Long: 18.9258	Name: Ciechocin	Count:30
+1469	Lat: 51.1686	Long: 19.4856	Name: Gomunice	Count:164
+1470	Lat: 52.9911	Long: 22.8842	Name: Łapy	Count:974
+1471	Lat: 49.5747	Long: 21.869	Name: Rymanow	Count:533
+1472	Lat: 54.1687	Long: 19.8826	Name: Wilczeta	Count:51
+1473	Lat: 50.6877	Long: 16.2367	Name: Sokolowsko	Count:205
+1474	Lat: 49.7215	Long: 18.802	Name: Ustron	Count:1825
+1475	Lat: 49.9076	Long: 20.199	Name: Gdow	Count:1405
+1476	Lat: 49.8594	Long: 20.5289	Name: Lipnica Murowana	Count:225
+1477	Lat: 54.5392	Long: 17.7501	Name: Lebork	Count:1999
+1478	Lat: 52.5939	Long: 15.5026	Name: Skwierzyna	Count:625
+1479	Lat: 53.3105	Long: 17.9455	Name: Koronowo	Count:328
+1480	Lat: 52.515	Long: 16.5871	Name: Kazmierz	Count:246
+1481	Lat: 52.012	Long: 15.4222	Name: Czerwiensk	Count:1138
+1482	Lat: 53.0151	Long: 23.3342	Name: Zabłudów	Count:225
+1483	Lat: 51.2499	Long: 16.1548	Name: Rzeszotary	Count:881
+1484	Lat: 52.5145	Long: 16.7035	Name: Mrowino	Count:174
+1485	Lat: 54.3608	Long: 18.6583	Name: Gdańsk	Count:85829
+1486	Lat: 52.9171	Long: 22.5114	Name: Wysokie Mazowieckie	Count:328
+1487	Lat: 51.148	Long: 21.9699	Name: Gmina Opole Lubelskie	Count:112
+1488	Lat: 52.2251	Long: 16.6774	Name: Zaparcin	Count:184
+1489	Lat: 50.2263	Long: 18.7276	Name: Gieraltowice	Count:399
+1490	Lat: 53.2667	Long: 22.8667	Name: Krypno	Count:235
+1491	Lat: 53.1892	Long: 23.0667	Name: Nowo-Aleksandrowo	Count:246
+1492	Lat: 51.9612	Long: 16.2505	Name: Olejnica	Count:482
+1493	Lat: 51.2854	Long: 17.9077	Name: Bralin	Count:20
+1494	Lat: 52.3978	Long: 22.6583	Name: Drohiczyn	Count:389
+1495	Lat: 49.6807	Long: 22.0455	Name: Humniska	Count:164
+1496	Lat: 50.2305	Long: 22.1197	Name: Sokolow Malopolski	Count:1025
+1497	Lat: 50.0109	Long: 20.1987	Name: Staniatki	Count:61
+1498	Lat: 49.3777	Long: 20.0104	Name: Bialy Dunajec	Count:133
+1499	Lat: 54.6052	Long: 18.2355	Name: Wejherowo	Count:8645
+1500	Lat: 50.4412	Long: 22.2446	Name: Rudnik nad Sanem	Count:153
+1501	Lat: 52.3683	Long: 18.3055	Name: Ślesin	Count:502
+1502	Lat: 51.7065	Long: 16.7493	Name: Bojanowo	Count:1528
+1503	Lat: 52.0856	Long: 15.6182	Name: Sulechow	Count:769
+1504	Lat: 50.3847	Long: 18.9442	Name: Piekary Slaskie	Count:6430
+1505	Lat: 49.882	Long: 19.9182	Name: Krzyszkowice	Count:215
+1506	Lat: 52.9286	Long: 15.8645	Name: Sarbinowo	Count:164
+1507	Lat: 50.801	Long: 21.4234	Name: Opatow	Count:71
+1508	Lat: 51.0135	Long: 15.5072	Name: Lubomierz	Count:194
+1509	Lat: 52.3486	Long: 14.8326	Name: Rzepin	Count:246
+1510	Lat: 53.1557	Long: 22.1745	Name: Drozdowo	Count:174
+1511	Lat: 53.7149	Long: 19.3369	Name: Susz	Count:61
+1512	Lat: 51.2036	Long: 18.8997	Name: Siemkowice	Count:943
+1513	Lat: 49.9843	Long: 19.1421	Name: Brzeszcze	Count:410
+1514	Lat: 50.4167	Long: 18.9167	Name: Radzionkow	Count:2512
+1515	Lat: 50.0761	Long: 19.7497	Name: Morawica	Count:851
+1516	Lat: 51.8807	Long: 22.7824	Name: Szostka	Count:902
+1517	Lat: 49.7463	Long: 18.6361	Name: Cieszyn	Count:3445
+1518	Lat: 52.5896	Long: 17.2587	Name: Gmina Kiszkowo	Count:235
+1519	Lat: 52.1031	Long: 21.0344	Name: Jozefoslaw	Count:1374
+1520	Lat: 51.8177	Long: 19.3007	Name: Aleksandrów Łódzki	Count:5168
+1521	Lat: 49.9293	Long: 18.3047	Name: Chalupki	Count:399
+1522	Lat: 50.9218	Long: 19.4813	Name: Borowa	Count:379
+1523	Lat: 52.1626	Long: 20.8129	Name: Pruszków	Count:24439
+1524	Lat: 51.9077	Long: 20.8515	Name: Gluchow	Count:92
+1525	Lat: 53.0863	Long: 19.1933	Name: Radomin	Count:184
+1526	Lat: 52.3913	Long: 20.7303	Name: Czosnow	Count:707
+1527	Lat: 52.3438	Long: 20.8828	Name: Lomianki	Count:3086
+1528	Lat: 53.385	Long: 14.4626	Name: Warzymice	Count:184
+1529	Lat: 50.0998	Long: 20.812	Name: Wola Radlowska	Count:492
+1530	Lat: 51.5836	Long: 21.5499	Name: Kozienice	Count:1076
+1531	Lat: 51.6113	Long: 16.8612	Name: Rawicz	Count:482
+1532	Lat: 51.9864	Long: 22.7825	Name: Międzyrzec Podlaski	Count:543
+1533	Lat: 49.8434	Long: 19.3061	Name: Roczyny	Count:133
+1534	Lat: 51.1358	Long: 23.4825	Name: Chełm	Count:3927
+1535	Lat: 52.3324	Long: 19.863	Name: Sanniki	Count:225
+1536	Lat: 49.9831	Long: 22.4114	Name: Kanczuga	Count:1148
+1537	Lat: 51.639	Long: 19.2453	Name: Dobron	Count:420
+1538	Lat: 52.2096	Long: 20.8149	Name: Ozarow Mazowiecki	Count:10
+1539	Lat: 53.3811	Long: 21.348	Name: Myszyniec	Count:225
+1540	Lat: 52.6222	Long: 20.3753	Name: Płońsk	Count:3322
+1541	Lat: 51.7853	Long: 14.9756	Name: Lubsko	Count:1825
+1542	Lat: 52.7773	Long: 18.5445	Name: Dabrowa Biskupia	Count:235
+1543	Lat: 52.2571	Long: 19.1691	Name: Krośniewice	Count:666
+1544	Lat: 54.1148	Long: 20.1333	Name: Orneta	Count:440
+1545	Lat: 51.6624	Long: 19.4246	Name: Wola Zaradzynska	Count:389
+1546	Lat: 52.4504	Long: 16.7249	Name: Sady	Count:779
+1547	Lat: 50.4688	Long: 19.6581	Name: Pilica	Count:123
+1548	Lat: 50.4884	Long: 17.5949	Name: Korfantow	Count:625
+1549	Lat: 51.4	Long: 22.0667	Name: Końskowola	Count:964
+1550	Lat: 53.3132	Long: 22.922	Name: Knyszyn	Count:225
+1551	Lat: 51.2231	Long: 22.9281	Name: Milejow	Count:440
+1552	Lat: 50.0683	Long: 19.4977	Name: Kwaczala	Count:328
+1553	Lat: 51.9669	Long: 19.7266	Name: Glowno	Count:512
+1554	Lat: 54.3615	Long: 16.678	Name: Sławno	Count:164
+1555	Lat: 50.5627	Long: 20.0499	Name: Sedziszow	Count:502
+1556	Lat: 50.5627	Long: 18.8926	Name: Kalety	Count:317
+1557	Lat: 52.25	Long: 21	Name: Warsaw	Count:2009446
+1558	Lat: 50.1459	Long: 19.8585	Name: Szyce	Count:123
+1559	Lat: 54.2507	Long: 20.8149	Name: Bartoszyce	Count:789
+1560	Lat: 54.2612	Long: 18.6481	Name: Pruszcz Gdanski	Count:13845
+1561	Lat: 50.3168	Long: 17.3883	Name: Glucholazy	Count:276
+1562	Lat: 52.1127	Long: 16.1236	Name: Wolsztyn	Count:4471
+1563	Lat: 50.3747	Long: 20.6199	Name: Biskupice	Count:574
+1564	Lat: 50.6788	Long: 16.343	Name: Lomnica	Count:881
+1565	Lat: 52.476	Long: 20.7187	Name: Pomiechowek	Count:482
+1566	Lat: 51.9207	Long: 15.4359	Name: Wilkanowo	Count:174
+1567	Lat: 49.8088	Long: 19.3217	Name: Targanice	Count:41
+1568	Lat: 50.9705	Long: 15.3825	Name: Mirsk	Count:102
+1569	Lat: 52.2533	Long: 15.9258	Name: Zbaszyn	Count:533
+1570	Lat: 54.3211	Long: 19.5275	Name: Tolkmicko	Count:287
+1571	Lat: 54.5758	Long: 18.1882	Name: Gowino	Count:153
+1572	Lat: 52.1068	Long: 20.9793	Name: Zgorzala	Count:1117
+1573	Lat: 53.7963	Long: 17.9726	Name: Czersk	Count:225
+1574	Lat: 52.8667	Long: 21.1	Name: Makow Mazowiecki	Count:276
+1575	Lat: 52.9627	Long: 14.4335	Name: Chojna	Count:256
+1576	Lat: 54.1878	Long: 15.9169	Name: Dobrzyca	Count:112
+1577	Lat: 50.1	Long: 21.4833	Name: Brzeznica	Count:102
+1578	Lat: 51.4545	Long: 20.4757	Name: Drzewica	Count:256
+1579	Lat: 51.4104	Long: 19.695	Name: Piotrków Trybunalski	Count:5763
+1580	Lat: 49.7341	Long: 21.259	Name: Biecz	Count:3220
+1581	Lat: 52.0887	Long: 17.0173	Name: Gmina Śrem	Count:4850
+1582	Lat: 50.3094	Long: 19.768	Name: Trzyciaz	Count:102
+1583	Lat: 52.9732	Long: 17.4848	Name: Zorawia	Count:20
+1584	Lat: 52.7919	Long: 20.6909	Name: Golotczyzna	Count:112
+1585	Lat: 49.9721	Long: 20.4268	Name: Bochnia	Count:1917
+1586	Lat: 54.1947	Long: 18.3229	Name: Gmina Przywidz	Count:20
+1587	Lat: 53.1357	Long: 19.0716	Name: Lisewo	Count:256
+1588	Lat: 49.646	Long: 19.1477	Name: Radziechowy	Count:246
+1589	Lat: 51.2181	Long: 20.1232	Name: Tomaszow	Count:266
+1590	Lat: 49.8403	Long: 21.7347	Name: Wysoka Strzyzowska	Count:328
+1591	Lat: 52.4	Long: 19.7333	Name: Gąbin	Count:184
+1592	Lat: 52.858	Long: 18.8018	Name: Raciazek	Count:1035
+1593	Lat: 50.0053	Long: 20.6545	Name: Szczepanow	Count:164
+1594	Lat: 51.9496	Long: 14.7276	Name: Gubin	Count:1804
+1595	Lat: 50.8239	Long: 15.519	Name: Szklarska Poręba	Count:912
+1596	Lat: 50.1626	Long: 22.4621	Name: Grodzisko Dolne	Count:266
+1597	Lat: 51.6395	Long: 15.0619	Name: Sieniawa Zarska	Count:82
+1598	Lat: 50.4372	Long: 16.2094	Name: Kudowa-Zdrój	Count:256
+1599	Lat: 53.5904	Long: 19.9962	Name: Ryn	Count:676
+1600	Lat: 52.9089	Long: 15.1122	Name: Karsko	Count:41
+1601	Lat: 50.5516	Long: 22.0511	Name: Stalowa Wola	Count:4091
+1602	Lat: 50.5397	Long: 18.0759	Name: Kamien Slaski	Count:440
+1603	Lat: 52.0936	Long: 20.806	Name: Nadarzyn	Count:2912
+1604	Lat: 52.1995	Long: 20.5171	Name: Bramki	Count:543
+1605	Lat: 51.2377	Long: 21.3953	Name: Kowalkow	Count:1630
+1606	Lat: 52.4817	Long: 15.7771	Name: Pszczew	Count:235
+1607	Lat: 51.0407	Long: 20.8297	Name: Suchedniow	Count:153
+1608	Lat: 51.4173	Long: 18.6044	Name: Zloczew	Count:605
+1609	Lat: 51.727	Long: 19.64	Name: Andrespol	Count:1856
+1610	Lat: 50.4048	Long: 22.3473	Name: Krzeszow	Count:297
+1611	Lat: 53.8354	Long: 18.8242	Name: Gniew	Count:317
+1612	Lat: 54.0035	Long: 18.769	Name: Subkowy	Count:461
+1613	Lat: 53.1837	Long: 18.034	Name: Niemcz	Count:41
+1614	Lat: 50.9426	Long: 16.4957	Name: Zarow	Count:112
+1615	Lat: 49.9623	Long: 22.0344	Name: Tyczyn	Count:1558
+1616	Lat: 52.3189	Long: 22.2333	Name: Kowiesy	Count:174
+1617	Lat: 49.4829	Long: 19.7817	Name: Piekielnik	Count:164
+1618	Lat: 50.0842	Long: 18.0889	Name: Pietrowice Wielkie	Count:112
+1619	Lat: 52.0779	Long: 20.7885	Name: Rusiec	Count:1774
+1620	Lat: 50.4766	Long: 16.4246	Name: Radkow	Count:174
+1621	Lat: 51.7644	Long: 20.2549	Name: Rawa Mazowiecka	Count:1384
+1622	Lat: 50.521	Long: 20.5267	Name: Pinczow	Count:369
+1623	Lat: 51.075	Long: 17.7143	Name: Namyslow	Count:482
+1624	Lat: 50.6896	Long: 16.3725	Name: Gluszyca	Count:184
+1625	Lat: 51.4695	Long: 16.9066	Name: Zmigrod	Count:1887
+1626	Lat: 50.5748	Long: 16.5764	Name: Dzikowiec	Count:943
+1627	Lat: 50.2584	Long: 19.0275	Name: Katowice	Count:38130
+1628	Lat: 53.3413	Long: 16.0871	Name: Miroslawiec	Count:348
+1629	Lat: 52.6785	Long: 22.5023	Name: Gmina Ciechanowiec	Count:215
+1630	Lat: 50.4532	Long: 23.4142	Name: Tomaszow Lubelski	Count:317
+1631	Lat: 51.9114	Long: 15.5691	Name: Racula	Count:1343
+1632	Lat: 52.5964	Long: 21.4575	Name: Wyszków	Count:1722
+1633	Lat: 50.0124	Long: 18.8757	Name: Radostowice	Count:338
+1634	Lat: 51.0403	Long: 18.9312	Name: Popow	Count:358
+1635	Lat: 50.348	Long: 18.9328	Name: Bytom	Count:12860
+1636	Lat: 50.309	Long: 21.0833	Name: Szczucin	Count:615
+1637	Lat: 49.9395	Long: 19.8892	Name: Mogilany	Count:1322
+1638	Lat: 52.9021	Long: 16.5641	Name: Czarnkow	Count:1292
+1639	Lat: 50.985	Long: 23.1727	Name: Krasnystaw	Count:1292
+1640	Lat: 50.3565	Long: 18.5631	Name: Rzeczyce	Count:307
+1641	Lat: 50.3565	Long: 20.0301	Name: Miechow	Count:2163
+1642	Lat: 49.7833	Long: 19.2333	Name: Miedzybrodzie Zywieckie	Count:174
+1643	Lat: 52.5742	Long: 19.8942	Name: Radzanowo	Count:369
+1644	Lat: 53.6726	Long: 17.3612	Name: Czluchow	Count:338
+1645	Lat: 52.1307	Long: 20.6622	Name: Milanówek	Count:2122
+1646	Lat: 53.0858	Long: 18.6173	Name: Lysomice	Count:112
+1647	Lat: 54.0871	Long: 20.9058	Name: Bisztynek	Count:440
+1648	Lat: 49.9426	Long: 22.8282	Name: Radymno	Count:358
+1649	Lat: 53.9282	Long: 14.4503	Name: Miedzyzdroje	Count:338
+1650	Lat: 52.4045	Long: 20.8027	Name: Skierdy	Count:543
+1651	Lat: 51.8856	Long: 16.4425	Name: Golanice	Count:317
+1652	Lat: 50.0251	Long: 19.7942	Name: Piekary	Count:20
+1653	Lat: 51.1338	Long: 23.0038	Name: Trawniki	Count:30
+1654	Lat: 50.2601	Long: 22.4212	Name: Lezajsk	Count:307
+1655	Lat: 52.178	Long: 22.0708	Name: Kotuń	Count:235
+1656	Lat: 52.6847	Long: 18.5943	Name: Przysiek	Count:307
+1657	Lat: 50.2925	Long: 18.9147	Name: Świętochłowice	Count:4440
+1658	Lat: 51.6987	Long: 17.4374	Name: Krotoszyn	Count:3127
+1659	Lat: 50.4909	Long: 18.9212	Name: Miasteczko Slaskie	Count:1353
+1660	Lat: 50.4155	Long: 23.2198	Name: Susiec	Count:143
+1661	Lat: 50.4155	Long: 16.3111	Name: Lesna	Count:205
+1662	Lat: 50.2722	Long: 19.155	Name: Sosnowiec	Count:23926
+1663	Lat: 50.0868	Long: 20.8481	Name: Radlow	Count:30
+1664	Lat: 53.8646	Long: 23.0706	Name: Wojciech	Count:2748
+1665	Lat: 53.1736	Long: 22.0654	Name: Łomża	Count:10553
+1666	Lat: 53.1419	Long: 17.603	Name: Nakło nad Notecią	Count:994
+1667	Lat: 50.9228	Long: 22.2265	Name: Krasnik	Count:3220
+1668	Lat: 50.7996	Long: 19.52	Name: Przyrow	Count:1117
+1669	Lat: 54.2838	Long: 18.4932	Name: Lublewo	Count:92
+1670	Lat: 52.8383	Long: 15.8308	Name: Drezdenko	Count:328
+1671	Lat: 52.5394	Long: 17.6113	Name: Gniezno	Count:6912
+1672	Lat: 51.2596	Long: 18.3213	Name: Czastary	Count:748
+1673	Lat: 50.948	Long: 23.0176	Name: Gorzkow	Count:225
+1674	Lat: 50.6667	Long: 17.95	Name: Opole	Count:18019
+1675	Lat: 53.7754	Long: 21.2222	Name: Borowe	Count:2799
+1676	Lat: 49.9746	Long: 19.0497	Name: Miedzna	Count:71
+1677	Lat: 49.9746	Long: 18.9892	Name: Cwiklice	Count:184
+1678	Lat: 51.1473	Long: 19.662	Name: Zalesie	Count:225
+1679	Lat: 53.1691	Long: 15.4205	Name: Choszczno	Count:1876
+1680	Lat: 52.7869	Long: 15.2135	Name: Klodawa	Count:1712
+1681	Lat: 49.6457	Long: 21.9333	Name: Trzesniow	Count:512
+1682	Lat: 53.8241	Long: 17.3777	Name: Gmina Konarzyny	Count:666
+1683	Lat: 51.4966	Long: 22.8567	Name: Ostrow Lubelski	Count:143
+1684	Lat: 50.7955	Long: 15.8335	Name: Kowary	Count:1876
+1685	Lat: 51.1577	Long: 16.9271	Name: Maslice	Count:215
+1686	Lat: 51.8074	Long: 22.0471	Name: Huta Dabrowa	Count:82
+1687	Lat: 52.2862	Long: 20.8097	Name: Hornowek	Count:41
+1688	Lat: 54.2187	Long: 22.5433	Name: Supienie	Count:71
+1689	Lat: 53.0667	Long: 18.7	Name: Papowo	Count:92
+1690	Lat: 50.4534	Long: 18.5249	Name: Toszek	Count:328
+1691	Lat: 50.1326	Long: 20.8868	Name: Zabno	Count:112
+1692	Lat: 50.5711	Long: 22.1303	Name: Pysznica	Count:102
+1693	Lat: 50.079	Long: 22.0325	Name: Trzebownisko	Count:1199
+1694	Lat: 51.0554	Long: 16.8805	Name: Pietrzykowice	Count:246
+1695	Lat: 49.8541	Long: 19.3386	Name: Andrychow	Count:2922
+1696	Lat: 53.9215	Long: 19.347	Name: Dzierzgon	Count:1384
+1697	Lat: 50.7089	Long: 18.686	Name: Kochcice	Count:369
+1698	Lat: 49.921	Long: 18.7664	Name: Strumien	Count:369
+1699	Lat: 51.0794	Long: 21.0197	Name: Wachock	Count:256
+1700	Lat: 51.68	Long: 19.4501	Name: Gadka Stara	Count:82
+1701	Lat: 50.3488	Long: 18.7344	Name: Czekanow	Count:92
+1702	Lat: 52.7004	Long: 17.0229	Name: Studzieniec	Count:297
+1703	Lat: 50.1016	Long: 19.248	Name: Chelmek	Count:4317
+1704	Lat: 49.6119	Long: 19.8451	Name: Wysoka	Count:51
+1705	Lat: 49.5833	Long: 22.0167	Name: Zarszyn	Count:399
+1706	Lat: 53.5632	Long: 22.2142	Name: Zaluski	Count:297
+1707	Lat: 50.1389	Long: 18.6403	Name: Czerwionka-Leszczyny	Count:194
+1708	Lat: 50.6942	Long: 17.5569	Name: Gracze	Count:123
+1709	Lat: 50.8183	Long: 17.1913	Name: Biskupice	Count:235
+1710	Lat: 51.1234	Long: 16.9202	Name: Zerniki	Count:369
+1711	Lat: 52.69	Long: 20.4718	Name: Sochocin	Count:30
+1712	Lat: 54.1522	Long: 19.4088	Name: Elblag	Count:12634
+1713	Lat: 50.2152	Long: 21.5146	Name: Rzemien	Count:82
+1714	Lat: 50.7801	Long: 18.9639	Name: Blachownia	Count:533
+1715	Lat: 54.3276	Long: 19.1131	Name: Stegna	Count:276
+1716	Lat: 50.877	Long: 18.4209	Name: Olesno	Count:1405
+1717	Lat: 52.9963	Long: 22.2975	Name: Grabowka	Count:297
+1718	Lat: 52.9267	Long: 18.8056	Name: Osiek	Count:676
+1719	Lat: 52.3909	Long: 16.7893	Name: Skorzewo	Count:133
+1720	Lat: 50.9772	Long: 15.7157	Name: Czernica	Count:307
+1721	Lat: 50.2313	Long: 18.7803	Name: Paniowki	Count:1015
+1722	Lat: 53.3584	Long: 15.4285	Name: Dobrzany	Count:205
+1723	Lat: 49.7871	Long: 19.8407	Name: Trzebunia	Count:225
+1724	Lat: 52.4307	Long: 17.073	Name: Gruszczyn	Count:553
+1725	Lat: 50.9399	Long: 21.3879	Name: Ostrowiec Świętokrzyski	Count:1548
+1726	Lat: 54.0667	Long: 20.5333	Name: Chelm	Count:1897
+1727	Lat: 53.0577	Long: 18.7196	Name: Grebocin	Count:102
+1728	Lat: 53.9767	Long: 20.7462	Name: Jeziorany	Count:338
+1729	Lat: 52.2557	Long: 20.8386	Name: Stare Babice	Count:810
+1730	Lat: 50.6847	Long: 16.7436	Name: Pilawa Gorna	Count:461
+1731	Lat: 52.1798	Long: 18.221	Name: Stare Miasto	Count:164
+1732	Lat: 49.9573	Long: 18.4006	Name: Gorzyce	Count:194
+1733	Lat: 50.2333	Long: 18.6167	Name: Smolnica	Count:20
+1734	Lat: 52.0313	Long: 23.1214	Name: Biała Podlaska	Count:4625
+1735	Lat: 51.5824	Long: 14.8436	Name: Niwica	Count:51
+1736	Lat: 50.6858	Long: 21.7389	Name: Sandomierz	Count:389
+1737	Lat: 52.5079	Long: 16.2619	Name: Pniewy	Count:153
+1738	Lat: 53.9203	Long: 19.0311	Name: Sztum	Count:594
+1739	Lat: 50.35	Long: 18.2	Name: Kedzierzyn-Kozle	Count:1753
+1740	Lat: 50.7551	Long: 16.2049	Name: Boguszów-Gorce	Count:2820
+1741	Lat: 51.8483	Long: 16.5702	Name: Leszno	Count:3066
+1742	Lat: 54.0819	Long: 15.0186	Name: Rewal	Count:194
+1743	Lat: 51.9785	Long: 20.3535	Name: Gmina Puszcza Mariańska	Count:728
+1744	Lat: 52.2086	Long: 18.2541	Name: Konin	Count:5763
+1745	Lat: 49.9461	Long: 21.8371	Name: Czudec	Count:297
+1746	Lat: 50.6536	Long: 18.3849	Name: Kolonowskie	Count:184
+1747	Lat: 49.9498	Long: 18.4932	Name: Skrzyszow	Count:471
+1748	Lat: 52.7433	Long: 23.5812	Name: Hajnówka	Count:2522
+1749	Lat: 51.4291	Long: 21.3364	Name: Jedlnia-Letnisko	Count:266
+1750	Lat: 52.6115	Long: 19.6514	Name: Biala	Count:328
+1751	Lat: 49.8912	Long: 21.0553	Name: Tuchow	Count:584
+1752	Lat: 52.5281	Long: 18.2674	Name: Jeziora Wielkie	Count:1056
+1753	Lat: 51.0948	Long: 23.5847	Name: Kamien	Count:246
+1754	Lat: 52.7807	Long: 20.1188	Name: Raciaz	Count:10
+1755	Lat: 52.9468	Long: 15.6082	Name: Pielice	Count:317
+1756	Lat: 52.5613	Long: 17.9319	Name: Szydlowo	Count:30
+1757	Lat: 50.1527	Long: 21.9657	Name: Glogow Malopolski	Count:1517
+1758	Lat: 53.7669	Long: 16.0966	Name: Polczyn-Zdroj	Count:574
+1759	Lat: 50.6792	Long: 19.214	Name: Poraj	Count:266
+1760	Lat: 52.3468	Long: 21.2392	Name: Wołomin	Count:2276
+1761	Lat: 50.073	Long: 19.1819	Name: Bierun Nowy	Count:215
+1762	Lat: 49.6093	Long: 21.9035	Name: Milcza	Count:379
+1763	Lat: 52.4391	Long: 17.7744	Name: Witkowo	Count:420
+1764	Lat: 52.2666	Long: 20.4639	Name: Kampinos	Count:810
+1765	Lat: 50.0071	Long: 18.2022	Name: Boleslaw	Count:1107
+1766	Lat: 52.4284	Long: 21.4351	Name: Tłuszcz	Count:492

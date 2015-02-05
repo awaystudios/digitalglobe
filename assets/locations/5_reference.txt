@@ -1,0 +1,3212 @@
+Locations in Canada
+0	Lat: 49.8378	Long: -97.0675	Name: Winnipeg	Count:19916
+1	Lat: 45.621	Long: -74.6926	Name: L'Orignal	Count:1528
+2	Lat: 45.4915	Long: -73.6483	Name: Montreal	Count:10132
+3	Lat: 48.2062	Long: -64.7572	Name: Newport	Count:1815
+4	Lat: 50.2875	Long: -107.8113	Name: Swift Current	Count:39843
+5	Lat: 53.6333	Long: -109.2	Name: St. Walburg	Count:1199
+6	Lat: 53.6333	Long: -113.6333	Name: St. Albert	Count:32130
+7	Lat: 45.4605	Long: -73.4651	Name: Brossard	Count:33956
+8	Lat: 43.1242	Long: -80.2412	Name: Brantford	Count:52970
+9	Lat: 49.7732	Long: -97.1561	Name: Winnipeg	Count:12911
+10	Lat: 47.571	Long: -52.6961	Name: St. John's	Count:56775
+11	Lat: 47.1825	Long: -70.2175	Name: St-Jean-Port-Joli	Count:430
+12	Lat: 49.1641	Long: -122.8193	Name: Surrey	Count:231407
+13	Lat: 48.7167	Long: -67.8667	Name: Baie-Des-Sables	Count:266
+14	Lat: 48.7167	Long: -78.8667	Name: Authier	Count:153
+15	Lat: 46.5	Long: -80.9667	Name: Greater Sudbury	Count:181647
+16	Lat: 46.5	Long: -84.3333	Name: Sault Ste. Marie	Count:24244
+17	Lat: 46.4106	Long: -81.0517	Name: Greater Sudbury	Count:1353
+18	Lat: 46.2438	Long: -76.0199	Name: Messines	Count:2410
+19	Lat: 45.7116	Long: -63.2926	Name: Tatamagouche	Count:2061
+20	Lat: 47.5203	Long: -52.7789	Name: Mount Pearl	Count:73461
+21	Lat: 43.8973	Long: -78.8641	Name: Oshawa	Count:54272
+22	Lat: 45.5019	Long: -73.5853	Name: Montreal	Count:116083
+23	Lat: 43.8275	Long: -79.2437	Name: Markham	Count:14193
+24	Lat: 45.6289	Long: -74.5988	Name: Grenville	Count:6296
+25	Lat: 46.3938	Long: -72.6534	Name: Trois-Rivières	Count:1794
+26	Lat: 45.1102	Long: -72.6166	Name: Sutton	Count:2092
+27	Lat: 43.96	Long: -81.5125	Name: Lucknow	Count:2625
+28	Lat: 46.237	Long: -62.621	Name: Cardigan	Count:564
+29	Lat: 50.6167	Long: -101.2833	Name: Binscarth	Count:1374
+30	Lat: 50.6167	Long: -108.45	Name: Cabri	Count:1189
+31	Lat: 49.8688	Long: -99.9684	Name: Brandon	Count:738
+32	Lat: 56.2333	Long: -117.2833	Name: Peace River	Count:1415
+33	Lat: 49.8808	Long: -119.3647	Name: Kelowna	Count:1876
+34	Lat: 45.8167	Long: -77.1167	Name: Pembroke	Count:625
+35	Lat: 54.05	Long: -124.7833	Name: Fraser Lake	Count:5332
+36	Lat: 54.05	Long: -124.5333	Name: Willowvale	Count:666
+37	Lat: 57.8833	Long: -101.6667	Name: Brochet	Count:430
+38	Lat: 53.7	Long: -114.1833	Name: Onoway	Count:9845
+39	Lat: 43.8875	Long: -81.3111	Name: Wingham	Count:4830
+40	Lat: 45.2928	Long: -74.855	Name: Maxville	Count:1138
+41	Lat: 49.5333	Long: -56.8667	Name: Hampden	Count:471
+42	Lat: 49.5333	Long: -124.8167	Name: Denman Island	Count:2758
+43	Lat: 53.9167	Long: -122.7667	Name: Prince George	Count:4327
+44	Lat: 44.3661	Long: -65.1075	Name: Caledonia	Count:523
+45	Lat: 42.6652	Long: -81.2018	Name: Orchard Beach	Count:4820
+46	Lat: 42.6333	Long: -80.45	Name: Port Royal	Count:451
+47	Lat: 42.15	Long: -82.9667	Name: McGregor	Count:861
+48	Lat: 45.7828	Long: -73.1762	Name: Saint-Denis-sur-Richelieu	Count:533
+49	Lat: 45.9829	Long: -64.8634	Name: Moncton	Count:1117
+50	Lat: 48.5745	Long: -71.3445	Name: Saint-Ambroise	Count:1569
+51	Lat: 52.7667	Long: -112.9667	Name: Ferintosh	Count:482
+52	Lat: 52.7667	Long: -108.3	Name: Battleford	Count:4707
+53	Lat: 43.2199	Long: -79.9874	Name: Ancaster	Count:58836
+54	Lat: 49.293	Long: -123.0489	Name: Vancouver	Count:32110
+55	Lat: 55.7167	Long: -120.1333	Name: Pouce Coupe	Count:1969
+56	Lat: 43.106	Long: -81.1462	Name: London	Count:2092
+57	Lat: 45.3132	Long: -74.6338	Name: Alexandria	Count:5650
+58	Lat: 43.1319	Long: -80.7583	Name: Woodstock	Count:35597
+59	Lat: 47.5677	Long: -52.7031	Name: St. John's	Count:21895
+60	Lat: 47.5677	Long: -69.8646	Name: Kamouraska	Count:2656
+61	Lat: 52.36	Long: -114.3736	Name: Sylvan Lake	Count:37094
+62	Lat: 45.4397	Long: -65.9392	Name: Saint John	Count:3435
+63	Lat: 43.1719	Long: -79.227	Name: St. Catharines	Count:37381
+64	Lat: 43.5749	Long: -80.2688	Name: Guelph	Count:67656
+65	Lat: 46.5625	Long: -71.4383	Name: Saint-Agapit	Count:6778
+66	Lat: 46.5625	Long: -80.8665	Name: Greater Sudbury	Count:10204
+67	Lat: 45.0917	Long: -64.3599	Name: Wolfville	Count:19711
+68	Lat: 46.4691	Long: -71.0427	Name: Sainte-Marie	Count:19885
+69	Lat: 46.0476	Long: -73.1263	Name: Sorel	Count:11311
+70	Lat: 46.8617	Long: -71.4241	Name: Quebec	Count:9701
+71	Lat: 53.6129	Long: -113.4572	Name: Edmonton	Count:33935
+72	Lat: 53.6199	Long: -113.6377	Name: St. Albert	Count:97787
+73	Lat: 45.3667	Long: -73.9833	Name: Vaudreuil-Dorion	Count:12040
+74	Lat: 44.4833	Long: -77.6833	Name: Marmora	Count:4973
+75	Lat: 45.3938	Long: -75.6639	Name: Ottawa	Count:13722
+76	Lat: 43.6618	Long: -79.3847	Name: Toronto	Count:307022
+77	Lat: 42.8126	Long: -80.3091	Name: Simcoe	Count:28756
+78	Lat: 43.6	Long: -79.65	Name: Mississauga	Count:1121852
+79	Lat: 48.6556	Long: -72.4469	Name: Saint-Felicien	Count:13763
+80	Lat: 45.6005	Long: -75.2442	Name: Thurso	Count:1692
+81	Lat: 49.8811	Long: -97.3194	Name: Winnipeg	Count:20521
+82	Lat: 45.6454	Long: -73.5502	Name: Montreal	Count:16901
+83	Lat: 45.6049	Long: -76.4912	Name: Shawville	Count:1548
+84	Lat: 45.5664	Long: -73.647	Name: Laval	Count:21947
+85	Lat: 45.6612	Long: -70.7364	Name: Lac-Megantic	Count:523
+86	Lat: 46.8167	Long: -65.8	Name: Renous	Count:543
+87	Lat: 56.2539	Long: -117.2849	Name: Peace River	Count:27331
+88	Lat: 46.2675	Long: -72.9382	Name: Louiseville	Count:3527
+89	Lat: 44.2763	Long: -78.313	Name: Peterborough	Count:106535
+90	Lat: 44.3319	Long: -76.1471	Name: Gananoque	Count:7958
+91	Lat: 46.2383	Long: -60.2165	Name: Sydney Mines	Count:6850
+92	Lat: 43.2167	Long: -79.75	Name: Stoney Creek	Count:41986
+93	Lat: 48.7	Long: -123.45	Name: North Saanich	Count:2830
+94	Lat: 50.5333	Long: -103.8667	Name: Qu'Appelle	Count:943
+95	Lat: 50.5333	Long: -103.6667	Name: Indian Head	Count:5384
+96	Lat: 48.8779	Long: -124.2128	Name: Youbou	Count:687
+97	Lat: 45.361	Long: -72.9341	Name: Granby	Count:3292
+98	Lat: 46.3689	Long: -62.8712	Name: Mount Stewart	Count:7660
+99	Lat: 45.5053	Long: -74.469	Name: Hawkesbury	Count:2215
+100	Lat: 47.7094	Long: -69.1351	Name: Saint-Honore-de-Temiscouata	Count:1046
+101	Lat: 55.75	Long: -97.8667	Name: Thompson	Count:2471
+102	Lat: 47.6333	Long: -53.75	Name: Bellevue	Count:297
+103	Lat: 47.6333	Long: -53.5	Name: Bay Roberts	Count:2071
+104	Lat: 51.7667	Long: -122.3	Name: Dog Creek	Count:892
+105	Lat: 51.7667	Long: -105.75	Name: Young	Count:358
+106	Lat: 51.7667	Long: -104.1833	Name: Wynyard	Count:3117
+107	Lat: 51.7667	Long: -120.9	Name: Canim Lake	Count:6461
+108	Lat: 42.247	Long: -83.1	Name: Windsor	Count:2799
+109	Lat: 42.9073	Long: -81.4916	Name: London	Count:2379
+110	Lat: 45.4748	Long: -73.8207	Name: Pointe-Claire	Count:62487
+111	Lat: 46.5585	Long: -72.115	Name: Deschaillons-sur-Saint-Laurent	Count:840
+112	Lat: 45.6986	Long: -73.6632	Name: Terrebonne	Count:34581
+113	Lat: 45.0729	Long: -63.1962	Name: Chaswood	Count:164
+114	Lat: 43.2369	Long: -79.7991	Name: Hamilton	Count:48632
+115	Lat: 53.3515	Long: -110.8451	Name: Vermilion	Count:6532
+116	Lat: 43.3192	Long: -80.8384	Name: Tavistock	Count:5763
+117	Lat: 46.3572	Long: -62.2487	Name: Souris	Count:5066
+118	Lat: 44.6284	Long: -63.596	Name: Halifax	Count:13752
+119	Lat: 46.81	Long: -71.2526	Name: Quebec	Count:50693
+120	Lat: 42.9078	Long: -81.4199	Name: Delaware	Count:1251
+121	Lat: 45.5802	Long: -64.6646	Name: Sand River	Count:430
+122	Lat: 62.4725	Long: -114.3417	Name: Yellowknife	Count:37463
+123	Lat: 44.1476	Long: -79.872	Name: Alliston	Count:44929
+124	Lat: 49.8861	Long: -96.8387	Name: Dugald	Count:276
+125	Lat: 44.2	Long: -77.0333	Name: Deseronto	Count:6778
+126	Lat: 49.4833	Long: -117.2833	Name: Nelson	Count:1507
+127	Lat: 49.4833	Long: -124.35	Name: Parksville	Count:184
+128	Lat: 49.4833	Long: -113.95	Name: Pincher Creek	Count:7302
+129	Lat: 49.4833	Long: -56.1	Name: Springdale	Count:1999
+130	Lat: 49.4833	Long: -100.5167	Name: Hartney	Count:881
+131	Lat: 49.4833	Long: -58.1167	Name: Trout River	Count:2553
+132	Lat: 49.4833	Long: -111.4333	Name: Foremost	Count:369
+133	Lat: 43.7393	Long: -79.4005	Name: Toronto	Count:7517
+134	Lat: 44.1315	Long: -79.4823	Name: Newmarket	Count:8276
+135	Lat: 44.1315	Long: -78.3543	Name: Peterborough	Count:1302
+136	Lat: 44.3483	Long: -80.914	Name: Owen Sound	Count:45596
+137	Lat: 45.96	Long: -73.222	Name: Lanoraie	Count:4809
+138	Lat: 50.9693	Long: -114.0514	Name: Calgary	Count:70466
+139	Lat: 43.4067	Long: -80.3037	Name: Cambridge	Count:20377
+140	Lat: 45.5076	Long: -72.2506	Name: Sherbrooke	Count:1343
+141	Lat: 46.409	Long: -71.0597	Name: Saint-Elzear	Count:1384
+142	Lat: 49.0764	Long: -122.6797	Name: Langley	Count:179268
+143	Lat: 45.6871	Long: -71.7031	Name: Saint-Camille	Count:1487
+144	Lat: 42.9778	Long: -81.1941	Name: London	Count:18172
+145	Lat: 50.6947	Long: -119.2915	Name: Salmon Arm	Count:56436
+146	Lat: 49.3333	Long: -54.7333	Name: Birchy Bay	Count:1897
+147	Lat: 46.2167	Long: -79.3667	Name: Callander	Count:4020
+148	Lat: 51.9	Long: -106.0667	Name: Allan	Count:2389
+149	Lat: 51.7	Long: -113.2667	Name: Three Hills	Count:9076
+150	Lat: 51.7	Long: -109.2333	Name: Coleville	Count:799
+151	Lat: 43.7025	Long: -79.2656	Name: Scarborough	Count:70794
+152	Lat: 48.9654	Long: -57.9225	Name: Corner Brook	Count:40294
+153	Lat: 46.2688	Long: -63.1097	Name: Charlottetown	Count:646
+154	Lat: 49.9241	Long: -97.1292	Name: Winnipeg	Count:46529
+155	Lat: 42.7119	Long: -82.4723	Name: Sombra	Count:1158
+156	Lat: 52.75	Long: -109.0167	Name: Cut Knife	Count:738
+157	Lat: 52.75	Long: -110.45	Name: Edgerton	Count:1446
+158	Lat: 44.6333	Long: -64.05	Name: Hubbards	Count:2225
+159	Lat: 44.6333	Long: -63.35	Name: Halifax	Count:4286
+160	Lat: 49.1647	Long: -122.8487	Name: Surrey	Count:72876
+161	Lat: 46.3807	Long: -60.984	Name: Marsh Brook	Count:676
+162	Lat: 46.7667	Long: -71.25	Name: Sillery	Count:287
+163	Lat: 45.26	Long: -75.57	Name: Greely	Count:3189
+164	Lat: 45.2199	Long: -72.5104	Name: Knowlton	Count:4594
+165	Lat: 43.4487	Long: -80.4849	Name: Kitchener	Count:198518
+166	Lat: 45.4954	Long: -73.6798	Name: Vieux-Saint-Laurent	Count:625
+167	Lat: 46.0082	Long: -72.9	Name: Yamaska	Count:164
+168	Lat: 49.2396	Long: -123.0984	Name: Vancouver	Count:30623
+169	Lat: 47.462	Long: -52.7895	Name: St. John's	Count:11465
+170	Lat: 49.6626	Long: -115.9667	Name: Kimberley	Count:5855
+171	Lat: 57.6135	Long: -131.6799	Name: Jacksons	Count:994
+172	Lat: 45.3552	Long: -75.3508	Name: Ottawa	Count:205
+173	Lat: 48.4633	Long: -123.4538	Name: Victoria	Count:7773
+174	Lat: 54.3167	Long: -130.3333	Name: Prince Rupert	Count:36848
+175	Lat: 43.3051	Long: -80.6213	Name: Kitchener	Count:1046
+176	Lat: 42.9943	Long: -81.2623	Name: London	Count:91695
+177	Lat: 45.599	Long: -75.4206	Name: Gatineau	Count:10994
+178	Lat: 43.3667	Long: -80.9833	Name: Stratford	Count:14655
+179	Lat: 43.7018	Long: -79.3578	Name: Toronto	Count:14337
+180	Lat: 46.3887	Long: -72.4875	Name: Trois-Rivières	Count:8132
+181	Lat: 51.1833	Long: -120.1333	Name: Barriere	Count:2030
+182	Lat: 46.8119	Long: -71.3906	Name: Quebec	Count:12532
+183	Lat: 42.7848	Long: -82.1206	Name: Oil Springs	Count:2133
+184	Lat: 53.6	Long: -112.3333	Name: Mundare	Count:3825
+185	Lat: 48.4223	Long: -71.8737	Name: Metabetchouan-Lac-a-la-Croix	Count:646
+186	Lat: 45.3849	Long: -65.6331	Name: Shanklin	Count:799
+187	Lat: 49.2341	Long: -121.7705	Name: Agassiz	Count:14634
+188	Lat: 43.6097	Long: -79.704	Name: Mississauga	Count:143137
+189	Lat: 49.3585	Long: -123.1186	Name: West Vancouver	Count:19178
+190	Lat: 52.3333	Long: -109.95	Name: Macklin	Count:4143
+191	Lat: 52.3333	Long: -112.6833	Name: Stettler	Count:10522
+192	Lat: 52.3333	Long: -106.7833	Name: Dalmeny	Count:21229
+193	Lat: 51.0318	Long: -113.9786	Name: Calgary	Count:24480
+194	Lat: 44.9248	Long: -64.0781	Name: Windsor	Count:502
+195	Lat: 47.1717	Long: -67.925	Name: Saint-Léonard	Count:1753
+196	Lat: 58.5167	Long: -117.1333	Name: High Level	Count:9404
+197	Lat: 42.7898	Long: -80.204	Name: Port Dover	Count:21895
+198	Lat: 45.4301	Long: -71.8901	Name: Sherbrooke	Count:25198
+199	Lat: 56.5333	Long: -79.2333	Name: Sanikiluaq	Count:61
+200	Lat: 46.3	Long: -79.45	Name: North Bay	Count:4040
+201	Lat: 46.3	Long: -70.8667	Name: Saint-Joseph-de-Beauce	Count:4943
+202	Lat: 45.5289	Long: -73.5928	Name: Montreal	Count:102351
+203	Lat: 49.75	Long: -77.6333	Name: Matagami	Count:605
+204	Lat: 49.75	Long: -124.55	Name: Van Anda	Count:358
+205	Lat: 45.7667	Long: -79.4	Name: Sundridge	Count:2276
+206	Lat: 45.7667	Long: -74	Name: Saint-Jerome	Count:34438
+207	Lat: 45.5702	Long: -73.551	Name: Montreal	Count:29064
+208	Lat: 45.5616	Long: -74.8787	Name: Alfred	Count:30
+209	Lat: 44.669	Long: -63.5019	Name: Dartmouth	Count:7896
+210	Lat: 46.1917	Long: -73.1184	Name: Sorel-Tracy	Count:92
+211	Lat: 45.1449	Long: -74.5026	Name: Lancaster	Count:881
+212	Lat: 49.686	Long: -125.0191	Name: Courtenay	Count:47739
+213	Lat: 46.2629	Long: -81.7719	Name: Espanola	Count:10050
+214	Lat: 44.5742	Long: -65.5824	Name: Greenland	Count:881
+215	Lat: 44.1513	Long: -79.8744	Name: Alliston	Count:59698
+216	Lat: 46.7754	Long: -70.94	Name: Saint-Charles-de-Bellechasse	Count:5086
+217	Lat: 44.6833	Long: -76.4	Name: Westport	Count:1169
+218	Lat: 49.2201	Long: -122.9478	Name: Burnaby	Count:47945
+219	Lat: 49.2201	Long: -122.4985	Name: Maple Ridge	Count:20008
+220	Lat: 43.7467	Long: -79.8304	Name: Caledon	Count:19619
+221	Lat: 46.0628	Long: -70.5254	Name: Saint-Come--Liniere	Count:881
+222	Lat: 46.522	Long: -72.0648	Name: Saint-Marc-des-Carrieres	Count:369
+223	Lat: 46.5553	Long: -75.3621	Name: Mont-Laurier	Count:2471
+224	Lat: 44.0607	Long: -80.7595	Name: Hanover	Count:61
+225	Lat: 44.299	Long: -78.3145	Name: Peterborough	Count:63861
+226	Lat: 45.5353	Long: -73.7231	Name: Laval	Count:6348
+227	Lat: 50.8	Long: -104.9167	Name: Silton	Count:656
+228	Lat: 50.8	Long: -103.55	Name: Balcarres	Count:758
+229	Lat: 50.8	Long: -121.3167	Name: Cache Creek	Count:2666
+230	Lat: 48.6	Long: -68.1167	Name: Price	Count:881
+231	Lat: 49.3181	Long: -123.096	Name: North Vancouver	Count:37474
+232	Lat: 45.4054	Long: -72.7286	Name: Granby	Count:10019
+233	Lat: 43.6905	Long: -79.2857	Name: Toronto	Count:29095
+234	Lat: 54.76	Long: -101.8704	Name: Flin Flon	Count:6584
+235	Lat: 44.0469	Long: -77.5757	Name: Belleville	Count:2451
+236	Lat: 45.4659	Long: -75.7558	Name: Gatineau	Count:8317
+237	Lat: 55.3333	Long: -115.4167	Name: Kinuso	Count:317
+238	Lat: 50.2309	Long: -66.3901	Name: Sept-Iles	Count:2604
+239	Lat: 45.53	Long: -73.5672	Name: Montreal	Count:36120
+240	Lat: 44.406	Long: -76.6663	Name: Kingston	Count:2399
+241	Lat: 53.8833	Long: -112.3333	Name: Andrew	Count:523
+242	Lat: 43.3742	Long: -80.3457	Name: Cambridge	Count:32776
+243	Lat: 49.2273	Long: -122.6883	Name: Pitt Meadows	Count:42745
+244	Lat: 43.5472	Long: -79.585	Name: Mississauga	Count:10286
+245	Lat: 53.3632	Long: -113.7286	Name: Devon	Count:17301
+246	Lat: 42.3901	Long: -82.2911	Name: Pain Court	Count:369
+247	Lat: 44.1573	Long: -77.6988	Name: Belleville	Count:1281
+248	Lat: 44.0065	Long: -77.1464	Name: Picton	Count:13393
+249	Lat: 48.9667	Long: -65.5167	Name: Murdochville	Count:543
+250	Lat: 43.1094	Long: -80.275	Name: Brantford	Count:63810
+251	Lat: 46.75	Long: -70.5833	Name: Armagh	Count:1066
+252	Lat: 46.75	Long: -71.8167	Name: Saint-Basile	Count:2174
+253	Lat: 46.75	Long: -71.2333	Name: Saint Romuald	Count:3445
+254	Lat: 55.1749	Long: -118.7633	Name: Grande Prairie	Count:3004
+255	Lat: 43.3372	Long: -80.3021	Name: Cambridge	Count:3692
+256	Lat: 52.1103	Long: -106.5698	Name: Saskatoon	Count:5568
+257	Lat: 45.7808	Long: -71.9348	Name: Asbestos	Count:5855
+258	Lat: 45.4926	Long: -73.4473	Name: Montreal	Count:24818
+259	Lat: 46.1671	Long: -62.6522	Name: Montague	Count:12583
+260	Lat: 44.5682	Long: -63.6177	Name: Halifax	Count:1815
+261	Lat: 45.5115	Long: -73.616	Name: Montreal	Count:15968
+262	Lat: 45.2455	Long: -74.2481	Name: Saint-Zotique	Count:10819
+263	Lat: 47.1982	Long: -65.1443	Name: Neguac	Count:1548
+264	Lat: 49.5959	Long: -55.6739	Name: Springdale	Count:3015
+265	Lat: 67.4333	Long: -134.8667	Name: Fort McPherson	Count:635
+266	Lat: 46.9233	Long: -70.8968	Name: Saint-Jean-de-l'Ile-d'Orleans	Count:36571
+267	Lat: 69.1167	Long: -105.0333	Name: Cambridge Bay	Count:1846
+268	Lat: 43.7333	Long: -79.3333	Name: Don Mills	Count:307
+269	Lat: 45.4129	Long: -75.6901	Name: Ottawa	Count:202538
+270	Lat: 45.9092	Long: -72.4808	Name: Drummondville	Count:27977
+271	Lat: 45.9454	Long: -74.1327	Name: Sainte-Adele	Count:32397
+272	Lat: 45.751	Long: -65.048	Name: ChurchsCorner	Count:5138
+273	Lat: 48.6504	Long: -123.6145	Name: Duncan	Count:11086
+274	Lat: 44.85	Long: -75.3167	Name: Iroquois	Count:1281
+275	Lat: 43.8333	Long: -80.85	Name: Palmerston	Count:5896
+276	Lat: 43.8333	Long: -79.5	Name: Vaughan	Count:29433
+277	Lat: 43.8333	Long: -80.5333	Name: Arthur	Count:8953
+278	Lat: 45.3571	Long: -66.0858	Name: Summerville	Count:1774
+279	Lat: 49.4832	Long: -117.3031	Name: Nelson	Count:32725
+280	Lat: 45.135	Long: -76.1313	Name: Carleton Place	Count:35956
+281	Lat: 49.3667	Long: -97.95	Name: Roland	Count:379
+282	Lat: 49.3667	Long: -113.5167	Name: Glenwood	Count:615
+283	Lat: 49.3667	Long: -55.3333	Name: Paradise Cove	Count:30243
+284	Lat: 49.3667	Long: -106.3833	Name: Wood Mountain	Count:789
+285	Lat: 49.3667	Long: -98.25	Name: Miami	Count:892
+286	Lat: 56.4833	Long: -109.4333	Name: La Loche	Count:1117
+287	Lat: 44.6224	Long: -63.5736	Name: Halifax	Count:43001
+288	Lat: 51.202	Long: -102.457	Name: Yorkton	Count:37525
+289	Lat: 45.0667	Long: -67.0333	Name: Saint Andrews	Count:1569
+290	Lat: 45.0667	Long: -64.1833	Name: Hantsport	Count:1107
+291	Lat: 46.1318	Long: -72.6073	Name: La Visitation	Count:1353
+292	Lat: 44.7314	Long: -63.6482	Name: Dartmouth	Count:23875
+293	Lat: 45.8876	Long: -75.0575	Name: Cheneville	Count:3158
+294	Lat: 53.95	Long: -113.11	Name: Redwater	Count:6512
+295	Lat: 53.95	Long: -102.2667	Name: Cumberland House	Count:1507
+296	Lat: 50.0556	Long: -110.6822	Name: Medicine Hat	Count:16593
+297	Lat: 46.1756	Long: -72.2271	Name: Victoriaville	Count:923
+298	Lat: 48.4278	Long: -123.3574	Name: Victoria	Count:48570
+299	Lat: 48.4547	Long: -68.4973	Name: Rimouski	Count:4317
+300	Lat: 46.0849	Long: -72.4651	Name: Trois-Rivières	Count:1804
+301	Lat: 49.2833	Long: -122.85	Name: Port Moody	Count:51
+302	Lat: 49.2833	Long: -112.2	Name: Warner	Count:1384
+303	Lat: 49.2833	Long: -53.6167	Name: Lumsden	Count:184
+304	Lat: 49.2833	Long: -96.15	Name: Woodridge	Count:605
+305	Lat: 42.8833	Long: -82.15	Name: Petrolia	Count:11711
+306	Lat: 45.4679	Long: -73.5457	Name: Verdun	Count:21218
+307	Lat: 43.0303	Long: -81.2676	Name: London	Count:29197
+308	Lat: 47.5121	Long: -67.3925	Name: Saint-Quentin	Count:697
+309	Lat: 43.6565	Long: -79.4079	Name: Toronto	Count:309935
+310	Lat: 52.5167	Long: -111.9167	Name: Galahad	Count:369
+311	Lat: 44.2421	Long: -79.4818	Name: Keswick Beach	Count:61697
+312	Lat: 43.9978	Long: -81.2864	Name: Teeswater	Count:2676
+313	Lat: 45.2214	Long: -72.7567	Name: Cowansville	Count:14942
+314	Lat: 43.75	Long: -79.2	Name: Scarborough	Count:716940
+315	Lat: 43.6867	Long: -79.4867	Name: Toronto	Count:698069
+316	Lat: 43.8986	Long: -80.6287	Name: Petherton	Count:1958
+317	Lat: 45.488	Long: -75.7474	Name: Gatineau	Count:20316
+318	Lat: 43.7347	Long: -81.7105	Name: Goderich	Count:24295
+319	Lat: 45.6207	Long: -66.6305	Name: Oromocto	Count:717
+320	Lat: 46.1165	Long: -74.4845	Name: Saint-Faustin--Lac-Carre	Count:1846
+321	Lat: 49.842	Long: -119.4903	Name: Kelowna	Count:61000
+322	Lat: 49.842	Long: -97.3083	Name: Winnipeg	Count:543
+323	Lat: 49.5667	Long: -101.7	Name: Redvers	Count:964
+324	Lat: 49.5667	Long: -114.0667	Name: Cowley	Count:830
+325	Lat: 43.0066	Long: -81.5131	Name: Poplar Hill	Count:502
+326	Lat: 43.5136	Long: -79.884	Name: Milton	Count:7784
+327	Lat: 46.7215	Long: -72.0813	Name: Saint-Alban	Count:471
+328	Lat: 43.7315	Long: -79.246	Name: Toronto	Count:39730
+329	Lat: 43.7315	Long: -80.9533	Name: North Perth	Count:14132
+330	Lat: 44.7333	Long: -81.1333	Name: Wiarton	Count:1476
+331	Lat: 44.7333	Long: -65.5167	Name: Annapolis Royal	Count:2769
+332	Lat: 48.0477	Long: -66.4004	Name: Campbellton	Count:5332
+333	Lat: 46.8333	Long: -71.1667	Name: Saint Etienne-De-Lauzon	Count:8276
+334	Lat: 44.6464	Long: -63.5929	Name: Halifax	Count:103868
+335	Lat: 46.0667	Long: -79.35	Name: Powassan	Count:502
+336	Lat: 46.0667	Long: -72.8333	Name: Pierreville	Count:1138
+337	Lat: 42.9479	Long: -81.4351	Name: Komoka	Count:5497
+338	Lat: 52.8	Long: -106.2167	Name: Duck Lake	Count:205
+339	Lat: 44.139	Long: -79.4514	Name: Newmarket	Count:4717
+340	Lat: 44.641	Long: -63.5682	Name: Halifax	Count:20880
+341	Lat: 43.5854	Long: -79.583	Name: Mississauga	Count:17485
+342	Lat: 48.95	Long: -57.9333	Name: Corner Brook	Count:8573
+343	Lat: 48.95	Long: -68.65	Name: Betsiamites	Count:1610
+344	Lat: 48.95	Long: -88.2833	Name: Red Rock	Count:1056
+345	Lat: 48.95	Long: -55.6667	Name: Grand Falls-Windsor	Count:758
+346	Lat: 50.4395	Long: -104.5758	Name: Regina	Count:9855
+347	Lat: 49.3042	Long: -123.0651	Name: North Vancouver	Count:61318
+348	Lat: 47.0354	Long: -65.1757	Name: Miramichi	Count:19372
+349	Lat: 50.2833	Long: -107.7667	Name: Swift Current	Count:1702
+350	Lat: 45.6262	Long: -61.3171	Name: Port Hawkesbury	Count:7107
+351	Lat: 51.1667	Long: -100.2833	Name: Ashville	Count:348
+352	Lat: 51.1667	Long: -103.5	Name: Ituna	Count:461
+353	Lat: 47.9	Long: -53.0833	Name: Western Bay	Count:523
+354	Lat: 55.1726	Long: -118.7997	Name: Grande Prairie	Count:180263
+355	Lat: 46.0303	Long: -66.0553	Name: Flowers Cove	Count:584
+356	Lat: 44.99	Long: -64.95	Name: Kingston	Count:20665
+357	Lat: 49.0268	Long: -122.8369	Name: White Rock	Count:47863
+358	Lat: 51.5167	Long: -105.0167	Name: Nokomis	Count:1138
+359	Lat: 51.5167	Long: -56.8333	Name: L'Anse-au-Loup	Count:30
+360	Lat: 46.2165	Long: -64.5128	Name: Shediac	Count:9999
+361	Lat: 45.1452	Long: -72.7974	Name: Chapel's Corner	Count:5086
+362	Lat: 44.055	Long: -80.9268	Name: Ayton	Count:1692
+363	Lat: 42.9625	Long: -81.6081	Name: Strathroy	Count:15598
+364	Lat: 49.2765	Long: -123.2177	Name: Vancouver	Count:56118
+365	Lat: 46.7228	Long: -71.2788	Name: Quebec	Count:12809
+366	Lat: 43.5996	Long: -79.5664	Name: Mississauga	Count:34807
+367	Lat: 43.8125	Long: -79.0827	Name: Pickering	Count:13752
+368	Lat: 45.405	Long: -61.4579	Name: Guysborough	Count:1220
+369	Lat: 42.6312	Long: -81.8688	Name: Moraviantown	Count:1528
+370	Lat: 49.1175	Long: -122.6684	Name: Langley	Count:86034
+371	Lat: 59.4808	Long: -133.6312	Name: Atlin	Count:605
+372	Lat: 43.4453	Long: -79.7095	Name: Oakville	Count:185360
+373	Lat: 49.2477	Long: -124.0501	Name: Nanaimo	Count:11055
+374	Lat: 46.4769	Long: -80.9099	Name: Greater Sudbury	Count:31730
+375	Lat: 45.4255	Long: -75.353	Name: Ottawa	Count:30
+376	Lat: 48.5656	Long: -58.6	Name: Stephenville	Count:8676
+377	Lat: 52.1131	Long: -106.622	Name: Saskatoon	Count:97120
+378	Lat: 44.45	Long: -78.6333	Name: Dunsford	Count:1302
+379	Lat: 44.45	Long: -79.7333	Name: Midhurst	Count:4307
+380	Lat: 44.45	Long: -80.8833	Name: Chatsworth	Count:851
+381	Lat: 49.7333	Long: -101.2333	Name: Cromer	Count:923
+382	Lat: 49.7333	Long: -113.4	Name: Fort Macleod	Count:6553
+383	Lat: 51.0917	Long: -114.1127	Name: Calgary	Count:38950
+384	Lat: 49.8792	Long: -97.1062	Name: Winnipeg	Count:13834
+385	Lat: 45.4042	Long: -74.034	Name: Vaudreuil-Dorion	Count:11168
+386	Lat: 43.7122	Long: -79.3237	Name: Toronto	Count:40099
+387	Lat: 46.576	Long: -72.7764	Name: Shawinigan	Count:379
+388	Lat: 46.8778	Long: -75.3241	Name: Sainte-Anne-du-Lac	Count:1887
+389	Lat: 45.5356	Long: -73.6144	Name: Montreal	Count:32294
+390	Lat: 45.6176	Long: -73.6637	Name: Laval	Count:3630
+391	Lat: 45.9004	Long: -64.3708	Name: Sackville	Count:17290
+392	Lat: 45.5596	Long: -74.3373	Name: Lachute	Count:574
+393	Lat: 45.5956	Long: -76.6575	Name: Renfrew	Count:1220
+394	Lat: 48.4584	Long: -67.4333	Name: Amqui	Count:2563
+395	Lat: 49.0833	Long: -57.55	Name: Deer Lake	Count:1517
+396	Lat: 49.0833	Long: -116.1	Name: Yahk	Count:41
+397	Lat: 49.0833	Long: -66.6833	Name: Cap-Chat	Count:964
+398	Lat: 49.0833	Long: -117.8167	Name: Rossland	Count:5414
+399	Lat: 49.0833	Long: -99.3333	Name: Cartwright	Count:1210
+400	Lat: 46.4667	Long: -81.0667	Name: Copper Cliff	Count:1435
+401	Lat: 43.2424	Long: -79.8192	Name: Hamilton	Count:26315
+402	Lat: 44.52	Long: -79.99	Name: Wasaga Beach	Count:3825
+403	Lat: 51.1333	Long: -100.4833	Name: Gilbert Plains	Count:451
+404	Lat: 43.5852	Long: -80.5662	Name: Kitchener	Count:265241
+405	Lat: 46.1372	Long: -73.5143	Name: Joliette	Count:7363
+406	Lat: 51.65	Long: -121.2833	Name: 100 Mile House	Count:1722
+407	Lat: 51.65	Long: -99.9167	Name: Winnipegosis	Count:430
+408	Lat: 51.65	Long: -120.0333	Name: Clearwater	Count:3199
+409	Lat: 51.65	Long: -103.5333	Name: Foam Lake	Count:912
+410	Lat: 51.95	Long: -102.6667	Name: Preeceville	Count:492
+411	Lat: 51.95	Long: -103.8	Name: Wadena	Count:1579
+412	Lat: 51.95	Long: -105.6333	Name: Viscount	Count:410
+413	Lat: 45.5135	Long: -73.8389	Name: Montreal	Count:27710
+414	Lat: 48.005	Long: -69.048	Name: Saint-Jean-de-Dieu	Count:482
+415	Lat: 44.7089	Long: -63.6676	Name: Halifax	Count:32910
+416	Lat: 45.6563	Long: -73.9753	Name: Mirabel	Count:15075
+417	Lat: 49.2218	Long: -123.022	Name: Burnaby	Count:44919
+418	Lat: 45.3193	Long: -73.527	Name: Montreal	Count:1333
+419	Lat: 45.7915	Long: -73.7559	Name: Terrebonne	Count:29392
+420	Lat: 53	Long: -78.8167	Name: Wemindji	Count:840
+421	Lat: 44.8833	Long: -63.8333	Name: Mount Uniacke	Count:584
+422	Lat: 44.5785	Long: -65.7835	Name: Digby	Count:2102
+423	Lat: 46.5167	Long: -80.0333	Name: Field	Count:225
+424	Lat: 45.503	Long: -73.5679	Name: Montreal	Count:47832
+425	Lat: 49.2417	Long: -123.1293	Name: Vancouver	Count:96710
+426	Lat: 44.5333	Long: -78.75	Name: Fenelon Falls	Count:8624
+427	Lat: 44.5333	Long: -78.55	Name: Bobcaygeon	Count:14101
+428	Lat: 44.5333	Long: -81.1667	Name: Allenford	Count:1435
+429	Lat: 43.4801	Long: -80.4801	Name: Waterloo	Count:35484
+430	Lat: 43.4801	Long: -80.7626	Name: Kitchener	Count:2245
+431	Lat: 43.8719	Long: -78.9378	Name: Whitby	Count:78906
+432	Lat: 45.3564	Long: -75.9445	Name: Kanata	Count:10224
+433	Lat: 45.5411	Long: -60.9718	Name: Arichat	Count:2461
+434	Lat: 48.3942	Long: -71.6775	Name: Hebertville	Count:512
+435	Lat: 45.3973	Long: -73.5284	Name: Candiac	Count:58231
+436	Lat: 45.9701	Long: -74.6173	Name: Mont-Tremblant	Count:830
+437	Lat: 50.4423	Long: -104.6116	Name: Regina	Count:241858
+438	Lat: 54.1407	Long: -115.6873	Name: Whitecourt	Count:45299
+439	Lat: 50.4399	Long: -104.574	Name: Regina	Count:109673
+440	Lat: 43.9766	Long: -78.6163	Name: Oshawa	Count:697
+441	Lat: 44.1994	Long: -77.8903	Name: Warkworth	Count:30
+442	Lat: 44.4649	Long: -76.4856	Name: Kingston	Count:1148
+443	Lat: 51.0316	Long: -114.0994	Name: Calgary	Count:43637
+444	Lat: 45.4207	Long: -75.7023	Name: Ottawa	Count:50211
+445	Lat: 43.662	Long: -79.3281	Name: Toronto	Count:43781
+446	Lat: 43.3515	Long: -80.5359	Name: New Dundee	Count:1312
+447	Lat: 51.0922	Long: -114.1479	Name: Calgary	Count:85172
+448	Lat: 47.45	Long: -79.4333	Name: Guigues	Count:205
+449	Lat: 47.45	Long: -53.2333	Name: Colliers	Count:4953
+450	Lat: 50.7333	Long: -111.9	Name: Duchess	Count:5168
+451	Lat: 50.7333	Long: -108.75	Name: Abbey	Count:1281
+452	Lat: 50.7333	Long: -119.9667	Name: Pinantan Lake	Count:2184
+453	Lat: 43.8449	Long: -79.0996	Name: Pickering	Count:15270
+454	Lat: 49.8963	Long: -97.297	Name: Winnipeg	Count:34869
+455	Lat: 43.5372	Long: -79.6667	Name: Mississauga	Count:98638
+456	Lat: 44.0905	Long: -78.9479	Name: Oshawa	Count:37299
+457	Lat: 45.0591	Long: -72.8367	Name: Frelighsburg	Count:71
+458	Lat: 43.8966	Long: -78.6309	Name: Oshawa	Count:15147
+459	Lat: 43.3018	Long: -79.8497	Name: Burlington	Count:14060
+460	Lat: 49.2286	Long: -123.057	Name: Vancouver	Count:58128
+461	Lat: 52.0833	Long: -114.75	Name: Caroline	Count:5230
+462	Lat: 52.0833	Long: -109.4333	Name: Luseland	Count:748
+463	Lat: 45.4667	Long: -73.4667	Name: Saint-Lambert	Count:18337
+464	Lat: 45.4667	Long: -73.8833	Name: Montreal	Count:57616
+465	Lat: 44.7642	Long: -63.1049	Name: Musquodoboit Harbour	Count:1199
+466	Lat: 48.1333	Long: -78.1167	Name: Malartic	Count:646
+467	Lat: 45.41	Long: -72.3027	Name: Magog	Count:1046
+468	Lat: 45.41	Long: -65.96	Name: Quispamsis	Count:10491
+469	Lat: 52.65	Long: -105.7333	Name: Wakaw	Count:1763
+470	Lat: 52.65	Long: -106.3333	Name: Rosthern	Count:4799
+471	Lat: 43.6497	Long: -79.3952	Name: Toronto	Count:47442
+472	Lat: 44.7645	Long: -75.738	Name: Brockville	Count:1815
+473	Lat: 46.05	Long: -73.1167	Name: Sorel	Count:27208
+474	Lat: 43.7931	Long: -80.1482	Name: Hillsburgh	Count:5907
+475	Lat: 44.2255	Long: -76.629	Name: Kingston	Count:6102
+476	Lat: 45.5167	Long: -73.6167	Name: Circonscription electorale d'Outremont	Count:779
+477	Lat: 45.5167	Long: -74.65	Name: Vankleek Hill	Count:2727
+478	Lat: 45.5167	Long: -73.6667	Name: Vieux-Saint-Laurent	Count:23987
+479	Lat: 45.5167	Long: -73.65	Name: Mont-Royal	Count:9394
+480	Lat: 45.4242	Long: -71.9188	Name: Sherbrooke	Count:15650
+481	Lat: 42.9784	Long: -82.3882	Name: Sarnia	Count:23567
+482	Lat: 45.9167	Long: -82.4667	Name: Gore Bay	Count:646
+483	Lat: 47.6605	Long: -65.6414	Name: Bathurst	Count:22962
+484	Lat: 49.174	Long: -123.9422	Name: Nanaimo	Count:27474
+485	Lat: 47.4333	Long: -53.1667	Name: Harbour Main	Count:399
+486	Lat: 47.4333	Long: -79.6333	Name: Haileybury	Count:2666
+487	Lat: 45.344	Long: -63.9024	Name: Economy	Count:92
+488	Lat: 44.61	Long: -76.2182	Name: Elgin	Count:174
+489	Lat: 46.1106	Long: -71.5742	Name: Bernierville	Count:728
+490	Lat: 43.6844	Long: -80.4301	Name: Elora	Count:7753
+491	Lat: 46.8943	Long: -70.8226	Name: Saint-Vallier	Count:1087
+492	Lat: 46.8943	Long: -71.8321	Name: Saint-Raymond	Count:574
+493	Lat: 49.8671	Long: -97.1225	Name: Winnipeg	Count:27905
+494	Lat: 54.1167	Long: -115.3833	Name: Whitecourt	Count:1989
+495	Lat: 45.3486	Long: -63.3029	Name: Truro	Count:34017
+496	Lat: 55.7333	Long: -117.1167	Name: Donnelly	Count:1035
+497	Lat: 55.7333	Long: -101.3167	Name: Pukatawagan	Count:92
+498	Lat: 43.5541	Long: -81.3957	Name: Seaforth	Count:10
+499	Lat: 45.1268	Long: -72.9105	Name: Bedford	Count:379
+500	Lat: 50.55	Long: -96.2333	Name: Pine Falls	Count:1610
+501	Lat: 50.55	Long: -119.1333	Name: Enderby	Count:7117
+502	Lat: 48.85	Long: -53.9833	Name: Dover	Count:3394
+503	Lat: 48.85	Long: -54.0167	Name: Hare Bay	Count:194
+504	Lat: 45.4832	Long: -73.5067	Name: Saint-Lambert	Count:8983
+505	Lat: 45.1264	Long: -72.9868	Name: Bedford	Count:7927
+506	Lat: 45.5569	Long: -73.748	Name: Laval	Count:31156
+507	Lat: 49.9465	Long: -97.0585	Name: Winnipeg	Count:66887
+508	Lat: 52.0333	Long: -112.75	Name: Big Valley	Count:1958
+509	Lat: 45.7839	Long: -61.3167	Name: Kingsville	Count:553
+510	Lat: 45.2776	Long: -75.7902	Name: Ottawa	Count:974
+511	Lat: 47.7642	Long: -69.476	Name: Saint-Antonin	Count:2307
+512	Lat: 53.4681	Long: -113.4339	Name: Edmonton	Count:184385
+513	Lat: 43.6647	Long: -79.3695	Name: Toronto	Count:23198
+514	Lat: 44.071	Long: -81.5791	Name: Ripley	Count:4574
+515	Lat: 43.6964	Long: -79.3953	Name: Toronto	Count:27782
+516	Lat: 45.4965	Long: -73.6177	Name: Montreal	Count:6625
+517	Lat: 42.0606	Long: -82.6029	Name: Leamington	Count:53965
+518	Lat: 51.2167	Long: -102.4667	Name: Yorkton	Count:1681
+519	Lat: 47	Long: -70.8167	Name: Saint-Francois-de-l'Ile-d'Orleans	Count:861
+520	Lat: 43.687	Long: -79.5318	Name: Toronto	Count:8337
+521	Lat: 43.7657	Long: -79.3835	Name: Toronto	Count:27515
+522	Lat: 45.9106	Long: -66.6586	Name: Fredericton	Count:120319
+523	Lat: 43.7948	Long: -80.3229	Name: Belwood	Count:1856
+524	Lat: 49.7118	Long: -112.8196	Name: Lethbridge	Count:51903
+525	Lat: 51.0415	Long: -114.0599	Name: Calgary	Count:48252
+526	Lat: 44.5539	Long: -63.8307	Name: Halifax	Count:17465
+527	Lat: 54.0101	Long: -132.1403	Name: Masset	Count:1199
+528	Lat: 43.5897	Long: -81.0798	Name: Stratford	Count:2276
+529	Lat: 44.5049	Long: -66.0427	Name: Centreville	Count:2389
+530	Lat: 43.8272	Long: -66.0626	Name: Yarmouth	Count:389
+531	Lat: 45.3126	Long: -73.2351	Name: Sainte-Brigide-d'Iberville	Count:2338
+532	Lat: 43.7476	Long: -81.2487	Name: Huron East	Count:451
+533	Lat: 44.0083	Long: -79.6826	Name: Newmarket	Count:10163
+534	Lat: 44.1	Long: -78.6333	Name: Pontypool	Count:389
+535	Lat: 44.1	Long: -77.5833	Name: Trenton	Count:47596
+536	Lat: 45.2571	Long: -74.12	Name: Salaberry-de-Valleyfield	Count:18788
+537	Lat: 49.1167	Long: -117.55	Name: Fruitvale	Count:3825
+538	Lat: 49.1167	Long: -68.3833	Name: Chute-aux-Outardes	Count:471
+539	Lat: 56.7333	Long: -111.3833	Name: Fort McMurray	Count:297
+540	Lat: 45.3167	Long: -73.9333	Name: Melocheville	Count:523
+541	Lat: 48.0468	Long: -68.4436	Name: Lac-des-Aigles	Count:246
+542	Lat: 45.5555	Long: -75.4352	Name: Gatineau	Count:21998
+543	Lat: 70.7333	Long: -117.75	Name: Holman	Count:61
+544	Lat: 45.4814	Long: -73.4649	Name: Brossard	Count:32294
+545	Lat: 58.4	Long: -116	Name: Fort Vermilion	Count:3599
+546	Lat: 52.2	Long: -113.2333	Name: Delburne	Count:1179
+547	Lat: 52.2	Long: -105.1167	Name: Humboldt	Count:16091
+548	Lat: 51.0227	Long: -114.1342	Name: Calgary	Count:91654
+549	Lat: 45.668	Long: -65.5218	Name: McCain Settlement	Count:12870
+550	Lat: 45.668	Long: -73.051	Name: Saint-Hyacinthe	Count:2727
+551	Lat: 60.10867	Long: -113.6426	Name: 	Count:20
+552	Lat: 43.2638	Long: -79.9505	Name: Hamilton	Count:51103
+553	Lat: 49.0333	Long: -119.4667	Name: Osoyoos	Count:11435
+554	Lat: 44.0464	Long: -79.4874	Name: Newmarket	Count:94208
+555	Lat: 42.9607	Long: -82.3718	Name: Sarnia	Count:46540
+556	Lat: 42.1333	Long: -82.75	Name: Cottam	Count:1066
+557	Lat: 43.7352	Long: -79.3818	Name: Toronto	Count:18685
+558	Lat: 45.9151	Long: -77.2754	Name: Petawawa	Count:33730
+559	Lat: 49.8987	Long: -97.3843	Name: Winnipeg	Count:492
+560	Lat: 52.2667	Long: -105.5167	Name: Bruno	Count:3876
+561	Lat: 52.2667	Long: -113.8	Name: Red Deer	Count:24541
+562	Lat: 46.9758	Long: -70.9609	Name: Sainte-Famille	Count:1692
+563	Lat: 65.2833	Long: -126.85	Name: Norman Wells	Count:1620
+564	Lat: 50.6764	Long: -120.3399	Name: Kamloops	Count:146799
+565	Lat: 54.2167	Long: -125.7667	Name: Burns Lake	Count:4317
+566	Lat: 48.8525	Long: -123.5022	Name: Ganges	Count:615
+567	Lat: 43.2561	Long: -79.8575	Name: Hamilton	Count:292387
+568	Lat: 47.9947	Long: -84.77	Name: Wawa	Count:5281
+569	Lat: 45.6263	Long: -76.882	Name: Cobden	Count:6143
+570	Lat: 43.784	Long: -79.4263	Name: Toronto	Count:63266
+571	Lat: 47.2161	Long: -70.2665	Name: Saint-Jean-Port-Joli	Count:4061
+572	Lat: 46.6001	Long: -70.8666	Name: Sainte-Claire	Count:2410
+573	Lat: 47.8219	Long: -65.0917	Name: Caraquet	Count:430
+574	Lat: 46.6821	Long: -73.9188	Name: Saint-Michel-des-Saints	Count:1025
+575	Lat: 46.364	Long: -63.546	Name: Emerald Junction	Count:656
+576	Lat: 49.8167	Long: -100.3	Name: Alexander	Count:789
+577	Lat: 49.8167	Long: -92.9833	Name: Oxdrift	Count:748
+578	Lat: 49.8167	Long: -104.15	Name: Yellow Grass	Count:1179
+579	Lat: 46.6846	Long: -72.0478	Name: Saint-Marc-des-Carrieres	Count:717
+580	Lat: 43.2566	Long: -79.8683	Name: Hamilton	Count:38366
+581	Lat: 53.928	Long: -122.7878	Name: Prince George	Count:184078
+582	Lat: 45.5917	Long: -73.8293	Name: Laval	Count:51719
+583	Lat: 43.1155	Long: -79.0916	Name: Niagara Falls	Count:22162
+584	Lat: 45.2622	Long: -74.9726	Name: Casselman	Count:2686
+585	Lat: 45.6908	Long: -73.6308	Name: Terrebonne	Count:70353
+586	Lat: 43.0939	Long: -79.0699	Name: Niagara Falls	Count:94782
+587	Lat: 43.2237	Long: -79.2191	Name: St. Catharines	Count:39812
+588	Lat: 44.9833	Long: -81.25	Name: Lion's Head	Count:6122
+589	Lat: 44.9833	Long: -64.9	Name: Greenwood	Count:4491
+590	Lat: 47.9221	Long: -66.0784	Name: Carleton-sur-Mer	Count:635
+591	Lat: 46.5808	Long: -72.2013	Name: Sainte-Anne-de-la-Perade	Count:3835
+592	Lat: 53.5224	Long: -113.5763	Name: Edmonton	Count:50765
+593	Lat: 49.2661	Long: -123.1276	Name: Vancouver	Count:98351
+594	Lat: 43.1	Long: -82	Name: Forest	Count:3825
+595	Lat: 43.1	Long: -79.05	Name: Niagara Falls	Count:16665
+596	Lat: 45.2477	Long: -71.825	Name: Sherbrooke	Count:3384
+597	Lat: 46.5833	Long: -81.2	Name: Chelmsford	Count:20675
+598	Lat: 43.1501	Long: -80.2766	Name: Brantford	Count:154347
+599	Lat: 44.9874	Long: -64.835	Name: Aylesford	Count:11322
+600	Lat: 49.2371	Long: -123.0229	Name: Burnaby	Count:115827
+601	Lat: 60.1167	Long: -128.8	Name: Watson Lake	Count:984
+602	Lat: 44.6663	Long: -63.5763	Name: Dartmouth	Count:89203
+603	Lat: 45.5593	Long: -73.6719	Name: Laval	Count:11691
+604	Lat: 47.8559	Long: -69.5376	Name: Rivière-du-Loup	Count:24828
+605	Lat: 44.0414	Long: -81.1208	Name: Mildmay	Count:2738
+606	Lat: 44.0414	Long: -79.4534	Name: Newmarket	Count:167915
+607	Lat: 43.7167	Long: -79.4833	Name: Downsview	Count:635
+608	Lat: 43.7167	Long: -79.5667	Name: Rexdale	Count:174
+609	Lat: 42.0377	Long: -82.7394	Name: Kingsville	Count:25803
+610	Lat: 55.2	Long: -119.45	Name: Beaverlodge	Count:1866
+611	Lat: 43.2432	Long: -79.876	Name: Hamilton	Count:68599
+612	Lat: 45.1643	Long: -75.4601	Name: Spring Hill	Count:1640
+613	Lat: 43.7895	Long: -79.3735	Name: Toronto	Count:38150
+614	Lat: 43.3717	Long: -80.9844	Name: Stratford	Count:66230
+615	Lat: 44.2453	Long: -77.4341	Name: Belleville	Count:1825
+616	Lat: 48.51	Long: -71.268	Name: Saguenay	Count:676
+617	Lat: 50.0333	Long: -110.6833	Name: Medicine Hat	Count:5373
+618	Lat: 50.0333	Long: -57.7167	Name: Parson's Pond	Count:410
+619	Lat: 50.0333	Long: -100.2167	Name: Rivers	Count:1876
+620	Lat: 50.0333	Long: -113.5833	Name: Claresholm	Count:7507
+621	Lat: 45.4937	Long: -73.8132	Name: Dollard-Des Ormeaux	Count:31689
+622	Lat: 47.65	Long: -53.2167	Name: Upper Island Cove	Count:2040
+623	Lat: 47.65	Long: -52.9333	Name: Wabana	Count:2994
+624	Lat: 47.65	Long: -52.7333	Name: Torbay	Count:1753
+625	Lat: 44.8995	Long: -76.021	Name: Smiths Falls	Count:31300
+626	Lat: 44.8995	Long: -65.0727	Name: Middleton	Count:4727
+627	Lat: 49.2768	Long: -123.1469	Name: Vancouver	Count:52652
+628	Lat: 51.2667	Long: -80.65	Name: Moosonee	Count:256
+629	Lat: 51.2667	Long: -114.0167	Name: Airdrie	Count:2451
+630	Lat: 51.2667	Long: -105.9667	Name: Davidson	Count:3989
+631	Lat: 45.4407	Long: -73.8727	Name: Beaconsfield	Count:44232
+632	Lat: 43.6641	Long: -79.3889	Name: Toronto	Count:584
+633	Lat: 43.3965	Long: -80.4575	Name: Kitchener	Count:3681
+634	Lat: 53.2167	Long: -106.4	Name: Shellbrook	Count:1025
+635	Lat: 53.2167	Long: -114.9833	Name: Drayton Valley	Count:16767
+636	Lat: 43.7719	Long: -79.3213	Name: Scarborough	Count:36704
+637	Lat: 44.805	Long: -63.667	Name: Halifax	Count:9558
+638	Lat: 47.0418	Long: -70.4585	Name: Montmagny	Count:461
+639	Lat: 43.6156	Long: -80.1364	Name: Guelph	Count:10040
+640	Lat: 47.1122	Long: -65.6486	Name: Miramichi	Count:1517
+641	Lat: 50.0365	Long: -110.661	Name: Medicine Hat	Count:83891
+642	Lat: 43.7794	Long: -79.7284	Name: Brampton	Count:102074
+643	Lat: 45.5181	Long: -73.6545	Name: Montreal	Count:22746
+644	Lat: 50.8167	Long: -119.6833	Name: Chase	Count:1938
+645	Lat: 42.8754	Long: -79.237	Name: Port Colborne	Count:37361
+646	Lat: 46.9445	Long: -71.4133	Name: Quebec	Count:13332
+647	Lat: 44.531	Long: -65.6655	Name: Bear River	Count:5158
+648	Lat: 47.3104	Long: -70.1752	Name: Saint-Roch-des-Aulnaies	Count:399
+649	Lat: 49.9833	Long: -117.3667	Name: New Denver	Count:1384
+650	Lat: 49.9833	Long: -113.0833	Name: Barons	Count:246
+651	Lat: 52.6833	Long: -111.3	Name: Hardisty	Count:1743
+652	Lat: 46.0901	Long: -71.3089	Name: Thetford-Mines	Count:10081
+653	Lat: 43.7358	Long: -79.328	Name: Toronto	Count:78424
+654	Lat: 43.9427	Long: -78.2944	Name: Cobourg	Count:20962
+655	Lat: 43.2428	Long: -79.8524	Name: Hamilton	Count:24849
+656	Lat: 46.6159	Long: -71.506	Name: Saint-Apollinaire	Count:5322
+657	Lat: 50.9093	Long: -114.0721	Name: Calgary	Count:162746
+658	Lat: 46.2375	Long: -63.4933	Name: Charlottetown	Count:451
+659	Lat: 48.8333	Long: -72.5167	Name: Normandin	Count:758
+660	Lat: 48.8333	Long: -125.15	Name: Bamfield	Count:71
+661	Lat: 48.8333	Long: -79.3667	Name: Dupuy	Count:328
+662	Lat: 46.7167	Long: -79.0833	Name: Temiscaming	Count:4163
+663	Lat: 43.1309	Long: -81.4318	Name: Denfield	Count:2184
+664	Lat: 44.27	Long: -81.54	Name: Kincardine	Count:3630
+665	Lat: 51.3833	Long: -113.5333	Name: Beiseker	Count:1610
+666	Lat: 51.3833	Long: -55.6	Name: St. Anthony	Count:2471
+667	Lat: 48.4	Long: -89.2333	Name: Thunder Bay	Count:73102
+668	Lat: 48.4	Long: -77.25	Name: Senneterre	Count:4850
+669	Lat: 50.2	Long: -97.6667	Name: Woodlands	Count:1353
+670	Lat: 50.2	Long: -66.3833	Name: Sept-Iles	Count:4338
+671	Lat: 47.052	Long: -67.7368	Name: Grand Falls	Count:3086
+672	Lat: 54.7139	Long: -113.2942	Name: Athabasca	Count:14973
+673	Lat: 43.8583	Long: -65.974	Name: Tusket	Count:3168
+674	Lat: 46.4063	Long: -75.526	Name: Mont-Laurier	Count:2779
+675	Lat: 45.83	Long: -64.21	Name: Amherst	Count:5661
+676	Lat: 48.4167	Long: -71.25	Name: Jonquiere	Count:8081
+677	Lat: 48.4167	Long: -71.95	Name: Desbiens	Count:287
+678	Lat: 48.4167	Long: -89.6167	Name: Thunder Bay	Count:2184
+679	Lat: 45.5415	Long: -75.3062	Name: Clarence-Rockland	Count:33146
+680	Lat: 53.25	Long: -113.7833	Name: Calmar	Count:3292
+681	Lat: 45.8455	Long: -71.0905	Name: Lambton	Count:1281
+682	Lat: 44.1333	Long: -81.15	Name: Walkerton	Count:11004
+683	Lat: 43.9527	Long: -78.8795	Name: Oshawa	Count:3938
+684	Lat: 46.24	Long: -63.21	Name: Charlottetown	Count:4912
+685	Lat: 47.5887	Long: -65.0979	Name: Tracadie–Sheila	Count:881
+686	Lat: 45.6983	Long: -70.7921	Name: Lac-Megantic	Count:584
+687	Lat: 53.535	Long: -113.501	Name: Edmonton	Count:80578
+688	Lat: 45.3523	Long: -75.6512	Name: Ottawa	Count:82414
+689	Lat: 44.2833	Long: -79.9167	Name: Borden	Count:1517
+690	Lat: 47.0597	Long: -70.8472	Name: Saint-Joachim	Count:594
+691	Lat: 47.6959	Long: -65.7742	Name: Bathurst	Count:256
+692	Lat: 48.4951	Long: -81.3513	Name: Timmins	Count:3199
+693	Lat: 51.2733	Long: -113.9909	Name: Airdrie	Count:16788
+694	Lat: 44.7227	Long: -63.3973	Name: Halifax	Count:1210
+695	Lat: 46.6853	Long: -64.8693	Name: Richibucto	Count:92
+696	Lat: 45.5772	Long: -73.7007	Name: Laval	Count:58118
+697	Lat: 51.2816	Long: -114.0153	Name: Airdrie	Count:147711
+698	Lat: 43.3248	Long: -79.7957	Name: Burlington	Count:21926
+699	Lat: 43.8667	Long: -79.0333	Name: Pickering	Count:61174
+700	Lat: 50.9833	Long: -107.1333	Name: Lucky Lake	Count:1620
+701	Lat: 45.5806	Long: -73.336	Name: Sainte-Julie	Count:21936
+702	Lat: 54.4439	Long: -110.7617	Name: La Corey	Count:1446
+703	Lat: 45.5284	Long: -73.5246	Name: Longueuil	Count:106832
+704	Lat: 62.45	Long: -114.35	Name: Yellowknife	Count:143
+705	Lat: 43.6918	Long: -79.3708	Name: Toronto	Count:16285
+706	Lat: 42.5799	Long: -82.3823	Name: Wallaceburg	Count:22470
+707	Lat: 50.4529	Long: -104.5345	Name: Regina	Count:2738
+708	Lat: 45.4238	Long: -76.3624	Name: Arnprior	Count:10132
+709	Lat: 51.8333	Long: -113.2333	Name: Trochu	Count:1466
+710	Lat: 53.3571	Long: -113.4129	Name: Beaumont	Count:48457
+711	Lat: 50.5659	Long: -111.8896	Name: Brooks	Count:34622
+712	Lat: 48.3833	Long: -64.5	Name: Grande-Riviere	Count:4256
+713	Lat: 53.4	Long: -117.5833	Name: Hinton	Count:1948
+714	Lat: 46.8742	Long: -70.911	Name: Quebec	Count:666
+715	Lat: 46.3546	Long: -70.2653	Name: Saint-Louis-de-Gonzague	Count:399
+716	Lat: 47.3288	Long: -79.441	Name: Ville-Marie	Count:2533
+717	Lat: 46.8388	Long: -71.3998	Name: Quebec	Count:16480
+718	Lat: 50.25	Long: -99.8333	Name: Minnedosa	Count:779
+719	Lat: 50.25	Long: -63.5833	Name: Havre-Saint-Pierre	Count:1722
+720	Lat: 50.25	Long: -118.9667	Name: Lumby	Count:2769
+721	Lat: 45.2194	Long: -75.1484	Name: Casselman	Count:2481
+722	Lat: 45.2194	Long: -74.7646	Name: Apple Hill	Count:1076
+723	Lat: 43.225	Long: -79.98	Name: Ancaster	Count:8101
+724	Lat: 48.6075	Long: -93.3869	Name: Fort Frances	Count:19721
+725	Lat: 43.6092	Long: -79.6201	Name: Mississauga	Count:175073
+726	Lat: 46.3523	Long: -70.6663	Name: Beauceville	Count:984
+727	Lat: 45.3467	Long: -72.5131	Name: Waterloo	Count:1722
+728	Lat: 45.3467	Long: -75.77	Name: Nepean	Count:39227
+729	Lat: 46.1667	Long: -77.5667	Name: Deep River	Count:9414
+730	Lat: 46.6232	Long: -71.7341	Name: Sainte-Croix	Count:1794
+731	Lat: 43.8417	Long: -79.4011	Name: Richmond Hill	Count:53083
+732	Lat: 45.508	Long: -73.554	Name: Montreal	Count:22839
+733	Lat: 45.3155	Long: -75.837	Name: Ottawa	Count:35525
+734	Lat: 46.4092	Long: -67.6029	Name: Florenceville-Bristol	Count:564
+735	Lat: 50.2533	Long: -119.2798	Name: Vernon	Count:153383
+736	Lat: 46.7673	Long: -71.2857	Name: Quebec	Count:27300
+737	Lat: 44.3683	Long: -64.506	Name: Bridgewater	Count:29515
+738	Lat: 55.9833	Long: -87.65	Name: Fort Severn	Count:851
+739	Lat: 45.5003	Long: -73.5621	Name: Montreal	Count:53811
+740	Lat: 47.5757	Long: -70.2101	Name: Saint-Irenee	Count:1958
+741	Lat: 48.1	Long: -80.1	Name: Swastika	Count:676
+742	Lat: 48.1	Long: -69.7333	Name: Baie-Sainte-Catherine	Count:82
+743	Lat: 53.5529	Long: -113.584	Name: Edmonton	Count:48939
+744	Lat: 43.8587	Long: -78.8341	Name: Oshawa	Count:61256
+745	Lat: 43.7043	Long: -79.4093	Name: Toronto	Count:14532
+746	Lat: 49.2571	Long: -123.1662	Name: Vancouver	Count:22921
+747	Lat: 43.1148	Long: -79.1238	Name: Niagara Falls	Count:46529
+748	Lat: 45.347	Long: -73.804	Name: Lery	Count:10
+749	Lat: 53.3833	Long: -108.9667	Name: Turtleford	Count:1374
+750	Lat: 54.4	Long: -126.65	Name: Houston	Count:2666
+751	Lat: 43.8742	Long: -81.1087	Name: North Perth	Count:635
+752	Lat: 45.2742	Long: -66.0645	Name: Saint John	Count:15711
+753	Lat: 46.5522	Long: -74.832	Name: L'Ascension	Count:1046
+754	Lat: 49.2738	Long: -123.161	Name: Vancouver	Count:54508
+755	Lat: 46.3395	Long: -63.7009	Name: Summerside	Count:1015
+756	Lat: 51.4667	Long: -57.7167	Name: Riviere-Saint-Paul	Count:1097
+757	Lat: 51.4667	Long: -112.7	Name: Drumheller	Count:16788
+758	Lat: 51.4667	Long: -109.1333	Name: Kindersley	Count:10594
+759	Lat: 47.25	Long: -52.85	Name: Mobile	Count:697
+760	Lat: 48.4458	Long: -123.3328	Name: Victoria	Count:37915
+761	Lat: 45.8475	Long: -63.6609	Name: Pugwash	Count:1681
+762	Lat: 43.6699	Long: -79.3887	Name: Toronto	Count:17834
+763	Lat: 43.6699	Long: -79.7444	Name: Brampton	Count:243971
+764	Lat: 43.7041	Long: -79.2446	Name: Toronto	Count:37802
+765	Lat: 42.9838	Long: -82.3214	Name: Sarnia	Count:1435
+766	Lat: 45.8313	Long: -73.4233	Name: L'Assomption	Count:17885
+767	Lat: 43.2005	Long: -79.6292	Name: Hamilton	Count:61933
+768	Lat: 43.1667	Long: -81.6833	Name: Parkhill	Count:594
+769	Lat: 43.1667	Long: -81.85	Name: Thedford	Count:4030
+770	Lat: 43.1667	Long: -79.2333	Name: St. Catharines	Count:121775
+771	Lat: 47.2316	Long: -65.1378	Name: Neguac	Count:7004
+772	Lat: 47.9546	Long: -69.1963	Name: Rivière-du-Loup	Count:482
+773	Lat: 43.7066	Long: -79.3996	Name: Toronto	Count:21485
+774	Lat: 43.7066	Long: -79.398	Name: Toronto	Count:36130
+775	Lat: 50.6553	Long: -120.3811	Name: Kamloops	Count:35043
+776	Lat: 53.2786	Long: -110.0233	Name: Lloydminster	Count:69317
+777	Lat: 43.6975	Long: -79.6615	Name: Mississauga	Count:2615
+778	Lat: 47.0155	Long: -65.5071	Name: Miramichi	Count:2994
+779	Lat: 49.2358	Long: -122.8693	Name: Coquitlam	Count:86895
+780	Lat: 45.4092	Long: -74.2978	Name: Saint-Lazare	Count:21947
+781	Lat: 42.9793	Long: -81.2556	Name: London	Count:211060
+782	Lat: 44.35	Long: -78.7333	Name: Lindsay	Count:15280
+783	Lat: 44.35	Long: -79.0333	Name: Cannington	Count:1025
+784	Lat: 45.4053	Long: -71.9387	Name: Sherbrooke	Count:8501
+785	Lat: 45.4053	Long: -71.2486	Name: La Patrie	Count:1025
+786	Lat: 45.3631	Long: -73.7085	Name: Chateauguay	Count:29454
+787	Lat: 43.2359	Long: -79.9403	Name: Ancaster	Count:17024
+788	Lat: 49.8667	Long: -99.35	Name: Carberry	Count:1969
+789	Lat: 49.8667	Long: -113.5019	Name: Granum	Count:451
+790	Lat: 49.8667	Long: -111.3667	Name: Bow Island	Count:3620
+791	Lat: 46.5003	Long: -71.0658	Name: Sainte-Marie	Count:1425
+792	Lat: 47.5507	Long: -52.7147	Name: St. John's	Count:34571
+793	Lat: 43.0363	Long: -82.5748	Name: Sarnia	Count:2481
+794	Lat: 49.0482	Long: -122.9587	Name: Delta	Count:11404
+795	Lat: 46.509	Long: -72.202	Name: Becancour	Count:461
+796	Lat: 43.639	Long: -79.4499	Name: Toronto	Count:21218
+797	Lat: 49.324	Long: -123.1036	Name: Vancouver	Count:6809
+798	Lat: 45.3709	Long: -71.8561	Name: Sherbrooke	Count:1804
+799	Lat: 45.9168	Long: -60.6485	Name: Castle Bay	Count:2553
+800	Lat: 45.4496	Long: -73.6811	Name: Lachine	Count:44068
+801	Lat: 52.45	Long: -110.8333	Name: Czar	Count:984
+802	Lat: 45.0149	Long: -74.7279	Name: Cornwall	Count:32253
+803	Lat: 49.2699	Long: -123.0765	Name: Vancouver	Count:79296
+804	Lat: 45.529	Long: -73.5039	Name: Longueuil	Count:67779
+805	Lat: 45.5428	Long: -73.5083	Name: Longueuil	Count:24962
+806	Lat: 43.209	Long: -80.6967	Name: Woodstock	Count:994
+807	Lat: 48.1253	Long: -64.9613	Name: Port-Daniel	Count:892
+808	Lat: 45.1767	Long: -74.964	Name: Cornwall	Count:533
+809	Lat: 45.7022	Long: -71.8423	Name: Saint-Georges-de-Windsor	Count:1066
+810	Lat: 49.3111	Long: -123.0798	Name: North Vancouver	Count:43494
+811	Lat: 52.0167	Long: -110.8	Name: Consort	Count:1815
+812	Lat: 44.7421	Long: -75.9931	Name: Brockville	Count:1517
+813	Lat: 43.4061	Long: -80.665	Name: Baden	Count:2461
+814	Lat: 43.4061	Long: -80.3503	Name: Cambridge	Count:40602
+815	Lat: 44.25	Long: -80.55	Name: Flesherton	Count:2102
+816	Lat: 44.25	Long: -64.55	Name: Italy Cross	Count:1066
+817	Lat: 44.25	Long: -79.5833	Name: Churchill	Count:3240
+818	Lat: 49.3271	Long: -123.1578	Name: Vancouver	Count:42232
+819	Lat: 43.8445	Long: -65.0598	Name: Sable River	Count:461
+820	Lat: 45.4617	Long: -73.7305	Name: Dorval	Count:3466
+821	Lat: 45.7599	Long: -73.4343	Name: Repentigny	Count:85275
+822	Lat: 50.6902	Long: -120.0461	Name: Kamloops	Count:2656
+823	Lat: 45.9787	Long: -64.9898	Name: Moncton	Count:3620
+824	Lat: 52.9348	Long: -66.9145	Name: Labrador City	Count:23249
+825	Lat: 43.7822	Long: -79.3261	Name: Scarborough	Count:55431
+826	Lat: 42.3039	Long: -83.0308	Name: Windsor	Count:170756
+827	Lat: 49.0667	Long: -81.0167	Name: Cochrane	Count:3384
+828	Lat: 49.0667	Long: -95.9667	Name: Piney	Count:1876
+829	Lat: 44.9546	Long: -63.4525	Name: Grono Road	Count:82
+830	Lat: 43.2206	Long: -81.3026	Name: London	Count:2861
+831	Lat: 45.9817	Long: -65.8711	Name: Cumberland Bay	Count:512
+832	Lat: 44.0577	Long: -64.6868	Name: Brooklyn	Count:287
+833	Lat: 47.9453	Long: -65.3245	Name: New Carlisle	Count:912
+834	Lat: 46.5641	Long: -73.8161	Name: Lac-Saint-Louis	Count:543
+835	Lat: 46.1117	Long: -64.834	Name: Moncton	Count:29977
+836	Lat: 45.2758	Long: -66.0845	Name: Saint John	Count:25854
+837	Lat: 45.6488	Long: -73.8466	Name: Blainville	Count:81368
+838	Lat: 45.6167	Long: -62.6167	Name: Trenton	Count:4625
+839	Lat: 45.6167	Long: -79.4167	Name: Burk's Falls	Count:4758
+840	Lat: 45.6167	Long: -61.4	Name: Mulgrave	Count:3794
+841	Lat: 45.6167	Long: -75.0167	Name: Papineauville	Count:2820
+842	Lat: 45.6167	Long: -73.75	Name: Laval	Count:249139
+843	Lat: 46.6784	Long: -71.2234	Name: Breakeyville	Count:6061
+844	Lat: 62.8167	Long: -92.0833	Name: Rankin Inlet	Count:5240
+845	Lat: 45.2795	Long: -71.7226	Name: Sherbrooke	Count:676
+846	Lat: 47.7624	Long: -65.0324	Name: Tracadie–Sheila	Count:1548
+847	Lat: 43.1834	Long: -80.3749	Name: Brantford	Count:28028
+848	Lat: 43.6858	Long: -79.7602	Name: Brampton	Count:441125
+849	Lat: 44.6879	Long: -63.2207	Name: Halifax	Count:964
+850	Lat: 43.35	Long: -81.4833	Name: Exeter	Count:12183
+851	Lat: 44.0902	Long: -79.6758	Name: Newmarket	Count:707
+852	Lat: 46.6955	Long: -71.8863	Name: Portneuf	Count:2840
+853	Lat: 44.2771	Long: -76.7203	Name: Odessa	Count:994
+854	Lat: 43.6441	Long: -79.3801	Name: Toronto	Count:113037
+855	Lat: 45.0492	Long: -73.5878	Name: Hemmingford	Count:1517
+856	Lat: 60.8667	Long: -137.0333	Name: Canyon	Count:871
+857	Lat: 47.5667	Long: -56.75	Name: Francois	Count:1210
+858	Lat: 46.2787	Long: -70.6064	Name: Beauceville	Count:687
+859	Lat: 52.3	Long: -121.1167	Name: Black Creek	Count:615
+860	Lat: 58.1	Long: -68.4	Name: Kuujjuaq	Count:2358
+861	Lat: 46.3709	Long: -67.445	Name: Hartland	Count:1302
+862	Lat: 43.9327	Long: -79.5104	Name: Toronto	Count:19106
+863	Lat: 45.8173	Long: -77.1174	Name: Pembroke	Count:58241
+864	Lat: 49.8684	Long: -125.1252	Name: Campbell River	Count:2574
+865	Lat: 46.6189	Long: -75.9083	Name: Maniwaki	Count:71
+866	Lat: 51.6667	Long: -114.1333	Name: Didsbury	Count:13455
+867	Lat: 51.6667	Long: -105.4667	Name: Watrous	Count:2656
+868	Lat: 51.6667	Long: -112.7667	Name: Morrin	Count:728
+869	Lat: 44.7562	Long: -63.0283	Name: Myers Point	Count:666
+870	Lat: 49.8021	Long: -124.5124	Name: Powell River	Count:16737
+871	Lat: 47.3833	Long: -53.1333	Name: Holyrood	Count:2563
+872	Lat: 47.3833	Long: -61.8667	Name: Cap-aux-Meules	Count:8142
+873	Lat: 45.4436	Long: -75.2423	Name: Clarence-Rockland	Count:923
+874	Lat: 47.0328	Long: -70.9309	Name: Sainte-Anne-de-Beaupre	Count:1261
+875	Lat: 49.0992	Long: -122.8691	Name: Surrey	Count:275794
+876	Lat: 52.9692	Long: -122.5057	Name: Quesnel	Count:31177
+877	Lat: 45.4473	Long: -73.6557	Name: Lasalle	Count:29074
+878	Lat: 43.7886	Long: -79.5919	Name: Woodbridge	Count:118565
+879	Lat: 42.9799	Long: -81.2609	Name: London	Count:107407
+880	Lat: 51.1793	Long: -114.1333	Name: Calgary	Count:12419
+881	Lat: 43.7563	Long: -79.2224	Name: Scarborough	Count:25700
+882	Lat: 43.7563	Long: -79.2417	Name: Scarborough	Count:30243
+883	Lat: 43.7563	Long: -80.67	Name: Drayton	Count:3199
+884	Lat: 46.3791	Long: -70.9209	Name: Vallee-Jonction	Count:1948
+885	Lat: 49.6915	Long: -112.8294	Name: Lethbridge	Count:41750
+886	Lat: 43.9742	Long: -78.7444	Name: Oshawa	Count:2010
+887	Lat: 45.5423	Long: -73.5616	Name: Montreal	Count:38920
+888	Lat: 43.4353	Long: -80.0997	Name: Hamilton	Count:49227
+889	Lat: 43.4353	Long: -80.4527	Name: Kitchener	Count:46242
+890	Lat: 50.0667	Long: -96.5167	Name: Beausejour	Count:1046
+891	Lat: 50.0667	Long: -112.1	Name: Vauxhall	Count:1415
+892	Lat: 50.0667	Long: -108.8	Name: Tompkins	Count:317
+893	Lat: 50.0667	Long: -97.2167	Name: Stony Mountain	Count:830
+894	Lat: 43.4346	Long: -80.4532	Name: Kitchener	Count:15157
+895	Lat: 42.3016	Long: -83.0307	Name: Windsor	Count:118975
+896	Lat: 53.0204	Long: -112.8129	Name: Camrose	Count:48211
+897	Lat: 42.1754	Long: -82.8226	Name: Essex	Count:5168
+898	Lat: 49.2136	Long: -122.8949	Name: New Westminster	Count:89993
+899	Lat: 43.7183	Long: -79.5119	Name: Toronto	Count:11886
+900	Lat: 44.95	Long: -65.2689	Name: Port Lorne	Count:2369
+901	Lat: 49.849	Long: -97.1497	Name: Winnipeg	Count:181247
+902	Lat: 49.8858	Long: -97.2601	Name: Winnipeg	Count:45104
+903	Lat: 49.164	Long: -122.656	Name: Langley	Count:116462
+904	Lat: 43.3274	Long: -79.7989	Name: Burlington	Count:104556
+905	Lat: 43.1438	Long: -80.26	Name: Brantford	Count:15680
+906	Lat: 55.4333	Long: -107.9	Name: Ile-a-la-Crosse	Count:861
+907	Lat: 55.4333	Long: -116.4833	Name: High Prairie	Count:1661
+908	Lat: 44.2538	Long: -76.943	Name: Napanee	Count:23608
+909	Lat: 52.1276	Long: -122.1271	Name: Williams Lake	Count:28059
+910	Lat: 44.341	Long: -64.2938	Name: Lunenburg	Count:12050
+911	Lat: 49.9214	Long: -74.3601	Name: Chibougamau	Count:6358
+912	Lat: 52.779	Long: -108.2983	Name: North Battleford	Count:35689
+913	Lat: 42.989	Long: -81.058	Name: Dorchester	Count:6276
+914	Lat: 53.3981	Long: -117.5552	Name: Hinton	Count:23977
+915	Lat: 48.5833	Long: -68.1833	Name: Mont-Joli	Count:4204
+916	Lat: 48.5833	Long: -85.2833	Name: White River	Count:1271
+917	Lat: 48.5833	Long: -71.55	Name: Saint-Nazaire	Count:646
+918	Lat: 46.9667	Long: -52.9667	Name: Fermeuse	Count:512
+919	Lat: 43.4161	Long: -80.6035	Name: Kitchener	Count:4450
+920	Lat: 43.4161	Long: -80.688	Name: Kitchener	Count:38848
+921	Lat: 44.7424	Long: -65.5111	Name: Annapolis Royal	Count:4666
+922	Lat: 48.1816	Long: -58.858	Name: Saint Fintan's	Count:3784
+923	Lat: 48.15	Long: -69.7167	Name: Tadoussac	Count:512
+924	Lat: 50.45	Long: -119.1833	Name: Armstrong	Count:6963
+925	Lat: 50.45	Long: -106.0667	Name: Mortlach	Count:3230
+926	Lat: 50.45	Long: -104.6167	Name: Regina	Count:55144
+927	Lat: 50.45	Long: -101.3	Name: St-Lazare	Count:3086
+928	Lat: 50.45	Long: -113.85	Name: Cayley	Count:902
+929	Lat: 50.45	Long: -111.65	Name: Tilley	Count:758
+930	Lat: 50.45	Long: -105.8167	Name: Caronport	Count:3343
+931	Lat: 43.5725	Long: -80.8358	Name: Waterloo	Count:420
+932	Lat: 54.0662	Long: -128.6508	Name: Kitimat	Count:22018
+933	Lat: 42.55	Long: -81.9667	Name: Thamesville	Count:2707
+934	Lat: 43.7363	Long: -79.3498	Name: Toronto	Count:23249
+935	Lat: 48.6667	Long: -74.95	Name: Obedjiwan	Count:307
+936	Lat: 48.6667	Long: -54.05	Name: Glovertown	Count:317
+937	Lat: 48.6667	Long: -79.2	Name: Palmarolle	Count:307
+938	Lat: 48.6667	Long: -67.9833	Name: Mont-Joli	Count:861
+939	Lat: 45.4794	Long: -73.8446	Name: Dollard-Des Ormeaux	Count:14573
+940	Lat: 44.3833	Long: -77.0167	Name: Roblin	Count:1405
+941	Lat: 44.3833	Long: -77.9833	Name: Norwood	Count:4543
+942	Lat: 44.3833	Long: -79.7	Name: Barrie	Count:64733
+943	Lat: 47.0086	Long: -67.7058	Name: Grand Falls	Count:2184
+944	Lat: 45.9533	Long: -76.0148	Name: Kazabazua	Count:328
+945	Lat: 49.1307	Long: -122.5369	Name: Township of Langley	Count:41525
+946	Lat: 50.4019	Long: -105.5325	Name: Moose Jaw	Count:79573
+947	Lat: 45.2657	Long: -73.6115	Name: Saint-Remi	Count:6850
+948	Lat: 46.862	Long: -72.401	Name: Lac-aux-Sables	Count:1917
+949	Lat: 46.0167	Long: -73.1667	Name: Sorel-Tracy	Count:82
+950	Lat: 46.0167	Long: -62.8833	Name: Flat River	Count:615
+951	Lat: 54.2511	Long: -111.1514	Name: Glendon	Count:1056
+952	Lat: 43.5908	Long: -79.5218	Name: Toronto	Count:27044
+953	Lat: 51.0472	Long: -114.0802	Name: Calgary	Count:75686
+954	Lat: 45.4681	Long: -73.636	Name: Montreal	Count:19834
+955	Lat: 46.1811	Long: -60.5067	Name: Sydney	Count:5845
+956	Lat: 43.555	Long: -80.2868	Name: Guelph	Count:86290
+957	Lat: 45.4644	Long: -73.5798	Name: Verdun	Count:56375
+958	Lat: 43.1489	Long: -81.5328	Name: Ailsa Craig	Count:5804
+959	Lat: 43.6261	Long: -79.729	Name: Mississauga	Count:25351
+960	Lat: 44.1911	Long: -79.7032	Name: Barrie	Count:21259
+961	Lat: 55.0667	Long: -117.2833	Name: Valleyview	Count:1835
+962	Lat: 43.9817	Long: -80.734	Name: Mount Forest	Count:7178
+963	Lat: 44.4972	Long: -63.7199	Name: Halifax	Count:92
+964	Lat: 46.1505	Long: -70.9071	Name: Beauceville	Count:1743
+965	Lat: 45.1977	Long: -75.8384	Name: Ottawa	Count:543
+966	Lat: 44.6079	Long: -80.5922	Name: Owen Sound	Count:7260
+967	Lat: 45.3956	Long: -75.7462	Name: Ottawa	Count:28900
+968	Lat: 51.2333	Long: -101.35	Name: Roblin	Count:1784
+969	Lat: 51.2333	Long: -58.65	Name: Saint-Augustin	Count:8081
+970	Lat: 43.2522	Long: -79.8489	Name: Hamilton	Count:98792
+971	Lat: 50.4333	Long: -101.05	Name: Birtle	Count:1620
+972	Lat: 50.4333	Long: -107.2167	Name: Herbert	Count:1815
+973	Lat: 43.649	Long: -79.3784	Name: Toronto	Count:17434
+974	Lat: 43.649	Long: -79.4977	Name: Toronto	Count:9968
+975	Lat: 53.35	Long: -110.85	Name: Vermilion	Count:10
+976	Lat: 53.35	Long: -108.35	Name: Glaslyn	Count:2338
+977	Lat: 45.42	Long: -73.64	Name: Lasalle	Count:30315
+978	Lat: 43.6558	Long: -79.4663	Name: Toronto	Count:62559
+979	Lat: 46.12	Long: -66.9477	Name: Fredericton	Count:4184
+980	Lat: 46.3647	Long: -72.5558	Name: Trois-Rivières	Count:45945
+981	Lat: 43.8759	Long: -79.4381	Name: Richmond Hill	Count:239838
+982	Lat: 49.8788	Long: -97.159	Name: Winnipeg	Count:56652
+983	Lat: 49.9139	Long: -97.1847	Name: Winnipeg	Count:28418
+984	Lat: 51.5833	Long: -103.2167	Name: Sheho	Count:246
+985	Lat: 45.9667	Long: -81.9333	Name: Little Current	Count:3671
+986	Lat: 45.9667	Long: -60.8167	Name: Plaster Cove	Count:564
+987	Lat: 45.9667	Long: -70.95	Name: La Guadeloupe	Count:2451
+988	Lat: 49.6333	Long: -114.5	Name: Coleman	Count:5199
+989	Lat: 49.6333	Long: -102.6667	Name: Kisbey	Count:646
+990	Lat: 49.6333	Long: -115.95	Name: Marysville	Count:133
+991	Lat: 49.6333	Long: -98.7	Name: Treherne	Count:1179
+992	Lat: 49.6333	Long: -102.4833	Name: Arcola	Count:2122
+993	Lat: 49.6333	Long: -102.2667	Name: Carlyle	Count:8778
+994	Lat: 47.3614	Long: -68.3218	Name: Edmundston	Count:14316
+995	Lat: 43.571	Long: -79.5668	Name: Mississauga	Count:13486
+996	Lat: 47.55	Long: -52.6667	Name: 	Count:65492
+997	Lat: 47.55	Long: -79.2333	Name: Angliers	Count:471
+998	Lat: 46.3111	Long: -72.5718	Name: Trois-Rivières	Count:10122
+999	Lat: 42.9265	Long: -80.6045	Name: Woodstock	Count:23762
+1000	Lat: 60.7167	Long: -135.05	Name: Whitehorse	Count:2881
+1001	Lat: 50.5	Long: -116.0333	Name: Invermere	Count:2748
+1002	Lat: 50.5	Long: -98.0333	Name: Laurentia Beach	Count:10
+1003	Lat: 45.4694	Long: -73.289	Name: Chambly	Count:45329
+1004	Lat: 45.3624	Long: -74.5048	Name: Glen Robertson	Count:2604
+1005	Lat: 45.0167	Long: -79.6167	Name: Bala	Count:1302
+1006	Lat: 45.0167	Long: -74.7333	Name: Cornwall	Count:11476
+1007	Lat: 53.4162	Long: -113.148	Name: Sherwood Park	Count:4133
+1008	Lat: 43.9909	Long: -79.4639	Name: Newmarket	Count:130892
+1009	Lat: 53.685	Long: -132.1762	Name: Port Clements	Count:369
+1010	Lat: 45.7953	Long: -66.4783	Name: Oromocto	Count:3589
+1011	Lat: 46.9984	Long: -70.5595	Name: Montmagny	Count:9783
+1012	Lat: 46.0477	Long: -71.9549	Name: Victoriaville	Count:4235
+1013	Lat: 51.0566	Long: -114.1815	Name: Calgary	Count:193667
+1014	Lat: 46.2042	Long: -72.1375	Name: Daveluyville	Count:1374
+1015	Lat: 46.789	Long: -71.2936	Name: Quebec	Count:52129
+1016	Lat: 46.8128	Long: -71.2194	Name: Quebec	Count:25669
+1017	Lat: 44.8488	Long: -63.5999	Name: Halifax	Count:4512
+1018	Lat: 56.0667	Long: -118.4	Name: Fairview, Alberta	Count:4789
+1019	Lat: 53.4996	Long: -113.3678	Name: Edmonton	Count:3640
+1020	Lat: 46.1773	Long: -71.8775	Name: Princeville	Count:5938
+1021	Lat: 43.122	Long: -79.805	Name: Hamilton	Count:15598
+1022	Lat: 42.95	Long: -81.8833	Name: Watford	Count:6307
+1023	Lat: 42.95	Long: -82.1167	Name: Wyoming	Count:2604
+1024	Lat: 54.6167	Long: -97.7833	Name: Cross Lake	Count:153
+1025	Lat: 43.1275	Long: -79.2631	Name: St. Catharines	Count:23116
+1026	Lat: 49.4333	Long: -96.3833	Name: Marchand	Count:461
+1027	Lat: 49.4333	Long: -124.6833	Name: Bowser	Count:4461
+1028	Lat: 49.4333	Long: -100.2667	Name: Elgin	Count:974
+1029	Lat: 47.5298	Long: -69.8078	Name: Saint-Pascal	Count:1415
+1030	Lat: 50.05	Long: -125.1833	Name: Quathiaski Cove	Count:1887
+1031	Lat: 50.05	Long: -97.05	Name: Winnipeg	Count:3374
+1032	Lat: 48.35	Long: -69.4167	Name: Les Escoumins	Count:2963
+1033	Lat: 48.35	Long: -67.2167	Name: Causapscal	Count:1035
+1034	Lat: 43.6469	Long: -79.3823	Name: Toronto	Count:2810
+1035	Lat: 49.8722	Long: -97.1888	Name: Winnipeg	Count:39904
+1036	Lat: 49.2334	Long: -122.77	Name: Port Coquitlam	Count:107622
+1037	Lat: 45.6341	Long: -71.0203	Name: Lac-Megantic	Count:1292
+1038	Lat: 50.1208	Long: -122.9544	Name: Whistler Village	Count:64764
+1039	Lat: 48.4466	Long: -80.8161	Name: Shillington	Count:11537
+1040	Lat: 53.5333	Long: -114	Name: Stony Plain	Count:39094
+1041	Lat: 53.5333	Long: -113.9167	Name: Spruce Grove	Count:4635
+1042	Lat: 44.3891	Long: -79.6901	Name: Barrie	Count:342137
+1043	Lat: 54.5833	Long: -101.3833	Name: Cranberry Portage	Count:369
+1044	Lat: 54.15	Long: -113.1167	Name: Thorhild	Count:3517
+1045	Lat: 54.15	Long: -113.8667	Name: Westlock	Count:13547
+1046	Lat: 43.7882	Long: -79.1911	Name: Toronto	Count:39740
+1047	Lat: 48.9908	Long: -123.8174	Name: Ladysmith	Count:21864
+1048	Lat: 55.1389	Long: -118.773	Name: Grande Prairie	Count:13670
+1049	Lat: 43.2645	Long: -79.8664	Name: Hamilton	Count:59503
+1050	Lat: 46.0654	Long: -71.356	Name: Thetford-Mines	Count:1507
+1051	Lat: 49.0999	Long: -115.0853	Name: Grasmere	Count:143
+1052	Lat: 49.289	Long: -123.1294	Name: Vancouver	Count:84885
+1053	Lat: 51.1494	Long: -114.0019	Name: Calgary	Count:5445
+1054	Lat: 44.55	Long: -79.1833	Name: Brechin	Count:1005
+1055	Lat: 44.55	Long: -78.3333	Name: Buckhorn	Count:1374
+1056	Lat: 48.4244	Long: -71.2619	Name: Jonquiere	Count:7558
+1057	Lat: 51.7167	Long: -91.8	Name: Cat Lake	Count:1405
+1058	Lat: 47.5	Long: -79.6667	Name: New Liskeard	Count:17557
+1059	Lat: 53.2719	Long: -110.0044	Name: Lloydminster	Count:27279
+1060	Lat: 43.8582	Long: -80.0696	Name: Alton	Count:11496
+1061	Lat: 45.5503	Long: -75.4128	Name: Masson-Angers	Count:196825
+1062	Lat: 49.9611	Long: -97.0212	Name: Winnipeg	Count:9804
+1063	Lat: 54.2119	Long: -111.3661	Name: Mallaig	Count:1281
+1064	Lat: 42.9333	Long: -80.2833	Name: Waterford	Count:31771
+1065	Lat: 46.2318	Long: -63.1192	Name: Charlottetown	Count:89172
+1066	Lat: 49.1207	Long: -123.9284	Name: Nanaimo	Count:8901
+1067	Lat: 46.1655	Long: -65.872	Name: Chipman	Count:328
+1068	Lat: 43.3336	Long: -79.7771	Name: Burlington	Count:10501
+1069	Lat: 49.3016	Long: -123.0309	Name: North Vancouver	Count:35125
+1070	Lat: 45.4165	Long: -65.9913	Name: Quispamsis	Count:27638
+1071	Lat: 42.9927	Long: -81.1686	Name: London	Count:39514
+1072	Lat: 47.6	Long: -57.6333	Name: Burgeo	Count:1835
+1073	Lat: 47.6	Long: -79.65	Name: Notre-Dame-du-Nord	Count:1056
+1074	Lat: 42.8857	Long: -80.1114	Name: Norfolk County	Count:2697
+1075	Lat: 46.1417	Long: -72.7185	Name: Trois-Rivières	Count:205
+1076	Lat: 49.6167	Long: -125.0167	Name: Cumberland	Count:2533
+1077	Lat: 49.6167	Long: -116.8	Name: Gray Creek	Count:594
+1078	Lat: 49.6167	Long: -105.9833	Name: Assiniboia	Count:6532
+1079	Lat: 49.6167	Long: -100.25	Name: Souris	Count:769
+1080	Lat: 42.8167	Long: -82.4667	Name: Courtright	Count:1671
+1081	Lat: 44.231	Long: -76.4791	Name: Kingston	Count:73194
+1082	Lat: 48.5468	Long: -71.6399	Name: Alma	Count:27844
+1083	Lat: 48.9203	Long: -123.7187	Name: Chemainus	Count:6399
+1084	Lat: 52.2887	Long: -113.8394	Name: Red Deer	Count:72035
+1085	Lat: 43.68	Long: -79.3218	Name: Toronto	Count:67297
+1086	Lat: 45.6309	Long: -71.5806	Name: Marbleton	Count:799
+1087	Lat: 46.8428	Long: -71.2774	Name: Quebec	Count:2204
+1088	Lat: 49.0192	Long: -123.0867	Name: Delta	Count:42355
+1089	Lat: 46.6978	Long: -67.6736	Name: Perth	Count:1148
+1090	Lat: 46.3648	Long: -72.5564	Name: Trois-Rivières	Count:10317
+1091	Lat: 53.9313	Long: -122.7823	Name: Prince George	Count:38407
+1092	Lat: 46.0088	Long: -67.2512	Name: Nackawic	Count:615
+1093	Lat: 49.977	Long: -97.0633	Name: Winnipeg	Count:2820
+1094	Lat: 45.5335	Long: -75.0022	Name: Papineauville	Count:92
+1095	Lat: 45.5335	Long: -73.6464	Name: Montreal	Count:75060
+1096	Lat: 45.3349	Long: -63.2375	Name: Truro	Count:18224
+1097	Lat: 55.33	Long: -123.09	Name: Mackenzie	Count:9322
+1098	Lat: 45.057	Long: -79.3366	Name: Bracebridge	Count:30213
+1099	Lat: 46.1586	Long: -71.7097	Name: Victoriaville	Count:9589
+1100	Lat: 43.1334	Long: -79.1989	Name: St. Catharines	Count:10050
+1101	Lat: 46.156	Long: -74.5627	Name: Mont-Tremblant	Count:35033
+1102	Lat: 43.6333	Long: -80.0333	Name: Brampton	Count:25587
+1103	Lat: 44.3334	Long: -76.8305	Name: Napanee	Count:625
+1104	Lat: 45.0206	Long: -76.3633	Name: Lanark	Count:3589
+1105	Lat: 55.7667	Long: -120.2333	Name: Dawson Creek	Count:38140
+1106	Lat: 55.7667	Long: -118.7167	Name: Rycroft	Count:615
+1107	Lat: 44.5	Long: -81.3667	Name: Port Elgin	Count:2379
+1108	Lat: 44.5	Long: -79.4667	Name: Hawkestone Beach	Count:3835
+1109	Lat: 44.5	Long: -80.2167	Name: Collingwood	Count:3917
+1110	Lat: 53.5495	Long: -113.5453	Name: Edmonton	Count:40909
+1111	Lat: 45.338	Long: -75.255	Name: Limoges	Count:1651
+1112	Lat: 51.0809	Long: -114.1616	Name: Calgary	Count:57000
+1113	Lat: 46.4897	Long: -72.0339	Name: Fortierville	Count:256
+1114	Lat: 48.8131	Long: -79.2026	Name: La Sarre	Count:9722
+1115	Lat: 45.44	Long: -75.6524	Name: Ottawa	Count:6184
+1116	Lat: 45.9505	Long: -73.5707	Name: Saint-Jacques	Count:8942
+1117	Lat: 49.3167	Long: -117.6667	Name: Castlegar	Count:31002
+1118	Lat: 49.3167	Long: -123.0667	Name: North Vancouver	Count:124318
+1119	Lat: 46.6637	Long: -71.5698	Name: Saint-Antoine-de-Tilly	Count:2625
+1120	Lat: 45.7317	Long: -61.1418	Name: West Bay	Count:912
+1121	Lat: 45.5535	Long: -73.4987	Name: Longueuil	Count:14921
+1122	Lat: 46.0714	Long: -71.9332	Name: Victoriaville	Count:256
+1123	Lat: 45.3481	Long: -66.0186	Name: Saint John	Count:543
+1124	Lat: 43.9423	Long: -79.4595	Name: Richmond Hill	Count:57575
+1125	Lat: 44.3667	Long: -76.7667	Name: Yarker	Count:820
+1126	Lat: 45.4833	Long: -75.65	Name: Gatineau	Count:136328
+1127	Lat: 45.4833	Long: -73.6	Name: Westmount	Count:6717
+1128	Lat: 45.4833	Long: -72.3167	Name: Valcourt	Count:6204
+1129	Lat: 45.4833	Long: -73.8667	Name: Montreal	Count:584
+1130	Lat: 56.1833	Long: -117.6	Name: Grimshaw	Count:5168
+1131	Lat: 46.5426	Long: -71.635	Name: Donnacona	Count:584
+1132	Lat: 43.1477	Long: -80.7285	Name: Woodstock	Count:10163
+1133	Lat: 46.3907	Long: -63.7868	Name: Summerside	Count:27803
+1134	Lat: 45.6429	Long: -73.7494	Name: Laval	Count:9281
+1135	Lat: 47.2003	Long: -65.3193	Name: Miramichi	Count:1148
+1136	Lat: 47.4671	Long: -69.8805	Name: Saint-Philippe-de-Neri	Count:1066
+1137	Lat: 47.8167	Long: -79.8667	Name: Englehart	Count:4307
+1138	Lat: 49.2701	Long: -123.1038	Name: Vancouver	Count:53401
+1139	Lat: 52.05	Long: -107.9833	Name: Biggar	Count:5702
+1140	Lat: 47.6027	Long: -65.0723	Name: Tracadie–Sheila	Count:379
+1141	Lat: 45.4532	Long: -73.5818	Name: Verdun	Count:13865
+1142	Lat: 55.7	Long: -116.9	Name: McLennan	Count:758
+1143	Lat: 51.5333	Long: -107.25	Name: Conquest	Count:676
+1144	Lat: 51.5333	Long: -114.1	Name: Carstairs	Count:3404
+1145	Lat: 51.5333	Long: -111.2	Name: Youngstown	Count:266
+1146	Lat: 50.1076	Long: -120.7755	Name: Merritt	Count:19393
+1147	Lat: 43.7494	Long: -79.5614	Name: Toronto	Count:9199
+1148	Lat: 43.7494	Long: -79.7511	Name: Brampton	Count:91695
+1149	Lat: 45.6549	Long: -72.7626	Name: Saint-Hyacinthe	Count:5004
+1150	Lat: 51.9167	Long: -114.0333	Name: Bowden	Count:769
+1151	Lat: 51.9167	Long: -109.1333	Name: Kerrobert	Count:5568
+1152	Lat: 51.9167	Long: -107.1167	Name: Delisle	Count:461
+1153	Lat: 46.1334	Long: -60.1947	Name: Sydney	Count:16542
+1154	Lat: 44.15	Long: -76.7667	Name: Emerald	Count:1856
+1155	Lat: 51.1497	Long: -114.2695	Name: Calgary	Count:10265
+1156	Lat: 48.7768	Long: -123.7077	Name: Duncan	Count:78886
+1157	Lat: 50.7667	Long: -112.0833	Name: Rosemary	Count:1005
+1158	Lat: 50.7667	Long: -103.7833	Name: Fort Qu'Appelle	Count:2779
+1159	Lat: 45.4779	Long: -76.6731	Name: Renfrew	Count:9414
+1160	Lat: 44.2871	Long: -79.6703	Name: Barrie	Count:46570
+1161	Lat: 45.3814	Long: -71.9827	Name: Sherbrooke	Count:28182
+1162	Lat: 53.4967	Long: -113.6162	Name: Edmonton	Count:61205
+1163	Lat: 43.6892	Long: -79.7079	Name: Brampton	Count:54047
+1164	Lat: 53.7167	Long: -111.75	Name: Two Hills	Count:1784
+1165	Lat: 53.7167	Long: -113.2	Name: Fort Saskatchewan	Count:2184
+1166	Lat: 53.7167	Long: -110	Name: Onion Lake	Count:881
+1167	Lat: 45.7418	Long: -70.6912	Name: Saint-Ludger	Count:1158
+1168	Lat: 45.6089	Long: -73.7331	Name: Laval	Count:95715
+1169	Lat: 46.0872	Long: -61.371	Name: Mabou	Count:851
+1170	Lat: 45.8852	Long: -72.414	Name: Drummondville	Count:1333
+1171	Lat: 43.4241	Long: -80.5214	Name: Kitchener	Count:32766
+1172	Lat: 50.3167	Long: -115.8667	Name: Fairmont Hot Springs	Count:348
+1173	Lat: 50.3167	Long: -122.8167	Name: Pemberton	Count:3168
+1174	Lat: 44.2507	Long: -76.5828	Name: Kingston	Count:52057
+1175	Lat: 51.0171	Long: -114.0812	Name: Calgary	Count:19270
+1176	Lat: 49.8826	Long: -97.1623	Name: Winnipeg	Count:113765
+1177	Lat: 46.4322	Long: -63.8693	Name: Miscouche	Count:71
+1178	Lat: 43.7054	Long: -79.4272	Name: Toronto	Count:37422
+1179	Lat: 43.1576	Long: -80.8992	Name: Woodstock	Count:933
+1180	Lat: 43.1884	Long: -80.2422	Name: Brantford	Count:11209
+1181	Lat: 49.2249	Long: -123.1052	Name: Vancouver	Count:63892
+1182	Lat: 47.3667	Long: -70.0333	Name: La Pocatiere	Count:5056
+1183	Lat: 47.3667	Long: -61.9333	Name: L'Etang-du-Nord	Count:574
+1184	Lat: 46.4833	Long: -80.85	Name: Coniston	Count:2563
+1185	Lat: 46.4833	Long: -70.6167	Name: Saint-Leon-de-Standon	Count:687
+1186	Lat: 46.4833	Long: -84.0667	Name: Echo Bay	Count:2871
+1187	Lat: 46.4833	Long: -72.6667	Name: Trois-Rivières	Count:2379
+1188	Lat: 46.4833	Long: -80.5333	Name: Markstay	Count:328
+1189	Lat: 43.3938	Long: -80.4443	Name: Kitchener	Count:22172
+1190	Lat: 46.1134	Long: -71.3108	Name: Thetford-Mines	Count:11476
+1191	Lat: 47.9645	Long: -65.2396	Name: Paspebiac	Count:1702
+1192	Lat: 49.0013	Long: -97.5568	Name: Gretna	Count:789
+1193	Lat: 48.3761	Long: -123.7213	Name: Sooke	Count:29064
+1194	Lat: 46.22	Long: -63.1	Name: Stratford	Count:2984
+1195	Lat: 54.8486	Long: -112.3439	Name: Plamondon	Count:3107
+1196	Lat: 43.4427	Long: -79.6664	Name: Oakville	Count:64825
+1197	Lat: 45.2958	Long: -74.3884	Name: Salaberry-de-Valleyfield	Count:2287
+1198	Lat: 53.6916	Long: -113.2286	Name: Fort Saskatchewan	Count:64620
+1199	Lat: 52.029	Long: -113.9474	Name: Innisfail	Count:17034
+1200	Lat: 46.4986	Long: -72.2541	Name: Batiscan	Count:1056
+1201	Lat: 49.1859	Long: -97.9396	Name: Winkler	Count:16234
+1202	Lat: 48.3333	Long: -64.6667	Name: Chandler	Count:4266
+1203	Lat: 48.3333	Long: -70.8667	Name: La Baie	Count:5948
+1204	Lat: 50.7	Long: -114.2333	Name: Black Diamond	Count:2738
+1205	Lat: 50.7	Long: -105.2167	Name: Bethune	Count:266
+1206	Lat: 50.7	Long: -122.3	Name: Seton Portage	Count:8142
+1207	Lat: 43.5156	Long: -80.2827	Name: Guelph	Count:3363
+1208	Lat: 42.8181	Long: -81.9828	Name: Inwood	Count:2502
+1209	Lat: 44.6039	Long: -79.4126	Name: Orillia	Count:80783
+1210	Lat: 53.75	Long: -112.7833	Name: Lamont	Count:5189
+1211	Lat: 45.6333	Long: -75.9333	Name: Wakefield	Count:358
+1212	Lat: 45.6333	Long: -73.5167	Name: Montreal East	Count:779
+1213	Lat: 49.7667	Long: -117.4667	Name: Slocan	Count:4163
+1214	Lat: 49.7667	Long: -100.6333	Name: Oak Lake	Count:215
+1215	Lat: 49.7667	Long: -100.4667	Name: Griswold	Count:194
+1216	Lat: 49.7667	Long: -123.15	Name: Brackendale	Count:1302
+1217	Lat: 49.7667	Long: -94.4848	Name: Kenora	Count:26531
+1218	Lat: 49.7667	Long: -119.75	Name: Peachland	Count:11660
+1219	Lat: 48.4757	Long: -81.3366	Name: Timmins	Count:53072
+1220	Lat: 51.127	Long: -114.0787	Name: Calgary	Count:212978
+1221	Lat: 44.7031	Long: -76.1805	Name: Perth	Count:523
+1222	Lat: 45.7833	Long: -75.1	Name: Ripon	Count:2122
+1223	Lat: 45.7833	Long: -73.15	Name: Saint-Denis	Count:2010
+1224	Lat: 45.7833	Long: -80.5333	Name: Britt	Count:51
+1225	Lat: 54.5058	Long: -128.5823	Name: Terrace	Count:30992
+1226	Lat: 45.3064	Long: -73.6771	Name: Montreal	Count:1322
+1227	Lat: 43.257	Long: -79.8697	Name: Hamilton	Count:108832
+1228	Lat: 48.949	Long: -55.6725	Name: Grand Falls-Windsor	Count:4256
+1229	Lat: 46.3036	Long: -79.4624	Name: North Bay	Count:25413
+1230	Lat: 49.2658	Long: -123.1151	Name: Vancouver	Count:110709
+1231	Lat: 53.5682	Long: -113.4822	Name: Edmonton	Count:51975
+1232	Lat: 45.4988	Long: -73.6442	Name: Montreal	Count:35771
+1233	Lat: 49.2225	Long: -122.4984	Name: Maple Ridge	Count:25474
+1234	Lat: 55.3167	Long: -119.5667	Name: Hythe	Count:1558
+1235	Lat: 49.1861	Long: -98.1204	Name: Morden	Count:17731
+1236	Lat: 49.273	Long: -123.185	Name: Vancouver	Count:32264
+1237	Lat: 50.0885	Long: -91.9086	Name: Sioux Lookout	Count:18378
+1238	Lat: 43.025	Long: -80.654	Name: Burgessville	Count:16778
+1239	Lat: 44.5906	Long: -75.6808	Name: Brockville	Count:60292
+1240	Lat: 43.6492	Long: -79.3823	Name: Toronto	Count:2727
+1241	Lat: 45.1171	Long: -64.4146	Name: Wolfville	Count:2707
+1242	Lat: 46.372	Long: -82.6721	Name: Elliot Lake	Count:29864
+1243	Lat: 45.5716	Long: -73.5985	Name: Montreal	Count:8860
+1244	Lat: 46.2	Long: -82.0833	Name: Massey	Count:1302
+1245	Lat: 51.4833	Long: -120.7	Name: Bridge Lake	Count:543
+1246	Lat: 51.4833	Long: -107.5167	Name: Milden	Count:769
+1247	Lat: 48.736	Long: -123.62	Name: Cowichan Bay	Count:3692
+1248	Lat: 50.1833	Long: -86.7	Name: Nakina	Count:1835
+1249	Lat: 50.1833	Long: -104.9	Name: Rouleau	Count:1384
+1250	Lat: 50.1833	Long: -66.6333	Name: Clarke City	Count:666
+1251	Lat: 50.1833	Long: -100.6	Name: Hamiota	Count:738
+1252	Lat: 42.9891	Long: -82.399	Name: Sarnia	Count:28972
+1253	Lat: 45.3405	Long: -80.0365	Name: Parry Sound	Count:12378
+1254	Lat: 49.2702	Long: -123.1017	Name: Vancouver	Count:14809
+1255	Lat: 42.824	Long: -80.4811	Name: Delhi	Count:1189
+1256	Lat: 43.0776	Long: -79.9639	Name: Caledonia	Count:10881
+1257	Lat: 48.1666	Long: -53.9628	Name: Clarenville	Count:12573
+1258	Lat: 45.239	Long: -75.4708	Name: Ottawa	Count:553
+1259	Lat: 51.3333	Long: -107.45	Name: Dinsmore	Count:1302
+1260	Lat: 44.2167	Long: -77.3667	Name: Corbyville	Count:1169
+1261	Lat: 49.8833	Long: -103.4333	Name: Fillmore	Count:338
+1262	Lat: 49.8833	Long: -113.05	Name: Nobleford	Count:2440
+1263	Lat: 49.8833	Long: -97.1667	Name: Winnipeg	Count:1055816
+1264	Lat: 49.8833	Long: -124.55	Name: Powell River	Count:4297
+1265	Lat: 49.8833	Long: -106.55	Name: Gravelbourg	Count:2440
+1266	Lat: 53.4768	Long: -113.3662	Name: Edmonton	Count:39484
+1267	Lat: 53.9	Long: -110.9	Name: Elk Point	Count:5107
+1268	Lat: 45.4117	Long: -71.9074	Name: Sherbrooke	Count:30530
+1269	Lat: 42.9114	Long: -81.2999	Name: London	Count:7619
+1270	Lat: 45.6484	Long: -74.3406	Name: Lachute	Count:10481
+1271	Lat: 50.75	Long: -120.85	Name: Savona	Count:676
+1272	Lat: 50.75	Long: -111.1833	Name: Jenner	Count:923
+1273	Lat: 46.7833	Long: -71.3	Name: Sainte-Foy	Count:51
+1274	Lat: 46.7833	Long: -71.3833	Name: Quebec	Count:5609
+1275	Lat: 46.6667	Long: -64.0667	Name: Portage	Count:574
+1276	Lat: 45.2822	Long: -71.9715	Name: Sherbrooke	Count:9373
+1277	Lat: 49.1701	Long: -123.1438	Name: Richmond	Count:79275
+1278	Lat: 47.6833	Long: -53.25	Name: Harbour Grace	Count:6932
+1279	Lat: 45.0186	Long: -74.7129	Name: Cornwall	Count:59985
+1280	Lat: 46.8175	Long: -71.371	Name: Quebec	Count:36499
+1281	Lat: 48.0054	Long: -65.5314	Name: Bonaventure	Count:41
+1282	Lat: 42.9344	Long: -81.2802	Name: London	Count:3989
+1283	Lat: 45.582	Long: -72.0094	Name: Windsor	Count:3251
+1284	Lat: 42.4029	Long: -82.1941	Name: Chatham	Count:46160
+1285	Lat: 45.0607	Long: -74.7542	Name: Cornwall	Count:3651
+1286	Lat: 43.8744	Long: -78.9638	Name: Ajax	Count:21095
+1287	Lat: 49.0798	Long: -123.0882	Name: Delta	Count:76619
+1288	Lat: 43.8265	Long: -78.9991	Name: Ajax	Count:104894
+1289	Lat: 44.3238	Long: -78.303	Name: Peterborough	Count:6573
+1290	Lat: 43.1061	Long: -80.4289	Name: Brantford	Count:184
+1291	Lat: 43.447	Long: -80.4725	Name: Kitchener	Count:639602
+1292	Lat: 45.4805	Long: -75.5237	Name: Ottawa	Count:75573
+1293	Lat: 53.3667	Long: -106.6	Name: Canwood	Count:1425
+1294	Lat: 53.3667	Long: -112.6667	Name: Tofield	Count:3168
+1295	Lat: 53.3667	Long: -107.5167	Name: Spiritwood	Count:1507
+1296	Lat: 53.3667	Long: -104.0167	Name: Nipawin	Count:5927
+1297	Lat: 52.4833	Long: -113.45	Name: Clive	Count:1087
+1298	Lat: 52.4833	Long: -105.7167	Name: Cudworth	Count:594
+1299	Lat: 49.1833	Long: -53.5333	Name: New-Wes-Valley	Count:164
+1300	Lat: 49.1833	Long: -119.55	Name: Oliver	Count:9742
+1301	Lat: 49.1833	Long: -97.9333	Name: Winkler	Count:564
+1302	Lat: 49.1833	Long: -101.25	Name: Pierson	Count:338
+1303	Lat: 49.1833	Long: -99.6667	Name: Killarney	Count:840
+1304	Lat: 49.1833	Long: -98.1	Name: Morden	Count:1610
+1305	Lat: 49.1833	Long: -123.85	Name: Gabriola	Count:6399
+1306	Lat: 49.1833	Long: -122.0667	Name: Deroche	Count:687
+1307	Lat: 49.1833	Long: -103.6667	Name: Bromhead	Count:1610
+1308	Lat: 49.1833	Long: -97.7667	Name: Plum Coulee	Count:1312
+1309	Lat: 43.304	Long: -79.7991	Name: Burlington	Count:17444
+1310	Lat: 53.2524	Long: -113.5388	Name: Leduc	Count:109407
+1311	Lat: 51.8	Long: -106.5	Name: Dundurn	Count:2871
+1312	Lat: 51.8	Long: -113.6	Name: Torrington	Count:266
+1313	Lat: 43.8927	Long: -79.2641	Name: Markham	Count:152275
+1314	Lat: 45.0546	Long: -63.3805	Name: Shubenacadie	Count:625
+1315	Lat: 44.902	Long: -76.2457	Name: Perth	Count:21649
+1316	Lat: 44.3002	Long: -66.1532	Name: Church Point	Count:923
+1317	Lat: 53.2833	Long: -103.5833	Name: Carrot River	Count:2871
+1318	Lat: 53.2833	Long: -110	Name: Lloydminster	Count:5404
+1319	Lat: 49.929	Long: -119.4676	Name: Kelowna	Count:53924
+1320	Lat: 42.7935	Long: -80.7441	Name: Eden	Count:3004
+1321	Lat: 56.5167	Long: -119.0667	Name: Worsley	Count:543
+1322	Lat: 43.0065	Long: -79.4775	Name: St. Catharines	Count:4102
+1323	Lat: 44.3	Long: -77.55	Name: Stirling	Count:3107
+1324	Lat: 44.3	Long: -81.2833	Name: Paisley	Count:1271
+1325	Lat: 44.3	Long: -78.55	Name: Omemee	Count:5271
+1326	Lat: 44.3	Long: -78.3333	Name: Peterborough	Count:76660
+1327	Lat: 44.3	Long: -81.1	Name: Chesley	Count:4030
+1328	Lat: 44.3	Long: -79.3667	Name: Sutton	Count:1538
+1329	Lat: 44.3	Long: -77.95	Name: Hastings	Count:769
+1330	Lat: 44.3	Long: -77.8	Name: Campbellford	Count:6676
+1331	Lat: 46.4364	Long: -63.6398	Name: Kensington	Count:26356
+1332	Lat: 51.9667	Long: -105.8667	Name: Colonsay	Count:1784
+1333	Lat: 46.2132	Long: -70.4826	Name: Saint-Prosper	Count:2051
+1334	Lat: 45.2308	Long: -66.0953	Name: Saint John	Count:208219
+1335	Lat: 43.7833	Long: -79.4167	Name: Willowdale	Count:1179
+1336	Lat: 45.9037	Long: -72.5297	Name: Drummondville	Count:4861
+1337	Lat: 42.9419	Long: -81.2475	Name: London	Count:32120
+1338	Lat: 43.6667	Long: -79.4167	Name: Toronto	Count:9428581
+1339	Lat: 42.9627	Long: -81.2948	Name: London	Count:45114
+1340	Lat: 49.2393	Long: -123.0729	Name: Vancouver	Count:89100
+1341	Lat: 43.261	Long: -81.1516	Name: Stratford	Count:16532
+1342	Lat: 53.6026	Long: -113.3837	Name: Edmonton	Count:51739
+1343	Lat: 55.5169	Long: -102.3175	Name: Sandy Bay	Count:256
+1344	Lat: 45.3339	Long: -75.9098	Name: Kanata	Count:22152
+1345	Lat: 45.4968	Long: -74.9927	Name: Clarence-Rockland	Count:769
+1346	Lat: 43.7648	Long: -79.4325	Name: Toronto	Count:63154
+1347	Lat: 44.7289	Long: -63.6644	Name: Bedford	Count:13188
+1348	Lat: 45.1665	Long: -73.5239	Name: Sherrington	Count:4440
+1349	Lat: 47.85	Long: -59.15	Name: O'Regan's	Count:594
+1350	Lat: 49.0168	Long: -122.7738	Name: Surrey	Count:85111
+1351	Lat: 49.1551	Long: -121.9459	Name: Chilliwack	Count:107745
+1352	Lat: 45.3635	Long: -73.2985	Name: Saint-Jean-sur-Richelieu	Count:625
+1353	Lat: 44.628	Long: -75.9489	Name: Brockville	Count:3107
+1354	Lat: 48.3667	Long: -53.8667	Name: Lethbridge	Count:471
+1355	Lat: 48.3667	Long: -68.7	Name: Bic	Count:635
+1356	Lat: 45.5055	Long: -73.823	Name: Dollard-Des Ormeaux	Count:13116
+1357	Lat: 48.8	Long: -87.2667	Name: Schreiber	Count:717
+1358	Lat: 52.95	Long: -105.0333	Name: Kinistino	Count:728
+1359	Lat: 45.418	Long: -73.9515	Name: Sainte-Anne-de-Bellevue	Count:9465
+1360	Lat: 46.0469	Long: -74.2901	Name: Sainte-Agathe-des-Monts	Count:14050
+1361	Lat: 45.9393	Long: -66.09	Name: Princess Park	Count:820
+1362	Lat: 50.7501	Long: -114.3187	Name: Millarville	Count:1333
+1363	Lat: 45.2256	Long: -73.7342	Name: Chateauguay	Count:687
+1364	Lat: 55.1667	Long: -118.8	Name: Grande Prairie	Count:20018
+1365	Lat: 53.4782	Long: -113.5873	Name: Edmonton	Count:128020
+1366	Lat: 46.406	Long: -72.2724	Name: Trois-Rivières	Count:3507
+1367	Lat: 60	Long: -111.8833	Name: Fort Smith	Count:5343
+1368	Lat: 60	Long: -95	Name: 	Count:12285891
+1369	Lat: 43.8833	Long: -66.0833	Name: Hebron	Count:861
+1370	Lat: 43.9	Long: -78.8	Name: Oshawa	Count:9465
+1371	Lat: 43.9	Long: -78.8667	Name: Oshawa	Count:50447
+1372	Lat: 43.9	Long: -80.3167	Name: Grand Valley	Count:2799
+1373	Lat: 43.1418	Long: -79.2133	Name: St. Catharines	Count:13598
+1374	Lat: 46.3555	Long: -63.3491	Name: Hunter River	Count:4338
+1375	Lat: 43.6272	Long: -79.6222	Name: Mississauga	Count:107489
+1376	Lat: 48.0091	Long: -66.6707	Name: Campbellton	Count:11988
+1377	Lat: 45.3159	Long: -75.0866	Name: Casselman	Count:584
+1378	Lat: 44.75	Long: -79.3333	Name: Washago	Count:6409
+1379	Lat: 44.75	Long: -65.5167	Name: Granville Ferry	Count:861
+1380	Lat: 44.75	Long: -79.7	Name: Waubaushene	Count:307
+1381	Lat: 44.75	Long: -79.9	Name: Midland	Count:12501
+1382	Lat: 44.75	Long: -79.7667	Name: Victoria Harbour	Count:10891
+1383	Lat: 44.75	Long: -78.0833	Name: Apsley	Count:1876
+1384	Lat: 44.75	Long: -79.8167	Name: Port McNicoll	Count:10778
+1385	Lat: 46.5442	Long: -75.4972	Name: Mont-Laurier	Count:14716
+1386	Lat: 43.773	Long: -80.0649	Name: Erin	Count:15660
+1387	Lat: 48.6128	Long: -123.4198	Name: Victoria	Count:60436
+1388	Lat: 45.795	Long: -74.0017	Name: Saint-Jerome	Count:60744
+1389	Lat: 52.2592	Long: -113.8237	Name: Red Deer	Count:146152
+1390	Lat: 46.495	Long: -72.9605	Name: Place-Garceau	Count:964
+1391	Lat: 45.688	Long: -75.7837	Name: Gatineau	Count:5435
+1392	Lat: 46.2397	Long: -60.0998	Name: Scotchtown	Count:17342
+1393	Lat: 44.4636	Long: -65.9437	Name: Lewistown	Count:215
+1394	Lat: 47.4926	Long: -52.8123	Name: St. John's	Count:728
+1395	Lat: 49.0023	Long: -123.0368	Name: Vancouver	Count:3251
+1396	Lat: 49.3233	Long: -124.3227	Name: Parksville	Count:53298
+1397	Lat: 45.7005	Long: -73.5298	Name: Terrebonne	Count:18644
+1398	Lat: 42.8343	Long: -79.9293	Name: Cheapside	Count:717
+1399	Lat: 43.6392	Long: -79.4058	Name: Toronto	Count:64723
+1400	Lat: 43.8603	Long: -79.0434	Name: Ajax	Count:107437
+1401	Lat: 43.877	Long: -79.2578	Name: Markham	Count:143701
+1402	Lat: 45.5577	Long: -73.5935	Name: Montreal	Count:37535
+1403	Lat: 51.1896	Long: -114.4774	Name: Cochrane	Count:61892
+1404	Lat: 43.2298	Long: -79.7722	Name: Stoney Creek	Count:52221
+1405	Lat: 45.3679	Long: -75.7888	Name: Ottawa	Count:55134
+1406	Lat: 43.3831	Long: -80.3191	Name: Cambridge	Count:109765
+1407	Lat: 45.7333	Long: -73.45	Name: Repentigny	Count:22429
+1408	Lat: 45.5434	Long: -73.6061	Name: Montreal	Count:19803
+1409	Lat: 43.8605	Long: -79.3279	Name: Markham	Count:104402
+1410	Lat: 45.5194	Long: -73.5839	Name: Montreal	Count:8686
+1411	Lat: 49.2857	Long: -123.1142	Name: Vancouver	Count:8604
+1412	Lat: 42.21	Long: -82.8871	Name: Maidstone	Count:6963
+1413	Lat: 45.8333	Long: -71.6667	Name: Domaine-des-Sept-Chutes	Count:266
+1414	Lat: 44.058	Long: -79.4526	Name: Newmarket	Count:148942
+1415	Lat: 47.0667	Long: -55.8667	Name: Fortune	Count:594
+1416	Lat: 47.9163	Long: -69.4367	Name: Rivière-du-Loup	Count:605
+1417	Lat: 48.471	Long: -123.3438	Name: Victoria	Count:68507
+1418	Lat: 43.4235	Long: -81.6248	Name: Bluewater	Count:1763
+1419	Lat: 43.7023	Long: -79.7909	Name: Brampton	Count:172140
+1420	Lat: 45.139	Long: -74.359	Name: Saint-Anicet	Count:1097
+1421	Lat: 47.4883	Long: -64.9189	Name: Tracadie–Sheila	Count:7230
+1422	Lat: 61.6	Long: -71.95	Name: Kangiqsujuaq	Count:420
+1423	Lat: 63.1333	Long: -117.2667	Name: Whatì	Count:307
+1424	Lat: 42.8858	Long: -81.0878	Name: London	Count:2461
+1425	Lat: 49.3664	Long: -123.1693	Name: West Vancouver	Count:143
+1426	Lat: 46.9159	Long: -71.3163	Name: Quebec	Count:7609
+1427	Lat: 51.2833	Long: -98.4167	Name: Moosehorn	Count:923
+1428	Lat: 52.1667	Long: -103.5167	Name: Kelvington	Count:2276
+1429	Lat: 44.9	Long: -75.1833	Name: Morrisburg	Count:6327
+1430	Lat: 45.9434	Long: -66.2195	Name: Ripples	Count:8214
+1431	Lat: 45.3113	Long: -73.2604	Name: Saint-Jean-sur-Richelieu	Count:25895
+1432	Lat: 43.8624	Long: -79.9945	Name: Caledon	Count:31607
+1433	Lat: 45.7852	Long: -70.9715	Name: Saint-Sebastien	Count:564
+1434	Lat: 43.7103	Long: -79.4714	Name: Toronto	Count:19485
+1435	Lat: 45.4468	Long: -74.5739	Name: Hawkesbury	Count:1117
+1436	Lat: 45.6907	Long: -61.5039	Name: Havre Boucher	Count:2430
+1437	Lat: 45.9784	Long: -66.6905	Name: Fredericton	Count:40263
+1438	Lat: 53.9667	Long: -97.8333	Name: Norway House	Count:789
+1439	Lat: 45.6142	Long: -73.669	Name: Laval	Count:33279
+1440	Lat: 42.3159	Long: -83.0393	Name: Windsor	Count:92228
+1441	Lat: 51.0759	Long: -114.0015	Name: Calgary	Count:186201
+1442	Lat: 49.1699	Long: -123.0912	Name: Richmond	Count:9301
+1443	Lat: 45.6352	Long: -72.9726	Name: Saint-Hyacinthe	Count:40273
+1444	Lat: 43.7271	Long: -79.4666	Name: Toronto	Count:2348
+1445	Lat: 45.5719	Long: -73.5499	Name: Montreal	Count:24049
+1446	Lat: 42.9519	Long: -79.8538	Name: Cayuga	Count:2522
+1447	Lat: 45.6526	Long: -74.0915	Name: Mirabel	Count:16285
+1448	Lat: 46.8143	Long: -71.2431	Name: Quebec	Count:64313
+1449	Lat: 51.5667	Long: -101.9	Name: Kamsack	Count:5886
+1450	Lat: 45.2735	Long: -75.292	Name: St-Onge	Count:4902
+1451	Lat: 44.7215	Long: -75.5161	Name: Prescott	Count:30777
+1452	Lat: 45.4769	Long: -73.4992	Name: Brossard	Count:24377
+1453	Lat: 45.4769	Long: -75.4835	Name: Orleans	Count:67738
+1454	Lat: 47.1167	Long: -70.1833	Name: La Pocatiere	Count:1333
+1455	Lat: 46.7333	Long: -65.4489	Name: Rogersville	Count:2533
+1456	Lat: 47.1192	Long: -70.8622	Name: Saint-Ferreol-les-Neiges	Count:851
+1457	Lat: 49.853	Long: -97.0998	Name: Winnipeg	Count:46642
+1458	Lat: 42.703	Long: -81.0779	Name: Sparta	Count:861
+1459	Lat: 48.0833	Long: -53.0167	Name: Old Perlican	Count:1374
+1460	Lat: 48.4061	Long: -123.3504	Name: Victoria	Count:34592
+1461	Lat: 53.5462	Long: -113.2562	Name: Sherwood Park	Count:80096
+1462	Lat: 48.65	Long: -53.7667	Name: Eastport	Count:1179
+1463	Lat: 48.65	Long: -86.2833	Name: Heron Bay	Count:974
+1464	Lat: 48.65	Long: -58.9833	Name: Lourdes	Count:615
+1465	Lat: 45.441	Long: -74.8957	Name: Hawkesbury	Count:1138
+1466	Lat: 50.95	Long: -104.2	Name: Cupar	Count:594
+1467	Lat: 50.95	Long: -101.2333	Name: Inglis	Count:707
+1468	Lat: 50.95	Long: -112.1833	Name: Gem	Count:246
+1469	Lat: 43.7964	Long: -79.4278	Name: Thornhill	Count:151998
+1470	Lat: 56.2167	Long: -120.6833	Name: Baldonnel	Count:235
+1471	Lat: 49.1667	Long: -122.9667	Name: Richmond	Count:120349
+1472	Lat: 49.1667	Long: -121.95	Name: Chilliwack	Count:6543
+1473	Lat: 49.1667	Long: -57.1167	Name: Howley	Count:482
+1474	Lat: 49.1667	Long: -101.7833	Name: Carnduff	Count:5035
+1475	Lat: 44.1607	Long: -77.369	Name: Belleville	Count:44304
+1476	Lat: 45.8833	Long: -73.15	Name: Saint-Roch-de-Richelieu	Count:164
+1477	Lat: 45.8833	Long: -72.7667	Name: Saint-Guillaume	Count:1897
+1478	Lat: 45.8833	Long: -72.4833	Name: Drummondville	Count:9691
+1479	Lat: 49.5167	Long: -97.7	Name: Sperling	Count:574
+1480	Lat: 49.5167	Long: -123.9167	Name: Halfmoon Bay	Count:9712
+1481	Lat: 49.5167	Long: -115.7667	Name: Cranbrook	Count:3917
+1482	Lat: 49.5167	Long: -112.1833	Name: Wrentham	Count:1794
+1483	Lat: 49.5167	Long: -112.5167	Name: Stirling	Count:1189
+1484	Lat: 43.7248	Long: -79.4033	Name: Toronto	Count:22029
+1485	Lat: 60.7227	Long: -135.0534	Name: Whitehorse	Count:51780
+1486	Lat: 45.5333	Long: -73.4833	Name: Longueuil	Count:1733
+1487	Lat: 45.5333	Long: -73.35	Name: Saint-Bruno-de-Montarville	Count:164
+1488	Lat: 45.5333	Long: -79.3167	Name: Emsdale	Count:666
+1489	Lat: 45.5333	Long: -73.5167	Name: Longueuil	Count:66641
+1490	Lat: 45.5333	Long: -71.2833	Name: Scotstown	Count:123
+1491	Lat: 45.5333	Long: -73.2167	Name: Otterburn Park	Count:5486
+1492	Lat: 42.9641	Long: -80.0555	Name: Hagersville	Count:3415
+1493	Lat: 46.1296	Long: -70.3662	Name: Saint-Zacharie	Count:984
+1494	Lat: 46.1296	Long: -67.1953	Name: Millville	Count:410
+1495	Lat: 45.119	Long: -75.0113	Name: Cornwall	Count:748
+1496	Lat: 48.8221	Long: -124.0531	Name: Lake Cowichan	Count:1722
+1497	Lat: 43.9164	Long: -80.0967	Name: Orangeville	Count:16962
+1498	Lat: 46.4024	Long: -72.5846	Name: Trois-Rivières	Count:7086
+1499	Lat: 43.507	Long: -81.2849	Name: Dublin	Count:164
+1500	Lat: 50.4896	Long: -104.6694	Name: McCarthy Park	Count:5589
+1501	Lat: 45.5874	Long: -74.4691	Name: Hawkesbury	Count:164
+1502	Lat: 45.5148	Long: -73.5739	Name: Montreal	Count:286634
+1503	Lat: 45.5148	Long: -73.7309	Name: Vieux-Saint-Laurent	Count:42622
+1504	Lat: 43.5699	Long: -65.576	Name: Barrington	Count:1261
+1505	Lat: 44.0929	Long: -77.9384	Name: Cobourg	Count:3117
+1506	Lat: 43.7976	Long: -79.227	Name: Scarborough	Count:91469
+1507	Lat: 45.7786	Long: -72.9865	Name: Saint-Jude	Count:1681
+1508	Lat: 45.7786	Long: -73.3498	Name: Vercheres	Count:7630
+1509	Lat: 45.7543	Long: -63.069	Name: River John	Count:184
+1510	Lat: 53.4129	Long: -113.4957	Name: Edmonton	Count:58713
+1511	Lat: 50.9333	Long: -104.5	Name: Southey	Count:1281
+1512	Lat: 50.9333	Long: -102.8	Name: Melville	Count:13834
+1513	Lat: 50.9333	Long: -102.0333	Name: Bredenbury	Count:1630
+1514	Lat: 50.9333	Long: -118.7833	Name: Malakwa	Count:205
+1515	Lat: 45.4409	Long: -73.7733	Name: Dorval	Count:47360
+1516	Lat: 46.7772	Long: -65.8638	Name: Lockstead	Count:4717
+1517	Lat: 52.85	Long: -102.3833	Name: Hudson Bay	Count:1630
+1518	Lat: 43.898	Long: -78.8656	Name: Oshawa	Count:220321
+1519	Lat: 45.62	Long: -73.8564	Name: Boisbriand	Count:6584
+1520	Lat: 49.5031	Long: -119.5905	Name: Penticton	Count:128349
+1521	Lat: 45.489	Long: -73.618	Name: Westmount	Count:10429
+1522	Lat: 43.5319	Long: -79.6403	Name: Mississauga	Count:6214
+1523	Lat: 51.0833	Long: -114.0833	Name: Calgary	Count:899162
+1524	Lat: 44.4667	Long: -77.3	Name: Tweed	Count:4502
+1525	Lat: 44.4667	Long: -63.8	Name: Prospect	Count:943
+1526	Lat: 44.1688	Long: -80.392	Name: Dundalk	Count:8645
+1527	Lat: 49.1333	Long: -125.9	Name: Tofino	Count:3938
+1528	Lat: 49.1333	Long: -97.15	Name: Dominion City	Count:420
+1529	Lat: 49.1333	Long: -112.0833	Name: Milk River	Count:717
+1530	Lat: 49.1333	Long: -113.6	Name: Mountain View	Count:820
+1531	Lat: 49.1333	Long: -122.3	Name: Mission	Count:13178
+1532	Lat: 49.1333	Long: -85.8	Name: Manitouwadge	Count:4348
+1533	Lat: 49.1333	Long: -118.6833	Name: Greenwood	Count:748
+1534	Lat: 44.41	Long: -64.3632	Name: Mahone Bay	Count:2256
+1535	Lat: 45.6787	Long: -62.7137	Name: Pictou	Count:6902
+1536	Lat: 46.0606	Long: -71.9477	Name: Victoriaville	Count:40294
+1537	Lat: 50.4707	Long: -104.6116	Name: Regina	Count:82116
+1538	Lat: 45.1046	Long: -73.7572	Name: Saint-Chrysostome	Count:471
+1539	Lat: 46.0631	Long: -71.9588	Name: Victoriaville	Count:7086
+1540	Lat: 47.05	Long: -55.1833	Name: Burin	Count:1015
+1541	Lat: 46.4176	Long: -62.7071	Name: Morell	Count:2656
+1542	Lat: 46.0888	Long: -64.7723	Name: Moncton	Count:75932
+1543	Lat: 45.4958	Long: -73.754	Name: Vieux-Saint-Laurent	Count:5343
+1544	Lat: 44.1545	Long: -78.4603	Name: Millbrook	Count:18942
+1545	Lat: 51	Long: -118.1833	Name: Revelstoke	Count:8604
+1546	Lat: 51	Long: -97	Name: Riverton	Count:287
+1547	Lat: 43.8084	Long: -79.6089	Name: Woodbridge	Count:110032
+1548	Lat: 44.5167	Long: -77.4833	Name: Madoc	Count:1835
+1549	Lat: 43.2381	Long: -80.5507	Name: Drumbo	Count:4738
+1550	Lat: 44.8935	Long: -79.741	Name: Midland	Count:2061
+1551	Lat: 45.6811	Long: -73.2019	Name: Saint-Marc-sur-Richelieu	Count:1712
+1552	Lat: 46.4333	Long: -81.15	Name: Lively	Count:5097
+1553	Lat: 50.6598	Long: -120.3837	Name: Kamloops	Count:47863
+1554	Lat: 43.6403	Long: -79.4374	Name: Toronto	Count:30213
+1555	Lat: 48.8526	Long: -67.518	Name: Matane	Count:11937
+1556	Lat: 44.6984	Long: -64.4429	Name: New Ross	Count:1487
+1557	Lat: 50.4722	Long: -104.6828	Name: Regina	Count:49370
+1558	Lat: 45.61	Long: -73.84	Name: Boisbriand	Count:23177
+1559	Lat: 43.831	Long: -79.2768	Name: Markham	Count:56611
+1560	Lat: 53.5421	Long: -113.4989	Name: Edmonton	Count:102638
+1561	Lat: 42.3307	Long: -82.9752	Name: Windsor	Count:25290
+1562	Lat: 46.4189	Long: -62.5829	Name: St. Peters Bay	Count:410
+1563	Lat: 43.6505	Long: -79.3369	Name: Toronto	Count:30387
+1564	Lat: 45.9139	Long: -72.9293	Name: Massueville	Count:1415
+1565	Lat: 45.5269	Long: -73.6974	Name: Vieux-Saint-Laurent	Count:54385
+1566	Lat: 44.609	Long: -65.6467	Name: Cornwallis	Count:461
+1567	Lat: 49.91	Long: -116.92	Name: Kaslo	Count:143
+1568	Lat: 53.1167	Long: -114.4833	Name: Breton	Count:646
+1569	Lat: 53.1167	Long: -103.65	Name: Arborfield	Count:1363
+1570	Lat: 53.1167	Long: -109.6167	Name: Lashburn	Count:3230
+1571	Lat: 52.7333	Long: -111.55	Name: Lougheed	Count:1651
+1572	Lat: 51.55	Long: -55.7333	Name: Raleigh	Count:1138
+1573	Lat: 51.55	Long: -87.9833	Name: Fort Hope	Count:461
+1574	Lat: 51.55	Long: -107.9833	Name: Rosetown	Count:6481
+1575	Lat: 51.55	Long: -103.9667	Name: Wishart	Count:912
+1576	Lat: 49.6056	Long: -97.0423	Name: Niverville	Count:3630
+1577	Lat: 51.85	Long: -112.85	Name: Rumsey	Count:10
+1578	Lat: 51.85	Long: -102.5333	Name: Sturgis	Count:2851
+1579	Lat: 51.85	Long: -105.0333	Name: Lanigan	Count:933
+1580	Lat: 43.5425	Long: -80.5077	Name: Kitchener	Count:482
+1581	Lat: 43.4543	Long: -79.6921	Name: Oakville	Count:181668
+1582	Lat: 53.9112	Long: -122.728	Name: Prince George	Count:23280
+1583	Lat: 43.6181	Long: -81.5414	Name: Clinton	Count:7701
+1584	Lat: 43.6181	Long: -79.4967	Name: Toronto	Count:26551
+1585	Lat: 45.5452	Long: -73.6266	Name: Montreal	Count:19403
+1586	Lat: 53.0333	Long: -110.3333	Name: Paradise Valley	Count:389
+1587	Lat: 53.0333	Long: -93.2333	Name: Sandy Lake	Count:1087
+1588	Lat: 43.4315	Long: -80.3087	Name: Hespeler	Count:205
+1589	Lat: 53.4874	Long: -112.0636	Name: Vegreville	Count:13127
+1590	Lat: 47.41	Long: -69.9479	Name: Saint-Pacome	Count:1425
+1591	Lat: 43.7749	Long: -80.9188	Name: North Perth	Count:348
+1592	Lat: 43.6519	Long: -79.3874	Name: Toronto	Count:25505
+1593	Lat: 54.4127	Long: -110.2162	Name: Cold Lake	Count:46919
+1594	Lat: 56.2667	Long: -120.95	Name: Charlie Lake	Count:369
+1595	Lat: 47.6801	Long: -68.8826	Name: Cabano	Count:1538
+1596	Lat: 42.7645	Long: -80.3187	Name: Norfolk County	Count:317
+1597	Lat: 44.05	Long: -66.1667	Name: Salmon River	Count:102
+1598	Lat: 52.9463	Long: -66.9114	Name: Labrador City	Count:266
+1599	Lat: 43.1127	Long: -80.7368	Name: Woodstock	Count:153
+1600	Lat: 45.5252	Long: -73.5744	Name: Montreal	Count:38058
+1601	Lat: 50.2167	Long: -103.45	Name: Montmartre	Count:687
+1602	Lat: 43.5838	Long: -81.2351	Name: Huron East	Count:38838
+1603	Lat: 48.4519	Long: -123.4417	Name: Victoria	Count:130174
+1604	Lat: 48	Long: -53	Name: Lower Island Cove	Count:20
+1605	Lat: 48.4202	Long: -123.3671	Name: Victoria	Count:35556
+1606	Lat: 42.7475	Long: -80.7753	Name: Aylmer	Count:440
+1607	Lat: 44.6156	Long: -63.4929	Name: Halifax	Count:12552
+1608	Lat: 43.5167	Long: -79.6167	Name: Clarkson	Count:51
+1609	Lat: 50.9023	Long: -113.9873	Name: Calgary	Count:203779
+1610	Lat: 44.9292	Long: -72.1919	Name: Memphremagog	Count:18911
+1611	Lat: 43.9167	Long: -80.8833	Name: Harriston	Count:4553
+1612	Lat: 49.9164	Long: -125.1875	Name: Campbell River	Count:2799
+1613	Lat: 45.4333	Long: -63.4667	Name: Debert	Count:1343
+1614	Lat: 45.4333	Long: -75.7333	Name: Hull	Count:20
+1615	Lat: 45.4333	Long: -73.75	Name: Pointe-Claire	Count:10
+1616	Lat: 45.4333	Long: -73.65	Name: Saint-Pierre	Count:615
+1617	Lat: 46.268	Long: -70.3295	Name: Saint-Louis-de-Gonzague	Count:215
+1618	Lat: 46.3658	Long: -73.0549	Name: Sainte-Angele-de-Premont	Count:605
+1619	Lat: 49.88	Long: -119.5355	Name: Kelowna	Count:40817
+1620	Lat: 43.5325	Long: -80.2531	Name: Guelph	Count:112986
+1621	Lat: 46.3988	Long: -63.7915	Name: Summerside	Count:2010
+1622	Lat: 45.4465	Long: -75.7156	Name: Gatineau	Count:4625
+1623	Lat: 45.549	Long: -73.7641	Name: Laval	Count:45719
+1624	Lat: 45.9535	Long: -66.6704	Name: Fredericton	Count:147086
+1625	Lat: 69.45	Long: -133.0667	Name: Tuktoyaktuk	Count:1517
+1626	Lat: 45.3353	Long: -75.7209	Name: Ottawa	Count:20470
+1627	Lat: 48.1167	Long: -69.1667	Name: Trois Pistoles	Count:3538
+1628	Lat: 43.4613	Long: -80.507	Name: Waterloo	Count:98382
+1629	Lat: 42.3167	Long: -82.9	Name: Tecumseh	Count:5486
+1630	Lat: 45.8206	Long: -76.8876	Name: Pembroke	Count:194
+1631	Lat: 45.5618	Long: -73.8881	Name: Saint-Eustache	Count:43053
+1632	Lat: 43.7685	Long: -79.3584	Name: Toronto	Count:128144
+1633	Lat: 43.644	Long: -79.8787	Name: Brampton	Count:99930
+1634	Lat: 43.644	Long: -79.4062	Name: Toronto	Count:43729
+1635	Lat: 48.55	Long: -77.95	Name: Landrienne	Count:758
+1636	Lat: 48.55	Long: -58.7333	Name: Port au Port	Count:2358
+1637	Lat: 48.55	Long: -67.6833	Name: Sayabec	Count:194
+1638	Lat: 48.55	Long: -71.65	Name: Alma	Count:7568
+1639	Lat: 49.136	Long: -123.9483	Name: Nanaimo	Count:120462
+1640	Lat: 62.85	Long: -69.8833	Name: Kimmirut	Count:51
+1641	Lat: 51.0388	Long: -114.098	Name: Calgary	Count:27997
+1642	Lat: 49.2499	Long: -123.0556	Name: Vancouver	Count:84178
+1643	Lat: 45.3161	Long: -72.6501	Name: Bromont	Count:11065
+1644	Lat: 52.1542	Long: -106.6415	Name: Saskatoon	Count:90895
+1645	Lat: 49.8971	Long: -97.2163	Name: Winnipeg	Count:1681
+1646	Lat: 42.9899	Long: -81.2607	Name: London	Count:146716
+1647	Lat: 43.8661	Long: -81.1483	Name: Wingham	Count:1035
+1648	Lat: 43.73	Long: -79.5542	Name: Etobicoke	Count:71317
+1649	Lat: 45.4354	Long: -75.6475	Name: Ottawa	Count:52088
+1650	Lat: 43.7385	Long: -79.2021	Name: Scarborough	Count:58036
+1651	Lat: 55.2667	Long: -118.8	Name: Clairmont	Count:3302
+1652	Lat: 55.2667	Long: -77.7833	Name: Kuujjuarapik	Count:205
+1653	Lat: 45.1302	Long: -71.4608	Name: Saint-Venant-de-Paquette	Count:297
+1654	Lat: 45.1302	Long: -73.989	Name: Ormstown	Count:1825
+1655	Lat: 45.7567	Long: -73.6263	Name: Mascouche	Count:10163
+1656	Lat: 45.6077	Long: -73.5428	Name: Montreal	Count:37002
+1657	Lat: 49.2167	Long: -84.7833	Name: Hornepayne	Count:2789
+1658	Lat: 49.2167	Long: -68.15	Name: Baie-Comeau	Count:3004
+1659	Lat: 49.2167	Long: -102.1667	Name: Oxbow	Count:338
+1660	Lat: 49.2167	Long: -122.9167	Name: New Westminster	Count:3589
+1661	Lat: 45.3594	Long: -75.7523	Name: Ottawa	Count:36674
+1662	Lat: 45	Long: -75	Name: Ingleside	Count:10614
+1663	Lat: 45.1869	Long: -73.851	Name: Howick	Count:881
+1664	Lat: 45.4415	Long: -72.8806	Name: Granby	Count:1948
+1665	Lat: 43.3503	Long: -79.8117	Name: Burlington	Count:104217
+1666	Lat: 45.4909	Long: -73.5885	Name: Westmount	Count:23752
+1667	Lat: 45.8373	Long: -74.1387	Name: Lac-Johanne	Count:50796
+1668	Lat: 46.2067	Long: -63.0729	Name: Stratford	Count:14921
+1669	Lat: 45.6121	Long: -73.7898	Name: Laval	Count:44437
+1670	Lat: 45.1795	Long: -75.2844	Name: Morewood	Count:1466
+1671	Lat: 44.3885	Long: -79.6886	Name: Barrie	Count:84085
+1672	Lat: 54.88	Long: -100.02	Name: Snow Lake	Count:317
+1673	Lat: 45.6179	Long: -73.8038	Name: Montreal	Count:21341
+1674	Lat: 45.4889	Long: -71.6574	Name: East Angus	Count:676
+1675	Lat: 50.2629	Long: -119.3037	Name: Vernon	Count:14306
+1676	Lat: 45.9833	Long: -79.3667	Name: Trout Creek	Count:1353
+1677	Lat: 43.0614	Long: -80.9943	Name: London	Count:1435
+1678	Lat: 49.7223	Long: -99.0009	Name: Worby	Count:399
+1679	Lat: 42.1	Long: -82.45	Name: Wheatley	Count:4912
+1680	Lat: 45.5833	Long: -77.25	Name: Golden Lake	Count:502
+1681	Lat: 45.5833	Long: -73.6	Name: Saint-Leonard	Count:1938
+1682	Lat: 49.2796	Long: -122.8105	Name: Coquitlam	Count:75419
+1683	Lat: 49.7856	Long: -92.8364	Name: Dryden	Count:23895
+1684	Lat: 43.72	Long: -79.5085	Name: Toronto	Count:27423
+1685	Lat: 51.1167	Long: -106.6	Name: Elbow	Count:933
+1686	Lat: 51.1167	Long: -112.9833	Name: Standard	Count:379
+1687	Lat: 46.6725	Long: -71.7368	Name: Donnacona	Count:8512
+1688	Lat: 47.3167	Long: -70.5667	Name: Petite-Riviere-Saint-Francois	Count:656
+1689	Lat: 53.7903	Long: -113.646	Name: Morinville	Count:20552
+1690	Lat: 53.55	Long: -113.5	Name: Edmonton	Count:4033014
+1691	Lat: 53.55	Long: -113.1333	Name: Ardrossan	Count:12091
+1692	Lat: 61.85	Long: -121.3333	Name: Fort Simpson	Count:420
+1693	Lat: 46.7595	Long: -71.3433	Name: Quebec	Count:4727
+1694	Lat: 43.8478	Long: -79.3447	Name: Markham	Count:4061
+1695	Lat: 43.668	Long: -79.4515	Name: Toronto	Count:45432
+1696	Lat: 43.7984	Long: -79.4186	Name: Thornhill	Count:87234
+1697	Lat: 43.171	Long: -79.4767	Name: Beamsville	Count:27526
+1698	Lat: 45.6243	Long: -61.9996	Name: Antigonish	Count:34622
+1699	Lat: 51.0333	Long: -93.8333	Name: Red Lake	Count:5927
+1700	Lat: 45.6556	Long: -72.154	Name: Richmond	Count:892
+1701	Lat: 46.0464	Long: -73.7085	Name: Rawdon	Count:11117
+1702	Lat: 52.4167	Long: -104.5	Name: Naicam	Count:1692
+1703	Lat: 52.4167	Long: -108.7	Name: Wilkie	Count:4584
+1704	Lat: 44.65	Long: -63.6	Name: Halifax	Count:514237
+1705	Lat: 44.65	Long: -76.7167	Name: Parham	Count:728
+1706	Lat: 48.0805	Long: -66.6413	Name: Campbellton	Count:758
+1707	Lat: 45.5943	Long: -73.5362	Name: Montreal	Count:50232
+1708	Lat: 43.6825	Long: -79.3897	Name: Toronto	Count:14409
+1709	Lat: 50.2667	Long: -96.05	Name: Lac du Bonnet	Count:164
+1710	Lat: 50.2667	Long: -119.2667	Name: Vernon	Count:5445
+1711	Lat: 49.2197	Long: -124.8101	Name: Port Alberni	Count:35392
+1712	Lat: 44.6404	Long: -63.6888	Name: Halifax	Count:3599
+1713	Lat: 49.1409	Long: -121.962	Name: Chilliwack	Count:116268
+1714	Lat: 43.6675	Long: -79.296	Name: Toronto	Count:49083
+1715	Lat: 43.9851	Long: -78.1621	Name: Cobourg	Count:35094
+1716	Lat: 45.4979	Long: -75.7043	Name: Gatineau	Count:125139
+1717	Lat: 49.3322	Long: -123.0518	Name: North Vancouver	Count:25444
+1718	Lat: 42.3326	Long: -82.8926	Name: Tecumseh	Count:25013
+1719	Lat: 54.3131	Long: -110.6039	Name: Fort Kent	Count:389
+1720	Lat: 49.1636	Long: -122.7677	Name: Surrey	Count:178673
+1721	Lat: 51.8167	Long: -94	Name: Pikangikum	Count:1302
+1722	Lat: 45.5141	Long: -73.9012	Name: Saint-Eustache	Count:17506
+1723	Lat: 44.2034	Long: -79.2655	Name: Newmarket	Count:697
+1724	Lat: 45.7325	Long: -72.9209	Name: Saint-Hyacinthe	Count:1435
+1725	Lat: 43.6705	Long: -79.3901	Name: Toronto	Count:21741
+1726	Lat: 45.0926	Long: -74.1767	Name: Huntingdon	Count:31761
+1727	Lat: 47.8667	Long: -53.3667	Name: Heart's Content	Count:1117
+1728	Lat: 47.8667	Long: -55.85	Name: St. Alban's	Count:225
+1729	Lat: 46.9833	Long: -71.3667	Name: Stoneham	Count:13681
+1730	Lat: 44.5808	Long: -75.7813	Name: Brockville	Count:871
+1731	Lat: 49.2574	Long: -123.1836	Name: Vancouver	Count:12614
+1732	Lat: 67.8333	Long: -115.0833	Name: Kugluktuk	Count:276
+1733	Lat: 45.6101	Long: -74.6085	Name: Hawkesbury	Count:15332
+1734	Lat: 46.4633	Long: -73.1389	Name: Louiseville	Count:1507
+1735	Lat: 48.4099	Long: -71.1961	Name: Jonquiere	Count:15086
+1736	Lat: 63.7333	Long: -68.5	Name: Iqaluit	Count:9804
+1737	Lat: 42.9989	Long: -79.2466	Name: Welland	Count:65328
+1738	Lat: 53.5966	Long: -113.4882	Name: Edmonton	Count:66948
+1739	Lat: 56.85	Long: -117.6333	Name: North Star	Count:1671
+1740	Lat: 45.2884	Long: -75.8648	Name: Kanata	Count:25854
+1741	Lat: 49.4	Long: -103.4	Name: Midale	Count:256
+1742	Lat: 49.4	Long: -105.6333	Name: Willow Bunch	Count:728
+1743	Lat: 49.4	Long: -123.5	Name: Gibsons	Count:25331
+1744	Lat: 45.0378	Long: -75.4957	Name: Kemptville	Count:3097
+1745	Lat: 49.2	Long: -121.74	Name: Rosedale	Count:933
+1746	Lat: 49.2	Long: -113.3167	Name: Cardston	Count:1661
+1747	Lat: 49.2	Long: -98.9	Name: Pilot Mound	Count:1240
+1748	Lat: 49.2	Long: -117.2833	Name: Salmo	Count:1405
+1749	Lat: 49.6728	Long: -124.947	Name: Courtenay	Count:35443
+1750	Lat: 45.9033	Long: -80.5762	Name: Cranberry	Count:143
+1751	Lat: 56.7273	Long: -111.4361	Name: Fort McMurray	Count:183924
+1752	Lat: 45.5937	Long: -62.6585	Name: New Glasgow	Count:42448
+1753	Lat: 43.0093	Long: -81.21	Name: London	Count:59123
+1754	Lat: 60.0333	Long: -77.2833	Name: Puvirnituq	Count:717
+1755	Lat: 43.8	Long: -79.4167	Name: Thornhill	Count:74609
+1756	Lat: 49.4167	Long: -107.0667	Name: Mankota	Count:492
+1757	Lat: 49.4167	Long: -123.6167	Name: Roberts Creek	Count:4932
+1758	Lat: 49.4167	Long: -112.8833	Name: Magrath	Count:4286
+1759	Lat: 49.4167	Long: -91.6667	Name: Ignace	Count:2143
+1760	Lat: 49.4167	Long: -106.6833	Name: Glentworth	Count:266
+1761	Lat: 45.1333	Long: -74.4833	Name: South Lancaster	Count:564
+1762	Lat: 45.1333	Long: -63.35	Name: Stewiacke	Count:1261
+1763	Lat: 45.1333	Long: -61.9833	Name: Sherbrooke	Count:851
+1764	Lat: 45.8285	Long: -65.4548	Name: Newtown	Count:881
+1765	Lat: 44.7765	Long: -63.6854	Name: Halifax	Count:31289
+1766	Lat: 49.2667	Long: -102.2833	Name: Alameda	Count:666
+1767	Lat: 49.2667	Long: -54.5	Name: Gander Bay	Count:379
+1768	Lat: 49.2667	Long: -100.9833	Name: Melita	Count:707
+1769	Lat: 49.2667	Long: -122.7833	Name: Coquitlam	Count:153342
+1770	Lat: 42.9797	Long: -81.2639	Name: London	Count:38520
+1771	Lat: 45.4603	Long: -75.7606	Name: Gatineau	Count:39514
+1772	Lat: 43.3585	Long: -79.8093	Name: Burlington	Count:111601
+1773	Lat: 45.2833	Long: -71.8833	Name: Waterville	Count:3466
+1774	Lat: 43.2141	Long: -79.8626	Name: Hamilton	Count:76814
+1775	Lat: 45.0726	Long: -73.2923	Name: Saint-Jean-sur-Richelieu	Count:1169
+1776	Lat: 48.449	Long: -123.3842	Name: Victoria	Count:104350
+1777	Lat: 46.7365	Long: -72.4279	Name: Saint-Tite	Count:379
+1778	Lat: 47.9879	Long: -66.5145	Name: Campbellton	Count:738
+1779	Lat: 43.8845	Long: -79.2339	Name: Markham	Count:47739
+1780	Lat: 47.1848	Long: -67.9286	Name: Saint-Léonard	Count:523
+1781	Lat: 53.5416	Long: -113.6249	Name: Edmonton	Count:6368
+1782	Lat: 45.1343	Long: -75.7172	Name: Bells Corners	Count:9291
+1783	Lat: 45.5409	Long: -73.6418	Name: Montreal	Count:13281
+1784	Lat: 55.7428	Long: -97.8779	Name: Thompson	Count:17270
+1785	Lat: 45.1103	Long: -79.158	Name: Bracebridge	Count:4532
+1786	Lat: 42.9273	Long: -79.3758	Name: Welland	Count:758
+1787	Lat: 45.8508	Long: -73.4824	Name: L'Epiphanie	Count:5086
+1788	Lat: 45.8508	Long: -76.4271	Name: Fort-Coulonge	Count:584
+1789	Lat: 46.7	Long: -81.55	Name: Cartier	Count:871
+1790	Lat: 46.7	Long: -75.45	Name: Ferme-Neuve	Count:143
+1791	Lat: 46.7	Long: -80.9167	Name: Greater Sudbury	Count:4215
+1792	Lat: 46.7	Long: -71.5833	Name: Neuville	Count:1169
+1793	Lat: 42.8667	Long: -80.7333	Name: Tillsonburg	Count:17167
+1794	Lat: 50.6833	Long: -121.9333	Name: Lillooet	Count:4666
+1795	Lat: 50.6833	Long: -119.8167	Name: Pritchard	Count:748
+1796	Lat: 50.6833	Long: -114.2667	Name: Turner Valley	Count:369
+1797	Lat: 44.2274	Long: -76.5134	Name: Kingston	Count:84670
+1798	Lat: 49.8717	Long: -97.0765	Name: Winnipeg	Count:48232
+1799	Lat: 53.5923	Long: -113.5168	Name: Edmonton	Count:42704
+1800	Lat: 52.1	Long: -101.2667	Name: Swan River	Count:7876
+1801	Lat: 52.1	Long: -107	Name: Grandora	Count:492
+1802	Lat: 52.1	Long: -119.3	Name: Blue River	Count:953
+1803	Lat: 45.4873	Long: -73.8635	Name: Montreal	Count:29566
+1804	Lat: 49.7003	Long: -94.8583	Name: Granite Lake	Count:3538
+1805	Lat: 49.5264	Long: -96.6867	Name: Steinbach	Count:53965
+1806	Lat: 45.72	Long: -74.0327	Name: Mirabel	Count:22767
+1807	Lat: 45.2307	Long: -74.327	Name: Salaberry-de-Valleyfield	Count:2235
+1808	Lat: 49.2536	Long: -122.9085	Name: Coquitlam	Count:117334
+1809	Lat: 43.9471	Long: -80.1091	Name: Orangeville	Count:974
+1810	Lat: 48.8319	Long: -64.4813	Name: Gaspé	Count:17373
+1811	Lat: 49.2446	Long: -68.1442	Name: Baie-Comeau	Count:10635
+1812	Lat: 49.7285	Long: -112.6146	Name: Coaldale	Count:15568
+1813	Lat: 50.8333	Long: -119	Name: Sicamous	Count:892
+1814	Lat: 50.8333	Long: -101.7	Name: Langenburg	Count:5138
+1815	Lat: 44.7167	Long: -63.2333	Name: East Chezzetcook	Count:769
+1816	Lat: 44.7167	Long: -79.8167	Name: Coldwater	Count:7281
+1817	Lat: 49.3833	Long: -121.4333	Name: Hope	Count:34612
+1818	Lat: 49.3833	Long: -102.75	Name: Lampman	Count:1117
+1819	Lat: 49.3833	Long: -99.2333	Name: Baldur	Count:738
+1820	Lat: 50.4	Long: -105.55	Name: Moose Jaw	Count:2974
+1821	Lat: 50.4	Long: -113.25	Name: Vulcan	Count:2984
+1822	Lat: 42.5166	Long: -82.0737	Name: Kent Bridge	Count:133
+1823	Lat: 43.7074	Long: -79.7853	Name: Brampton	Count:56611
+1824	Lat: 46.756	Long: -71.6969	Name: Pont-Rouge	Count:13937
+1825	Lat: 48.5837	Long: -78.1002	Name: Amos	Count:17239
+1826	Lat: 44.4557	Long: -64.0853	Name: Lunenburg	Count:656
+1827	Lat: 62.4167	Long: -77.9	Name: Ivujivik	Count:471
+1828	Lat: 46.8342	Long: -71.3463	Name: Quebec	Count:12542
+1829	Lat: 51.25	Long: -80.6	Name: Moosonee	Count:697
+1830	Lat: 49.3506	Long: -124.409	Name: Parksville	Count:31710
+1831	Lat: 44.2667	Long: -79.55	Name: Lefroy	Count:656
+1832	Lat: 46.2833	Long: -74.7333	Name: Labelle	Count:1169
+1833	Lat: 46.169	Long: -60.1013	Name: Sydney	Count:4758
+1834	Lat: 43.4665	Long: -80.5023	Name: Waterloo	Count:72517
+1835	Lat: 52.2022	Long: -106.6765	Name: Saskatoon	Count:2338
+1836	Lat: 43.6525	Long: -79.3686	Name: Toronto	Count:132246
+1837	Lat: 45.478	Long: -73.6704	Name: Montreal	Count:23803
+1838	Lat: 45.478	Long: -73.5922	Name: Montreal	Count:28438
+1839	Lat: 44.6449	Long: -63.5433	Name: Dartmouth	Count:51001
+1840	Lat: 47.1667	Long: -55.1667	Name: Marystown	Count:17126
+1841	Lat: 46.1833	Long: -62.8833	Name: Vernon Bridge	Count:3517
+1842	Lat: 46.1833	Long: -82.3333	Name: Spanish	Count:1374
+1843	Lat: 53.5614	Long: -113.5461	Name: Edmonton	Count:31659
+1844	Lat: 49.2733	Long: -122.7965	Name: Port Coquitlam	Count:162479
+1845	Lat: 46.0599	Long: -64.844	Name: Moncton	Count:9660
+1846	Lat: 45.4993	Long: -73.5157	Name: Saint-Lambert	Count:3168
+1847	Lat: 49.4134	Long: -82.4203	Name: Kapuskasing	Count:13670
+1848	Lat: 49.1433	Long: -102.9987	Name: Estevan	Count:33135
+1849	Lat: 48.4511	Long: -89.273	Name: Thunder Bay	Count:6614
+1850	Lat: 45.4722	Long: -66.1011	Name: Saint John	Count:440
+1851	Lat: 45.5652	Long: -73.6444	Name: Montreal	Count:17885
+1852	Lat: 52.9833	Long: -105.4333	Name: Birch Hills	Count:1066
+1853	Lat: 52.9833	Long: -122.4833	Name: Quesnel	Count:3025
+1854	Lat: 49.6833	Long: -103.0167	Name: Stoughton	Count:2379
+1855	Lat: 49.6833	Long: -97.2667	Name: La Salle	Count:1630
+1856	Lat: 49.6833	Long: -125	Name: Courtenay	Count:5691
+1857	Lat: 45.399	Long: -75.7304	Name: Ottawa	Count:22439
+1858	Lat: 43.3471	Long: -81.6356	Name: Dashwood	Count:10491
+1859	Lat: 44.3695	Long: -64.5197	Name: Bridgewater	Count:574
+1860	Lat: 51.3	Long: -116.9667	Name: Golden	Count:9035
+1861	Lat: 51.1	Long: -121.6	Name: Clinton	Count:1056
+1862	Lat: 43.2574	Long: -79.8676	Name: Hamilton	Count:72681
+1863	Lat: 48.4277	Long: -68.5122	Name: Rimouski	Count:5886
+1864	Lat: 46.815	Long: -64.0643	Name: Alberton	Count:1066
+1865	Lat: 44.2322	Long: -76.4799	Name: Kingston	Count:63605
+1866	Lat: 43.6815	Long: -79.4668	Name: Toronto	Count:33258
+1867	Lat: 53.8333	Long: -107.0333	Name: Big River	Count:1281
+1868	Lat: 53.8333	Long: -112.1167	Name: Willingdon	Count:164
+1869	Lat: 44.252	Long: -64.3403	Name: LaHave	Count:379
+1870	Lat: 45.7498	Long: -73.2811	Name: Repentigny	Count:2584
+1871	Lat: 44.5534	Long: -76.1193	Name: Gananoque	Count:2717
+1872	Lat: 46.7384	Long: -64.97	Name: Saint-Louis de Kent	Count:584
+1873	Lat: 43.8627	Long: -79.0136	Name: Ajax	Count:81768
+1874	Lat: 50.4667	Long: -104.4167	Name: Pilot Butte	Count:3876
+1875	Lat: 50.4667	Long: -115.9667	Name: Windermere	Count:851
+1876	Lat: 48.25	Long: -79.0253	Name: Rouyn-Noranda	Count:8840
+1877	Lat: 48.25	Long: -79.0167	Name: Rouyn-Noranda	Count:37668
+1878	Lat: 48.25	Long: -79.0333	Name: Rouyn-Noranda	Count:420
+1879	Lat: 56.2306	Long: -120.8277	Name: Fort St. John	Count:61769
+1880	Lat: 46.2692	Long: -84.4718	Name: Sault Ste. Marie	Count:3804
+1881	Lat: 46.2326	Long: -72.5995	Name: Nicolet	Count:19916
+1882	Lat: 53.555	Long: -113.4822	Name: Edmonton	Count:138820
+1883	Lat: 53.9103	Long: -122.7835	Name: Prince George	Count:63687
+1884	Lat: 44.201	Long: -77.5932	Name: Frankford	Count:5876
+1885	Lat: 43.2833	Long: -80.45	Name: Ayr	Count:3476
+1886	Lat: 44.9677	Long: -75.6735	Name: Kemptville	Count:194
+1887	Lat: 44.1667	Long: -77.3833	Name: Belleville	Count:13116
+1888	Lat: 43.7422	Long: -79.2818	Name: Scarborough	Count:39320
+1889	Lat: 46.018	Long: -73.3528	Name: Joliette	Count:2553
+1890	Lat: 45.8845	Long: -72.4841	Name: Drummondville	Count:44365
+1891	Lat: 45.2746	Long: -66.0871	Name: Saint John	Count:55257
+1892	Lat: 46.2291	Long: -73.5359	Name: Saint-Jean-de-Matha	Count:4450
+1893	Lat: 49.2695	Long: -123.0556	Name: Vancouver	Count:32387
+1894	Lat: 43.1343	Long: -79.0359	Name: Niagara	Count:6737
+1895	Lat: 58.8167	Long: -122.5333	Name: Fort Nelson	Count:28551
+1896	Lat: 45.2289	Long: -75.6817	Name: Ottawa	Count:17085
+1897	Lat: 45.2289	Long: -76.1974	Name: Almonte	Count:9476
+1898	Lat: 45.286	Long: -66.0421	Name: Saint John	Count:24890
+1899	Lat: 45.799	Long: -72.1894	Name: Drummondville	Count:676
+1900	Lat: 45.799	Long: -72.858	Name: Saint-Hyacinthe	Count:379
+1901	Lat: 46.5245	Long: -84.3768	Name: Sault Ste. Marie	Count:6963
+1902	Lat: 42.3333	Long: -82	Name: Blenheim	Count:9999
+1903	Lat: 69.3833	Long: -123.9833	Name: Paulatuk	Count:205
+1904	Lat: 48.1068	Long: -77.7833	Name: Val-d'Or	Count:41104
+1905	Lat: 49.3011	Long: -123.0205	Name: North Vancouver	Count:27023
+1906	Lat: 48.8667	Long: -80.85	Name: Potter	Count:7250
+1907	Lat: 48.8667	Long: -123.65	Name: Crofton	Count:3681
+1908	Lat: 46.1224	Long: -60.2236	Name: Sydney	Count:953
+1909	Lat: 43.5667	Long: -81.7	Name: Bayfield	Count:8132
+1910	Lat: 48.0124	Long: -65.1136	Name: Bonaventure	Count:5250
+1911	Lat: 50.4364	Long: -104.5438	Name: Regina	Count:32171
+1912	Lat: 62.1	Long: -136.3167	Name: Carmacks	Count:164
+1913	Lat: 56.6977	Long: -111.3389	Name: Fort McMurray	Count:152070
+1914	Lat: 46.8615	Long: -71.2698	Name: Quebec	Count:36951
+1915	Lat: 43.813	Long: -79.2781	Name: Scarborough	Count:58703
+1916	Lat: 46.4684	Long: -64.7391	Name: Bouctouche	Count:1651
+1917	Lat: 46.8681	Long: -71.3787	Name: Quebec	Count:10942
+1918	Lat: 45.4812	Long: -74.3076	Name: Rigaud	Count:8481
+1919	Lat: 55.7833	Long: -117.9	Name: Eaglesham	Count:584
+1920	Lat: 55.7833	Long: -118.8333	Name: Spirit River	Count:1856
+1921	Lat: 46.3094	Long: -79.464	Name: North Bay	Count:97643
+1922	Lat: 43.7534	Long: -65.2461	Name: Jordan Ferry	Count:12306
+1923	Lat: 43.3833	Long: -80.3167	Name: Cambridge	Count:79542
+1924	Lat: 45.5382	Long: -73.4577	Name: Longueuil	Count:9660
+1925	Lat: 45.4036	Long: -72.7097	Name: Granby	Count:42530
+1926	Lat: 49.1011	Long: -122.8141	Name: Surrey	Count:385180
+1927	Lat: 44.1084	Long: -64.6438	Name: Mill Village	Count:287
+1928	Lat: 45.5067	Long: -73.6906	Name: Saint-Laurent	Count:8501
+1929	Lat: 45.3577	Long: -73.7851	Name: Chateauguay	Count:12163
+1930	Lat: 49.4667	Long: -104.2833	Name: Radville	Count:2666
+1931	Lat: 49.4667	Long: -123.7667	Name: Sechelt	Count:18665
+1932	Lat: 49.4667	Long: -112.6667	Name: Raymond	Count:5579
+1933	Lat: 49.4667	Long: -116.7667	Name: Boswell	Count:338
+1934	Lat: 45.25	Long: -63.2833	Name: Brookfield	Count:1887
+1935	Lat: 53.5705	Long: -113.4036	Name: Edmonton	Count:42550
+1936	Lat: 43.4497	Long: -80.4893	Name: Kitchener	Count:49975
+1937	Lat: 51.0857	Long: -114.0714	Name: Calgary	Count:171484
+1938	Lat: 45.995	Long: -61.1101	Name: Whycocomagh	Count:646
+1939	Lat: 45.188	Long: -73.4	Name: Napierville	Count:8604
+1940	Lat: 43.4037	Long: -79.6934	Name: Oakville	Count:42878
+1941	Lat: 45.423	Long: -75.702	Name: Ottawa	Count:37145
+1942	Lat: 42.9743	Long: -81.1946	Name: London	Count:13855
+1943	Lat: 48.3775	Long: -89.2704	Name: Thunder Bay	Count:105735
+1944	Lat: 51.7956	Long: -114.0944	Name: Olds	Count:15906
+1945	Lat: 49.8431	Long: -99.9452	Name: Brandon	Count:74178
+1946	Lat: 46.2951	Long: -73.3797	Name: Saint-Gabriel	Count:2030
+1947	Lat: 44.1385	Long: -81.0237	Name: Hanover	Count:16819
+1948	Lat: 43.86	Long: -79.3605	Name: Markham	Count:142245
+1949	Lat: 45.5364	Long: -73.7267	Name: Laval	Count:12850
+1950	Lat: 53.4749	Long: -112.9512	Name: Sherwood Park	Count:4307
+1951	Lat: 49.854	Long: -97.2712	Name: Winnipeg	Count:48929
+1952	Lat: 46.3664	Long: -79.9178	Name: Sturgeon Falls	Count:9619
+1953	Lat: 52.6649	Long: -113.5823	Name: Ponoka	Count:12255
+1954	Lat: 43.7157	Long: -80.387	Name: Guelph	Count:30930
+1955	Lat: 43.6797	Long: -79.4358	Name: Toronto	Count:24685
+1956	Lat: 54.132	Long: -108.4314	Name: Meadow Lake	Count:11958
+1957	Lat: 45.3333	Long: -75.9	Name: Kanata	Count:92608
+1958	Lat: 43.5665	Long: -79.6035	Name: Mississauga	Count:73819
+1959	Lat: 45.2121	Long: -73.2267	Name: Saint-Jean-sur-Richelieu	Count:4902
+1960	Lat: 52.1261	Long: -106.6985	Name: Saskatoon	Count:68025
+1961	Lat: 51.8667	Long: -101.9167	Name: Pelly	Count:389
+1962	Lat: 42.8551	Long: -80.4918	Name: Delhi	Count:1712
+1963	Lat: 42.7486	Long: -81.7084	Name: Glencoe	Count:8132
+1964	Lat: 53.3	Long: -60.3	Name: Happy Valley-Goose Bay	Count:14706
+1965	Lat: 49.1483	Long: -123.1469	Name: Richmond	Count:89552
+1966	Lat: 46.1849	Long: -82.8228	Name: Algoma Mills	Count:2851
+1967	Lat: 46.4719	Long: -72.5322	Name: Saint-Maurice	Count:666
+1968	Lat: 48.7833	Long: -54.2167	Name: Gambo	Count:2902
+1969	Lat: 48.7833	Long: -123.7	Name: Duncan	Count:9599
+1970	Lat: 48.7833	Long: -67.7	Name: Saint-Ulric	Count:584
+1971	Lat: 48.7833	Long: -87.1	Name: Terrace Bay	Count:1958
+1972	Lat: 45.9086	Long: -71.3571	Name: Disraeli	Count:1589
+1973	Lat: 68.35	Long: -133.7	Name: Inuvik	Count:5958
+1974	Lat: 45.4	Long: -73.9333	Name: L'Ile Perrot	Count:9219
+1975	Lat: 45.4	Long: -73	Name: Saint-Cesaire	Count:8881
+1976	Lat: 45.4	Long: -73.5833	Name: Montreal	Count:30161
+1977	Lat: 45.4	Long: -75.7235	Name: Ottawa	Count:59267
+1978	Lat: 45.4	Long: -75.85	Name: Aylmer	Count:266
+1979	Lat: 45.4	Long: -71.9	Name: Sherbrooke	Count:41494
+1980	Lat: 45.4	Long: -74.0333	Name: Vaudreuil-Dorion	Count:100012
+1981	Lat: 50.0167	Long: -125.25	Name: Campbell River	Count:912
+1982	Lat: 52.4667	Long: -107.4	Name: Radisson	Count:1969
+1983	Lat: 52.4667	Long: -114.05	Name: Bentley	Count:11004
+1984	Lat: 46.4918	Long: -80.9955	Name: Greater Sudbury	Count:77440
+1985	Lat: 46.0957	Long: -63.9068	Name: Malden	Count:461
+1986	Lat: 43.396	Long: -79.9781	Name: Burlington	Count:5650
+1987	Lat: 46.019	Long: -62.615	Name: Murray River	Count:1015
+1988	Lat: 45.5329	Long: -73.6807	Name: Montreal	Count:39904
+1989	Lat: 46.8123	Long: -71.2145	Name: Quebec	Count:6696
+1990	Lat: 43.857	Long: -79.514	Name: Vaughan	Count:181811
+1991	Lat: 45.4202	Long: -75.7748	Name: Gatineau	Count:25177
+1992	Lat: 49.304	Long: -122.9689	Name: North Vancouver	Count:19003
+1993	Lat: 51.0667	Long: -105.4333	Name: Penzance	Count:92
+1994	Lat: 51.0667	Long: -116.65	Name: Parson	Count:184
+1995	Lat: 51.0667	Long: -104.95	Name: Strasbourg	Count:1405
+1996	Lat: 48.8471	Long: -123.2928	Name: Mayne	Count:1681
+1997	Lat: 45.3125	Long: -75.8838	Name: Ottawa	Count:20921
+1998	Lat: 45.9453	Long: -64.7772	Name: Moncton	Count:430
+1999	Lat: 53.2563	Long: -132.0757	Name: Queen Charlotte	Count:1794
+2000	Lat: 42.4076	Long: -82.1911	Name: Chatham	Count:18357
+2001	Lat: 47.6167	Long: -53.3	Name: Spaniard's Bay	Count:51
+2002	Lat: 42.7797	Long: -80.9864	Name: Aylmer	Count:37833
+2003	Lat: 47.2333	Long: -55.3667	Name: Garnish	Count:738
+2004	Lat: 47.2333	Long: -61.85	Name: Havre-Aubert	Count:410
+2005	Lat: 47.2333	Long: -53.9667	Name: Placentia	Count:3240
+2006	Lat: 54.4333	Long: -124.25	Name: Fort St. James	Count:2666
+2007	Lat: 45.8114	Long: -63.4716	Name: Wallace	Count:2830
+2008	Lat: 45.5248	Long: -73.7392	Name: Montreal	Count:3938
+2009	Lat: 49.2079	Long: -123.979	Name: Nanaimo	Count:74568
+2010	Lat: 49.1261	Long: -123.0897	Name: Richmond	Count:1938
+2011	Lat: 51.0868	Long: -115.3384	Name: Canmore	Count:38971
+2012	Lat: 45.4858	Long: -73.564	Name: Montreal	Count:9117
+2013	Lat: 54.1297	Long: -111.5681	Name: Ashmont	Count:1343
+2014	Lat: 54.1297	Long: -108.4347	Name: Meadow Lake	Count:2502
+2015	Lat: 43.6814	Long: -79.5367	Name: Toronto	Count:12224
+2016	Lat: 43.0253	Long: -80.3734	Name: Brantford	Count:1138
+2017	Lat: 45.5263	Long: -65.8155	Name: Hampton	Count:5917
+2018	Lat: 51.0402	Long: -113.9844	Name: Calgary	Count:166992
+2019	Lat: 49.2848	Long: -123.1228	Name: Vancouver	Count:92885
+2020	Lat: 49.2848	Long: -123.0222	Name: Burnaby	Count:77071
+2021	Lat: 43.6981	Long: -79.3987	Name: Toronto	Count:17239
+2022	Lat: 45.3958	Long: -75.8259	Name: Gatineau	Count:52549
+2023	Lat: 49.15	Long: -116.3333	Name: Kitchener	Count:235
+2024	Lat: 49.15	Long: -123.9167	Name: Nanaimo	Count:20275
+2025	Lat: 49.15	Long: -68.2	Name: Pointe-Lebel	Count:1487
+2026	Lat: 49.15	Long: -102.8	Name: Bienfait	Count:1620
+2027	Lat: 49.15	Long: -103	Name: Estevan	Count:1415
+2028	Lat: 49.45	Long: -120.5	Name: Princeton	Count:2358
+2029	Lat: 45.9932	Long: -72.2385	Name: Drummondville	Count:174
+2030	Lat: 44.4074	Long: -76.597	Name: Sydenham	Count:564
+2031	Lat: 47.3516	Long: -68.2208	Name: Edmundston	Count:420
+2032	Lat: 64.062	Long: -139.4351	Name: Dawson City	Count:2307
+2033	Lat: 53.1922	Long: -105.7055	Name: Prince Albert	Count:5886
+2034	Lat: 43.55	Long: -80.25	Name: Guelph	Count:294162
+2035	Lat: 49.8663	Long: -97.1639	Name: Winnipeg	Count:82198
+2036	Lat: 44.08	Long: -81.0024	Name: Hanover	Count:799
+2037	Lat: 48.4192	Long: -123.3856	Name: Victoria	Count:74394
+2038	Lat: 49.6667	Long: -96.6667	Name: Steinbach	Count:1292
+2039	Lat: 49.1348	Long: -122.9131	Name: Delta	Count:82557
+2040	Lat: 45.3833	Long: -74.0167	Name: Dorion-Gardens	Count:82
+2041	Lat: 45.3833	Long: -73.5167	Name: Candiac	Count:13219
+2042	Lat: 45.3833	Long: -73.75	Name: Chateauguay	Count:6522
+2043	Lat: 46.4	Long: -80.1167	Name: Verner	Count:635
+2044	Lat: 46.4	Long: -81.1667	Name: Greater Sudbury	Count:1876
+2045	Lat: 46.6495	Long: -61.0394	Name: Cheticamp	Count:1322
+2046	Lat: 49.0167	Long: -123.0833	Name: Tsawwassen	Count:779
+2047	Lat: 49.0167	Long: -88.25	Name: Nipigon	Count:1763
+2048	Lat: 49.0167	Long: -55.5167	Name: Bishop's Falls	Count:1456
+2049	Lat: 45.0333	Long: -74.9	Name: Long Sault	Count:3035
+2050	Lat: 45.0333	Long: -78.5167	Name: Haliburton	Count:5589
+2051	Lat: 43.6053	Long: -79.5201	Name: Toronto	Count:24951
+2052	Lat: 43.2732	Long: -80.6579	Name: Kitchener	Count:1804
+2053	Lat: 47.5982	Long: -52.8384	Name: St. John's	Count:16419
+2054	Lat: 44.9983	Long: -65.0659	Name: Margaretsville	Count:369
+2055	Lat: 48.473	Long: -81.3765	Name: Timmins	Count:6378
+2056	Lat: 44.0798	Long: -79.7735	Name: Newmarket	Count:12922
+2057	Lat: 46.4127	Long: -70.3469	Name: Lac-Etchemin	Count:646
+2058	Lat: 46.9757	Long: -71.0209	Name: Quebec	Count:748
+2059	Lat: 45.4727	Long: -75.5233	Name: Orleans	Count:23013
+2060	Lat: 44.793	Long: -75.3794	Name: Cardinal	Count:646
+2061	Lat: 52.0667	Long: -104.25	Name: Quill Lake	Count:1117
+2062	Lat: 46.6191	Long: -81.0356	Name: Greater Sudbury	Count:16542
+2063	Lat: 42.2411	Long: -82.2313	Name: Merlin	Count:307
+2064	Lat: 68.5333	Long: -89.8167	Name: Kugaaruk	Count:51
+2065	Lat: 48.2333	Long: -70.1833	Name: L'Anse-Saint-Jean	Count:1240
+2066	Lat: 44.7672	Long: -79.9385	Name: Midland	Count:11281
+2067	Lat: 53.4333	Long: -129.2667	Name: Hartley Bay	Count:143
+2068	Lat: 46.1794	Long: -59.9477	Name: Glace Bay	Count:21444
+2069	Lat: 50.0059	Long: -125.2343	Name: Campbell River	Count:75194
+2070	Lat: 45.5106	Long: -73.91	Name: Saint-Eustache	Count:2625
+2071	Lat: 48.8892	Long: -72.1938	Name: Dolbeau-Mistassini	Count:3989
+2072	Lat: 43.6879	Long: -79.6072	Name: Etobicoke	Count:225
+2073	Lat: 46.3267	Long: -73.6392	Name: Sainte-Emelie-de-l'Energie	Count:1292
+2074	Lat: 52.35	Long: -110.2667	Name: Provost	Count:112
+2075	Lat: 43.5747	Long: -79.7278	Name: Mississauga	Count:200107
+2076	Lat: 45.3778	Long: -75.7632	Name: Ottawa	Count:15383
+2077	Lat: 43.7387	Long: -79.5166	Name: Toronto	Count:44929
+2078	Lat: 43.7387	Long: -79.4337	Name: Toronto	Count:94362
+2079	Lat: 53.549	Long: -113.8995	Name: Spruce Grove	Count:113037
+2080	Lat: 50.5833	Long: -127.1	Name: Port McNeill	Count:2369
+2081	Lat: 50.5833	Long: -113.8667	Name: High River	Count:22952
+2082	Lat: 50.5833	Long: -126.9167	Name: Alert Bay	Count:1476
+2083	Lat: 43.6688	Long: -81.0154	Name: Atwood	Count:3527
+2084	Lat: 48.6865	Long: -123.5959	Name: Cobble Hill	Count:8019
+2085	Lat: 50.6333	Long: -119.1167	Name: Grindrod	Count:82
+2086	Lat: 50.6333	Long: -127.0167	Name: Sointula	Count:533
+2087	Lat: 50.6333	Long: -97	Name: Gimli	Count:3374
+2088	Lat: 50.15	Long: -95.8833	Name: Pinawa	Count:1343
+2089	Lat: 50.15	Long: -96.8833	Name: Selkirk	Count:33997
+2090	Lat: 50.15	Long: -101.6667	Name: Moosomin	Count:7650
+2091	Lat: 50.15	Long: -115.8333	Name: Canal Flats	Count:92
+2092	Lat: 45.3176	Long: -75.895	Name: Ottawa	Count:490167
+2093	Lat: 44.5829	Long: -63.5671	Name: Halifax	Count:3394
+2094	Lat: 43.6951	Long: -79.6525	Name: Mississauga	Count:46827
+2095	Lat: 44.6617	Long: -63.6291	Name: Halifax	Count:68825
+2096	Lat: 51.5	Long: -107.05	Name: Outlook	Count:2974
+2097	Lat: 51.5	Long: -113.5	Name: Acme	Count:2707
+2098	Lat: 46.1337	Long: -60.1939	Name: Sydney	Count:29279
+2099	Lat: 46.8765	Long: -71.3233	Name: Quebec	Count:16757
+2100	Lat: 45.4583	Long: -74.1473	Name: Hudson	Count:4358
+2101	Lat: 44.0167	Long: -77.8833	Name: Colborne	Count:3979
+2102	Lat: 46.0333	Long: -59.9833	Name: Mira Gut	Count:1087
+2103	Lat: 46.0333	Long: -74.2	Name: Val-David	Count:7332
+2104	Lat: 46.419	Long: -72.6006	Name: Trois-Rivières	Count:27074
+2105	Lat: 47.4167	Long: -79.2833	Name: Laverlochere	Count:871
+2106	Lat: 47.4167	Long: -81.5333	Name: Westree	Count:1230
+2107	Lat: 43.0773	Long: -79.9514	Name: Caledonia	Count:13896
+2108	Lat: 46.9333	Long: -74.0167	Name: Saint-Michel-des-Saints	Count:13629
+2109	Lat: 46.9333	Long: -70.7333	Name: Berthier-Sur-Mer	Count:2020
+2110	Lat: 43.7841	Long: -80.2248	Name: Guelph	Count:933
+2111	Lat: 50.9821	Long: -114.5178	Name: Calgary	Count:14521
+2112	Lat: 45.814	Long: -74.0176	Name: Saint-Jerome	Count:25813
+2113	Lat: 45.016	Long: -74.358	Name: Beaver Crossing	Count:164
+2114	Lat: 47.5021	Long: -67.3897	Name: Saint-Quentin	Count:8419
+2115	Lat: 45.5525	Long: -73.598	Name: Montreal	Count:18839
+2116	Lat: 49.8968	Long: -97.0279	Name: Winnipeg	Count:3722
+2117	Lat: 45.57	Long: -72.8528	Name: Saint-Hyacinthe	Count:1599
+2118	Lat: 48.9934	Long: -58.1009	Name: Corner Brook	Count:2892
+2119	Lat: 44.1946	Long: -77.2297	Name: Belleville	Count:3907
+2120	Lat: 45.5565	Long: -62.7157	Name: Westville	Count:10470
+2121	Lat: 45.5565	Long: -73.6791	Name: Laval	Count:9547
+2122	Lat: 43.2065	Long: -81.0281	Name: London	Count:605
+2123	Lat: 44.5519	Long: -80.9385	Name: Owen Sound	Count:47032
+2124	Lat: 45.5844	Long: -73.6229	Name: Montreal	Count:11773
+2125	Lat: 45.9649	Long: -73.7099	Name: Sainte-Julienne	Count:9219
+2126	Lat: 45.6736	Long: -73.5919	Name: Laval	Count:13968
+2127	Lat: 53.6167	Long: -115.25	Name: Wildwood	Count:3138
+2128	Lat: 53.2333	Long: -112.2333	Name: Holden	Count:984
+2129	Lat: 44.6886	Long: -63.6076	Name: Dartmouth	Count:3476
+2130	Lat: 48.4333	Long: -58.5	Name: Stephenville	Count:1989
+2131	Lat: 48.4333	Long: -71.0667	Name: Chicoutimi	Count:32233
+2132	Lat: 48.4333	Long: -68.5167	Name: Rimouski	Count:1928
+2133	Lat: 48.4333	Long: -71.25	Name: Jonquiere	Count:71
+2134	Lat: 48.4333	Long: -77.6333	Name: Barraute	Count:1384
+2135	Lat: 48.4578	Long: -89.1885	Name: Thunder Bay	Count:76937
+2136	Lat: 45.5946	Long: -70.9176	Name: Lac-Megantic	Count:3651
+2137	Lat: 51.35	Long: -102.2	Name: Rhein	Count:717
+2138	Lat: 47.132	Long: -70.3647	Name: Montmagny	Count:1189
+2139	Lat: 50.9878	Long: -114.0001	Name: Calgary	Count:45063
+2140	Lat: 51.1162	Long: -114.2089	Name: Calgary	Count:26931
+2141	Lat: 42.2736	Long: -83.0416	Name: Windsor	Count:18972
+2142	Lat: 45.5123	Long: -73.5967	Name: Montreal	Count:64395
+2143	Lat: 43.1021	Long: -79.5456	Name: Smithville	Count:7784
+2144	Lat: 49.9324	Long: -97.1988	Name: Winnipeg	Count:40058
+2145	Lat: 45.6913	Long: -60.8386	Name: Carters Cove	Count:1158
+2146	Lat: 53.5833	Long: -110.7167	Name: Vermilion	Count:389
+2147	Lat: 43.0277	Long: -79.3601	Name: Welland	Count:584
+2148	Lat: 55.15	Long: -119.15	Name: Wembley	Count:728
+2149	Lat: 55.15	Long: -107.6167	Name: Beauval	Count:3045
+2150	Lat: 43.1496	Long: -79.3684	Name: St. Catharines	Count:3486
+2151	Lat: 45.3465	Long: -66.0002	Name: Rothesay	Count:6737
+2152	Lat: 49.4539	Long: -116.763	Name: Boswell	Count:26705
+2153	Lat: 45.55	Long: -73.2333	Name: McMasterville	Count:3384
+2154	Lat: 45.55	Long: -73.6667	Name: Pont-Viau	Count:225
+2155	Lat: 45.55	Long: -73.6515	Name: Montreal	Count:20316
+2156	Lat: 45.4914	Long: -75.6057	Name: Gatineau	Count:27167
+2157	Lat: 50.7167	Long: -113.9667	Name: Okotoks	Count:87870
+2158	Lat: 50.7167	Long: -103	Name: Neudorf	Count:2522
+2159	Lat: 50.7167	Long: -127.5	Name: Port Hardy	Count:5507
+2160	Lat: 50.7167	Long: -57.3667	Name: Port au Choix	Count:71
+2161	Lat: 50.7167	Long: -121.2667	Name: Ashcroft	Count:2061
+2162	Lat: 45.4365	Long: -75.1575	Name: Bourget	Count:4932
+2163	Lat: 48.9249	Long: -55.6493	Name: Grand Falls-Windsor	Count:9055
+2164	Lat: 46.2152	Long: -60.2452	Name: Sydney	Count:194
+2165	Lat: 45.8489	Long: -65.788	Name: Sussex	Count:840
+2166	Lat: 47.327	Long: -72.792	Name: Carignan	Count:2656
+2167	Lat: 43.0333	Long: -79.2833	Name: Fonthill	Count:4686
+2168	Lat: 44.4167	Long: -80.0833	Name: Stayner	Count:1087
+2169	Lat: 45.8711	Long: -60.9608	Name: Big Harbour Island	Count:92
+2170	Lat: 46.6926	Long: -64.1558	Name: Coleman	Count:543
+2171	Lat: 43.567	Long: -80.9207	Name: Milverton	Count:2810
+2172	Lat: 45.9356	Long: -66.6609	Name: Fredericton	Count:10809
+2173	Lat: 43.8777	Long: -79.4359	Name: Richmond Hill	Count:62569
+2174	Lat: 54.1136	Long: -114.3932	Name: Barrhead	Count:6461
+2175	Lat: 47.8741	Long: -65.9102	Name: Pointe-Verte	Count:92
+2176	Lat: 45.3915	Long: -72.7799	Name: Granby	Count:13947
+2177	Lat: 44.7542	Long: -79.9005	Name: Midland	Count:31341
+2178	Lat: 45.4882	Long: -75.5199	Name: Orleans	Count:19126
+2179	Lat: 46.2468	Long: -71.2106	Name: Saint-Pierre-de-Broughton	Count:584
+2180	Lat: 45.3928	Long: -71.9441	Name: Sherbrooke	Count:7178
+2181	Lat: 46.2745	Long: -70.9924	Name: Tring-Jonction	Count:625
+2182	Lat: 43.7293	Long: -79.3038	Name: Toronto	Count:25669
+2183	Lat: 53.4495	Long: -113.7135	Name: Spruce Grove	Count:23270
+2184	Lat: 42.742	Long: -80.5747	Name: Norfolk County	Count:1425
+2185	Lat: 45.8353	Long: -64.2182	Name: Amherst	Count:13670
+2186	Lat: 46.1677	Long: -72.324	Name: Trois-Rivières	Count:2645
+2187	Lat: 45.352	Long: -75.6421	Name: Ottawa	Count:33238
+2188	Lat: 48.6167	Long: -93.8333	Name: Emo	Count:1271
+2189	Lat: 48.6167	Long: -77.6333	Name: La Morandiere	Count:205
+2190	Lat: 48.6167	Long: -53.0333	Name: Elliston	Count:728
+2191	Lat: 52.0554	Long: -106.7036	Name: Saskatoon	Count:7773
+2192	Lat: 54.2333	Long: -130.2833	Name: Prince Rupert	Count:1651
+2193	Lat: 45.7134	Long: -73.4778	Name: Repentigny	Count:82896
+2194	Lat: 45.5298	Long: -73.6153	Name: Montreal	Count:396954
+2195	Lat: 46.1115	Long: -72.3709	Name: Trois-Rivières	Count:605
+2196	Lat: 53.2027	Long: -105.7503	Name: Prince Albert	Count:101725
+2197	Lat: 49.512	Long: -115.7703	Name: Cranbrook	Count:37381
+2198	Lat: 43.5034	Long: -79.8773	Name: Milton	Count:282122
+2199	Lat: 45.5321	Long: -73.894	Name: Deux-Montagnes	Count:76763
+2200	Lat: 45.5321	Long: -76.0116	Name: Luskville	Count:3466
+2201	Lat: 55.9167	Long: -115.65	Name: Atikameg	Count:646
+2202	Lat: 52.6333	Long: -104.8833	Name: St. Brieux	Count:964
+2203	Lat: 52.6333	Long: -114.2167	Name: Rimbey	Count:4153
+2204	Lat: 54.7667	Long: -101.8833	Name: Flin Flon	Count:1005
+2205	Lat: 54.7667	Long: -127.1667	Name: Smithers	Count:10440
+2206	Lat: 45.4355	Long: -73.1738	Name: Marieville	Count:14973
+2207	Lat: 45.5768	Long: -72.5236	Name: Acton Vale	Count:1230
+2208	Lat: 49.2591	Long: -123.0226	Name: Burnaby	Count:29720
+2209	Lat: 49.7167	Long: -86.9667	Name: Geraldton	Count:1722
+2210	Lat: 49.7167	Long: -92.6	Name: Wabigoon	Count:471
+2211	Lat: 49.7167	Long: -96.7333	Name: Dufresne	Count:953
+2212	Lat: 45.9942	Long: -67.2397	Name: Nackawic	Count:1846
+2213	Lat: 45.5	Long: -73.8167	Name: Roxboro	Count:4676
+2214	Lat: 45.5	Long: -73.5833	Name: 	Count:5407699
+2215	Lat: 45.5	Long: -73.9667	Name: Pointe-Calumet	Count:6727
+2216	Lat: 50.6903	Long: -120.3634	Name: Kamloops	Count:136645
+2217	Lat: 45.6895	Long: -61.1981	Name: Port Hawkesbury	Count:697
+2218	Lat: 46.2337	Long: -73.0179	Name: Maskinonge	Count:1333
+2219	Lat: 49.8628	Long: -97.3348	Name: Winnipeg	Count:605
+2220	Lat: 46.045	Long: -73.1172	Name: Sorel	Count:21280
+2221	Lat: 46.6326	Long: -70.9757	Name: Saint-Anselme	Count:3343
+2222	Lat: 43.8607	Long: -80.0686	Name: Alton	Count:1999
+2223	Lat: 45.673	Long: -73.88	Name: Blainville	Count:33628
+2224	Lat: 48.4502	Long: -123.3435	Name: Victoria	Count:59923
+2225	Lat: 45.6926	Long: -73.1804	Name: Saint-Charles-sur-Richelieu	Count:440
+2226	Lat: 43.5701	Long: -79.5985	Name: Mississauga	Count:66323
+2227	Lat: 46.5258	Long: -72.7381	Name: Shawinigan	Count:10635
+2228	Lat: 44.6327	Long: -63.6219	Name: Halifax	Count:25085
+2229	Lat: 43.3378	Long: -79.8961	Name: Waterdown	Count:36920
+2230	Lat: 52.2911	Long: -113.7027	Name: Red Deer	Count:338
+2231	Lat: 42.3251	Long: -83.0171	Name: Windsor	Count:32325
+2232	Lat: 45.5402	Long: -73.659	Name: Montreal	Count:1979
+2233	Lat: 49.9004	Long: -97.1457	Name: Winnipeg	Count:5825
+2234	Lat: 45.6	Long: -73.6167	Name: Montreal	Count:35751
+2235	Lat: 45.6	Long: -73.45	Name: Boucherville	Count:1169
+2236	Lat: 45.6	Long: -73.5333	Name: Montreal	Count:26562
+2237	Lat: 45.6587	Long: -73.5236	Name: Montreal	Count:32048
+2238	Lat: 47.6454	Long: -67.3437	Name: Kedgwick	Count:287
+2239	Lat: 42.7788	Long: -81.2134	Name: St. Thomas	Count:19095
+2240	Lat: 51.6167	Long: -106.4333	Name: Hanley	Count:1035
+2241	Lat: 51.6167	Long: -85.9333	Name: Ogoki	Count:164
+2242	Lat: 46.453	Long: -64	Name: Wellington	Count:482
+2243	Lat: 43.3257	Long: -81.3135	Name: Kirkton	Count:3220
+2244	Lat: 43.9091	Long: -78.8088	Name: Oshawa	Count:64384
+2245	Lat: 44.6408	Long: -63.6723	Name: Halifax	Count:6173
+2246	Lat: 43.6668	Long: -79.3501	Name: Toronto	Count:55288
+2247	Lat: 46.5558	Long: -72.7437	Name: Shawinigan	Count:9281
+2248	Lat: 49.0382	Long: -122.335	Name: Abbotsford	Count:101540
+2249	Lat: 44.9763	Long: -75.2437	Name: Williamsburg	Count:2092
+2250	Lat: 49.1778	Long: -57.413	Name: Deer Lake	Count:11517
+2251	Lat: 46.083	Long: -73.18	Name: Berthierville	Count:3527
+2252	Lat: 48.5333	Long: -67.5667	Name: Val-Brillant	Count:984
+2253	Lat: 48.5333	Long: -80.4667	Name: Matheson	Count:1692
+2254	Lat: 52.9167	Long: -105.8	Name: St. Louis	Count:133
+2255	Lat: 52.9167	Long: -82.4333	Name: Attawapiskat	Count:184
+2256	Lat: 52.9167	Long: -66.8667	Name: Labrador City	Count:1251
+2257	Lat: 52.9167	Long: -111.2333	Name: Irma	Count:1876
+2258	Lat: 46.7828	Long: -71.3149	Name: Quebec	Count:43104
+2259	Lat: 43.6536	Long: -79.4258	Name: Toronto	Count:285311
+2260	Lat: 51.0696	Long: -114.0862	Name: Calgary	Count:107468
+2261	Lat: 45.5103	Long: -73.6818	Name: Saint-Laurent	Count:10
+2262	Lat: 51.0459	Long: -113.3967	Name: Strathmore	Count:44345
+2263	Lat: 46.4487	Long: -72.3466	Name: Champlain	Count:2235
+2264	Lat: 52.7167	Long: -107.35	Name: Hafford	Count:4481
+2265	Lat: 53.458	Long: -113.4826	Name: Edmonton	Count:830
+2266	Lat: 42.2619	Long: -82.4333	Name: Tilbury	Count:605
+2267	Lat: 55.8542	Long: -108.4842	Name: Buffalo Narrows	Count:512
+2268	Lat: 45.8052	Long: -74.1051	Name: Saint-Jerome	Count:18501
+2269	Lat: 43.2365	Long: -79.8338	Name: Hamilton	Count:12388
+2270	Lat: 46.9097	Long: -67.3971	Name: Plaster Rock	Count:3445
+2271	Lat: 43.7807	Long: -79.2855	Name: Scarborough	Count:42222
+2272	Lat: 53.5322	Long: -113.4404	Name: Edmonton	Count:11783
+2273	Lat: 44.1821	Long: -81.6373	Name: Kincardine	Count:26121
+2274	Lat: 51.3167	Long: -107.65	Name: Wiseton	Count:440
+2275	Lat: 51.3167	Long: -113.6167	Name: Irricana	Count:399
+2276	Lat: 43.2318	Long: -79.7696	Name: Stoney Creek	Count:63092
+2277	Lat: 46.6755	Long: -71.7785	Name: Cap-Sante	Count:512
+2278	Lat: 46.3667	Long: -71.2333	Name: Saint-Sylvestre	Count:871
+2279	Lat: 46.3667	Long: -71.6167	Name: Lyster	Count:2727
+2280	Lat: 46.3667	Long: -72.0167	Name: Manseau	Count:2461
+2281	Lat: 45.6105	Long: -73.6048	Name: Montreal	Count:15239
+2282	Lat: 46.2327	Long: -61.3047	Name: Inverness	Count:1087
+2283	Lat: 47.5295	Long: -52.7417	Name: St. John's	Count:912
+2284	Lat: 44.3512	Long: -78.7192	Name: Lindsay	Count:36930
+2285	Lat: 42.9759	Long: -81.229	Name: London	Count:14593
+2286	Lat: 45.5316	Long: -74.2087	Name: Mirabel	Count:1804
+2287	Lat: 49.0499	Long: -122.804	Name: White Rock	Count:20265
+2288	Lat: 46.8165	Long: -71.236	Name: Quebec	Count:44201
+2289	Lat: 45.544	Long: -73.4505	Name: Longueuil	Count:9722
+2290	Lat: 46.8626	Long: -69.9039	Name: Saint-Adalbert	Count:379
+2291	Lat: 45.5583	Long: -73.6118	Name: Montreal	Count:12399
+2292	Lat: 45.3319	Long: -76.2913	Name: Pakenham	Count:2881
+2293	Lat: 56.35	Long: -94.7	Name: Gillam	Count:2481
+2294	Lat: 42.7725	Long: -81.2003	Name: St. Thomas	Count:27269
+2295	Lat: 45.0732	Long: -67.0428	Name: Saint Andrews	Count:1189
+2296	Lat: 49.9	Long: -102.0167	Name: Wawota	Count:2522
+2297	Lat: 49.9	Long: -119.4833	Name: Kelowna	Count:19660
+2298	Lat: 49.7	Long: -123.15	Name: Squamish	Count:32397
+2299	Lat: 49.7	Long: -54.2833	Name: Fogo	Count:1128
+2300	Lat: 49.7	Long: -56.15	Name: Middle Arm	Count:2810
+2301	Lat: 49.7	Long: -83.6667	Name: Hearst	Count:20931
+2302	Lat: 49.7	Long: -106.5667	Name: Lafleche	Count:553
+2303	Lat: 49.7	Long: -112.8333	Name: Lethbridge	Count:27987
+2304	Lat: 50.0382	Long: -66.8659	Name: Port-Cartier	Count:6471
+2305	Lat: 42.779	Long: -81.1908	Name: St. Thomas	Count:34274
+2306	Lat: 49.9167	Long: -109.4667	Name: Maple Creek	Count:3548
+2307	Lat: 49.9167	Long: -104.3667	Name: Lang	Count:830
+2308	Lat: 49.9167	Long: -126.6667	Name: Tahsis	Count:420
+2309	Lat: 49.9167	Long: -56.1833	Name: Baie Verte	Count:646
+2310	Lat: 49.9167	Long: -57.9	Name: Cow Head	Count:389
+2311	Lat: 46.6333	Long: -71.9167	Name: Deschambault	Count:1261
+2312	Lat: 46.6333	Long: -81.3833	Name: Levack	Count:2369
+2313	Lat: 49.6719	Long: -103.8491	Name: Weyburn	Count:29690
+2314	Lat: 46.15	Long: -60.1667	Name: Sydney	Count:24828
+2315	Lat: 44.7803	Long: -63.6916	Name: Halifax	Count:7127
+2316	Lat: 46.9179	Long: -71.1964	Name: Quebec	Count:13034
+2317	Lat: 48.7667	Long: -79	Name: Macamic	Count:1948
+2318	Lat: 48.7667	Long: -80.6667	Name: Iroquois Falls	Count:5753
+2319	Lat: 46.0147	Long: -60.9694	Name: Little Narrows	Count:461
+2320	Lat: 48.151	Long: -80.0328	Name: Kirkland Lake	Count:11465
+2321	Lat: 45.3525	Long: -63.167	Name: Truro	Count:451
+2322	Lat: 43.9014	Long: -78.6755	Name: Oshawa	Count:94618
+2323	Lat: 43.6808	Long: -79.5438	Name: Etobicoke	Count:14819
+2324	Lat: 43.4422	Long: -80.4968	Name: Kitchener	Count:50396
+2325	Lat: 49.1301	Long: -56.0845	Name: West Lake	Count:7763
+2326	Lat: 46.6709	Long: -71.3548	Name: Quebec	Count:32459
+2327	Lat: 44.2099	Long: -80.6238	Name: Priceville	Count:1035
+2328	Lat: 43.8581	Long: -78.9319	Name: Whitby	Count:116288
+2329	Lat: 52.3167	Long: -106.5667	Name: Warman	Count:25198
+2330	Lat: 52.3167	Long: -106.1	Name: Vonda	Count:3999
+2331	Lat: 49.0501	Long: -122.6745	Name: Langley	Count:26459
+2332	Lat: 55.2217	Long: -118.0203	Name: DeBolt	Count:5784
+2333	Lat: 45.8454	Long: -72.5713	Name: Saint-Germain-de-Grantham	Count:6707
+2334	Lat: 43.7182	Long: -79.5216	Name: Toronto	Count:24387
+2335	Lat: 46.186	Long: -72.498	Name: Trois-Rivières	Count:881
+2336	Lat: 45.2	Long: -64.1167	Name: Cambridge	Count:3107
+2337	Lat: 45.7334	Long: -74.1309	Name: Saint-Colomban	Count:1394
+2338	Lat: 48.4833	Long: -68.4333	Name: Saint-Anaclet-de-Lessard	Count:543
+2339	Lat: 48.4833	Long: -71.7833	Name: Saint-Gedeon	Count:1763
+2340	Lat: 53.1833	Long: -108.7667	Name: Edam	Count:635
+2341	Lat: 46.5316	Long: -70.7605	Name: Saint-Malachie	Count:646
+2342	Lat: 45.5078	Long: -73.5804	Name: Montreal	Count:1176504
+2343	Lat: 46.17	Long: -73.429	Name: Saint-Felix-de-Valois	Count:6635
+2344	Lat: 46.5076	Long: -80.9872	Name: Greater Sudbury	Count:82075
+2345	Lat: 53.5801	Long: -113.541	Name: Edmonton	Count:45832
+2346	Lat: 46.3042	Long: -72.274	Name: Trois-Rivières	Count:471
+2347	Lat: 49.2254	Long: -123.1176	Name: Vancouver	Count:82680
+2348	Lat: 45.8626	Long: -72.0733	Name: Kingsey Falls	Count:2348
+2349	Lat: 47.2167	Long: -52.85	Name: Mobile	Count:2984
+2350	Lat: 47.2167	Long: -53.5667	Name: Colinet	Count:430
+2351	Lat: 50.8833	Long: -109.55	Name: Leader	Count:451
+2352	Lat: 43.8842	Long: -79.3359	Name: Markham	Count:42591
+2353	Lat: 50.9	Long: -97.2167	Name: Arborg	Count:164
+2354	Lat: 50.9	Long: -103.85	Name: Lipton	Count:1897
+2355	Lat: 43.191	Long: -79.8326	Name: Hamilton	Count:5732
+2356	Lat: 48.4349	Long: -89.2192	Name: Thunder Bay	Count:145763
+2357	Lat: 42.2581	Long: -82.9988	Name: Windsor	Count:46375
+2358	Lat: 44.959	Long: -64.1448	Name: Windsor	Count:36510
+2359	Lat: 52.9741	Long: -113.3646	Name: Wetaskiwin	Count:34920
+2360	Lat: 45.3944	Long: -73.7494	Name: Chateauguay	Count:55123
+2361	Lat: 45.8509	Long: -66.467	Name: Oromocto	Count:15803
+2362	Lat: 49.3465	Long: -123.238	Name: Vancouver	Count:16788
+2363	Lat: 43.1739	Long: -80.5277	Name: Kitchener	Count:3220
+2364	Lat: 47.7667	Long: -53.2167	Name: Victoria	Count:4245
+2365	Lat: 47.7667	Long: -69.6167	Name: Notre-Dame-du-Portage	Count:523
+2366	Lat: 47.7667	Long: -52.7667	Name: Pouch Cove	Count:769
+2367	Lat: 47.7833	Long: -53.4833	Name: Heart's Delight-Islington	Count:892
+2368	Lat: 47.7833	Long: -59.2333	Name: Tompkins	Count:523
+2369	Lat: 43.6305	Long: -79.4762	Name: Toronto	Count:56980
+2370	Lat: 47.6667	Long: -69.7333	Name: Saint-Andre	Count:871
+2371	Lat: 47.6667	Long: -81.7167	Name: Gogama	Count:30
+2372	Lat: 46.6833	Long: -70.45	Name: Saint-Philemon	Count:717
+2373	Lat: 46.6833	Long: -60.3667	Name: Ingonish	Count:1117
+2374	Lat: 45.764	Long: -72.5006	Name: Drummondville	Count:1456
+2375	Lat: 46.6958	Long: -71.0691	Name: Saint-Henri	Count:3558
+2376	Lat: 45.4564	Long: -73.4931	Name: Brossard	Count:30848
+2377	Lat: 46.2382	Long: -63.1395	Name: Charlottetown	Count:37761
+2378	Lat: 49.3325	Long: -123.0674	Name: North Vancouver	Count:23905
+2379	Lat: 52.3501	Long: -114.3687	Name: Eckville	Count:2953
+2380	Lat: 50.8902	Long: -113.9892	Name: Calgary	Count:41740
+2381	Lat: 49.8275	Long: -97.183	Name: Winnipeg	Count:16573
+2382	Lat: 52.3667	Long: -106.9667	Name: Langham	Count:4686
+2383	Lat: 52.3667	Long: -114.9167	Name: Rocky Mountain House	Count:31505
+2384	Lat: 53.4833	Long: -104.3333	Name: Garrick	Count:20
+2385	Lat: 47.5736	Long: -52.7083	Name: St. John's	Count:14706
+2386	Lat: 46.6168	Long: -72.7336	Name: Shawinigan	Count:4122
+2387	Lat: 43.7848	Long: -79.4811	Name: Toronto	Count:39114
+2388	Lat: 50.6	Long: -113.6167	Name: Blackie	Count:697
+2389	Lat: 50.6	Long: -127.5833	Name: Coal Harbour	Count:235
+2390	Lat: 42.8209	Long: -81.8659	Name: Alvinston	Count:4071
+2391	Lat: 45.5459	Long: -73.6979	Name: Laval	Count:38602
+2392	Lat: 53.3333	Long: -111.1667	Name: Mannville	Count:1958
+2393	Lat: 53.3333	Long: -60.4167	Name: Happy Valley-Goose Bay	Count:30
+2394	Lat: 53.3333	Long: -113.5333	Name: Nisku	Count:399
+2395	Lat: 53.3333	Long: -110.3333	Name: Kitscoty	Count:1979
+2396	Lat: 49.146	Long: -121.9435	Name: Chilliwack	Count:1107
+2397	Lat: 58.4533	Long: -78.1025	Name: Inukjuak	Count:851
+2398	Lat: 42.3997	Long: -82.1996	Name: Chatham	Count:40704
+2399	Lat: 45.4325	Long: -75.5624	Name: Ottawa	Count:14819
+2400	Lat: 45.3	Long: -72.3167	Name: Eastman	Count:5804
+2401	Lat: 50.9667	Long: -110.0167	Name: Empress	Count:1035
+2402	Lat: 48.75	Long: -86.3667	Name: Marathon	Count:9876
+2403	Lat: 48.75	Long: -91.6167	Name: Atikokan	Count:4348
+2404	Lat: 46.9338	Long: -71.3446	Name: Quebec	Count:19803
+2405	Lat: 52.1193	Long: -106.6594	Name: Saskatoon	Count:106720
+2406	Lat: 54.2678	Long: -110.7508	Name: Bonnyville	Count:40868
+2407	Lat: 43.3479	Long: -79.7593	Name: Burlington	Count:143209
+2408	Lat: 44.6667	Long: -63.5667	Name: Dartmouth	Count:57605
+2409	Lat: 44.6667	Long: -78.8	Name: Coboconk	Count:133
+2410	Lat: 42.8829	Long: -79.9024	Name: Kohler	Count:338
+2411	Lat: 45.6833	Long: -73.6333	Name: Terrebonne	Count:13834
+2412	Lat: 45.6833	Long: -76.6167	Name: Bryson	Count:2481
+2413	Lat: 44.4604	Long: -76.8761	Name: Enterprise	Count:635
+2414	Lat: 46.8396	Long: -71.2506	Name: Quebec	Count:25208
+2415	Lat: 46.4211	Long: -73.0136	Name: Shawinigan	Count:1046
+2416	Lat: 46.1013	Long: -73.4242	Name: Joliette	Count:1210
+2417	Lat: 43.1277	Long: -80.7743	Name: Woodstock	Count:81347
+2418	Lat: 45.473	Long: -76.2136	Name: Arnprior	Count:3210
+2419	Lat: 45.7289	Long: -73.4907	Name: Repentigny	Count:1897
+2420	Lat: 47.8184	Long: -69.1505	Name: Saint-Hubert-de-Riviere-du-Loup	Count:72148
+2421	Lat: 46.85	Long: -71.1833	Name: Quebec	Count:12552
+2422	Lat: 45.7073	Long: -61.4107	Name: Troy	Count:533
+2423	Lat: 45.2573	Long: -75.3675	Name: Casselman	Count:10512
+2424	Lat: 45.2573	Long: -75.9153	Name: Ottawa	Count:42304
+2425	Lat: 45.5363	Long: -60.9055	Name: Cap La Ronde	Count:687
+2426	Lat: 53.5483	Long: -113.408	Name: Edmonton	Count:23085
+2427	Lat: 49.6	Long: -119.6667	Name: Summerland	Count:21157
+2428	Lat: 49.6	Long: -114.4333	Name: Blairmore	Count:4143
+2429	Lat: 49.6	Long: -124.8833	Name: Union Bay	Count:1476
+2430	Lat: 49.6	Long: -102.0833	Name: Manor	Count:820
+2431	Lat: 49.6	Long: -97.3167	Name: Domain	Count:287
+2432	Lat: 45.2925	Long: -72.978	Name: Farnham	Count:7035
+2433	Lat: 46.4168	Long: -64.0654	Name: St-Timothee	Count:1097
+2434	Lat: 44.5032	Long: -64.2221	Name: Chester	Count:2810
+2435	Lat: 42.3188	Long: -82.965	Name: Windsor	Count:18552
+2436	Lat: 53.5248	Long: -113.5334	Name: Edmonton	Count:55082
+2437	Lat: 55.2833	Long: -114.7833	Name: Slave Lake	Count:28202
+2438	Lat: 53.58	Long: -113.5873	Name: Edmonton	Count:61
+2439	Lat: 46.6582	Long: -70.1458	Name: Bernatchez	Count:943
+2440	Lat: 47.935	Long: -68.6017	Name: Lac-des-Aigles	Count:1251
+2441	Lat: 52.8833	Long: -118.0833	Name: Jasper	Count:7466
+2442	Lat: 44.2297	Long: -66.1694	Name: Meteghan River	Count:328
+2443	Lat: 44.8577	Long: -65.3568	Name: Beaconsfield	Count:933
+2444	Lat: 49.9667	Long: -123.15	Name: Garibaldi	Count:18665
+2445	Lat: 49.9667	Long: -112.55	Name: Tennion	Count:112
+2446	Lat: 45.7233	Long: -64.7084	Name: Harvey	Count:728
+2447	Lat: 45.6462	Long: -73.8092	Name: Blainville	Count:16409
+2448	Lat: 45.75	Long: -73.6	Name: Mascouche	Count:4625
+2449	Lat: 45.75	Long: -64.7167	Name: Riverside-Albert	Count:82
+2450	Lat: 43.3129	Long: -80.2592	Name: Cambridge	Count:92
+2451	Lat: 44.1915	Long: -78.0575	Name: Roseneath	Count:1220
+2452	Lat: 44.1915	Long: -79.94	Name: Everett	Count:2840
+2453	Lat: 43.7768	Long: -66.1122	Name: Rockville	Count:379
+2454	Lat: 49.8972	Long: -97.1366	Name: Winnipeg	Count:25577
+2455	Lat: 45.495	Long: -75.5883	Name: Gatineau	Count:50098
+2456	Lat: 43.8731	Long: -81.0313	Name: North Perth	Count:1005
+2457	Lat: 44.3706	Long: -64.752	Name: Chelsea	Count:1589
+2458	Lat: 43.564	Long: -80.6378	Name: Kitchener	Count:10
+2459	Lat: 47.4408	Long: -69.0605	Name: Riviere-Bleue	Count:358
+2460	Lat: 49.2124	Long: -122.9696	Name: Burnaby	Count:34592
+2461	Lat: 43.9666	Long: -80.9757	Name: Clifford	Count:5650
+2462	Lat: 45.5155	Long: -75.4054	Name: Ottawa	Count:3179
+2463	Lat: 45.5155	Long: -73.6292	Name: Montreal	Count:40314
+2464	Lat: 49.8803	Long: -119.5004	Name: Kelowna	Count:115457
+2465	Lat: 45.85	Long: -73.2333	Name: Contrecoeur	Count:11188
+2466	Lat: 45.85	Long: -79.3667	Name: South River	Count:153
+2467	Lat: 45.85	Long: -73.7667	Name: Saint-Lin-Laurentides	Count:29269
+2468	Lat: 45.5902	Long: -73.5559	Name: Montreal	Count:36048
+2469	Lat: 45.4193	Long: -73.4884	Name: La Prairie	Count:9045
+2470	Lat: 46.0388	Long: -71.9596	Name: Victoriaville	Count:769
+2471	Lat: 50.3667	Long: -119.35	Name: Okanagan Centre	Count:2553
+2472	Lat: 50.3667	Long: -107.5833	Name: Waldeck	Count:1425
+2473	Lat: 43.5036	Long: -80.5413	Name: Waterloo	Count:17762
+2474	Lat: 45.5355	Long: -73.2719	Name: Saint-Basile-le-Grand	Count:23567
+2475	Lat: 44.4883	Long: -76.9928	Name: Napanee	Count:1271
+2476	Lat: 43.7314	Long: -80.502	Name: Alma	Count:12368
+2477	Lat: 54.95	Long: -95.2667	Name: Oxford House	Count:82
+2478	Lat: 51.0632	Long: -114.0614	Name: Calgary	Count:152449
+2479	Lat: 44.0223	Long: -78.1483	Name: Cobourg	Count:1804
+2480	Lat: 48.2833	Long: -68.8667	Name: Saint-Fabien	Count:451
+2481	Lat: 47.7964	Long: -65.7333	Name: Bathurst	Count:676
+2482	Lat: 53.1667	Long: -99.2833	Name: Grand Rapids	Count:215
+2483	Lat: 45.415	Long: -72.626	Name: Granby	Count:6758
+2484	Lat: 45.9	Long: -82.25	Name: Kagawong	Count:420
+2485	Lat: 49.2814	Long: -123.12	Name: Vancouver	Count:42355
+2486	Lat: 46.3443	Long: -72.4326	Name: Becancour	Count:12296
+2487	Lat: 43.9036	Long: -79.6528	Name: Toronto	Count:2122
+2488	Lat: 53.5167	Long: -114.3333	Name: Stony Plain	Count:1415
+2489	Lat: 53.5167	Long: -114.9667	Name: Entwistle	Count:1220
+2490	Lat: 53.5167	Long: -113.3167	Name: Sherwood Park	Count:18808
+2491	Lat: 53.5167	Long: -106.8667	Name: Debden	Count:471
+2492	Lat: 53.5167	Long: -110.3333	Name: Marwayne	Count:799
+2493	Lat: 45.3059	Long: -74.3049	Name: Salaberry-de-Valleyfield	Count:1015
+2494	Lat: 45.198	Long: -72.5716	Name: Lac Brome	Count:2563
+2495	Lat: 52.9667	Long: -114.4333	Name: Winfield	Count:1712
+2496	Lat: 49.2869	Long: -122.958	Name: Burnaby	Count:116657
+2497	Lat: 49.2376	Long: -123.1639	Name: Vancouver	Count:16932
+2498	Lat: 49.2007	Long: -122.6641	Name: Maple Ridge	Count:178540
+2499	Lat: 49.2007	Long: -122.9074	Name: New Westminster	Count:116975
+2500	Lat: 45.0552	Long: -74.952	Name: North Lunenburg	Count:687
+2501	Lat: 42.2351	Long: -82.998	Name: Windsor	Count:3148
+2502	Lat: 52.1449	Long: -106.6704	Name: Saskatoon	Count:174632
+2503	Lat: 51.0426	Long: -114.0791	Name: Calgary	Count:22859
+2504	Lat: 48.5667	Long: -88.7333	Name: Pass Lake	Count:3415
+2505	Lat: 46.0438	Long: -71.9162	Name: Arthabaska	Count:348
+2506	Lat: 45.1475	Long: -75.6115	Name: Bells Corners	Count:1928
+2507	Lat: 50.9204	Long: -114.0674	Name: Calgary	Count:65841
+2508	Lat: 53.5908	Long: -116.4104	Name: Edson	Count:19947
+2509	Lat: 46.0748	Long: -72.8072	Name: Pierreville	Count:923
+2510	Lat: 50.9909	Long: -114.074	Name: Calgary	Count:74148
+2511	Lat: 45.6722	Long: -70.9402	Name: Lac-Megantic	Count:164
+2512	Lat: 54.1131	Long: -112.4736	Name: Smoky Lake	Count:1579
+2513	Lat: 47.7333	Long: -53.25	Name: Carbonear	Count:11322
+2514	Lat: 44.1831	Long: -66.1817	Name: Meteghan	Count:1794
+2515	Lat: 46.2157	Long: -71.0775	Name: East Broughton	Count:2174
+2516	Lat: 46.7391	Long: -71.2055	Name: Quebec	Count:3743
+2517	Lat: 47.8333	Long: -83.4	Name: Chapleau	Count:2779
+2518	Lat: 44.0421	Long: -77.7382	Name: Brighton	Count:6378
+2519	Lat: 45.7346	Long: -72.7351	Name: Sainte-Helene-de-Bagot	Count:799
+2520	Lat: 46.5175	Long: -84.3414	Name: Sault Ste. Marie	Count:40232
+2521	Lat: 43.4317	Long: -80.3112	Name: Cambridge	Count:32582
+2522	Lat: 48.3187	Long: -89.3415	Name: Thunder Bay	Count:8840
+2523	Lat: 46.8886	Long: -71.2212	Name: Quebec	Count:51401
+2524	Lat: 43.7304	Long: -79.8042	Name: Brampton	Count:17875
+2525	Lat: 49.65	Long: -54.75	Name: Twillingate	Count:3127
+2526	Lat: 49.65	Long: -108.4167	Name: Shaunavon	Count:5025
+2527	Lat: 49.95	Long: -98.9333	Name: Austin	Count:3466
+2528	Lat: 46.2263	Long: -71.7766	Name: Plessisville	Count:1158
+2529	Lat: 45.647	Long: -64.0554	Name: Springhill	Count:8881
+2530	Lat: 53.4839	Long: -113.5227	Name: Edmonton	Count:73450
+2531	Lat: 49.2835	Long: -123.0786	Name: Vancouver	Count:41668
+2532	Lat: 46.8207	Long: -71.1787	Name: Quebec	Count:46981
+2533	Lat: 43.1751	Long: -79.2389	Name: St. Catharines	Count:55021
+2534	Lat: 46.8833	Long: -65.5167	Name: Barnaby River	Count:420
+2535	Lat: 46.8833	Long: -71.5167	Name: Shannon	Count:2451
+2536	Lat: 46.9	Long: -71.1333	Name: Boischatel	Count:1394
+2537	Lat: 48.5167	Long: -72.2167	Name: Roberval	Count:14327
+2538	Lat: 48.5167	Long: -68.3333	Name: Rimouski	Count:328
+2539	Lat: 48.5167	Long: -58.4167	Name: Stephenville Crossing	Count:1733
+2540	Lat: 43.3555	Long: -80.9961	Name: Stratford	Count:20
+2541	Lat: 43.075	Long: -81.8337	Name: Arkona	Count:553
+2542	Lat: 43.8087	Long: -79.1307	Name: Pickering	Count:151311
+2543	Lat: 49.819	Long: -97.0926	Name: Winnipeg	Count:51524
+2544	Lat: 46.119	Long: -73.597	Name: Sainte-Marcelline-de-Kildare	Count:4635
+2545	Lat: 45.4024	Long: -73.5376	Name: Montreal	Count:14747
+2546	Lat: 53.6202	Long: -113.543	Name: Edmonton	Count:25218
+2547	Lat: 44.1597	Long: -66.1711	Name: Meteghan	Count:1835
+2548	Lat: 45.6911	Long: -73.4312	Name: Varennes	Count:29905
+2549	Lat: 54.5908	Long: -112.8092	Name: Boyle	Count:4133
+2550	Lat: 53.5087	Long: -113.5078	Name: Edmonton	Count:51790
+2551	Lat: 43.6578	Long: -79.6607	Name: Mississauga	Count:12511
+2552	Lat: 46.2761	Long: -73.7718	Name: Rawdon	Count:1158
+2553	Lat: 45.45	Long: -73.4833	Name: Brossard	Count:47093
+2554	Lat: 45.45	Long: -75.25	Name: Clarence-Rockland	Count:60887
+2555	Lat: 45.45	Long: -73.5833	Name: Saint-Paul	Count:1158
+2556	Lat: 45.45	Long: -73.85	Name: Dollard-Des Ormeaux	Count:14532
+2557	Lat: 45.45	Long: -73.5667	Name: Verdun	Count:21608
+2558	Lat: 45.45	Long: -73.2667	Name: Chambly	Count:307
+2559	Lat: 45.45	Long: -71.7667	Name: Ascot Corner	Count:1815
+2560	Lat: 45.45	Long: -73.6667	Name: Cote-Saint-Luc	Count:8460
+2561	Lat: 45.45	Long: -73.75	Name: Dorval	Count:11752
+2562	Lat: 48.7333	Long: -69.0667	Name: Forestville	Count:697
+2563	Lat: 53.9333	Long: -90.9833	Name: Bearskin Lake	Count:594
+2564	Lat: 45.6346	Long: -73.6769	Name: Laval	Count:205
+2565	Lat: 49.2846	Long: -122.9914	Name: Burnaby	Count:140255
+2566	Lat: 55.85	Long: -92.0833	Name: Shamattawa	Count:338
+2567	Lat: 42.9776	Long: -79.7444	Name: Canfield	Count:1302
+2568	Lat: 43.6746	Long: -79.724	Name: Brampton	Count:44365
+2569	Lat: 43.9018	Long: -78.9347	Name: Whitby	Count:62026
+2570	Lat: 46.5031	Long: -66.1245	Name: Doaktown	Count:2974
+2571	Lat: 45.3018	Long: -75.9081	Name: Ottawa	Count:1353
+2572	Lat: 42.5956	Long: -82.1844	Name: Dresden	Count:1835
+2573	Lat: 50.0833	Long: -110.7833	Name: Redcliff	Count:4686
+2574	Lat: 50.0833	Long: -96.6667	Name: Tyndall	Count:676
+2575	Lat: 45.3672	Long: -71.8692	Name: Sherbrooke	Count:3404
+2576	Lat: 48.4449	Long: -123.3745	Name: Victoria	Count:95531
+2577	Lat: 50.1333	Long: -97.3167	Name: Stonewall	Count:9937
+2578	Lat: 50.65	Long: -57.2667	Name: Port Saunders	Count:1015
+2579	Lat: 50.65	Long: -102.0833	Name: Esterhazy	Count:5579
+2580	Lat: 50.65	Long: -104.8667	Name: Lumsden	Count:5322
+2581	Lat: 45.2701	Long: -72.1432	Name: Magog	Count:44191
+2582	Lat: 65.1833	Long: -123.4167	Name: Deline	Count:594
+2583	Lat: 45.4991	Long: -73.6722	Name: Saint-Laurent	Count:11301
+2584	Lat: 44.0238	Long: -79.8045	Name: Newmarket	Count:7978
+2585	Lat: 45.2666	Long: -74.1372	Name: Salaberry-de-Valleyfield	Count:19424
+2586	Lat: 46.876	Long: -71.192	Name: Quebec	Count:33494
+2587	Lat: 46.5086	Long: -71.3605	Name: Saint-Lambert-de-Lauzon	Count:748
+2588	Lat: 45.975	Long: -72.375	Name: Carmel	Count:379
+2589	Lat: 46.2255	Long: -71.7779	Name: Plessisville	Count:5117
+2590	Lat: 42.4415	Long: -81.8834	Name: Ridgetown	Count:2922
+2591	Lat: 47.5167	Long: -53.2167	Name: Brigus	Count:2604
+2592	Lat: 47.5167	Long: -53.6667	Name: Chapel Arm	Count:892
+2593	Lat: 47.5167	Long: -57.4167	Name: Ramea	Count:235
+2594	Lat: 47.5333	Long: -53.3	Name: Clarke's Beach	Count:1969
+2595	Lat: 45.079	Long: -66.7421	Name: Pennfield	Count:1097
+2596	Lat: 49.2558	Long: -123.1037	Name: Vancouver	Count:140225
+2597	Lat: 53.519	Long: -113.3216	Name: Sherwood Park	Count:192610
+2598	Lat: 43.854	Long: -79.0202	Name: Ajax	Count:27423
+2599	Lat: 49.8754	Long: -119.3958	Name: Kelowna	Count:119272
+2600	Lat: 45.4551	Long: -73.6084	Name: Lasalle	Count:44806
+2601	Lat: 48.566	Long: -123.4579	Name: Victoria	Count:36028
+2602	Lat: 45.6512	Long: -72.5666	Name: Acton Vale	Count:7168
+2603	Lat: 45.8434	Long: -76.734	Name: Fort-Coulonge	Count:984
+2604	Lat: 44.7431	Long: -63.5144	Name: Halifax	Count:646
+2605	Lat: 66.2667	Long: -128.6333	Name: Fort Good Hope	Count:1107
+2606	Lat: 46.465	Long: -63.463	Name: Stanley Bridge, Hope River, Bayview, Cavendish and North Rustico	Count:389
+2607	Lat: 48.9632	Long: -54.6169	Name: Gander	Count:18778
+2608	Lat: 49.1589	Long: -122.3089	Name: Abbotsford	Count:8245
+2609	Lat: 43.7087	Long: -79.5287	Name: Toronto	Count:23762
+2610	Lat: 48.0783	Long: -66.269	Name: Nouvelle	Count:1476
+2611	Lat: 43.1896	Long: -81.4024	Name: Lucan	Count:6153
+2612	Lat: 48.0467	Long: -66.7826	Name: Campbellton	Count:574
+2613	Lat: 45.2788	Long: -74.1422	Name: Salaberry-de-Valleyfield	Count:25382
+2614	Lat: 45.436	Long: -75.5471	Name: Ottawa	Count:6861
+2615	Lat: 48.9333	Long: -125.5167	Name: Ucluelet	Count:266
+2616	Lat: 48.9333	Long: -55.65	Name: Grand Falls-Windsor	Count:6594
+2617	Lat: 45.4118	Long: -75.6304	Name: Ottawa	Count:39617
+2618	Lat: 49.9378	Long: -97.1183	Name: Winnipeg	Count:48539
+2619	Lat: 50.85	Long: -56.1167	Name: Roddickton	Count:1292
+2620	Lat: 50.85	Long: -113.4667	Name: Carseland	Count:881
+2621	Lat: 50.85	Long: -122.85	Name: Gold Bridge	Count:5835
+2622	Lat: 49.1367	Long: -123.0115	Name: Delta	Count:1846
+2623	Lat: 49.1476	Long: -123.1897	Name: Richmond	Count:115027
+2624	Lat: 47.0085	Long: -65.5833	Name: Miramichi	Count:6789
+2625	Lat: 48.4572	Long: -71.0591	Name: Chicoutimi	Count:9342
+2626	Lat: 44.5029	Long: -80.2176	Name: Collingwood	Count:67482
+2627	Lat: 44.2202	Long: -76.5849	Name: Kingston	Count:114391
+2628	Lat: 43.0698	Long: -80.1183	Name: Brantford	Count:2184
+2629	Lat: 43.7159	Long: -79.3037	Name: Toronto	Count:25280
+2630	Lat: 53.0833	Long: -109.3	Name: Maidstone	Count:3466
+2631	Lat: 53.0833	Long: -113.4667	Name: Millet	Count:4379
+2632	Lat: 53.0833	Long: -104.4667	Name: Gronlid	Count:2461
+2633	Lat: 53.0833	Long: -111.7833	Name: Viking	Count:1466
+2634	Lat: 48.4337	Long: -71.0225	Name: Chicoutimi	Count:23557
+2635	Lat: 46.2972	Long: -70.9764	Name: Saint-Joseph-de-Beauce	Count:2502
+2636	Lat: 45.05	Long: -77.85	Name: Bancroft	Count:8060
+2637	Lat: 45.05	Long: -79.4	Name: Bracebridge	Count:584
+2638	Lat: 45.05	Long: -63.1333	Name: Middle Musquodoboit	Count:246
+2639	Lat: 43.448	Long: -80.4589	Name: Kitchener	Count:49852
+2640	Lat: 46.1545	Long: -74.7007	Name: Mont-Tremblant	Count:16552
+2641	Lat: 49	Long: -102.55	Name: North Portal	Count:553
+2642	Lat: 49	Long: -54.8833	Name: Glenwood	Count:1353
+2643	Lat: 49	Long: -111.95	Name: Coutts	Count:635
+2644	Lat: 46.2607	Long: -63.16	Name: Charlottetown	Count:12019
+2645	Lat: 49.838	Long: -119.6667	Name: West Kelowna	Count:69256
+2646	Lat: 45.7551	Long: -73.5959	Name: Mascouche	Count:38879
+2647	Lat: 45.5413	Long: -73.2215	Name: Beloeil	Count:40725
+2648	Lat: 48.3133	Long: -70.8557	Name: La Baie	Count:29638
+2649	Lat: 43.2116	Long: -79.8915	Name: Hamilton	Count:23916
+2650	Lat: 44.9167	Long: -79.3667	Name: Gravenhurst	Count:11588
+2651	Lat: 44.9167	Long: -75.8333	Name: Merrickville	Count:2697
+2652	Lat: 46.2376	Long: -72.2271	Name: Trois-Rivières	Count:133
+2653	Lat: 44.4333	Long: -79.15	Name: Beaverton	Count:5579
+2654	Lat: 44.4333	Long: -78.2667	Name: Lakefield	Count:5455
+2655	Lat: 44.4333	Long: -77.8833	Name: Havelock	Count:3856
+2656	Lat: 46.6154	Long: -72.3893	Name: Saint-Stanislas	Count:728
+2657	Lat: 43.1704	Long: -80.2937	Name: Brantford	Count:1856
+2658	Lat: 52.2451	Long: -113.7855	Name: Red Deer	Count:72732
+2659	Lat: 44.5208	Long: -80.0162	Name: Wasaga Beach	Count:30951
+2660	Lat: 42.8376	Long: -80.3073	Name: Simcoe	Count:6789
+2661	Lat: 46.3741	Long: -75.9823	Name: Maniwaki	Count:7260
+2662	Lat: 45.1723	Long: -72.0433	Name: Magog	Count:379
+2663	Lat: 45.6596	Long: -73.5704	Name: Montreal	Count:3507
+2664	Lat: 45.6655	Long: -72.1337	Name: Richmond	Count:840
+2665	Lat: 42.8881	Long: -82.448	Name: Sarnia	Count:10409
+2666	Lat: 44.1829	Long: -76.7754	Name: Bath	Count:328
+2667	Lat: 50.9857	Long: -114.0631	Name: Calgary	Count:35587
+2668	Lat: 46.0738	Long: -64.755	Name: Moncton	Count:30520
+2669	Lat: 46.1	Long: -60.75	Name: Baddeck	Count:4676
+2670	Lat: 46.1	Long: -64.6667	Name: Lakeburn	Count:871
+2671	Lat: 46.5429	Long: -72.748	Name: Shawinigan	Count:21608
+2672	Lat: 52.1584	Long: -106.5955	Name: Saskatoon	Count:8522
+2673	Lat: 42.9859	Long: -79.2232	Name: Welland	Count:34120
+2674	Lat: 46.349	Long: -72.899	Name: Trois-Rivières	Count:574
+2675	Lat: 43.3167	Long: -81.75	Name: Grand Bend	Count:4338
+2676	Lat: 47.0718	Long: -71.3049	Name: Quebec	Count:430
+2677	Lat: 43.9707	Long: -79.2503	Name: Markham	Count:1350994
+2678	Lat: 46.8257	Long: -71.331	Name: Quebec	Count:14593
+2679	Lat: 46.8897	Long: -71.8349	Name: Saint-Raymond	Count:5784
+2680	Lat: 49.2707	Long: -122.883	Name: Port Moody	Count:111283
+2681	Lat: 49.1745	Long: -123.1978	Name: Richmond	Count:54693
+2682	Lat: 49.85	Long: -100.9333	Name: Virden	Count:14152
+2683	Lat: 45.0113	Long: -75.6459	Name: Kemptville	Count:24962
+2684	Lat: 43.6543	Long: -79.3796	Name: Toronto	Count:44160
+2685	Lat: 42.0558	Long: -82.6722	Name: Leamington	Count:1651
+2686	Lat: 44.279	Long: -78.3659	Name: Peterborough	Count:16306
+2687	Lat: 45.5462	Long: -73.2339	Name: Beloeil	Count:78291
+2688	Lat: 48.4327	Long: -71.262	Name: Jonquiere	Count:4727
+2689	Lat: 52.1333	Long: -113.8667	Name: Penhold	Count:7927
+2690	Lat: 52.1333	Long: -106.6667	Name: Saskatoon	Count:105899
+2691	Lat: 52.1333	Long: -104.5333	Name: Watson	Count:2769
+2692	Lat: 50.4253	Long: -104.6347	Name: Regina	Count:123364
+2693	Lat: 45.2882	Long: -75.7566	Name: Ottawa	Count:118657
+2694	Lat: 47.4999	Long: -52.9981	Name: Conception Bay South	Count:18572
+2695	Lat: 46	Long: -64.55	Name: Moncton	Count:5189
+2696	Lat: 54.7719	Long: -111.9647	Name: Lac La Biche	Count:17065
+2697	Lat: 44.595	Long: -75.6821	Name: Brockville	Count:7753
+2698	Lat: 45.343	Long: -71.5655	Name: Sherbrooke	Count:953
+2699	Lat: 43.4333	Long: -81.5	Name: Hensall	Count:799
+2700	Lat: 49.0625	Long: -122.2457	Name: Abbotsford	Count:32079
+2701	Lat: 45.4922	Long: -73.5725	Name: Montreal	Count:18983
+2702	Lat: 42.3062	Long: -83.0017	Name: Windsor	Count:69287
+2703	Lat: 42.6476	Long: -80.7999	Name: Port Burwell	Count:451
+2704	Lat: 45.3063	Long: -73.748	Name: Mercier	Count:16706
+2705	Lat: 42.9833	Long: -79.25	Name: Welland	Count:5784
+2706	Lat: 42.9833	Long: -81.25	Name: London	Count:583011
+2707	Lat: 42.9833	Long: -80.6	Name: Norwich	Count:8071
+2708	Lat: 43.1743	Long: -79.2744	Name: St. Catharines	Count:133
+2709	Lat: 44.1208	Long: -79.5656	Name: Newmarket	Count:68876
+2710	Lat: 53.4822	Long: -113.5269	Name: Edmonton	Count:96566
+2711	Lat: 45.1	Long: -75.35	Name: Winchester	Count:4379
+2712	Lat: 44.5833	Long: -79.8667	Name: Elmvale	Count:4635
+2713	Lat: 45.6693	Long: -73.7484	Name: Bois-des-Filion	Count:36407
+2714	Lat: 46.0271	Long: -72.4802	Name: Drummondville	Count:666
+2715	Lat: 45.1587	Long: -74.7093	Name: Cornwall	Count:102
+2716	Lat: 45.9671	Long: -73.4716	Name: Crabtree	Count:11322
+2717	Lat: 50.1167	Long: -100.0333	Name: Rapid City	Count:2625
+2718	Lat: 50.1167	Long: -119.3833	Name: Oyama	Count:584
+2719	Lat: 50.1167	Long: -107.7333	Name: Wymark	Count:810
+2720	Lat: 44.3167	Long: -80.1	Name: Creemore	Count:1907
+2721	Lat: 44.3167	Long: -79.2	Name: Pefferlaw	Count:18890
+2722	Lat: 44.3167	Long: -80.65	Name: Markdale	Count:15403
+2723	Lat: 43.6619	Long: -79.3952	Name: Toronto	Count:288234
+2724	Lat: 45.6517	Long: -72.6955	Name: Saint-Hyacinthe	Count:1405
+2725	Lat: 47.5931	Long: -69.7317	Name: Kamouraska	Count:482
+2726	Lat: 44.0622	Long: -64.7521	Name: Milton	Count:235
+2727	Lat: 60.85	Long: -115.7	Name: Hay River	Count:5804
+2728	Lat: 46.2212	Long: -64.5438	Name: Shediac	Count:348
+2729	Lat: 53.2	Long: -103.8	Name: Aylsham	Count:758
+2730	Lat: 53.2	Long: -113.05	Name: Hay Lakes	Count:1804
+2731	Lat: 53.2	Long: -105.75	Name: Prince Albert	Count:3343
+2732	Lat: 43.6358	Long: -65.4776	Name: Clyde River	Count:184
+2733	Lat: 43.6358	Long: -79.4668	Name: Toronto	Count:53698
+2734	Lat: 45.5104	Long: -75.2216	Name: Clarence-Rockland	Count:871
+2735	Lat: 45.4741	Long: -76.6915	Name: Renfrew	Count:1025
+2736	Lat: 45.65	Long: -73.4833	Name: Pointe-aux-Trembles	Count:1887
+2737	Lat: 45.65	Long: -76.0333	Name: Sainte-Cecile-de-Masham	Count:225
+2738	Lat: 45.65	Long: -62.85	Name: Scotsburn	Count:1476
+2739	Lat: 45.65	Long: -73.7667	Name: Bois-des-Filion	Count:1928
+2740	Lat: 43.7168	Long: -79.3998	Name: Toronto	Count:12778
+2741	Lat: 43.6748	Long: -79.2764	Name: Toronto	Count:30387
+2742	Lat: 48.4525	Long: -68.5232	Name: Rimouski	Count:38530
+2743	Lat: 45.4038	Long: -71.8853	Name: Sherbrooke	Count:44724
+2744	Lat: 48.8124	Long: -124.17	Name: Honeymoon Bay	Count:605
+2745	Lat: 45.5999	Long: -73.8301	Name: Boisbriand	Count:23967
+2746	Lat: 43	Long: -82.4	Name: Point Edward	Count:328
+2747	Lat: 45.523	Long: -76.2366	Name: Quyon	Count:923
+2748	Lat: 47.3623	Long: -68.3279	Name: Edmundston	Count:5948
+2749	Lat: 45.5291	Long: -73.4708	Name: Longueuil	Count:39330
+2750	Lat: 48.1117	Long: -65.9509	Name: New-Richmond	Count:1702
+2751	Lat: 44.0677	Long: -81.2116	Name: Hanover	Count:717
+2752	Lat: 45.527	Long: -73.0101	Name: Saint-Damase	Count:840
+2753	Lat: 46.167	Long: -60.1943	Name: Sydney	Count:3240
+2754	Lat: 43.5909	Long: -80.8745	Name: Newton	Count:102
+2755	Lat: 46.0625	Long: -64.7105	Name: Dieppe	Count:19567
+2756	Lat: 45.8459	Long: -72.44	Name: Drummondville	Count:2553
+2757	Lat: 45.9715	Long: -71.3765	Name: Saint-Joseph-de-Coleraine	Count:1938
+2758	Lat: 46.7867	Long: -71.2436	Name: Quebec	Count:73481
+2759	Lat: 46.7933	Long: -71.1885	Name: Saint Romuald	Count:36069
+2760	Lat: 46.8105	Long: -71.2426	Name: Quebec	Count:38345
+2761	Lat: 45.4781	Long: -73.6252	Name: Montreal	Count:32653
+2762	Lat: 46.8667	Long: -71.2667	Name: Charlesbourg	Count:1640
+2763	Lat: 43.5892	Long: -79.7239	Name: Mississauga	Count:210742
+2764	Lat: 46.8483	Long: -71.234	Name: Quebec	Count:26336
+2765	Lat: 46.4657	Long: -61.1146	Name: Terre Noire	Count:1333
+2766	Lat: 47.6542	Long: -52.7367	Name: Torbay	Count:20336
+2767	Lat: 45.5529	Long: -73.6754	Name: Laval	Count:19331
+2768	Lat: 43.241	Long: -79.8452	Name: Hamilton	Count:20029
+2769	Lat: 47.5833	Long: -53.3	Name: Bay Roberts	Count:4040
+2770	Lat: 47.5833	Long: -53.55	Name: New Harbour	Count:2266
+2771	Lat: 49.7773	Long: -112.158	Name: Taber	Count:22336
+2772	Lat: 43.0963	Long: -79.074	Name: Niagara Falls	Count:57575
+2773	Lat: 61.1167	Long: -94.05	Name: Arviat	Count:358
+2774	Lat: 46.6619	Long: -72.1439	Name: Saint-Casimir	Count:1302
+2775	Lat: 43.6979	Long: -79.2986	Name: Toronto	Count:30048
+2776	Lat: 43.0377	Long: -82.164	Name: Camlachie	Count:4799
+2777	Lat: 45.5732	Long: -73.7444	Name: Laval	Count:5640
+2778	Lat: 48.2	Long: -69.0167	Name: Saint-Mathieu-de-Rioux	Count:594
+2779	Lat: 46.5166	Long: -71.5972	Name: Saint-Augustin-de-Desmaures	Count:1569
+2780	Lat: 43.818	Long: -65.237	Name: Jordan Falls	Count:984
+2781	Lat: 61.0333	Long: -69.6167	Name: Quaqtaq	Count:430
+2782	Lat: 43.7779	Long: -79.5952	Name: Woodbridge	Count:77768
+2783	Lat: 50.4167	Long: -102.9167	Name: Grenfell	Count:4276
+2784	Lat: 50.4167	Long: -103.2667	Name: Wolseley	Count:2338
+2785	Lat: 55.25	Long: -129.0833	Name: New Aiyansh	Count:1025
+2786	Lat: 55.25	Long: -127.6667	Name: Hazelton	Count:1969
+2787	Lat: 49.1283	Long: -66.4906	Name: Sainte-Anne-des-Monts	Count:4102
+2788	Lat: 46.1333	Long: -59.8833	Name: Glace Bay	Count:697
+2789	Lat: 46.73	Long: -72.564	Name: Saint-Tite	Count:1158
+2790	Lat: 46.65	Long: -80.94	Name: Greater Sudbury	Count:26151
+2791	Lat: 46.65	Long: -71.3	Name: Saint Etienne-De-Lauzon	Count:133
+2792	Lat: 46.65	Long: -70.8	Name: Saint-Lazare-de-Bellechasse	Count:10194
+2793	Lat: 43.6434	Long: -79.5297	Name: Toronto	Count:54067
+2794	Lat: 42.3136	Long: -82.9338	Name: Windsor	Count:11824
+2795	Lat: 43.7521	Long: -79.4202	Name: Toronto	Count:182498
+2796	Lat: 44.9988	Long: -64.7312	Name: Berwick	Count:10132
+2797	Lat: 42.8845	Long: -78.9398	Name: Fort Erie	Count:29013
+2798	Lat: 51.0512	Long: -113.8155	Name: Calgary	Count:42950
+2799	Lat: 45.5913	Long: -71.5728	Name: Dudswell	Count:399
+2800	Lat: 49.928	Long: -97.1618	Name: Winnipeg	Count:25382
+2801	Lat: 49.2816	Long: -123.1247	Name: Vancouver	Count:994
+2802	Lat: 45.7	Long: -71.45	Name: Weedon	Count:1446
+2803	Lat: 48.099	Long: -65.8317	Name: New-Richmond	Count:2933
+2804	Lat: 48.9833	Long: -66.9833	Name: Les Mechins	Count:1076
+2805	Lat: 53.5182	Long: -113.4769	Name: Edmonton	Count:54724
+2806	Lat: 46.2295	Long: -60.0941	Name: Sydney	Count:16573
+2807	Lat: 55.1303	Long: -120.9942	Name: Tumbler Ridge	Count:41
+2808	Lat: 42.971	Long: -82.4084	Name: Sarnia	Count:79993
+2809	Lat: 46.3638	Long: -73.3523	Name: Mandeville	Count:1979
+2810	Lat: 43.5284	Long: -65.6113	Name: Barrington Passage	Count:317
+2811	Lat: 55.1	Long: -105.3	Name: La Ronge	Count:16357
+2812	Lat: 55.1	Long: -128.0667	Name: Kitwanga	Count:1394
+2813	Lat: 45.46	Long: -73.85	Name: Pointe-Claire	Count:51616
+2814	Lat: 49.1962	Long: -68.2976	Name: Baie-Comeau	Count:10399
+2815	Lat: 47.6101	Long: -68.795	Name: Cabano	Count:646
+2816	Lat: 43.1531	Long: -79.3918	Name: St. Catharines	Count:5066
+2817	Lat: 50.0734	Long: -119.4444	Name: Kelowna	Count:29977
+2818	Lat: 49.1783	Long: -122.8665	Name: Surrey	Count:87624
+2819	Lat: 46.3688	Long: -72.58	Name: Trois-Rivières	Count:42489
+2820	Lat: 45.468	Long: -73.5863	Name: Montreal	Count:41976
+2821	Lat: 45.468	Long: -74.0889	Name: Oka	Count:1210
+2822	Lat: 49.0025	Long: -123.0746	Name: Delta	Count:28777
+2823	Lat: 49.2935	Long: -123.1162	Name: Vancouver	Count:1005
+2824	Lat: 49.8333	Long: -99.95	Name: Brandon	Count:14706
+2825	Lat: 46.1365	Long: -59.8717	Name: Glace Bay	Count:994
+2826	Lat: 52.8403	Long: -110.8704	Name: Wainwright	Count:9691
+2827	Lat: 50.3833	Long: -99.0833	Name: Plumas	Count:902
+2828	Lat: 50.3833	Long: -127.4333	Name: Port Alice	Count:533
+2829	Lat: 50.3833	Long: -101.7	Name: Rocanville	Count:1620
+2830	Lat: 50.3833	Long: -97.2667	Name: Teulon	Count:1466
+2831	Lat: 50.3833	Long: -102.5667	Name: Broadview	Count:2184
+2832	Lat: 51.4	Long: -116.4833	Name: Field	Count:153
+2833	Lat: 51.4	Long: -104.5333	Name: Raymore	Count:2153
+2834	Lat: 51.2	Long: -114.45	Name: Cochrane	Count:2020
+2835	Lat: 51.2	Long: -108.0333	Name: Elrose	Count:902
+2836	Lat: 42.9451	Long: -81.7434	Name: Kerwood	Count:184
+2837	Lat: 43.8628	Long: -79.7147	Name: Brampton	Count:95408
+2838	Lat: 60.0167	Long: -70.0333	Name: Kangirsuk	Count:717
+2839	Lat: 43.6778	Long: -79.3992	Name: Toronto	Count:86660
+2840	Lat: 45.5483	Long: -73.8578	Name: Laval	Count:35022
+2841	Lat: 44.1065	Long: -79.1427	Name: Markham	Count:18531
+2842	Lat: 52.25	Long: -81.6167	Name: Fort Albany	Count:30
+2843	Lat: 52.25	Long: -107.5	Name: Arelee	Count:215
+2844	Lat: 43.683	Long: -79.4184	Name: Toronto	Count:88495
+2845	Lat: 46.8859	Long: -71.5014	Name: Shannon	Count:2328
+2846	Lat: 43.474	Long: -81.5051	Name: Kippen	Count:994
+2847	Lat: 47.2833	Long: -52.8333	Name: Witless Bay	Count:1835
+2848	Lat: 47.2833	Long: -79.3333	Name: Bearn	Count:594
+2849	Lat: 47.2833	Long: -53.8833	Name: Villa Marie	Count:1025
+2850	Lat: 43.5974	Long: -79.6402	Name: Mississauga	Count:267353
+2851	Lat: 45.422	Long: -75.6303	Name: Ottawa	Count:48919
+2852	Lat: 45.4206	Long: -75.7538	Name: Gatineau	Count:36981
+2853	Lat: 53.5766	Long: -113.4608	Name: Edmonton	Count:51739
+2854	Lat: 43.6885	Long: -79.7616	Name: Brampton	Count:327574
+2855	Lat: 45.1961	Long: -67.1648	Name: Waweig	Count:246
+2856	Lat: 46.1625	Long: -72.5401	Name: Sainte-Monique	Count:369
+2857	Lat: 54.3322	Long: -110.4772	Name: Ardmore	Count:1210
+2858	Lat: 46.1645	Long: -64.5595	Name: Scoudouc	Count:20
+2859	Lat: 46.4223	Long: -81.1165	Name: Greater Sudbury	Count:9640
+2860	Lat: 51.1147	Long: -114.1796	Name: Calgary	Count:177042
+2861	Lat: 53.4816	Long: -113.4623	Name: Edmonton	Count:83511
+2862	Lat: 45.2472	Long: -73.7986	Name: Sainte-Martine	Count:4645
+2863	Lat: 44.79	Long: -63.71	Name: Halifax	Count:16285
+2864	Lat: 45.4236	Long: -65.9118	Name: Nauwigewauk	Count:994
+2865	Lat: 52.1068	Long: -106.6552	Name: Saskatoon	Count:97971
+2866	Lat: 67.0333	Long: -126.1167	Name: Colville Lake	Count:10
+2867	Lat: 49.9225	Long: -97.0947	Name: Winnipeg	Count:65820
+2868	Lat: 52.8667	Long: -104.3333	Name: Star City	Count:523
+2869	Lat: 52.8667	Long: -103.3667	Name: Mistatim	Count:102
+2870	Lat: 52.8667	Long: -112.25	Name: Daysland	Count:6153
+2871	Lat: 52.8667	Long: -104.6	Name: Melfort	Count:20060
+2872	Lat: 53.9833	Long: -111.2833	Name: St. Paul	Count:16819
+2873	Lat: 50.0172	Long: -110.651	Name: Medicine Hat	Count:69276
+2874	Lat: 43.2018	Long: -80.1071	Name: Hamilton	Count:18880
+2875	Lat: 48.6833	Long: -71.3667	Name: Alma	Count:533
+2876	Lat: 50.1	Long: -91.9167	Name: Sioux Lookout	Count:7814
+2877	Lat: 50.1	Long: -108.4833	Name: Gull Lake	Count:2779
+2878	Lat: 50.1	Long: -103.8667	Name: Francis	Count:1579
+2879	Lat: 45.648	Long: -73.0056	Name: Saint-Hyacinthe	Count:8922
+2880	Lat: 43.7639	Long: -80.7431	Name: North Perth	Count:82
+2881	Lat: 49.1173	Long: -122.8234	Name: Surrey	Count:101253
+2882	Lat: 46.0911	Long: -60.2462	Name: Sydney	Count:7455
+2883	Lat: 43.6383	Long: -79.5356	Name: Toronto	Count:20213
+2884	Lat: 43.7234	Long: -81.1388	Name: North Perth	Count:440
+2885	Lat: 46.1506	Long: -64.6799	Name: Moncton	Count:3179
+2886	Lat: 52.8333	Long: -119.25	Name: Valemount	Count:3168
+2887	Lat: 52.8333	Long: -106.8833	Name: Blaine Lake	Count:502
+2888	Lat: 52.8333	Long: -113.45	Name: Hobbema	Count:3456
+2889	Lat: 52.8333	Long: -109.6333	Name: Neilburg	Count:1292
+2890	Lat: 52.8333	Long: -110.8667	Name: Wainwright	Count:6840
+2891	Lat: 50.2158	Long: -119.2709	Name: Vernon	Count:24336
+2892	Lat: 49.1337	Long: -122.3434	Name: Mission	Count:70271
+2893	Lat: 52.4	Long: -104.9833	Name: Lake Lenore	Count:317
+2894	Lat: 46.0965	Long: -64.7976	Name: Moncton	Count:142286
+2895	Lat: 45.5145	Long: -73.8162	Name: Montreal	Count:27936
+2896	Lat: 46.8	Long: -71.25	Name: Quebec	Count:406338
+2897	Lat: 46.8	Long: -71.1667	Name: Levis	Count:36325
+2898	Lat: 50.4241	Long: -105.5467	Name: Moose Jaw	Count:6194
+2899	Lat: 51.1791	Long: -115.5697	Name: Banff	Count:19588
+2900	Lat: 46.8921	Long: -71.2732	Name: Quebec	Count:21116
+2901	Lat: 46.8921	Long: -71.3056	Name: Quebec	Count:21618
+2902	Lat: 49.25	Long: -123.1333	Name: Vancouver	Count:794236
+2903	Lat: 49.25	Long: -124.1833	Name: Nanoose Bay	Count:1846
+2904	Lat: 49.25	Long: -122.95	Name: Burnaby	Count:732282
+2905	Lat: 49.25	Long: -122.5	Name: Maple Ridge	Count:20388
+2906	Lat: 43.4022	Long: -80.0397	Name: Hamilton	Count:2666
+2907	Lat: 48.4544	Long: -123.458	Name: Victoria	Count:54262
+2908	Lat: 45.4755	Long: -73.6555	Name: Montreal	Count:12993
+2909	Lat: 43.14	Long: -79.9	Name: Hamilton	Count:6758
+2910	Lat: 42.829	Long: -80.9307	Name: Springfield	Count:1189
+2911	Lat: 44.169	Long: -76.6944	Name: Kingston	Count:143
+2912	Lat: 53.5899	Long: -113.4413	Name: Edmonton	Count:84711
+2913	Lat: 44.1833	Long: -80.8167	Name: Durham	Count:6061
+2914	Lat: 47.0499	Long: -70.8922	Name: Beaupre	Count:4502
+2915	Lat: 43.2698	Long: -79.955	Name: Dundas	Count:30295
+2916	Lat: 47.4454	Long: -70.5199	Name: Baie-Saint-Paul	Count:6296
+2917	Lat: 44.799	Long: -65.2961	Name: Bridgetown	Count:2389
+2918	Lat: 47.4596	Long: -69.7547	Name: La Pocatiere	Count:2943
+2919	Lat: 46.35	Long: -80.4167	Name: Casimir	Count:4389
+2920	Lat: 46.35	Long: -72.55	Name: Trois-Rivières	Count:20203
+2921	Lat: 45.6061	Long: -73.6389	Name: Montreal	Count:39894
+2922	Lat: 43.7193	Long: -79.43	Name: Toronto	Count:25228
+2923	Lat: 43.7	Long: -79.5	Name: Weston	Count:205
+2924	Lat: 43.7	Long: -79.5667	Name: Etobicoke	Count:239499
+2925	Lat: 73.0333	Long: -85.1667	Name: Arctic Bay	Count:461
+2926	Lat: 43.9561	Long: -77.353	Name: Wellington	Count:1220
+2927	Lat: 43.9561	Long: -78.9556	Name: Whitby	Count:24121
+2928	Lat: 50.3768	Long: -105.5819	Name: Moose Jaw	Count:1722
+2929	Lat: 49.3	Long: -124.3167	Name: Parksville	Count:1835
+2930	Lat: 46.2872	Long: -72.8284	Name: Yamachiche	Count:1271
+2931	Lat: 49.1	Long: -117.7167	Name: Trail	Count:27874
+2932	Lat: 49.1	Long: -97.5667	Name: Altona	Count:6276
+2933	Lat: 49.1	Long: -122.65	Name: Langley	Count:24941
+2934	Lat: 44.9775	Long: -63.4209	Name: Grono Road	Count:5814
+2935	Lat: 48.4488	Long: -123.3501	Name: Victoria	Count:180140
+2936	Lat: 56.15	Long: -117.75	Name: Berwyn	Count:1753
+2937	Lat: 56.15	Long: -120.6667	Name: Taylor	Count:71
+2938	Lat: 47.6259	Long: -70.0967	Name: La Malbaie	Count:7455
+2939	Lat: 53.5157	Long: -113.6339	Name: Edmonton	Count:239838
+2940	Lat: 46.5105	Long: -84.321	Name: Sault Ste. Marie	Count:22705
+2941	Lat: 52.7833	Long: -105.7333	Name: Domremy	Count:974
+2942	Lat: 52.7833	Long: -112.45	Name: Rosalind	Count:184
+2943	Lat: 46.9659	Long: -69.7744	Name: Saint-Pamphile	Count:676
+2944	Lat: 55.8333	Long: -121.7333	Name: Moberly Lake	Count:102
+2945	Lat: 46.2093	Long: -70.7788	Name: Beauceville	Count:7209
+2946	Lat: 44.03	Long: -65.9445	Name: Yarmouth	Count:2820
+2947	Lat: 52.3833	Long: -114.6	Name: Leslieville	Count:225
+2948	Lat: 52.3833	Long: -113.8	Name: Blackfalds	Count:12809
+2949	Lat: 52.3833	Long: -126.5667	Name: Hagensborg	Count:830
+2950	Lat: 55.1675	Long: -108.1533	Name: Canoe Narrows	Count:1158
+2951	Lat: 54.0167	Long: -124.0167	Name: Vanderhoof	Count:5015
+2952	Lat: 45.5522	Long: -73.6256	Name: Montreal	Count:26336
+2953	Lat: 45.1084	Long: -75.2323	Name: Chesterville	Count:6953
+2954	Lat: 52.3083	Long: -114.0949	Name: Sylvan Lake	Count:37966
+2955	Lat: 44.3894	Long: -76.4687	Name: Kingston	Count:1528
+2956	Lat: 48.4667	Long: -78.0667	Name: Saint-Marc-de-Figuery	Count:687
+2957	Lat: 48.4667	Long: -81.3333	Name: Timmins	Count:23044
+2958	Lat: 46.25	Long: -81.7667	Name: Espanola	Count:3117
+2959	Lat: 46.25	Long: -63.6667	Name: Borden-Carleton	Count:1979
+2960	Lat: 45.4395	Long: -73.0523	Name: Rougemont	Count:4902
+2961	Lat: 46.034	Long: -73.441	Name: Joliette	Count:22849
+2962	Lat: 45.3121	Long: -75.9217	Name: Ottawa	Count:6727
+2963	Lat: 50.478	Long: -104.6987	Name: Regina	Count:2851
+2964	Lat: 45.4876	Long: -73.5092	Name: Saint-Lambert	Count:2543
+2965	Lat: 45.5066	Long: -73.5623	Name: Montreal	Count:2389
+2966	Lat: 45.3654	Long: -60.9418	Name: Canso	Count:4420
+2967	Lat: 48.8707	Long: -72.2141	Name: Dolbeau-Mistassini	Count:9435
+2968	Lat: 49.1364	Long: -122.8213	Name: Surrey	Count:348906
+2969	Lat: 43.6772	Long: -79.5894	Name: Etobicoke	Count:108945
+2970	Lat: 43.4401	Long: -79.669	Name: Oakville	Count:25023
+2971	Lat: 45.3418	Long: -73.1581	Name: Saint-Jean-sur-Richelieu	Count:2892
+2972	Lat: 53.8228	Long: -101.2356	Name: The Pas	Count:13055
+2973	Lat: 45.35	Long: -76.0333	Name: Carp	Count:5527
+2974	Lat: 45.35	Long: -73.4667	Name: Saint-Philippe	Count:4112
+2975	Lat: 44.3333	Long: -76.8667	Name: Newburgh	Count:2912
+2976	Lat: 43.4236	Long: -80.48	Name: Kitchener	Count:35074
+2977	Lat: 50.8667	Long: -119.4667	Name: Sorrento	Count:4225
+2978	Lat: 50.8667	Long: -113.05	Name: Gleichen	Count:225
+2979	Lat: 45.7627	Long: -76.3844	Name: Ladysmith	Count:471
+2980	Lat: 45.5667	Long: -73.9	Name: Saint-Eustache	Count:10809
+2981	Lat: 45.5667	Long: -73.2	Name: Saint-Hilaire	Count:1999
+2982	Lat: 45.5667	Long: -62.65	Name: Stellarton	Count:8378
+2983	Lat: 42.0363	Long: -82.9182	Name: Harrow	Count:1774
+2984	Lat: 49.2836	Long: -123.1041	Name: Vancouver	Count:172909
+2985	Lat: 43.4476	Long: -79.6686	Name: Oakville	Count:18316
+2986	Lat: 53.45	Long: -104.0833	Name: White Fox	Count:1405
+2987	Lat: 48.5546	Long: -124.397	Name: Port Renfrew	Count:133
+2988	Lat: 45.8972	Long: -74.9337	Name: Saint-Emile-de-Suffolk	Count:30
+2989	Lat: 43.4529	Long: -80.5281	Name: Waterloo	Count:65687
+2990	Lat: 49.7833	Long: -74.8667	Name: Chapais	Count:2676
+2991	Lat: 49.7833	Long: -86.55	Name: Theresa	Count:1128
+2992	Lat: 49.7833	Long: -118.1333	Name: Edgewood	Count:358
+2993	Lat: 49.7833	Long: -125.0667	Name: Merville	Count:492
+2994	Lat: 43.4244	Long: -80.3364	Name: Cambridge	Count:29228
+2995	Lat: 53.6667	Long: -111.2333	Name: Myrnam	Count:964
+2996	Lat: 53.6667	Long: -113.4833	Name: Lancaster Park	Count:2122
+2997	Lat: 45.0899	Long: -64.4963	Name: Kentville	Count:26777
+2998	Lat: 45.3151	Long: -65.9615	Name: Saint John	Count:297
+2999	Lat: 51.0591	Long: -114.1146	Name: Calgary	Count:85183
+3000	Lat: 43.4668	Long: -80.4164	Name: Breslau	Count:358
+3001	Lat: 45.5278	Long: -73.6024	Name: Montreal	Count:26715
+3002	Lat: 43.1907	Long: -79.7878	Name: Stoney Creek	Count:26131
+3003	Lat: 49.6765	Long: -112.8035	Name: Lethbridge	Count:137251
+3004	Lat: 49.3328	Long: -123.1043	Name: North Vancouver	Count:19865
+3005	Lat: 43.25	Long: -79.0667	Name: Niagara-on-the-Lake	Count:48796
+3006	Lat: 46.007	Long: -62.525	Name: Murray Harbour	Count:635
+3007	Lat: 45.5209	Long: -73.653	Name: Montreal	Count:4543
+3008	Lat: 45.5209	Long: -73.8354	Name: Laval	Count:14224
+3009	Lat: 68.2167	Long: -135	Name: Aklavik	Count:584
+3010	Lat: 48.5592	Long: -71.6416	Name: Alma	Count:3620
+3011	Lat: 52.7759	Long: -67.2365	Name: Fermont	Count:3825
+3012	Lat: 48.5292	Long: -71.642	Name: Alma	Count:2071
+3013	Lat: 49.834	Long: -97.1865	Name: Winnipeg	Count:27731
+3014	Lat: 48.0667	Long: -52.9333	Name: Bay de Verde	Count:184
+3015	Lat: 48.3852	Long: -89.242	Name: Thunder Bay	Count:250237
+3016	Lat: 50.9604	Long: -114.1001	Name: Calgary	Count:102197
+3017	Lat: 45.7897	Long: -72.0173	Name: Danville	Count:153
+3018	Lat: 45.5653	Long: -73.5869	Name: Montreal	Count:20357
+3019	Lat: 46.6167	Long: -71.9333	Name: Lotbiniere	Count:2830
+3020	Lat: 46.6167	Long: -72.6667	Name: Saint-Georges	Count:28828
+3021	Lat: 43.7797	Long: -79.4156	Name: North York	Count:243817
+3022	Lat: 45.6414	Long: -72.9243	Name: Saint-Hyacinthe	Count:14921
+3023	Lat: 43.9258	Long: -80.1056	Name: Orangeville	Count:111847
+3024	Lat: 48.4377	Long: -71.1244	Name: Chicoutimi	Count:11188
+3025	Lat: 47.3333	Long: -52.8333	Name: Bay Bulls	Count:4522
+3026	Lat: 43.9903	Long: -79.1004	Name: Pickering	Count:10214
+3027	Lat: 45.6837	Long: -73.6728	Name: Laval	Count:164
+3028	Lat: 48.501	Long: -123.3804	Name: Victoria	Count:29741
+3029	Lat: 45.6318	Long: -73.8261	Name: Sainte-Therese	Count:43801
+3030	Lat: 45.6999	Long: -73.8112	Name: Terrebonne	Count:14604
+3031	Lat: 45.3135	Long: -74.0573	Name: Salaberry-de-Valleyfield	Count:461
+3032	Lat: 43.5225	Long: -80.2095	Name: Guelph	Count:5045
+3033	Lat: 45.143	Long: -73.1882	Name: Saint-Jean-sur-Richelieu	Count:851
+3034	Lat: 45.4643	Long: -73.8936	Name: Montreal	Count:14450
+3035	Lat: 48.45	Long: -71.0667	Name: Chicoutimi	Count:635
+3036	Lat: 48.0323	Long: -65.0742	Name: Hope Town	Count:461
+3037	Lat: 47.695	Long: -70.2239	Name: La Malbaie	Count:1897
+3038	Lat: 50.7833	Long: -101.2833	Name: Russell	Count:2153
+3039	Lat: 50.7833	Long: -99.4833	Name: McCreary	Count:30
+3040	Lat: 50.7833	Long: -119.3333	Name: Tappen	Count:1928
+3041	Lat: 50.7833	Long: -112.4667	Name: Bassano	Count:471
+3042	Lat: 43.08	Long: -81.3821	Name: London	Count:3004
+3043	Lat: 50.6667	Long: -100.8167	Name: Rossburn	Count:1405
+3044	Lat: 50.6667	Long: -120.3333	Name: Kamloops	Count:22295
+3045	Lat: 46.3833	Long: -61.0667	Name: East Margaree	Count:1066
+3046	Lat: 46.4434	Long: -72.7725	Name: Trois-Rivières	Count:584
+3047	Lat: 48.0167	Long: -78.9333	Name: Saint-Roch	Count:1815
+3048	Lat: 48.0167	Long: -53.2667	Name: Hant's Harbour	Count:738
+3049	Lat: 45.5359	Long: -73.8231	Name: Laval	Count:40120
+3050	Lat: 48.5759	Long: -123.4538	Name: Brentwood Bay	Count:943
+3051	Lat: 45.4127	Long: -75.6742	Name: Ottawa	Count:136953
+3052	Lat: 44.6514	Long: -63.5818	Name: Halifax	Count:81870
+3053	Lat: 47.0746	Long: -64.9109	Name: Saint-Camille	Count:502
+3054	Lat: 46.4727	Long: -81.0291	Name: Greater Sudbury	Count:43576
+3055	Lat: 45.6165	Long: -60.9178	Name: D'Escousse	Count:912
+3056	Lat: 45.6287	Long: -72.9503	Name: Saint-Hyacinthe	Count:2656
+3057	Lat: 42.958	Long: -80.7901	Name: Mount Elgin	Count:953
+3058	Lat: 49.178	Long: -123.1701	Name: Richmond	Count:2492
+3059	Lat: 45.905	Long: -73.2594	Name: Lavaltrie	Count:12193
+3060	Lat: 44.8385	Long: -76.5417	Name: Maberly	Count:2020
+3061	Lat: 42.049	Long: -83.1032	Name: Windsor	Count:625
+3062	Lat: 42.9132	Long: -79.6101	Name: Dunnville	Count:9455
+3063	Lat: 46.0551	Long: -73.432	Name: Notre-Dame-des-Prairies	Count:28438
+3064	Lat: 45.95	Long: -71.9833	Name: Warwick	Count:9158
+3065	Lat: 45.95	Long: -64.6833	Name: Weldon	Count:328
+3066	Lat: 49.2333	Long: -55.0667	Name: Lewisporte	Count:3856
+3067	Lat: 49.2333	Long: -98.5333	Name: Manitou	Count:2287
+3068	Lat: 49.2333	Long: -100.05	Name: Boissevain	Count:2779
+3069	Lat: 49.2333	Long: -124.8	Name: Port Alberni	Count:543
+3070	Lat: 52.4333	Long: -109.1667	Name: Unity	Count:14224
+3071	Lat: 49.8373	Long: -99.9747	Name: Brandon	Count:38171
+3072	Lat: 53.4482	Long: -113.2706	Name: Edmonton	Count:2615
+3073	Lat: 43.4511	Long: -80.5572	Name: Kitchener	Count:18613
+3074	Lat: 55.35	Long: -127.6833	Name: Kispiox	Count:184
+3075	Lat: 55.35	Long: -118.7833	Name: Sexsmith	Count:4307
+3076	Lat: 49.9585	Long: -97.1796	Name: Winnipeg	Count:74814
+3077	Lat: 45.2616	Long: -74.2078	Name: Salaberry-de-Valleyfield	Count:1158
+3078	Lat: 42.6698	Long: -80.4175	Name: Norfolk County	Count:1743
+3079	Lat: 50.48	Long: -120.81	Name: Logan Lake	Count:2758
+3080	Lat: 45.6558	Long: -74.9425	Name: Montebello	Count:635
+3081	Lat: 43.5591	Long: -79.6186	Name: Mississauga	Count:43217
+3082	Lat: 45.4371	Long: -73.5979	Name: Lasalle	Count:23311
+3083	Lat: 46.0031	Long: -72.3464	Name: Drummondville	Count:3168
+3084	Lat: 53.4154	Long: -113.4917	Name: Edmonton	Count:49606
+3085	Lat: 43.6088	Long: -79.5574	Name: Etobicoke	Count:48170
+3086	Lat: 47.5421	Long: -68.9128	Name: Saint-Eusebe	Count:1866
+3087	Lat: 48.4359	Long: -71.2318	Name: Jonquiere	Count:24828
+3088	Lat: 43.9883	Long: -77.235	Name: Prince Edward	Count:1322
+3089	Lat: 43.5146	Long: -79.6063	Name: Mississauga	Count:83973
+3090	Lat: 49.5833	Long: -114.3667	Name: Bellevue	Count:399
+3091	Lat: 49.5833	Long: -56.1833	Name: King's Point	Count:1128
+3092	Lat: 45.2404	Long: -73.5659	Name: Saint-Michel	Count:440
+3093	Lat: 51.6333	Long: -111.9167	Name: Hanna	Count:7989
+3094	Lat: 51.6333	Long: -102.4333	Name: Canora	Count:2010
+3095	Lat: 51.15	Long: -100.05	Name: Dauphin	Count:19834
+3096	Lat: 51.15	Long: -101.75	Name: Calder	Count:174
+3097	Lat: 51.15	Long: -108.75	Name: Eston	Count:2574
+3098	Lat: 43.1017	Long: -79.1997	Name: Thorold	Count:37227
+3099	Lat: 45.5829	Long: -73.6524	Name: Laval	Count:19095
+3100	Lat: 45.1813	Long: -75.1113	Name: Casselman	Count:328
+3101	Lat: 45.1813	Long: -74.1297	Name: Saint-Stanislas-de-Kostka	Count:820
+3102	Lat: 45.1563	Long: -71.8095	Name: Coaticook	Count:8142
+3103	Lat: 46.08	Long: -73.552	Name: Joliette	Count:4871
+3104	Lat: 49.1467	Long: -123.1463	Name: Richmond	Count:51616
+3105	Lat: 43.2604	Long: -79.8961	Name: Hamilton	Count:77963
+3106	Lat: 45.506	Long: -72.9073	Name: Saint-Pie	Count:2810
+3107	Lat: 53.6072	Long: -113.5183	Name: Edmonton	Count:143424
+3108	Lat: 48.3473	Long: -68.3948	Name: Rimouski	Count:2666
+3109	Lat: 48.4266	Long: -123.3444	Name: Victoria	Count:70271
+3110	Lat: 50.4552	Long: -104.6376	Name: Regina	Count:61882
+3111	Lat: 45.7348	Long: -63.8637	Name: Oxford	Count:2471
+3112	Lat: 44.1605	Long: -77.3846	Name: Belleville	Count:59564
+3113	Lat: 45.4461	Long: -75.6744	Name: Ottawa	Count:8122
+3114	Lat: 47.0655	Long: -67.7206	Name: Saint-Léonard	Count:317
+3115	Lat: 49.2862	Long: -123.0925	Name: Vancouver	Count:27936
+3116	Lat: 49.9694	Long: -98.3131	Name: Portage la Prairie	Count:23064
+3117	Lat: 46.4599	Long: -63.3137	Name: Charlottetown	Count:1928
+3118	Lat: 43.834	Long: -66.1139	Name: Yarmouth	Count:2656
+3119	Lat: 45.3272	Long: -79.2151	Name: Huntsville	Count:42417
+3120	Lat: 49.7082	Long: -96.9867	Name: Winnipeg	Count:1938
+3121	Lat: 50.2206	Long: -66.3581	Name: Sept-Iles	Count:23023
+3122	Lat: 45.4972	Long: -62.69	Name: New Glasgow	Count:1825
+3123	Lat: 47.9834	Long: -65.4721	Name: Bonaventure	Count:2656
+3124	Lat: 52.6167	Long: -94.0667	Name: Deer Lake	Count:574
+3125	Lat: 52.6167	Long: -106.65	Name: Waldheim	Count:3415
+3126	Lat: 50.2333	Long: -57.5833	Name: Daniel's Harbour	Count:153
+3127	Lat: 50.2333	Long: -99.45	Name: Neepawa	Count:17803
+3128	Lat: 50.2333	Long: -117.8	Name: Nakusp	Count:1251
+3129	Lat: 50.2333	Long: -98.95	Name: Gladstone	Count:1097
+3130	Lat: 50.2333	Long: -121.5667	Name: Lytton	Count:1169
+3131	Lat: 43.9518	Long: -79.8342	Name: Vaughan	Count:12101
+3132	Lat: 51.4333	Long: -114.0333	Name: Crossfield	Count:5527
+3133	Lat: 51.4333	Long: -102.9167	Name: Theodore	Count:1907
+3134	Lat: 51.4333	Long: -116.1833	Name: Lake Louise	Count:1692
+3135	Lat: 42.8401	Long: -82.461	Name: Mooretown	Count:3702
+3136	Lat: 43.6369	Long: -79.3505	Name: Toronto	Count:69922
+3137	Lat: 50.35	Long: -125.9167	Name: Sayward	Count:533
+3138	Lat: 50.35	Long: -100.2	Name: Newdale	Count:1158
+3139	Lat: 50.35	Long: -113.7667	Name: Nanton	Count:3271
+3140	Lat: 45.6595	Long: -73.5729	Name: Montreal	Count:63892
+3141	Lat: 46.8386	Long: -70.851	Name: La Durantaye	Count:256
+3142	Lat: 43.8245	Long: -66.1207	Name: Yarmouth	Count:24049
+3143	Lat: 45.0837	Long: -73.372	Name: Lacolle	Count:5384
+3144	Lat: 52.5833	Long: -128.5333	Name: Klemtu	Count:810
+3145	Lat: 52.5833	Long: -112.9667	Name: Bashaw	Count:830
+3146	Lat: 52.5833	Long: -112.0667	Name: Forestburg	Count:3999
+3147	Lat: 52.15	Long: -128.1333	Name: Bella Bella	Count:635
+3148	Lat: 45.0531	Long: -72.3952	Name: Mansonville	Count:1179
+3149	Lat: 46.8203	Long: -72.5057	Name: Sainte-Thecle	Count:502
+3150	Lat: 58.7667	Long: -69.1167	Name: Tasiujaq	Count:215
+3151	Lat: 58.7667	Long: -94.1667	Name: Churchill	Count:3179
+3152	Lat: 51.0999	Long: -113.9422	Name: Calgary	Count:163679
+3153	Lat: 43.6713	Long: -79.3412	Name: Toronto	Count:46981
+3154	Lat: 56.7833	Long: -98.9333	Name: South Indian Lake	Count:266
+3155	Lat: 46.55	Long: -84.15	Name: Garden River	Count:123
+3156	Lat: 45.5058	Long: -73.5672	Name: Montreal	Count:31505
+3157	Lat: 43.5581	Long: -79.5738	Name: Mississauga	Count:18880
+3158	Lat: 43.5581	Long: -79.5815	Name: Port Credit	Count:20
+3159	Lat: 49.5	Long: -57.9333	Name: Bonne Bay	Count:502
+3160	Lat: 49.5	Long: -115.0667	Name: Fernie	Count:5630
+3161	Lat: 49.5	Long: -119.5833	Name: Penticton	Count:1466
+3162	Lat: 49.5	Long: -97.05	Name: Otterburne	Count:30
+3163	Lat: 49.5	Long: -98	Name: Carman	Count:7343
+3164	Lat: 46.3998	Long: -75.0253	Name: Nominingue	Count:389
+3165	Lat: 45.1446	Long: -75.0846	Name: Finch	Count:1702
+3166	Lat: 47.5629	Long: -70.5415	Name: Baie-Saint-Paul	Count:205
+3167	Lat: 45.0825	Long: -63.6968	Name: Upper Rawdon	Count:923
+3168	Lat: 47.4583	Long: -72.7729	Name: La Tuque	Count:8071
+3169	Lat: 46.7607	Long: -72.2689	Name: Saint-Ubalde	Count:297
+3170	Lat: 43.027	Long: -80.8706	Name: Ingersoll	Count:27249
+3171	Lat: 45.4167	Long: -75.6	Name: Gloucester	Count:9496
+3172	Lat: 45.4167	Long: -73.6667	Name: Lachine	Count:12245
+3173	Lat: 45.4167	Long: -75.7	Name: Ottawa	Count:1291911
+3174	Lat: 45.4167	Long: -71.6167	Name: Cookshire-Eaton	Count:2030
+3175	Lat: 45.4167	Long: -63.6	Name: Great Village	Count:728
+3176	Lat: 45.5685	Long: -73.423	Name: Boucherville	Count:47575
+3177	Lat: 46.0254	Long: -75.0799	Name: Duhamel	Count:974
+3178	Lat: 44.9333	Long: -78.7333	Name: Minden	Count:1743
+3179	Lat: 45.4385	Long: -63.5846	Name: Londonderry	Count:646
+3180	Lat: 42.9922	Long: -81.1398	Name: London	Count:2266
+3181	Lat: 45.0712	Long: -71.7666	Name: Dixville	Count:317
+3182	Lat: 46.8569	Long: -71.3506	Name: Quebec	Count:12419
+3183	Lat: 43.8975	Long: -79.4415	Name: Richmond Hill	Count:57831
+3184	Lat: 45.258	Long: -75.5762	Name: Ottawa	Count:8040
+3185	Lat: 43.7153	Long: -79.7321	Name: Brampton	Count:85860
+3186	Lat: 44.8462	Long: -79.7954	Name: Midland	Count:1620
+3187	Lat: 45.4648	Long: -73.7192	Name: Lachine	Count:17270
+3188	Lat: 43.7496	Long: -79.4886	Name: Toronto	Count:127692
+3189	Lat: 45.331	Long: -66.2095	Name: Saint John	Count:3015
+3190	Lat: 44.6829	Long: -63.5442	Name: Dartmouth	Count:10778
+3191	Lat: 45.6303	Long: -73.7802	Name: Laval	Count:65830
+3192	Lat: 44.1312	Long: -77.4521	Name: Belleville	Count:1210
+3193	Lat: 46.7815	Long: -75.3344	Name: Mont-Saint-Michel	Count:164
+3194	Lat: 45.4109	Long: -72.7103	Name: Granby	Count:32859
+3195	Lat: 49.0312	Long: -122.3012	Name: Abbotsford	Count:174663
+3196	Lat: 46.7863	Long: -71.2579	Name: Quebec	Count:7496
+3197	Lat: 45.3286	Long: -75.7703	Name: Ottawa	Count:80188
+3198	Lat: 49.9069	Long: -97.0845	Name: Winnipeg	Count:27444
+3199	Lat: 49.9069	Long: -97.0011	Name: Winnipeg	Count:57544
+3200	Lat: 48.3464	Long: -53.9646	Name: Clarenville-Shoal Harbour	Count:2276
+3201	Lat: 49.05	Long: -53.5833	Name: Greenspond	Count:102
+3202	Lat: 49.05	Long: -122.3	Name: Abbotsford	Count:10235
+3203	Lat: 49.05	Long: -118.4667	Name: Grand Forks	Count:8748
+3204	Lat: 49.35	Long: -97.3667	Name: Morris	Count:1312
+3205	Lat: 49.35	Long: -82.15	Name: Moonbeam	Count:1353
+3206	Lat: 49.35	Long: -54.5167	Name: Victoria Cove	Count:861
+3207	Lat: 56.3333	Long: -103.2333	Name: Southend Reindeer	Count:1097
+3208	Lat: 47.6668	Long: -65.109	Name: Tracadie–Sheila	Count:297
+3209	Lat: 45.5377	Long: -73.5837	Name: Montreal	Count:9301
+3210	Lat: 43.914	Long: -78.6925	Name: Oshawa	Count:24121

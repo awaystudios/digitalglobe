@@ -1,0 +1,982 @@
+Locations in Mexico
+0	Lat: 19.4167	Long: -99.05	Name: Juarez Pantitlan	Count:276
+1	Lat: 19.4167	Long: -99.2	Name: Polanco	Count:225
+2	Lat: 19.4167	Long: -98.15	Name: Apizaco	Count:1989
+3	Lat: 19.4167	Long: -98.9	Name: Santa Maria Chimalhuacan	Count:5363
+4	Lat: 19.4167	Long: -99.2333	Name: San Miguel Tecamachalco	Count:256
+5	Lat: 19.4167	Long: -99.1833	Name: Mexico City	Count:369
+6	Lat: 19.4167	Long: -102.0667	Name: Uruapan	Count:4779
+7	Lat: 19.493	Long: -99.302	Name: Naucalpan	Count:307
+8	Lat: 21.9583	Long: -102.3333	Name: San Miguel	Count:266
+9	Lat: 15.3333	Long: -92.6333	Name: Los Costenos	Count:553
+10	Lat: 19.7139	Long: -99.2244	Name: Tepotzotlan	Count:1846
+11	Lat: 19.7139	Long: -99.1392	Name: Tultepec	Count:266
+12	Lat: 21.8867	Long: -102.335	Name: Aguascalientes	Count:133
+13	Lat: 19.3967	Long: -99.0847	Name: Iztacalco	Count:1630
+14	Lat: 27.45	Long: -110.1	Name: Campo Sesenta	Count:799
+15	Lat: 19.6556	Long: -98.4417	Name: San Juan	Count:358
+16	Lat: 19.5913	Long: -99.5974	Name: Santa Maria Nativitas	Count:358
+17	Lat: 20.4	Long: -103.2333	Name: Rancho los Garanones	Count:369
+18	Lat: 28.9667	Long: -111.0833	Name: Santa Cecilia	Count:92
+19	Lat: 20.675	Long: -99.9889	Name: Ajuchitlan	Count:523
+20	Lat: 20.7642	Long: -103.54	Name: Rancho el Caporal	Count:594
+21	Lat: 25.8512	Long: -100.14	Name: Artemio Trevino	Count:7917
+22	Lat: 19.2928	Long: -99.7778	Name: San Francisco Tlalcilalcalpan	Count:26705
+23	Lat: 22.5	Long: -102.25	Name: Colonia Hidalgo	Count:246
+24	Lat: 22.5	Long: -97.9	Name: Tampico	Count:584
+25	Lat: 22.5	Long: -100.4444	Name: Puerto de San Jose (El Puerto)	Count:276
+26	Lat: 25.65	Long: -98	Name: Union Campesina	Count:399
+27	Lat: 25.65	Long: -100.0833	Name: Juarez	Count:3445
+28	Lat: 30.3167	Long: -110.7333	Name: La Paletena	Count:871
+29	Lat: 21.95	Long: -105.3	Name: Tuxpan	Count:974
+30	Lat: 19.4019	Long: -99.2547	Name: Mexico City	Count:1056
+31	Lat: 19.4161	Long: -99.5068	Name: Santa Maria Zolotepec	Count:451
+32	Lat: 19.3833	Long: -98.1	Name: San Salvador Tzompantepec	Count:297
+33	Lat: 19.3833	Long: -99.25	Name: Palo Alto	Count:2543
+34	Lat: 19.3833	Long: -97.6167	Name: Oriental	Count:225
+35	Lat: 19.3833	Long: -98.0167	Name: Tocatlan	Count:174
+36	Lat: 19.3833	Long: -99.1083	Name: Mexico City	Count:656
+37	Lat: 25.5534	Long: -100.2201	Name: Monterrey	Count:133
+38	Lat: 18.3	Long: -91.35	Name: Candelaria	Count:707
+39	Lat: 20.7222	Long: -100.4694	Name: Santa Rosa Jauregui	Count:2287
+40	Lat: 16.4167	Long: -97.0667	Name: Sabinos	Count:1066
+41	Lat: 16.4167	Long: -93.7833	Name: Baja California	Count:902
+42	Lat: 24.7994	Long: -107.3897	Name: Culiacán	Count:29238
+43	Lat: 19.2833	Long: -104.25	Name: Rancho del Padre	Count:256
+44	Lat: 19.2833	Long: -98.4333	Name: San Martin Texmelucan de Labastida	Count:779
+45	Lat: 19.2833	Long: -99.1667	Name: Tlalpan	Count:3015
+46	Lat: 21	Long: -100.3833	Name: San Jose Iturbide	Count:923
+47	Lat: 18.8708	Long: -96.8667	Name: Paraje Nuevo	Count:194
+48	Lat: 22.45	Long: -102.35	Name: San Pedro Piedra Gorda	Count:369
+49	Lat: 19.16	Long: -99.6208	Name: Fraccionamiento Iberica Calimaya	Count:235
+50	Lat: 19.3612	Long: -99.1181	Name: Mexico City	Count:635
+51	Lat: 18.8833	Long: -98.8667	Name: Yecapixtla	Count:123
+52	Lat: 18.8833	Long: -97.7333	Name: Tecamachalco	Count:584
+53	Lat: 18.8833	Long: -96.9333	Name: Córdoba	Count:2502
+54	Lat: 18.8833	Long: -99.0667	Name: Yautepec	Count:1179
+55	Lat: 19.3653	Long: -99.136	Name: Mexico City	Count:27926
+56	Lat: 19.4611	Long: -96.8833	Name: Roma	Count:317
+57	Lat: 19.4159	Long: -99.5384	Name: Barrio de San Juan	Count:369
+58	Lat: 19.9739	Long: -99.1739	Name: Apaxco de Ocampo	Count:482
+59	Lat: 19.9081	Long: -99.1475	Name: Tequixquiac	Count:174
+60	Lat: 17.8	Long: -97.7667	Name: Ciudad de Huajuapam de Leon	Count:143
+61	Lat: 17.8	Long: -94.7833	Name: Loma Bonita	Count:246
+62	Lat: 17.8	Long: -91.5333	Name: Balancan de Dominguez	Count:297
+63	Lat: 19.9667	Long: -98.85	Name: Zapotlan de Juarez	Count:615
+64	Lat: 19.9667	Long: -104.2667	Name: Union de Tula	Count:1928
+65	Lat: 19.9667	Long: -97.2167	Name: Tlapacoyan	Count:317
+66	Lat: 18.5833	Long: -99.0667	Name: Lorenzo Vazquez (Santa Cruz)	Count:235
+67	Lat: 32.4914	Long: -115.0369	Name: Ejido Distrito Federal	Count:6645
+68	Lat: 19.5667	Long: -99.1333	Name: Cuautepec	Count:328
+69	Lat: 19.5667	Long: -97.2333	Name: Perote	Count:235
+70	Lat: 19.5667	Long: -99.1667	Name: Santa Cecilia	Count:1035
+71	Lat: 18.7833	Long: -98.95	Name: Coahuixtla	Count:235
+72	Lat: 18.7833	Long: -99.6833	Name: La Concepcion (La Concha)	Count:112
+73	Lat: 19.5	Long: -99.15	Name: San Bartolo Atepehuacan	Count:194
+74	Lat: 19.5	Long: -98.8667	Name: Texcoco	Count:164
+75	Lat: 19.5	Long: -99.1167	Name: San Pedro Zacatenco	Count:676
+76	Lat: 19.5	Long: -99.2667	Name: Santa Cruz	Count:615
+77	Lat: 19.5	Long: -99.2333	Name: La Florida	Count:256
+78	Lat: 16.95	Long: -96.4833	Name: Tlacolula de Matamoros	Count:164
+79	Lat: 27.1	Long: -109.4333	Name: Navojoa	Count:1528
+80	Lat: 19.2333	Long: -98.75	Name: Tlalmanalco de Velazquez	Count:379
+81	Lat: 19.2333	Long: -101.4667	Name: Tacambaro de Codallos	Count:440
+82	Lat: 19.2333	Long: -99.1667	Name: Magdalena Petlacalco	Count:471
+83	Lat: 19.2333	Long: -103.7167	Name: Colima	Count:2184
+84	Lat: 20.0833	Long: -101.5	Name: Puruandiro	Count:440
+85	Lat: 20.0833	Long: -98.3667	Name: Tulancingo	Count:4061
+86	Lat: 21.0667	Long: -89.6333	Name: Mérida	Count:348
+87	Lat: 21.0667	Long: -103.0333	Name: Los Arcos	Count:543
+88	Lat: 28.2833	Long: -105.4833	Name: Pedro Meoqui	Count:276
+89	Lat: 18	Long: -92.95	Name: Atasta de Serra	Count:389
+90	Lat: 18	Long: -90.8903	Name: Estado de Mexico	Count:12768
+91	Lat: 18	Long: -94.6167	Name: Cosoleacaque	Count:625
+92	Lat: 17.45	Long: -99.4833	Name: Mazatlan	Count:1087
+93	Lat: 19.2208	Long: -99.1944	Name: Camino a la Venta	Count:687
+94	Lat: 19.0304	Long: -100.0636	Name: Barrio de Cantarranas	Count:1784
+95	Lat: 17.0858	Long: -96.7578	Name: Oaxaca	Count:123
+96	Lat: 19.2444	Long: -99.0942	Name: Xochimilco	Count:707
+97	Lat: 20.5667	Long: -99.75	Name: Hacienda el Charcon	Count:605
+98	Lat: 20.5667	Long: -100.7	Name: Apaseo el Grande	Count:369
+99	Lat: 20.5667	Long: -101.2	Name: Salamanca	Count:5353
+100	Lat: 20.5667	Long: -103.15	Name: Puente Grande	Count:225
+101	Lat: 20.5667	Long: -103.2583	Name: Tlaquepaque	Count:1979
+102	Lat: 18.8933	Long: -99.22	Name: Cuernavaca	Count:892
+103	Lat: 16.5	Long: -95.05	Name: Asuncion Ixtaltepec	Count:61
+104	Lat: 23.35	Long: -100.0667	Name: San Francisco (San Francisco de Padua)	Count:82
+105	Lat: 19.95	Long: -103.7667	Name: Tapalpa	Count:840
+106	Lat: 19.95	Long: -102.2667	Name: Jacona de Plancarte	Count:389
+107	Lat: 19.95	Long: -98.9167	Name: Tolcayuca	Count:543
+108	Lat: 24.9333	Long: -101.2	Name: Benito Juarez	Count:656
+109	Lat: 20.3	Long: -103.25	Name: Ajijic	Count:666
+110	Lat: 20.3	Long: -103.2	Name: Chapala	Count:881
+111	Lat: 20.3	Long: -103.65	Name: Barranca de Otates (Barranca de Otatan)	Count:287
+112	Lat: 20.3	Long: -103.4333	Name: Jocotepec	Count:2717
+113	Lat: 20.2333	Long: -88.85	Name: San Felipe	Count:758
+114	Lat: 20.2333	Long: -99.2167	Name: Mixquiahuala de Juarez	Count:605
+115	Lat: 20.6195	Long: -100.0483	Name: Rancho el Batan	Count:553
+116	Lat: 20.3039	Long: -101.5936	Name: Colonia Jose J. Mugica	Count:153
+117	Lat: 25.2192	Long: -107.7215	Name: El Zapote de los Cazares	Count:307
+118	Lat: 19.3353	Long: -99.6356	Name: Toluca	Count:307
+119	Lat: 19.3569	Long: -97.9403	Name: San Martin Notario	Count:256
+120	Lat: 25.2833	Long: -103.5	Name: Picardias	Count:194
+121	Lat: 25.2833	Long: -100.0167	Name: Allende	Count:471
+122	Lat: 19.4228	Long: -99.2519	Name: Mexico City	Count:656
+123	Lat: 19.3857	Long: -99.1025	Name: Iztacalco	Count:553
+124	Lat: 20.85	Long: -101.8667	Name: El Tecuan	Count:1261
+125	Lat: 20.85	Long: -103.3333	Name: El Placer	Count:502
+126	Lat: 16.6167	Long: -93.0833	Name: El Terrero	Count:379
+127	Lat: 19.3921	Long: -99.1871	Name: Mexico City	Count:933
+128	Lat: 19.2097	Long: -99.5889	Name: San Mateo Mexicaltzingo	Count:1394
+129	Lat: 19.6658	Long: -99.2414	Name: Cuautitlán Izcalli	Count:2020
+130	Lat: 18.425	Long: -92.8333	Name: Frontera	Count:174
+131	Lat: 20.8833	Long: -89.75	Name: Uman	Count:440
+132	Lat: 20.8833	Long: -97.6667	Name: Alamo	Count:143
+133	Lat: 25.3333	Long: -100.7	Name: Escobedo	Count:1517
+134	Lat: 20.8308	Long: -101.2285	Name: Irapuato	Count:1989
+135	Lat: 19.3944	Long: -99.1037	Name: Iztacalco	Count:440
+136	Lat: 21.9667	Long: -102.35	Name: Jesus Maria	Count:810
+137	Lat: 25.5667	Long: -103.5	Name: Gomez Palacio	Count:820
+138	Lat: 25.5667	Long: -99.925	Name: Cadereyta	Count:440
+139	Lat: 25.5667	Long: -108.45	Name: Guasave	Count:1466
+140	Lat: 19.0111	Long: -99.3833	Name: Lomas de Teocaltzingo (Loma de Tecalzingo)	Count:1015
+141	Lat: 20.5167	Long: -99.8667	Name: Tequisquiapan	Count:933
+142	Lat: 20.5167	Long: -100.9833	Name: Villagran	Count:276
+143	Lat: 20.5167	Long: -100.8167	Name: Celaya	Count:14511
+144	Lat: 20.5167	Long: -103.4167	Name: San Sebastian el Grande	Count:235
+145	Lat: 19.6198	Long: -99.1483	Name: Ampliacion San Mateo (Colonia Solidaridad)	Count:11137
+146	Lat: 18.35	Long: -99.85	Name: Colonia el Pedregal	Count:174
+147	Lat: 18.35	Long: -99.5333	Name: Iguala de la Independencia	Count:1415
+148	Lat: 19.3119	Long: -99.575	Name: Santa Maria Totoltepec	Count:266
+149	Lat: 19.3139	Long: -98.2417	Name: Tlaxcala	Count:6071
+150	Lat: 32.6519	Long: -115.4683	Name: Mexicali	Count:47093
+151	Lat: 19.4172	Long: -99.1569	Name: Mexico City	Count:4256
+152	Lat: 26.8333	Long: -109.6333	Name: Huatabampo	Count:276
+153	Lat: 21.0333	Long: -89.6333	Name: Mérida	Count:912
+154	Lat: 21.0333	Long: -101.8667	Name: Purisima de Bustos	Count:358
+155	Lat: 19.5681	Long: -99.7042	Name: Manzana Tercera de Santa Cruz Tepexpan	Count:246
+156	Lat: 19.625	Long: -98.9167	Name: Acolman	Count:1107
+157	Lat: 19.7456	Long: -99.1833	Name: Teoloyucan	Count:748
+158	Lat: 17.5083	Long: -94.2306	Name: Francisco I. Madero	Count:287
+159	Lat: 19.85	Long: -90.5333	Name: Campeche	Count:22798
+160	Lat: 19.6167	Long: -99.2	Name: Cuautitlán Izcalli	Count:225
+161	Lat: 19.6167	Long: -97.6167	Name: El Calvario	Count:256
+162	Lat: 19.15	Long: -98.4833	Name: Domingo Arenas	Count:564
+163	Lat: 21.1667	Long: -99.0167	Name: El Magueyal	Count:348
+164	Lat: 21.1667	Long: -89.9833	Name: La Quinta	Count:810
+165	Lat: 21.1667	Long: -86.8333	Name: Cancún	Count:97120
+166	Lat: 28.3333	Long: -105.4	Name: Jimenez	Count:102
+167	Lat: 19.3603	Long: -99.3514	Name: Huixquilucan	Count:12419
+168	Lat: 19.3689	Long: -99.7622	Name: Villa de Almoloya de Juarez	Count:246
+169	Lat: 17.6903	Long: -95.4972	Name: Coahuila	Count:799
+170	Lat: 20.5333	Long: -100.45	Name: Santiago de Queretaro	Count:3220
+171	Lat: 25.75	Long: -100.3	Name: San Nicolás de los Garza	Count:18829
+172	Lat: 25.75	Long: -99.95	Name: Victoria	Count:3609
+173	Lat: 25.75	Long: -102.9833	Name: San Pedro de Las Colonias	Count:492
+174	Lat: 19.4007	Long: -99.1573	Name: Benito Juarez	Count:8327
+175	Lat: 19.4151	Long: -99.1208	Name: Mexico City	Count:1784
+176	Lat: 18.4572	Long: -96.3478	Name: Tierra Blanca	Count:164
+177	Lat: 25.2	Long: -99.8167	Name: Montemorelos	Count:1999
+178	Lat: 19.5167	Long: -101.6	Name: Patzcuaro	Count:912
+179	Lat: 19.5167	Long: -98.8833	Name: Kilometro 32 Texcoco Lecheria	Count:6194
+180	Lat: 19.5167	Long: -99.2167	Name: Vista Hermosa	Count:297
+181	Lat: 19.5167	Long: -98.9167	Name: San Salvador Atenco	Count:235
+182	Lat: 19.9947	Long: -99.1519	Name: Colonia Juarez	Count:123
+183	Lat: 22.2689	Long: -100.2562	Name: Villa Juarez	Count:471
+184	Lat: 21.65	Long: -104.9833	Name: Tepic	Count:830
+185	Lat: 19.6667	Long: -101.5333	Name: Quiroga	Count:287
+186	Lat: 30.7167	Long: -112.15	Name: Heroica Caborca	Count:1220
+187	Lat: 21.0658	Long: -101.2822	Name: El Arenal	Count:297
+188	Lat: 20.5598	Long: -103.5047	Name: Guadalajara	Count:574
+189	Lat: 18.9333	Long: -99.25	Name: Cuernavaca	Count:666
+190	Lat: 19.2819	Long: -99.7386	Name: San Miguel Zinacantepec	Count:1394
+191	Lat: 19.1194	Long: -98.1708	Name: Vicente Guerrero	Count:769
+192	Lat: 19.4261	Long: -99.1557	Name: Mexico City	Count:2071
+193	Lat: 19.3325	Long: -99.195	Name: Alvaro Obregon	Count:420
+194	Lat: 19.5056	Long: -98.3917	Name: Adolfo Lopez Mateos	Count:20
+195	Lat: 20.15	Long: -98.3667	Name: San Rafael el Jagueey (Ejido Santa Ana Hueytlalpan)	Count:348
+196	Lat: 20.15	Long: -101.1833	Name: Uriangato	Count:92
+197	Lat: 24.7672	Long: -107.6944	Name: Navolato	Count:1179
+198	Lat: 19.7472	Long: -99.5606	Name: La Palma	Count:194
+199	Lat: 31.3333	Long: -110.9333	Name: Nogales	Count:2317
+200	Lat: 19.4333	Long: -98.1	Name: Seccion Primera Santiago Tetla	Count:133
+201	Lat: 19.4333	Long: -97.7833	Name: Atltzayanca de Hidalgo	Count:256
+202	Lat: 19.4785	Long: -99.2396	Name: Naucalpan	Count:1866
+203	Lat: 17.5333	Long: -101.3	Name: Petatlan	Count:461
+204	Lat: 22.75	Long: -102.5167	Name: Guadalupe	Count:3579
+205	Lat: 21.1561	Long: -100.9308	Name: Dolores Hidalgo Cuna de la Independencia Nacional	Count:1517
+206	Lat: 20.2	Long: -103.3	Name: Puerto Corona	Count:338
+207	Lat: 20.2	Long: -101.15	Name: Yuriria	Count:646
+208	Lat: 20.2	Long: -99.2667	Name: Tezontepec de Aldama	Count:184
+209	Lat: 32.45	Long: -116.9	Name: Tijuana	Count:5076
+210	Lat: 19.2622	Long: -99.1075	Name: Xochimilco	Count:1446
+211	Lat: 28.6333	Long: -106.0833	Name: Chihuahua	Count:10132
+212	Lat: 19.7442	Long: -99.0733	Name: Nextlalpan	Count:215
+213	Lat: 21.7861	Long: -102.2208	Name: Aguascalientes	Count:461
+214	Lat: 22.65	Long: -103	Name: Jerez de Garcia Salinas	Count:112
+215	Lat: 29.7167	Long: -110.9667	Name: Las Canoras (Altiva)	Count:656
+216	Lat: 20.3214	Long: -103.3595	Name: San Juan Cosala	Count:1087
+217	Lat: 17.9333	Long: -92.65	Name: Tierra Colorada (El Indio)	Count:307
+218	Lat: 24.6216	Long: -110.7434	Name: El Potrero	Count:810
+219	Lat: 25.558	Long: -100.2772	Name: Monterrey	Count:358
+220	Lat: 19.3771	Long: -99.2272	Name: Alvaro Obregon	Count:71
+221	Lat: 19.0333	Long: -98.2667	Name: Tlaxcalancingo	Count:543
+222	Lat: 19.0333	Long: -98.0833	Name: Chachapa	Count:1035
+223	Lat: 19.4402	Long: -99.1832	Name: Mexico City	Count:184
+224	Lat: 21.25	Long: -105.1667	Name: Zacualpan	Count:164
+225	Lat: 18.1333	Long: -94.1333	Name: Agua Dulce	Count:635
+226	Lat: 17.55	Long: -99.5	Name: Chilpancingo	Count:4532
+227	Lat: 17.55	Long: -98.55	Name: Tlapa de Comonfort	Count:605
+228	Lat: 17.55	Long: -92.95	Name: Teapa	Count:410
+229	Lat: 18.3333	Long: -100.65	Name: Coyuca de Catalan	Count:266
+230	Lat: 20.7233	Long: -101.2581	Name: Los Reyes	Count:420
+231	Lat: 19.8167	Long: -97.35	Name: Teziutlán	Count:143
+232	Lat: 19.8167	Long: -97.5333	Name: Almoloni	Count:246
+233	Lat: 20.6356	Long: -101.1561	Name: Salamanca	Count:543
+234	Lat: 19.431	Long: -99.4025	Name: Mexico City	Count:256
+235	Lat: 18.5333	Long: -96.6167	Name: Acatlan de Perez Figueroa	Count:194
+236	Lat: 19.6847	Long: -99.1292	Name: Tultepec	Count:358
+237	Lat: 20.5619	Long: -103.9546	Name: San Antonio	Count:861
+238	Lat: 23.2	Long: -98.4333	Name: Acuna	Count:297
+239	Lat: 19.4755	Long: -99.0946	Name: Mexico City	Count:369
+240	Lat: 17.6333	Long: -101.55	Name: Ixtapa-Zihuatanejo	Count:1240
+241	Lat: 17.6333	Long: -99.0833	Name: Pantitlan	Count:225
+242	Lat: 21.1953	Long: -101.7031	Name: León	Count:2235
+243	Lat: 19.975	Long: -88.6833	Name: Tabasco	Count:1128
+244	Lat: 23.05	Long: -109.6833	Name: San José del Cabo	Count:2851
+245	Lat: 26.1167	Long: -100.8667	Name: San Nicolas	Count:3220
+246	Lat: 19.4833	Long: -99.1	Name: Constitucion de la Republica	Count:184
+247	Lat: 19.4833	Long: -99.15	Name: Defensores de la Republica	Count:461
+248	Lat: 20.1375	Long: -100.5311	Name: La Quebradora	Count:389
+249	Lat: 19.8333	Long: -96.85	Name: Pueblo Viejo	Count:451
+250	Lat: 19.8333	Long: -98.9833	Name: La Pista de Tizayuca	Count:687
+251	Lat: 19.8333	Long: -101.7167	Name: Zacapu	Count:676
+252	Lat: 19.8333	Long: -98.0333	Name: Chignahuapan	Count:246
+253	Lat: 21.3167	Long: -99.0333	Name: Sierra Chiquita	Count:697
+254	Lat: 18.25	Long: -91.025	Name: Juarez	Count:246
+255	Lat: 20.3667	Long: -101.5	Name: Huanimaro	Count:235
+256	Lat: 20.3667	Long: -102.9167	Name: Poncitlan	Count:153
+257	Lat: 17.8981	Long: -92.6683	Name: Villahermosa	Count:625
+258	Lat: 19.9053	Long: -99.3439	Name: Tepeji de Ocampo	Count:820
+259	Lat: 23.1333	Long: -102.8333	Name: Buenavista de Rivera	Count:584
+260	Lat: 24.85	Long: -98.15	Name: San Fernando	Count:287
+261	Lat: 21.9833	Long: -99.0167	Name: Ciudad Valles	Count:1281
+262	Lat: 20.6219	Long: -101.28	Name: Cuarta Brigada	Count:235
+263	Lat: 20.2661	Long: -87.6961	Name: Tulum	Count:1907
+264	Lat: 21.9436	Long: -102.3775	Name: Aguascalientes	Count:482
+265	Lat: 20.8167	Long: -102.7333	Name: Tepatitlán de Morelos	Count:3045
+266	Lat: 21.1139	Long: -98.675	Name: Pueblo Hidalgo	Count:1076
+267	Lat: 16.75	Long: -92.6333	Name: San Cristóbal de las Casas	Count:564
+268	Lat: 16.75	Long: -93.1167	Name: Tuxtla Gutiérrez	Count:5445
+269	Lat: 19.3618	Long: -99.1964	Name: Alvaro Obregon	Count:523
+270	Lat: 22.8667	Long: -99.2333	Name: Coahuila	Count:10
+271	Lat: 20.1722	Long: -98.0333	Name: Huauchinango	Count:379
+272	Lat: 19.1611	Long: -99.5708	Name: San Antonio la Isla	Count:164
+273	Lat: 20.05	Long: -99.35	Name: Tula de Allende	Count:1979
+274	Lat: 20.05	Long: -100.7167	Name: Guadalupe	Count:348
+275	Lat: 20.05	Long: -99.3333	Name: Tula de Allende	Count:471
+276	Lat: 20.4833	Long: -97.45	Name: Coatzintla	Count:266
+277	Lat: 20.4833	Long: -99.9	Name: Tequisquiapan	Count:543
+278	Lat: 20.4833	Long: -99.2333	Name: Ixmiquilpan	Count:1148
+279	Lat: 20.4833	Long: -100.9333	Name: Cortazar	Count:2625
+280	Lat: 20.4833	Long: -89.7167	Name: Muna	Count:553
+281	Lat: 20.4833	Long: -99.9167	Name: Tequisquiapan	Count:2922
+282	Lat: 32.5564	Long: -115.4814	Name: Cerro Prieto Segundo Seccion	Count:543
+283	Lat: 26.6667	Long: -100.6833	Name: Valles	Count:153
+284	Lat: 22.8333	Long: -102.6167	Name: Las Pilas	Count:892
+285	Lat: 29.95	Long: -114.95	Name: Sonora	Count:112
+286	Lat: 19.2508	Long: -99.6656	Name: Toluca	Count:287
+287	Lat: 21.4903	Long: -104.6917	Name: Tepic	Count:246
+288	Lat: 20.1	Long: -97.5333	Name: Reyes de Vallarta	Count:1702
+289	Lat: 15.9333	Long: -96.4667	Name: Santa Lucia	Count:287
+290	Lat: 20.5306	Long: -100.4931	Name: Las Cabanas (Colinas de los Angeles)	Count:348
+291	Lat: 20.1333	Long: -101.2	Name: Moroleon	Count:1353
+292	Lat: 20.1333	Long: -99.2333	Name: Tlahuelilpan	Count:225
+293	Lat: 20.1333	Long: -98.6667	Name: Mineral del Monte	Count:205
+294	Lat: 20.1333	Long: -89.5333	Name: Tecax	Count:420
+295	Lat: 25.1833	Long: -99.75	Name: Chihuahua	Count:14983
+296	Lat: 15.85	Long: -97.0667	Name: Puerto Escondido	Count:194
+297	Lat: 25.1667	Long: -100.4667	Name: Puerto de Acapulco (Tanque Roto)	Count:738
+298	Lat: 19.6219	Long: -99.3131	Name: Nicolas Romero	Count:3045
+299	Lat: 20.2167	Long: -100.8833	Name: Salvatierra	Count:605
+300	Lat: 20.2167	Long: -98.7333	Name: Mineral del Chico	Count:184
+301	Lat: 20.2167	Long: -104.1667	Name: Tenamaxtlan	Count:420
+302	Lat: 25.8167	Long: -100.3333	Name: General Escobedo	Count:2604
+303	Lat: 25.8167	Long: -100.5833	Name: Garcia	Count:1743
+304	Lat: 19.6149	Long: -99.2214	Name: Cuautitlán Izcalli	Count:1969
+305	Lat: 20.2667	Long: -102.4833	Name: Vistahermosa de Negrete	Count:205
+306	Lat: 20.2667	Long: -98.9333	Name: Actopan	Count:317
+307	Lat: 19.02	Long: -97.94	Name: San Bartolome Hueyapan	Count:235
+308	Lat: 22.9167	Long: -98.0667	Name: Aldama	Count:256
+309	Lat: 27.9667	Long: -110.8167	Name: Empalme	Count:92
+310	Lat: 25.05	Long: -107.7	Name: Colonia el Rosario (Chayo) [Restaurante]	Count:358
+311	Lat: 15.3667	Long: -92.2333	Name: Motozintla de Mendoza	Count:287
+312	Lat: 19.3723	Long: -99.2049	Name: Alvaro Obregon	Count:1363
+313	Lat: 27.5	Long: -99.5167	Name: Nuevo Laredo	Count:6307
+314	Lat: 24.3833	Long: -106.05	Name: La Ciudad	Count:358
+315	Lat: 26.0333	Long: -98.0833	Name: Monterrey	Count:748
+316	Lat: 32.5836	Long: -115.4828	Name: Mexicali	Count:317
+317	Lat: 19.1	Long: -96.1	Name: Boca del Rio	Count:2461
+318	Lat: 19.1	Long: -97.5833	Name: Santa Maria Coatepec	Count:10
+319	Lat: 18.3667	Long: -95.8	Name: Cosamaloapan de Carpio	Count:184
+320	Lat: 18.3667	Long: -90.9667	Name: Las Amapolas	Count:102
+321	Lat: 19.9	Long: -102.1333	Name: Tangancicuaro de Arista	Count:276
+322	Lat: 19.7058	Long: -99.7878	Name: Jocotitlan	Count:20
+323	Lat: 20.1833	Long: -97.95	Name: Huixtla	Count:194
+324	Lat: 19.9583	Long: -99.4417	Name: El Banco (El Banco Vega de Madero)	Count:266
+325	Lat: 20.2833	Long: -102.5667	Name: La Barca	Count:164
+326	Lat: 19.3597	Long: -99.4869	Name: San Nicolas Peralta	Count:492
+327	Lat: 26.8167	Long: -107.8833	Name: Colimas	Count:2625
+328	Lat: 19.2667	Long: -98.9	Name: Chalco de Diaz Covarrubias	Count:5907
+329	Lat: 19.2667	Long: -99.1333	Name: Mexico City	Count:225
+330	Lat: 19.2667	Long: -99.1689	Name: San Pedro Martir	Count:830
+331	Lat: 18.4	Long: -93.2333	Name: Paraiso	Count:389
+332	Lat: 19.6317	Long: -99.1103	Name: Coacalco	Count:6666
+333	Lat: 18.9153	Long: -103.7306	Name: San Gabriel	Count:266
+334	Lat: 18.6833	Long: -98.8	Name: Jonacatepec de Leandro Valle	Count:225
+335	Lat: 18.6833	Long: -99.1167	Name: Tlaltizapan	Count:861
+336	Lat: 24.93	Long: -99.2444	Name: San Cristobal	Count:328
+337	Lat: 32.107	Long: -115.929	Name: Agua Amarga	Count:502
+338	Lat: 19.6011	Long: -99.0525	Name: Ecatepec de Morelos	Count:21331
+339	Lat: 16.875	Long: -100.0333	Name: Acapulco	Count:553
+340	Lat: 18.0208	Long: -92.1583	Name: Florida	Count:389
+341	Lat: 20.8653	Long: -100.2222	Name: La Joya	Count:358
+342	Lat: 22.725	Long: -105.35	Name: El Parque	Count:256
+343	Lat: 16.7667	Long: -93.3667	Name: Ocozocuautla	Count:440
+344	Lat: 20.964	Long: -101.4299	Name: Ampliacion Monte del Coecillo	Count:440
+345	Lat: 20.8554	Long: -101.1412	Name: Guanajuato	Count:369
+346	Lat: 18.4167	Long: -95.6167	Name: Tequisistlan	Count:92
+347	Lat: 24.8875	Long: -105.0728	Name: Nuevo Ideal	Count:328
+348	Lat: 19.1833	Long: -102.85	Name: Tepalcatepec	Count:276
+349	Lat: 19.1833	Long: -100.1333	Name: Valle de Bravo	Count:635
+350	Lat: 29.2924	Long: -103.2963	Name: Benito Juarez (Santa Elena)	Count:789
+351	Lat: 19.6711	Long: -99.1828	Name: Cuautitlan	Count:2625
+352	Lat: 20.45	Long: -103.95	Name: San Martin Hidalgo	Count:625
+353	Lat: 20.45	Long: -100.6167	Name: Apaseo el Alto	Count:923
+354	Lat: 20.45	Long: -103.1667	Name: Zapotlanejo	Count:276
+355	Lat: 20.45	Long: -97.0833	Name: Gutierrez Zamora	Count:287
+356	Lat: 19.4225	Long: -99.2028	Name: Polanco	Count:7425
+357	Lat: 19.8	Long: -104.2167	Name: El Grullo	Count:635
+358	Lat: 31.8667	Long: -116.6167	Name: Ensenada	Count:16747
+359	Lat: 16.5833	Long: -98.8167	Name: Marquelia	Count:205
+360	Lat: 28.5167	Long: -113.7833	Name: Leon	Count:728
+361	Lat: 21.5	Long: -104.9	Name: Tepic	Count:9927
+362	Lat: 19.5687	Long: -99.4081	Name: Ejido Palma (Ejido San Francisco)	Count:1384
+363	Lat: 21.0208	Long: -104.3917	Name: Ixtlan del Rio	Count:317
+364	Lat: 18.3833	Long: -95.35	Name: Mendoza	Count:205
+365	Lat: 18.4667	Long: -100.5667	Name: Cutzamala de Pinzon	Count:328
+366	Lat: 26.4189	Long: -108.6194	Name: El Fuerte de Montes Claros	Count:133
+367	Lat: 19.0667	Long: -98.3	Name: Cholula	Count:4368
+368	Lat: 19.0667	Long: -96.15	Name: Medellin de Bravo	Count:266
+369	Lat: 19.0667	Long: -98.2333	Name: Puebla	Count:492
+370	Lat: 19.0667	Long: -97.0333	Name: Heroica Coscomatepec de Bravo	Count:92
+371	Lat: 18.2833	Long: -100.2667	Name: Reforma de Lazaro Cardenas (El Aterrizaje)	Count:92
+372	Lat: 19.406	Long: -99.4952	Name: Santa Maria Zolotepec	Count:984
+373	Lat: 26.0167	Long: -111.35	Name: Loreto	Count:369
+374	Lat: 26.0167	Long: -99.2	Name: Aldama [Estacion]	Count:2410
+375	Lat: 20	Long: -103.4167	Name: San Juan	Count:184
+376	Lat: 20	Long: -96.7833	Name: La Frontera (Brazo Seco)	Count:174
+377	Lat: 23.45	Long: -110.2167	Name: Todos Santos	Count:153
+378	Lat: 17.8833	Long: -91.4667	Name: Balancan de Dominguez	Count:160418
+379	Lat: 16.8	Long: -93.2667	Name: Berriozabal	Count:328
+380	Lat: 19.7333	Long: -100.2667	Name: Los Reyes	Count:194
+381	Lat: 19.7333	Long: -98.9667	Name: Paseos de Tecamac	Count:4030
+382	Lat: 19.5833	Long: -97.825	Name: El Sabinal (San Pedro)	Count:471
+383	Lat: 19.5833	Long: -102.4833	Name: La Higuerita (Colonia San Rafael)	Count:440
+384	Lat: 19.5833	Long: -96.9333	Name: Banderilla	Count:338
+385	Lat: 19.5833	Long: -101.7167	Name: La Flor de la Esperanza	Count:266
+386	Lat: 19.2536	Long: -99.6078	Name: Mextepec	Count:12706
+387	Lat: 18.5	Long: -88.3	Name: Chetumal	Count:11311
+388	Lat: 18.5	Long: -98.7667	Name: Axochiapan	Count:225
+389	Lat: 20.1167	Long: -98.7	Name: San Guillermo la Reforma	Count:1363
+390	Lat: 20.1167	Long: -98.7333	Name: Pachuca	Count:25782
+391	Lat: 19.764	Long: -99.4984	Name: Palo Hueco (Kilometro 5)	Count:399
+392	Lat: 26.9333	Long: -105.6667	Name: Parral	Count:420
+393	Lat: 22.3	Long: -97.85	Name: Tampico	Count:10040
+394	Lat: 27.3667	Long: -108.2333	Name: Mineral	Count:174
+395	Lat: 27.3667	Long: -110.1667	Name: Yaqui	Count:61
+396	Lat: 28.4167	Long: -106.8667	Name: Cuauhtemoc	Count:261395
+397	Lat: 17.4667	Long: -97.2333	Name: Asuncion Nochixtlan	Count:635
+398	Lat: 21.0833	Long: -104.4333	Name: Jala	Count:1005
+399	Lat: 20.0667	Long: -97.05	Name: Martinez de la Torre	Count:2112
+400	Lat: 20.0667	Long: -98.7667	Name: Rinconadas de San Francisco	Count:451
+401	Lat: 20.0667	Long: -102.7167	Name: Sahuayo de Morelos	Count:7476
+402	Lat: 19.43	Long: -99.0992	Name: Mexico City	Count:256
+403	Lat: 19.43	Long: -99.13	Name: 	Count:7827606
+404	Lat: 22.85	Long: -105.8	Name: Escuinapa de Hidalgo	Count:205
+405	Lat: 16.0981	Long: -93.5389	Name: La Soledad	Count:666
+406	Lat: 18.45	Long: -97.3833	Name: Tehuacán	Count:1507
+407	Lat: 22.8833	Long: -109.9	Name: Cabo San Lucas	Count:6881
+408	Lat: 22.8833	Long: -102.6167	Name: Morelos	Count:245622
+409	Lat: 19.6308	Long: -99.2492	Name: Cuautitlán Izcalli	Count:2697
+410	Lat: 25.6	Long: -100	Name: Cadereyta Jimenez	Count:317
+411	Lat: 25.6	Long: -108.4	Name: Guasave	Count:41
+412	Lat: 25.6	Long: -100.3167	Name: Monterrey	Count:851
+413	Lat: 25.6	Long: -103.4167	Name: Almada	Count:215
+414	Lat: 24.8325	Long: -105.3364	Name: San Miguel de Papasquiaro	Count:174
+415	Lat: 20.7333	Long: -100.5	Name: Santiago de Queretaro	Count:769
+416	Lat: 20.7333	Long: -89.6889	Name: Mérida	Count:1856
+417	Lat: 28.2	Long: -105.5	Name: Las Delicias	Count:153
+418	Lat: 22.5167	Long: -100.6667	Name: El Leon	Count:6327
+419	Lat: 19.5269	Long: -99.2217	Name: Tlalnepantla	Count:81142
+420	Lat: 19.69	Long: -99.1808	Name: Cuautitlan	Count:338
+421	Lat: 21.27	Long: -101.4922	Name: San Felipe Torres Mochas [Ganaderia]	Count:707
+422	Lat: 20.35	Long: -102	Name: La Piedad	Count:1528
+423	Lat: 20.35	Long: -102.7667	Name: Ocotlan	Count:656
+424	Lat: 18.8792	Long: -99.7583	Name: Coatepec Harinas	Count:430
+425	Lat: 20.3833	Long: -100	Name: San Juan del Río	Count:8255
+426	Lat: 20.3833	Long: -100.3833	Name: Santiago de Queretaro	Count:358
+427	Lat: 20.3833	Long: -103.8333	Name: Cocula	Count:61
+428	Lat: 32.5333	Long: -117.0167	Name: Tijuana	Count:552716
+429	Lat: 25.4167	Long: -101	Name: Saltillo	Count:34520
+430	Lat: 25.4167	Long: -100.15	Name: Santiago	Count:328
+431	Lat: 25.4167	Long: -99.9833	Name: San Pedro	Count:584
+432	Lat: 20.4667	Long: -103.45	Name: Tlajomulco de Zuniga	Count:7014
+433	Lat: 20.4667	Long: -104.8667	Name: Cabos	Count:502
+434	Lat: 19.5419	Long: -99.0689	Name: Mexico City	Count:153
+435	Lat: 25.1744	Long: -99.8792	Name: Escobedo	Count:5763
+436	Lat: 19.4022	Long: -99.5325	Name: Xonacatlan	Count:174
+437	Lat: 20.0167	Long: -97.6667	Name: Tuxtla	Count:492
+438	Lat: 19.4342	Long: -99.1386	Name: Mexico City	Count:4923192
+439	Lat: 21.85	Long: -102	Name: Aguascalientes	Count:379
+440	Lat: 21.85	Long: -99.5833	Name: Tortugas	Count:379
+441	Lat: 23.1667	Long: -102.8833	Name: Fresnillo	Count:1958
+442	Lat: 22.4333	Long: -102	Name: Colonia Madero (Madero)	Count:1476
+443	Lat: 22.4333	Long: -100.2833	Name: Cerritos	Count:123
+444	Lat: 19.3642	Long: -99.1856	Name: Alvaro Obregon	Count:18716
+445	Lat: 25.1711	Long: -99.793	Name: Montemorelos	Count:1230
+446	Lat: 20.125	Long: -87.45	Name: Tulum	Count:2892
+447	Lat: 20.125	Long: -98.3639	Name: Tulancingo	Count:399
+448	Lat: 21.5167	Long: -87.375	Name: Isla Holbox	Count:697
+449	Lat: 19.3811	Long: -99.98	Name: San Agustin Altamirano	Count:246
+450	Lat: 19.1081	Long: -99.9944	Name: Jesus del Monte	Count:369
+451	Lat: 19.35	Long: -99.2	Name: Barrio Norte	Count:512
+452	Lat: 19.35	Long: -99.15	Name: Churubusco	Count:246
+453	Lat: 19.35	Long: -99.1333	Name: Campestre Churubusco	Count:553
+454	Lat: 19.35	Long: -99.1417	Name: Mexico City	Count:461
+455	Lat: 21.6667	Long: -105.3167	Name: Autan	Count:143
+456	Lat: 19.9558	Long: -99.8417	Name: Acambay	Count:266
+457	Lat: 20.9333	Long: -89.0167	Name: Izamal	Count:1415
+458	Lat: 20.9333	Long: -101.4333	Name: Silao	Count:1640
+459	Lat: 20.9333	Long: -89.5667	Name: Kanasin	Count:482
+460	Lat: 19.7083	Long: -99.1601	Name: Machero	Count:307
+461	Lat: 19.7083	Long: -98.9167	Name: San Isidro del Progreso	Count:451
+462	Lat: 20.0333	Long: -98.3	Name: Santa Maria Nativitas	Count:594
+463	Lat: 20.0333	Long: -98.6333	Name: Epazoyucan	Count:440
+464	Lat: 20.0333	Long: -100.7333	Name: Acambaro	Count:2584
+465	Lat: 20.0333	Long: -99.3333	Name: Tula de Allende	Count:440
+466	Lat: 18.9417	Long: -99.9333	Name: San Agustin	Count:276
+467	Lat: 26.25	Long: -98.8333	Name: Camargo	Count:543
+468	Lat: 26.0667	Long: -99.8833	Name: El Refugio	Count:194
+469	Lat: 26.0667	Long: -98.3833	Name: Reynosa	Count:3353
+470	Lat: 25.7	Long: -108.35	Name: Orba (Infiernito)	Count:174
+471	Lat: 19.7146	Long: -99.8129	Name: Barrio Buenavista	Count:194
+472	Lat: 20.17	Long: -100.6914	Name: Monclova	Count:1938
+473	Lat: 19.0167	Long: -102.1	Name: Nueva Italia de Ruiz	Count:748
+474	Lat: 29.0028	Long: -111.2278	Name: Hermosillo	Count:851
+475	Lat: 20.6257	Long: -100.2062	Name: Santiago de Queretaro	Count:4122
+476	Lat: 24.8578	Long: -99.5678	Name: Linares	Count:2010
+477	Lat: 19.6506	Long: -99.2306	Name: Cuautitlán Izcalli	Count:482
+478	Lat: 16.85	Long: -99.9167	Name: Acapulco	Count:19762
+479	Lat: 18.15	Long: -94.4167	Name: Coatzacoalcos	Count:9271
+480	Lat: 20.1667	Long: -101.6833	Name: Angamacutiro de la Union	Count:235
+481	Lat: 20.1667	Long: -103.0667	Name: Tizapan el Alto	Count:266
+482	Lat: 21.4333	Long: -104.8667	Name: Tepic	Count:112
+483	Lat: 24.5875	Long: -107.3875	Name: Villa de Costa Rica	Count:348
+484	Lat: 19.5708	Long: -99.0525	Name: Ecatepec de Morelos	Count:717
+485	Lat: 19.5708	Long: -99.6672	Name: Colonia la Purisima	Count:215
+486	Lat: 19.3721	Long: -99.1488	Name: Mexico City	Count:543
+487	Lat: 20.4417	Long: -99.95	Name: Villas de San Jose	Count:30
+488	Lat: 29.5667	Long: -104.4167	Name: Ojinaga	Count:492
+489	Lat: 30.6333	Long: -110.95	Name: Magdalena de Kino	Count:461
+490	Lat: 20.65	Long: -98.6	Name: Tizapan	Count:287
+491	Lat: 20.65	Long: -103.2333	Name: Tonala	Count:328
+492	Lat: 20.65	Long: -103.3167	Name: Tlaquepaque	Count:11783
+493	Lat: 20.65	Long: -103.2167	Name: Tonala	Count:523
+494	Lat: 20.65	Long: -105.2167	Name: Puerto Vallarta	Count:2010
+495	Lat: 20.65	Long: -101.2833	Name: Unidad Habitacional 16 Ciudad Industrial	Count:215
+496	Lat: 18.6667	Long: -96.9833	Name: Zongolica	Count:256
+497	Lat: 21.925	Long: -102.2667	Name: Aguascalientes	Count:235
+498	Lat: 19.9333	Long: -98.9833	Name: San Francisco Zacacalco	Count:297
+499	Lat: 19.9333	Long: -97.9667	Name: Zacatlan	Count:666
+500	Lat: 20.6083	Long: -103.2354	Name: Tonala	Count:789
+501	Lat: 19.5578	Long: -99.7878	Name: San Ildefonso	Count:266
+502	Lat: 25.5881	Long: -99.9497	Name: Cadereyta	Count:174
+503	Lat: 23.25	Long: -98.6	Name: Borrega	Count:184
+504	Lat: 19.2744	Long: -99.1347	Name: Mexico City	Count:194
+505	Lat: 20.7	Long: -102.35	Name: Arandas	Count:102
+506	Lat: 20.7	Long: -100.2	Name: Rancho Medina	Count:379
+507	Lat: 20.7	Long: -105.2	Name: Los Llanitos	Count:4215
+508	Lat: 20.7	Long: -103.9833	Name: Ahualulco de Mercado	Count:420
+509	Lat: 20.7	Long: -99.8167	Name: Cadereyta de Montes	Count:482
+510	Lat: 19.2708	Long: -98.1625	Name: Satelite	Count:574
+511	Lat: 19.55	Long: -98.9	Name: Chiconcuac	Count:358
+512	Lat: 19.55	Long: -103.8083	Name: Zapotitlan de Vadillo	Count:307
+513	Lat: 28.2167	Long: -105.3167	Name: Colonia Benito Juarez	Count:3363
+514	Lat: 16.3333	Long: -94.3167	Name: Chicago	Count:82
+515	Lat: 16.4333	Long: -95.0167	Name: Juchitán de Zaragoza	Count:215
+516	Lat: 17.8167	Long: -92.675	Name: Lerdo de Tejada 2da. Seccion	Count:410
+517	Lat: 20.8652	Long: -101.041	Name: San Martin de Terreros	Count:1466
+518	Lat: 19.9169	Long: -99.5658	Name: Jilotepec	Count:164
+519	Lat: 19.2617	Long: -99.5353	Name: San Mateo Atenco	Count:276
+520	Lat: 31.7333	Long: -106.4833	Name: Ciudad Juárez	Count:26080
+521	Lat: 19.4124	Long: -99.2533	Name: Mexico City	Count:3651
+522	Lat: 32.5667	Long: -116.6333	Name: Tecate	Count:2922
+523	Lat: 21.2	Long: -86.7167	Name: Cancún	Count:779
+524	Lat: 21.2	Long: -102.4667	Name: Jalostotitlan	Count:840
+525	Lat: 19.6333	Long: -103.25	Name: Tamazula de Gordiano	Count:20
+526	Lat: 17.05	Long: -99.6167	Name: Colonia Guerrero (Los Guajes)	Count:523
+527	Lat: 17.05	Long: -96.7167	Name: Oaxaca	Count:18890
+528	Lat: 24.1167	Long: -110.3667	Name: La Paz	Count:553
+529	Lat: 17.4833	Long: -91.4333	Name: Tenosique de Pino Suarez	Count:164
+530	Lat: 19.3558	Long: -99.3011	Name: Cuajimalpa	Count:1456
+531	Lat: 18.7167	Long: -99.35	Name: Mazatepec	Count:215
+532	Lat: 18.7167	Long: -99.7833	Name: Zacualpan	Count:307
+533	Lat: 19.3167	Long: -99.25	Name: Mexico City	Count:338
+534	Lat: 19.3167	Long: -98.8833	Name: Ixtapaluca	Count:3825
+535	Lat: 19.3167	Long: -98.2667	Name: Panotla	Count:71
+536	Lat: 19.3167	Long: -98.1833	Name: Chiautempan	Count:215
+537	Lat: 18.9442	Long: -97.725	Name: San Mateo Tlaixpan	Count:1035
+538	Lat: 19.3835	Long: -99.1017	Name: Mexico City	Count:358
+539	Lat: 18.0333	Long: -92.9417	Name: Villahermosa	Count:112
+540	Lat: 25.5358	Long: -99.93	Name: Villa Vieja	Count:71
+541	Lat: 20.25	Long: -99.2	Name: Progreso de Alvaro Obregon	Count:1405
+542	Lat: 17.1333	Long: -96.7667	Name: Oaxaca	Count:215
+543	Lat: 17.1333	Long: -100.4667	Name: San Jeronimo de Juarez	Count:82
+544	Lat: 16.55	Long: -98.525	Name: Colonia Miguel Aleman Valdez	Count:1097
+545	Lat: 19.9833	Long: -102.2667	Name: Zamora	Count:4194
+546	Lat: 19.9833	Long: -102.7167	Name: Jiquilpan de Juarez	Count:164
+547	Lat: 19.9833	Long: -101.2833	Name: Huandacareo	Count:348
+548	Lat: 20.2597	Long: -99.1389	Name: Colonia Veracruz	Count:287
+549	Lat: 19.3333	Long: -103.6	Name: Cuauhtemoc	Count:1148
+550	Lat: 19.3333	Long: -99.1167	Name: Mexico City	Count:451
+551	Lat: 19.3333	Long: -99.6229	Name: Toluca	Count:133
+552	Lat: 19.3333	Long: -97.9667	Name: Colonia Cuauhtemoc	Count:153
+553	Lat: 19.3333	Long: -99.2167	Name: Olivar de los Padres	Count:676
+554	Lat: 18.8167	Long: -96.7167	Name: Cuitlahuac	Count:533
+555	Lat: 19.1287	Long: -97.8838	Name: El Rincon Citlaltepetl	Count:266
+556	Lat: 18.75	Long: -98.9833	Name: Ciudad Ayala	Count:533
+557	Lat: 20.8667	Long: -103.25	Name: Ixtlahuacan del Rio	Count:82
+558	Lat: 20.8667	Long: -88.6333	Name: Quintana Roo	Count:635
+559	Lat: 20.8667	Long: -89.2833	Name: Tahmek	Count:5414
+560	Lat: 19.4543	Long: -99.0975	Name: Mexico City	Count:697
+561	Lat: 19.51	Long: -99.1267	Name: Gustavo A. Madero	Count:892
+562	Lat: 25.3417	Long: -99.6962	Name: General Teran	Count:328
+563	Lat: 19.5544	Long: -99.6097	Name: Jiquipilco	Count:235
+564	Lat: 18.4833	Long: -99.2667	Name: Tilzapotla	Count:164
+565	Lat: 19.2883	Long: -99.6672	Name: Toluca	Count:61738
+566	Lat: 20.8333	Long: -86.8667	Name: Alfredo V. Bonfil	Count:1117
+567	Lat: 20.3167	Long: -100.55	Name: Jimenez	Count:389
+568	Lat: 19.18	Long: -99.3972	Name: Los Tejocotes	Count:2707
+569	Lat: 17.25	Long: -99.5667	Name: El Ocotito	Count:389
+570	Lat: 14.9333	Long: -92.3833	Name: San Pedro	Count:20
+571	Lat: 21.55	Long: -102.95	Name: El Salto	Count:697
+572	Lat: 25.85	Long: -108.45	Name: La Tapachula	Count:266
+573	Lat: 19.5583	Long: -99.2614	Name: Ciudad Lopez Mateos	Count:18634
+574	Lat: 22.2167	Long: -97.85	Name: Tampico Alto	Count:410
+575	Lat: 19.3767	Long: -99.1908	Name: Alvaro Obregon	Count:758
+576	Lat: 31	Long: -114.8667	Name: San Felipe	Count:235
+577	Lat: 19.3994	Long: -99.1667	Name: Mexico City	Count:2338
+578	Lat: 22.2667	Long: -101.9667	Name: Loreto	Count:533
+579	Lat: 22.2667	Long: -97.8333	Name: Ciudad Madero	Count:1128
+580	Lat: 32.6611	Long: -115.4011	Name: Flores Magon	Count:748
+581	Lat: 19.2	Long: -96.1333	Name: Veracruz	Count:69686
+582	Lat: 19.2	Long: -104.6833	Name: La Culebra (Colimilla)	Count:205
+583	Lat: 21.6333	Long: -102.9667	Name: Jalpa	Count:266
+584	Lat: 25.6833	Long: -100.25	Name: Guadalupe	Count:15332
+585	Lat: 25.6833	Long: -100.4667	Name: Santa Catarina	Count:5507
+586	Lat: 19.1764	Long: -98.1861	Name: Mazatecochco	Count:297
+587	Lat: 25.6667	Long: -100.4	Name: Garza Garcia	Count:186857
+588	Lat: 25.6667	Long: -108.6417	Name: Leyva Solano	Count:10
+589	Lat: 25.6667	Long: -100.3167	Name: Monterrey	Count:704551
+590	Lat: 25.6667	Long: -97.8333	Name: Valle Hermoso	Count:358
+591	Lat: 20.7167	Long: -100.45	Name: Santa Rosa Jauregui	Count:717
+592	Lat: 20.7167	Long: -103.4	Name: Zapopan	Count:213973
+593	Lat: 20.7167	Long: -97.3167	Name: Cazones de Herrera	Count:235
+594	Lat: 21.0539	Long: -101.6522	Name: León	Count:379
+595	Lat: 19.3611	Long: -99.2056	Name: Alvaro Obregon	Count:1661
+596	Lat: 17.2236	Long: -94.6333	Name: Miguel Aleman	Count:266
+597	Lat: 19.2153	Long: -98.2389	Name: Zacatelco	Count:379
+598	Lat: 30.95	Long: -110.3	Name: Cananea	Count:1363
+599	Lat: 26.3833	Long: -99.7667	Name: Los Garzas	Count:297
+600	Lat: 24.0333	Long: -104.6667	Name: Durango	Count:9332
+601	Lat: 23.7667	Long: -98.2167	Name: Soto la Marina	Count:420
+602	Lat: 32.3333	Long: -117.0333	Name: Rosarito	Count:1784
+603	Lat: 19.3508	Long: -99.1231	Name: Mexico City	Count:451
+604	Lat: 23.4167	Long: -99.3833	Name: Jaumave	Count:174
+605	Lat: 26.0833	Long: -98.2833	Name: Reynosa	Count:16060
+606	Lat: 22.1833	Long: -101.2667	Name: Ignacio Allende	Count:451
+607	Lat: 22.1833	Long: -101.0667	Name: San Luis Potosí	Count:3015
+608	Lat: 22.1833	Long: -101.2833	Name: Colonia Morelos	Count:3917
+609	Lat: 17.3583	Long: -92.7	Name: Quintana Roo	Count:246
+610	Lat: 21.2108	Long: -100.2119	Name: Victoria	Count:502
+611	Lat: 17.9583	Long: -102.2	Name: Lázaro Cárdenas	Count:2297
+612	Lat: 25.9833	Long: -98.1	Name: Rio Bravo	Count:830
+613	Lat: 24.1667	Long: -110.3	Name: La Paz	Count:12737
+614	Lat: 21.6756	Long: -100.9031	Name: La Loma del Tejocote (La Loma)	Count:276
+615	Lat: 22.0785	Long: -102.4683	Name: Aguascalientes	Count:430
+616	Lat: 25.8833	Long: -97.5	Name: Heroica Matamoros	Count:9055
+617	Lat: 27.5333	Long: -99.5	Name: Laredo	Count:102
+618	Lat: 21.2667	Long: -98.3	Name: Poza Rica Chacas	Count:3148
+619	Lat: 18.6	Long: -96.15	Name: La Isla	Count:143
+620	Lat: 18.6	Long: -99.1833	Name: Panchimalco	Count:574
+621	Lat: 18.6	Long: -98.4667	Name: Izucar de Matamoros	Count:1261
+622	Lat: 18.8667	Long: -99.1833	Name: Jiutepec	Count:8666
+623	Lat: 21.9167	Long: -102.4181	Name: Aguascalientes	Count:728
+624	Lat: 25.424	Long: -100.0617	Name: Monte Prieto	Count:246
+625	Lat: 20.6833	Long: -101.35	Name: Irapuato	Count:11999
+626	Lat: 20.6833	Long: -100.45	Name: Privada de los Portones [Fraccionamiento]	Count:276
+627	Lat: 20.6833	Long: -88.2	Name: Valladolid	Count:2266
+628	Lat: 18.7667	Long: -95.7667	Name: Heroica Alvarado	Count:605
+629	Lat: 19.385	Long: -99.165	Name: Colonia del Valle	Count:8132
+630	Lat: 19.3667	Long: -99.2	Name: Las Aguilas	Count:3015
+631	Lat: 19.3667	Long: -99.1333	Name: San Andres Tetepilco	Count:1640
+632	Lat: 19.3667	Long: -96.3667	Name: Jose Cardel	Count:358
+633	Lat: 19.3667	Long: -103.5833	Name: Queseria	Count:92
+634	Lat: 18.9	Long: -97	Name: Fortin de las Flores	Count:2030
+635	Lat: 18.9	Long: -100.15	Name: Tejupilco de Hidalgo	Count:10388
+636	Lat: 18.9	Long: -98.9833	Name: Ex-Hacienda Pantitlan	Count:307
+637	Lat: 18.9	Long: -99.7167	Name: Ixtlahuaca de Villada	Count:184
+638	Lat: 18.9	Long: -99.1667	Name: Jiutepec	Count:676
+639	Lat: 18.9	Long: -98.9667	Name: Oaxtepec	Count:1117
+640	Lat: 18.9	Long: -99.2167	Name: Chapultepec	Count:594
+641	Lat: 19.2306	Long: -99.0555	Name: Camino Real a San Pedro	Count:297
+642	Lat: 19.4153	Long: -99.5617	Name: Villa Cuauhtemoc Otzolotepec	Count:10
+643	Lat: 20.4167	Long: -100.75	Name: Rincon de Tamayo	Count:358
+644	Lat: 20.4167	Long: -100.3833	Name: Las Taponas	Count:440
+645	Lat: 29.0833	Long: -111.0333	Name: Hermosillo	Count:389
+646	Lat: 21.1833	Long: -86.8167	Name: Cancún	Count:1958
+647	Lat: 17.8417	Long: -92.7767	Name: Villahermosa	Count:502
+648	Lat: 25.2244	Long: -99.8377	Name: Montemorelos	Count:564
+649	Lat: 20.3336	Long: -101.4764	Name: San Cristobal	Count:10
+650	Lat: 24.3108	Long: -106.6028	Name: El Rio	Count:338
+651	Lat: 21.6917	Long: -105.1417	Name: La Guinea	Count:102
+652	Lat: 21.913	Long: -102.2917	Name: Aguascalientes	Count:399
+653	Lat: 19.6469	Long: -99.2467	Name: Cuautitlán Izcalli	Count:11619
+654	Lat: 22.0137	Long: -102.1952	Name: Aguascalientes	Count:123
+655	Lat: 17.6	Long: -92.8167	Name: Tacotalpa	Count:143
+656	Lat: 18.9167	Long: -99.25	Name: Cuernavaca	Count:35679
+657	Lat: 18.9167	Long: -97.7667	Name: San Salvador Huixcolotla	Count:133
+658	Lat: 18.9167	Long: -99.2333	Name: Cuernavaca	Count:287
+659	Lat: 19.6833	Long: -98.8667	Name: Teotihuacan de Arista	Count:235
+660	Lat: 19.6833	Long: -103.4833	Name: Ciudad Guzmán	Count:440
+661	Lat: 19.6833	Long: -100.5667	Name: Ciudad Hidalgo	Count:202876
+662	Lat: 20.8583	Long: -89.625	Name: Xmatkuil	Count:41
+663	Lat: 22.7833	Long: -102.5833	Name: Zacatecas	Count:7650
+664	Lat: 22.0354	Long: -102.2556	Name: El Cardonal [Fraccionamiento]	Count:1425
+665	Lat: 31.3167	Long: -113.5333	Name: Puerto Peñasco	Count:2830
+666	Lat: 20.95	Long: -97.4	Name: Tuxpan de Rodriguez Cano	Count:246
+667	Lat: 17.7667	Long: -92.6	Name: Macuspana	Count:1271
+668	Lat: 20.5189	Long: -101.3082	Name: Granja Onate	Count:1476
+669	Lat: 19.3	Long: -99.15	Name: Pedregal de Santa Ursula	Count:912
+670	Lat: 23.9	Long: -105.35	Name: Banderas del Aguila	Count:1087
+671	Lat: 14.9	Long: -92.2833	Name: Tapachula	Count:799
+672	Lat: 20.8386	Long: -101.4453	Name: Union de San Diego (San Dieguillo)	Count:615
+673	Lat: 17.9042	Long: -94.0958	Name: Las Choapas	Count:112
+674	Lat: 21.45	Long: -104.9	Name: Xalisco	Count:3322
+675	Lat: 19.8833	Long: -98.8167	Name: Tezontepec	Count:174
+676	Lat: 19.8833	Long: -97.5833	Name: Zacapoaxtla	Count:574
+677	Lat: 18.8	Long: -98.95	Name: Cuautla	Count:5322
+678	Lat: 18.8	Long: -97.9833	Name: Juarez	Count:512
+679	Lat: 18.8	Long: -97.1833	Name: Ciudad Mendoza	Count:266
+680	Lat: 18.8	Long: -99.2167	Name: Xochitepec	Count:861
+681	Lat: 19.4136	Long: -99.0331	Name: Ciudad Nezahualcoyotl	Count:19506
+682	Lat: 22.4	Long: -101.1167	Name: Colonia Emiliano Zapata (El Chamizal)	Count:164
+683	Lat: 22.4	Long: -97.9167	Name: Altamira	Count:553
+684	Lat: 18.9667	Long: -99.25	Name: Cuernavaca	Count:502
+685	Lat: 18.9667	Long: -99.6	Name: Tenancingo de Degollado	Count:492
+686	Lat: 18.9667	Long: -100.0167	Name: Rincon de los Trigos	Count:184
+687	Lat: 18.9667	Long: -98.4667	Name: Atlixco	Count:3527
+688	Lat: 18.9667	Long: -99.7833	Name: Zacatones (San Felipe de Jesus)	Count:225
+689	Lat: 18.9037	Long: -99.2123	Name: Cuernavaca	Count:430
+690	Lat: 19.7833	Long: -98.55	Name: Tepeapulco	Count:174
+691	Lat: 19.7833	Long: -101.1333	Name: Campestre Tarimbaro	Count:512
+692	Lat: 19.7833	Long: -103.1833	Name: Apatzingan	Count:246
+693	Lat: 19.4347	Long: -99.2181	Name: Mexico City	Count:892
+694	Lat: 20.5	Long: -100.1333	Name: Pedro Escobedo	Count:1835
+695	Lat: 19.6323	Long: -99.3248	Name: Nicolas Romero	Count:1107
+696	Lat: 19.4025	Long: -99.4947	Name: Santa Maria Zolotepec	Count:215
+697	Lat: 25.3667	Long: -108.3667	Name: Guamuchil	Count:820
+698	Lat: 25.3667	Long: -107.5167	Name: Badiraguato	Count:235
+699	Lat: 16.2333	Long: -97.3	Name: Santa Catarina Juquila	Count:338
+700	Lat: 30.4167	Long: -107.9167	Name: Nuevo Casas Grandes	Count:143
+701	Lat: 19.4667	Long: -103.3	Name: Tecalitlan	Count:523
+702	Lat: 19.4667	Long: -99.15	Name: Patrimonio	Count:1148
+703	Lat: 19.4667	Long: -99.1333	Name: Guadalupe Insurgentes	Count:512
+704	Lat: 19.4667	Long: -97.6833	Name: Libres	Count:256
+705	Lat: 19.4667	Long: -99.1833	Name: San Alvaro	Count:379
+706	Lat: 19.4667	Long: -99.1542	Name: Mexico City	Count:758
+707	Lat: 19.4667	Long: -99.1667	Name: Nueva Santa Maria	Count:2615
+708	Lat: 19.4667	Long: -99.0833	Name: San Juan de Aragon	Count:1804
+709	Lat: 19.0833	Long: -102.35	Name: Apatzingán	Count:1210
+710	Lat: 19.0833	Long: -97.85	Name: San Pedro la Joya	Count:6430
+711	Lat: 19.0833	Long: -98.2	Name: Puebla	Count:974
+712	Lat: 19.0833	Long: -98.2667	Name: Cuautlancingo	Count:1969
+713	Lat: 19.0833	Long: -100.0667	Name: La Albarrada (San Francisco la Albarrada)	Count:317
+714	Lat: 18.0667	Long: -94.4	Name: Villa Nanchital	Count:594
+715	Lat: 18.0667	Long: -93.1667	Name: Cunduacan	Count:1548
+716	Lat: 20.7405	Long: -103.4619	Name: Guadalajara	Count:307
+717	Lat: 19.3533	Long: -99.7321	Name: Fraccionamiento Colinas del Sol	Count:287
+718	Lat: 22.3986	Long: -105.4569	Name: Tecuala	Count:184
+719	Lat: 19	Long: -98.9833	Name: Tlalnepantla	Count:3927
+720	Lat: 20.6167	Long: -105.25	Name: Puerto Vallarta	Count:28828
+721	Lat: 20.6167	Long: -99.1167	Name: Cardonal	Count:215
+722	Lat: 20.6167	Long: -103.2333	Name: Tonala	Count:2922
+723	Lat: 20.6167	Long: -102.9333	Name: El Capulin	Count:1117
+724	Lat: 20.6167	Long: -100.3167	Name: Santiago de Queretaro	Count:194
+725	Lat: 20.6167	Long: -87.0667	Name: Playa del Carmen	Count:17137
+726	Lat: 20.6167	Long: -101.7167	Name: Gueramaro	Count:451
+727	Lat: 16.45	Long: -94.9667	Name: Juchitán de Zaragoza	Count:328
+728	Lat: 29.4333	Long: -110.35	Name: Ures	Count:30
+729	Lat: 18.7333	Long: -99.2167	Name: Ninguno [Centro de Readaptacion Social de Atlacholoaya]	Count:379
+730	Lat: 17.9667	Long: -94.7	Name: Jaltipan de Morelos	Count:482
+731	Lat: 20.5833	Long: -103.1	Name: Tepetongo	Count:635
+732	Lat: 17.5458	Long: -92.8	Name: Reforma (Madrigal 2da. Seccion)	Count:348
+733	Lat: 24.5167	Long: -104.7833	Name: Canatlan	Count:317
+734	Lat: 19.2817	Long: -99.0033	Name: Tlahuac	Count:923
+735	Lat: 17.5	Long: -99.4667	Name: Petaquillas	Count:430
+736	Lat: 22.35	Long: -103.2167	Name: Huejucar	Count:307
+737	Lat: 21.1167	Long: -101.6667	Name: León	Count:92967
+738	Lat: 19.1797	Long: -99.4706	Name: Santiago Tianguistenco	Count:215
+739	Lat: 19.2719	Long: -99.4589	Name: Ocoyoacac	Count:502
+740	Lat: 19.2719	Long: -99.5856	Name: Metepec	Count:205
+741	Lat: 19.2672	Long: -99.4883	Name: San Pedro Cholula	Count:2133
+742	Lat: 18.95	Long: -99.5	Name: Malinalco	Count:564
+743	Lat: 18.95	Long: -99.1167	Name: La Calera	Count:943
+744	Lat: 18.95	Long: -99.2333	Name: Cuernavaca	Count:2902
+745	Lat: 18.95	Long: -98.9333	Name: Colonia Jerico	Count:235
+746	Lat: 18.95	Long: -99.0833	Name: Tehuixcorral (Colonia San Martin Caballero)	Count:656
+747	Lat: 18.95	Long: -99.5833	Name: Pueblo Nuevo	Count:892
+748	Lat: 22.3833	Long: -105.3333	Name: Amado Nervo	Count:51
+749	Lat: 27.9333	Long: -110.9	Name: Guaymas	Count:625
+750	Lat: 21.3	Long: -100.5167	Name: San Luis de la Paz	Count:246
+751	Lat: 21.2333	Long: -100.6	Name: Las Delicias	Count:1322
+752	Lat: 21.2333	Long: -104.9167	Name: Compostela	Count:123
+753	Lat: 19.5292	Long: -98.1962	Name: Rancho Xalnene	Count:615
+754	Lat: 19.1458	Long: -99.6472	Name: Noxtepec de Zaragoza (El Aguacate)	Count:523
+755	Lat: 19.45	Long: -99.1	Name: Fernando Casas Aleman	Count:533
+756	Lat: 19.45	Long: -99.1167	Name: Belisario Dominguez	Count:1517
+757	Lat: 19.45	Long: -96.9667	Name: Coatepec	Count:738
+758	Lat: 21.8833	Long: -102.3	Name: Aguascalientes	Count:41001
+759	Lat: 20.8	Long: -100.05	Name: Colon	Count:328
+760	Lat: 20.8	Long: -98.8333	Name: Juarez	Count:2133
+761	Lat: 23.7333	Long: -99.1333	Name: Ciudad Victoria	Count:1856
+762	Lat: 20.9667	Long: -89.6167	Name: Mérida	Count:77881
+763	Lat: 23.5833	Long: -100.3833	Name: San Pedro de Nolasco	Count:1722
+764	Lat: 19.3669	Long: -99.1156	Name: Mexico City	Count:102
+765	Lat: 25.7833	Long: -100.05	Name: Pesqueria	Count:358
+766	Lat: 25.0369	Long: -111.6644	Name: Ciudad Constitucion	Count:297
+767	Lat: 15.25	Long: -92.75	Name: Mariano Matamoros	Count:276
+768	Lat: 21.35	Long: -101.9167	Name: Lagos de Moreno	Count:738
+769	Lat: 18.925	Long: -99.2167	Name: Cuernavaca	Count:2071
+770	Lat: 18.9444	Long: -99.2667	Name: Cuernavaca	Count:2481
+771	Lat: 25.8333	Long: -108.2333	Name: Sinaloa de Leyva	Count:276
+772	Lat: 19.5261	Long: -99.3442	Name: Mexico City	Count:287
+773	Lat: 19.5325	Long: -99.2931	Name: Naucalpan	Count:1066
+774	Lat: 18.6092	Long: -96.6917	Name: Tezonapa	Count:235
+775	Lat: 19.6583	Long: -97.6569	Name: Ocopipila	Count:256
+776	Lat: 20.625	Long: -101.4411	Name: Irapuato	Count:184
+777	Lat: 21.0167	Long: -102.35	Name: Llano de los Conejos	Count:584
+778	Lat: 21.0167	Long: -101.85	Name: San Francisco del Rincón	Count:717
+779	Lat: 21.0167	Long: -101.25	Name: Guanajuato	Count:17701
+780	Lat: 21.0167	Long: -89.8667	Name: Hunucma	Count:451
+781	Lat: 21.0167	Long: -86.9313	Name: Cancún	Count:33823
+782	Lat: 21.0167	Long: -89.5833	Name: Vista Alegre	Count:758
+783	Lat: 19.285	Long: -99.5156	Name: Lerma	Count:2492
+784	Lat: 18.85	Long: -97.1	Name: Orizaba	Count:3333
+785	Lat: 18.85	Long: -98.95	Name: Cuautla	Count:246
+786	Lat: 18.85	Long: -99.2333	Name: Temixco	Count:3199
+787	Lat: 18.85	Long: -99.0556	Name: Ampliacion Lomas del Real	Count:523
+788	Lat: 18.6167	Long: -100.1833	Name: Colonia Benito Juarez	Count:256
+789	Lat: 18.6167	Long: -95.6667	Name: Tlacotalpan	Count:71
+790	Lat: 18.6167	Long: -99.1833	Name: Jojutla	Count:1507
+791	Lat: 18.6167	Long: -99.3	Name: Puente de Ixtla	Count:215
+792	Lat: 18.6167	Long: -100.1167	Name: El Coyol	Count:317
+793	Lat: 19.7989	Long: -99.8744	Name: Atlacomulco	Count:953
+794	Lat: 22.1667	Long: -100.75	Name: San Luis Potosí	Count:164
+795	Lat: 22.1667	Long: -101.95	Name: Villa Garcia	Count:348
+796	Lat: 32.4631	Long: -114.7767	Name: San Luis Río Colorado	Count:1117
+797	Lat: 19.5917	Long: -98.9167	Name: Tezoyuca	Count:635
+798	Lat: 20.7625	Long: -105.2333	Name: San Jose del Valle	Count:420
+799	Lat: 19.2083	Long: -103.7528	Name: Selene	Count:194
+800	Lat: 19.4875	Long: -99.15	Name: Mexico City	Count:5507
+801	Lat: 19.4889	Long: -99.1836	Name: Azcapotzalco	Count:2492
+802	Lat: 19.4794	Long: -99.2383	Name: Naucalpan	Count:32479
+803	Lat: 19.1167	Long: -98.7667	Name: Amecameca de Juarez	Count:902
+804	Lat: 19.1167	Long: -104.3931	Name: Sierra Madre	Count:246
+805	Lat: 18.65	Long: -99.2	Name: Zacatepec	Count:1005
+806	Lat: 20.6667	Long: -103.7	Name: Tala	Count:1148
+807	Lat: 20.6667	Long: -99.8833	Name: Ezequiel Montes	Count:738
+808	Lat: 20.6667	Long: -103.4833	Name: El Colli	Count:266
+809	Lat: 20.6667	Long: -103.3333	Name: Guadalajara	Count:300397
+810	Lat: 25.7167	Long: -100.3167	Name: Topo Chico	Count:51
+811	Lat: 25.7167	Long: -103.2833	Name: Nuevo Leon	Count:2328
+812	Lat: 20.2014	Long: -100.0792	Name: La Cruz	Count:420
+813	Lat: 28.8333	Long: -111.9333	Name: Bahia de Kino	Count:502
+814	Lat: 21.9333	Long: -102.7	Name: La Primavera	Count:266
+815	Lat: 31.3	Long: -109.5667	Name: Agua Prieta	Count:892
+816	Lat: 19.6472	Long: -99.1708	Name: Tultitlan	Count:9260
+817	Lat: 19.3511	Long: -99.0519	Name: Iztapalapa	Count:6081
+818	Lat: 29.0667	Long: -110.9667	Name: Hermosillo	Count:66333
+819	Lat: 20.3649	Long: -103.2623	Name: Ixtlahuacan de los Membrillos	Count:266
+820	Lat: 17.85	Long: -93.3833	Name: Huimanguillo	Count:153
+821	Lat: 21.15	Long: -88.15	Name: Tizimín	Count:451
+822	Lat: 19.1667	Long: -90.8	Name: Morelos	Count:338
+823	Lat: 19.1667	Long: -103.9167	Name: Pueblo Juarez (La Magdalena)	Count:20470
+824	Lat: 19.2305	Long: -99.1886	Name: Carretera al Ajusco II	Count:410
+825	Lat: 24.9086	Long: -107.5942	Name: Tamaulipas	Count:112
+826	Lat: 19.2206	Long: -99.2047	Name: Mexico City	Count:2707
+827	Lat: 27.2	Long: -107.9333	Name: Manzanillo	Count:2451
+828	Lat: 19.3412	Long: -99.1487	Name: Coyoacán	Count:4502
+829	Lat: 17.5167	Long: -92.925	Name: San Jose Puyacatengo (Chapingo)	Count:215
+830	Lat: 17.5167	Long: -101.2667	Name: Petatlan	Count:164
+831	Lat: 17.5167	Long: -93.0667	Name: Pichucalco	Count:276
+832	Lat: 19.05	Long: -98.3	Name: San Andres Cholula	Count:3681
+833	Lat: 19.05	Long: -98.2	Name: Puebla	Count:137927
+834	Lat: 21.0083	Long: -88.9065	Name: Izamal	Count:584
+835	Lat: 17.6667	Long: -101.65	Name: Ixtapa	Count:174
+836	Lat: 19.0658	Long: -98.1014	Name: Santa Maria Xonacatepec	Count:492
+837	Lat: 19.6718	Long: -99.1281	Name: Tultepec	Count:543
+838	Lat: 21.8861	Long: -105.1259	Name: Estacion Ruiz	Count:164
+839	Lat: 19.3289	Long: -99.1603	Name: Coyoacán	Count:2656
+840	Lat: 19.3601	Long: -99.1062	Name: Mexico City	Count:666
+841	Lat: 14.55	Long: -92.2167	Name: Suchiate	Count:399
+842	Lat: 19.7978	Long: -99.1017	Name: Zumpango	Count:1907
+843	Lat: 18.55	Long: -99.6	Name: Taxco	Count:1558
+844	Lat: 20.5083	Long: -86.9458	Name: San Miguel de Cozumel	Count:14850
+845	Lat: 22.15	Long: -102.25	Name: Pabellon de Arteaga	Count:153
+846	Lat: 22.15	Long: -100.9833	Name: San Luis Potosí	Count:25782
+847	Lat: 17.9833	Long: -93.3667	Name: Cardenas	Count:1846
+848	Lat: 17.9833	Long: -94.5167	Name: Minatitlán	Count:912
+849	Lat: 17.9833	Long: -92.9167	Name: Villahermosa	Count:27126
+850	Lat: 16.1667	Long: -95.2	Name: Salina Cruz	Count:276
+851	Lat: 17.4333	Long: -95.0333	Name: Jesus Carranza	Count:164
+852	Lat: 18.8889	Long: -99.2361	Name: Cuernavaca	Count:1722
+853	Lat: 21.2125	Long: -87.7417	Name: Yucatan	Count:1599
+854	Lat: 19.5333	Long: -98.8833	Name: Chiautla	Count:297
+855	Lat: 19.5333	Long: -99.2167	Name: La Loma	Count:20
+856	Lat: 19.5333	Long: -99.1667	Name: Santa Rosa	Count:933
+857	Lat: 19.5333	Long: -96.9167	Name: Xalapa	Count:19906
+858	Lat: 20.75	Long: -89.4667	Name: Yaxcopoil	Count:194
+859	Lat: 20.75	Long: -105.3333	Name: Bucerias	Count:389
+860	Lat: 20.75	Long: -103.2833	Name: Atemajac	Count:420
+861	Lat: 32.6119	Long: -115.4681	Name: Mexicali	Count:1394
+862	Lat: 18.6333	Long: -99.1667	Name: Tlaquiltenango	Count:1671
+863	Lat: 18.6333	Long: -91.8333	Name: Ciudad del Carmen	Count:5179
+864	Lat: 19.2689	Long: -99.6964	Name: Toluca	Count:2707
+865	Lat: 20.1081	Long: -98.8981	Name: San Agustin Tlaxiaca	Count:297
+866	Lat: 25.1167	Long: -100.4667	Name: Estados Unidos	Count:235
+867	Lat: 19.7167	Long: -98.4167	Name: Apan	Count:317
+868	Lat: 19.4197	Long: -99.2426	Name: Mexico City	Count:317
+869	Lat: 19.4197	Long: -99.4977	Name: Santa Maria Zolotepec	Count:276
+870	Lat: 18.8333	Long: -96.8	Name: Yanga	Count:205
+871	Lat: 18.8333	Long: -97.15	Name: Rio Blanco	Count:338
+872	Lat: 18.8333	Long: -99.6833	Name: Ixtapan de la Sal	Count:543
+873	Lat: 18.8333	Long: -99.1833	Name: Emiliano Zapata	Count:1425
+874	Lat: 21.4858	Long: -104.8583	Name: Tepic	Count:61
+875	Lat: 32.4333	Long: -117.0167	Name: Porticos de San Antonio	Count:553
+876	Lat: 19.25	Long: -99.55	Name: Atizapan	Count:943
+877	Lat: 19.25	Long: -103.7333	Name: Ciudad de Villa de Alvarez	Count:1076
+878	Lat: 26.9	Long: -101.4167	Name: Monclova	Count:338
+879	Lat: 16.7	Long: -93	Name: Chiapa de Corzo	Count:102
+880	Lat: 19.3733	Long: -99.225	Name: Alvaro Obregon Borough	Count:3158
+881	Lat: 20.7252	Long: -100.0699	Name: Ajuchitlan	Count:984
+882	Lat: 19.2531	Long: -99.1747	Name: Mexico City	Count:235
+883	Lat: 18.9833	Long: -99.1	Name: Tepoztlan	Count:1343
+884	Lat: 18.9833	Long: -97.7833	Name: Acatzingo de Hidalgo	Count:348
+885	Lat: 16.2167	Long: -93.9472	Name: Azteca	Count:205
+886	Lat: 20.3333	Long: -102.3	Name: Yurecuaro	Count:153
+887	Lat: 20.3333	Long: -104.5	Name: El Salto	Count:553
+888	Lat: 21.8167	Long: -102.3	Name: San Francisco	Count:410
+889	Lat: 21.8167	Long: -105.2167	Name: Santiago Ixcuintla	Count:92
+890	Lat: 21.8667	Long: -102.2292	Name: Loma Alta el Paraiso	Count:523
+891	Lat: 21.8667	Long: -101.5833	Name: Ojuelos de Jalisco	Count:205
+892	Lat: 17.2	Long: -93	Name: Rayon	Count:256
+893	Lat: 17.2	Long: -100.4333	Name: Atoyac de Alvarez	Count:297
+894	Lat: 20.4597	Long: -100.7942	Name: La Cruz	Count:307
+895	Lat: 23.6333	Long: -103.65	Name: Sombrerete	Count:471
+896	Lat: 23.6333	Long: -99.9667	Name: El Carmen	Count:256
+897	Lat: 19.4708	Long: -99.5911	Name: Colonia Emiliano Zapata (Ejido Santiago Temoaya)	Count:164
+898	Lat: 18.8722	Long: -99.1632	Name: Ampliacion las Fuentes	Count:194
+899	Lat: 21.4833	Long: -101.5333	Name: El Torreon	Count:11209
+900	Lat: 19.2994	Long: -99.2544	Name: Mexico City	Count:1804
+901	Lat: 21.8333	Long: -102.3042	Name: Aguascalientes	Count:256
+902	Lat: 23.3167	Long: -104	Name: Tonala	Count:164
+903	Lat: 25.7667	Long: -100.2	Name: Apodaca	Count:14737
+904	Lat: 25.7667	Long: -108.9667	Name: Los Mochis	Count:5845
+905	Lat: 16.25	Long: -92.1333	Name: Comitán	Count:379
+906	Lat: 19.7	Long: -98.75	Name: Ejido de Otumba (Loma Bonita)	Count:205
+907	Lat: 19.7	Long: -98.4	Name: Almoloya	Count:266
+908	Lat: 19.7	Long: -101.1167	Name: Morelia	Count:30356
+909	Lat: 19.7	Long: -88.7667	Name: Benito Juarez	Count:246
+910	Lat: 19.7	Long: -102.5333	Name: Tocumbo	Count:615
+911	Lat: 20.55	Long: -105.25	Name: Puerto Vallarta	Count:317
+912	Lat: 20.55	Long: -103.45	Name: Santa Anita	Count:317
+913	Lat: 20.55	Long: -97.45	Name: Poza Rica de Hidalgo	Count:225
+914	Lat: 20.55	Long: -102.5167	Name: Atotonilco el Alto	Count:594
+915	Lat: 20.55	Long: -100.4389	Name: Emiliano Zapata	Count:430
+916	Lat: 20.55	Long: -104.0333	Name: Ameca	Count:307
+917	Lat: 20.55	Long: -100.7833	Name: San Martin de Camargo	Count:881
+918	Lat: 19.3105	Long: -99.1528	Name: Tlalpan	Count:717
+919	Lat: 23.2167	Long: -106.4167	Name: Mazatlán	Count:10922
+920	Lat: 17.9083	Long: -91.7583	Name: Santa Rosa	Count:41
+921	Lat: 27.8833	Long: -101.5167	Name: Melchor Muzquiz	Count:235
+922	Lat: 25.5333	Long: -100.0833	Name: Campestre el Sauz	Count:235
+923	Lat: 20.6	Long: -100.2028	Name: Santiago de Queretaro	Count:184
+924	Lat: 20.6	Long: -103.3833	Name: Nueva Espana	Count:728
+925	Lat: 20.6	Long: -100.3833	Name: Santiago de Queretaro	Count:144440
+926	Lat: 30.4	Long: -109.65	Name: Nacozari Viejo	Count:287
+927	Lat: 18.9139	Long: -103.9056	Name: Tecoman	Count:461
+928	Lat: 21.1292	Long: -101.5942	Name: León	Count:410
+929	Lat: 23.9167	Long: -106.9	Name: La Cruz	Count:307
+930	Lat: 23.9167	Long: -99.2833	Name: Fuerte de Portes Gil	Count:1435
+931	Lat: 20.6333	Long: -103.0667	Name: Zapotlanejo	Count:1210
+932	Lat: 25.5833	Long: -108.3	Name: Norotios Cuba	Count:10
+933	Lat: 25.5833	Long: -99.9833	Name: Cadereyta	Count:1528
+934	Lat: 25.5833	Long: -99.9333	Name: Cadereyta	Count:348
+935	Lat: 21.7167	Long: -103.45	Name: Tlaltenango de Sanchez Roman	Count:307
+936	Lat: 20.3972	Long: -101.1211	Name: Villadiego	Count:266
+937	Lat: 21.8597	Long: -102.5556	Name: Aguascalientes	Count:451
+938	Lat: 28.5	Long: -106.75	Name: Anahuac	Count:276
+939	Lat: 25.3833	Long: -101	Name: Arizpe	Count:235
+940	Lat: 21.8958	Long: -104.9792	Name: La Limonera (Las Higueras)	Count:133
+941	Lat: 18.1	Long: -96.1167	Name: San Juan Bautista Tuxtla	Count:564
+942	Lat: 19.8489	Long: -99.2042	Name: Huehuetoca	Count:769
+943	Lat: 22.4167	Long: -102.6167	Name: Boquilla del Carmen	Count:51
+944	Lat: 22.4167	Long: -102.2833	Name: Luis Moya	Count:194
+945	Lat: 25.55	Long: -100.2	Name: Monterrey	Count:266
+946	Lat: 25.55	Long: -103.4333	Name: Torreón	Count:32592
+947	Lat: 25.55	Long: -100.9667	Name: Ramos Arizpe	Count:153
+948	Lat: 24.9833	Long: -100.3333	Name: San Francisco Javier	Count:307
+949	Lat: 21.2833	Long: -89.6667	Name: Progreso	Count:440
+950	Lat: 19.2828	Long: -99.6264	Name: Toluca	Count:1753
+951	Lat: 20.7236	Long: -99.1417	Name: Iglesia Vieja	Count:235
+952	Lat: 20.8802	Long: -100.8941	Name: San Miguel de Allende	Count:379
+953	Lat: 18.9083	Long: -99.2333	Name: Cuernavaca	Count:1189
+954	Lat: 17.9792	Long: -92.4771	Name: Jose Colomo	Count:523
+955	Lat: 20.7121	Long: -101.0877	Name: Salamanca	Count:666
+956	Lat: 20.7618	Long: -100.0785	Name: Los Quiotes (San Jose los Quiotes)	Count:430
+957	Lat: 18.2667	Long: -93.2167	Name: Comalcalco	Count:1261
+958	Lat: 19.6656	Long: -99.3383	Name: Nicolas Romero	Count:235
+959	Lat: 19.8667	Long: -100.25	Name: Santo Nino (Santa Ana)	Count:266
+960	Lat: 19.8667	Long: -100.8167	Name: Zinapecuaro	Count:605
+961	Lat: 19.8667	Long: -90.4667	Name: Campeche	Count:523
+962	Lat: 19.4	Long: -99.15	Name: Portales	Count:3999
+963	Lat: 19.4	Long: -96.35	Name: Ursulo Galvan	Count:287
+964	Lat: 19.4	Long: -99.2333	Name: Lomas Reforma	Count:10
+965	Lat: 19.4	Long: -99.0833	Name: Colonia Agricola Oriental	Count:820
+966	Lat: 19.4	Long: -99.1	Name: San Pedro	Count:748
+967	Lat: 19.4	Long: -99.1333	Name: Viaducto Piedad	Count:256
+968	Lat: 19.4	Long: -99.2	Name: Jose Maria Pino Suarez	Count:3035
+969	Lat: 19.4	Long: -99.35	Name: Mexico City	Count:1302
+970	Lat: 19.4	Long: -100.3667	Name: Heroica Zitacuaro	Count:1794
+971	Lat: 20.9167	Long: -89.35	Name: Mérida	Count:1928
+972	Lat: 20.9167	Long: -100.75	Name: San Miguel de Allende	Count:4327
+973	Lat: 19.4786	Long: -99.0958	Name: Gustavo A. Madero Borough	Count:1025
+974	Lat: 19.3208	Long: -99.1333	Name: Mexico City	Count:964
+975	Lat: 19.3294	Long: -99.0472	Name: Iztapalapa	Count:205
+976	Lat: 27.4833	Long: -109.9333	Name: Ciudad Obregón	Count:18019
+977	Lat: 19.7667	Long: -101.75	Name: Tirindaro	Count:174
+978	Lat: 19.7667	Long: -104.3667	Name: Autlan de Navarro	Count:317
+979	Lat: 19.7667	Long: -97.2333	Name: Altotonga	Count:697
+980	Lat: 19.7667	Long: -98.5833	Name: Ciudad Sahagun	Count:574

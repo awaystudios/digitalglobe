@@ -1,0 +1,30 @@
+App Ver Beta 003
+--------------------
+
+Demos:
+http://www.brondbjerg.co.uk/demos/AwayMobile/003/
+http://www.brondbjerg.co.uk/demos/AwayMobile/003/AwayMobile.zip
+
+Key changes are:
+
+Loading JSON files
+_app/data/countries.json
+_app/data/vendors.json
+
+I'm now passing the globe: handsetChange() & globe: viewChange() the index value of the item in the JSON file.
+("Global View" is -1)
+Let me know if this is correct or if you want a text label?
+
+JSON data is populating the dropdowns
+
+Timeline scrubber is now up & running (inc for touch devices) and streaming values (0.0 to 1.0) on mouseMove.
+Again let me know if you want a different range of values, and if you just want the change event from the scrubber to happen onRelease (rather than constant). 
+
+Loading of assets on screen is better managed, so no little loading jerks.
+
+The app is outputting lot's of console.log... if you want to switch that off then in index.html, change the "debug" param:
+App.init(true, "_app/data/"); 
+
+to
+
+App.init(false, "_app/data/");

@@ -1,0 +1,254 @@
+Locations in Philippines
+0	Lat: 14.1408	Long: 120.8539	Name: Alfonso	Count:10
+1	Lat: 6.9503	Long: 125.7328	Name: Fernandez	Count:10276
+2	Lat: 15.0936	Long: 120.812	Name: Pasig	Count:2266
+3	Lat: 13.2756	Long: 121.9017	Name: Antipolo	Count:6430
+4	Lat: 10.6	Long: 123.0333	Name: Blumentritt	Count:5261
+5	Lat: 14.5786	Long: 121.1222	Name: Cainta	Count:25854
+6	Lat: 14.6669	Long: 120.94	Name: Manila	Count:1179
+7	Lat: 14.9593	Long: 120.8993	Name: Bagong Nayon	Count:574
+8	Lat: 14.3595	Long: 121.0473	Name: San Pedro	Count:24490
+9	Lat: 14.7979	Long: 120.9234	Name: Bocaue	Count:451
+10	Lat: 6.5031	Long: 124.8469	Name: Koronadal	Count:3015
+11	Lat: 18.052	Long: 120.6898	Name: Marcos	Count:10
+12	Lat: 14.1698	Long: 120.9218	Name: Amadeo	Count:41
+13	Lat: 10.3103	Long: 123.9494	Name: Lapu-Lapu City	Count:7096
+14	Lat: 14.7915	Long: 120.8795	Name: Bulacan	Count:5015
+15	Lat: 17.7226	Long: 121.6803	Name: Bauan	Count:20
+16	Lat: 14.7368	Long: 120.9606	Name: Meycauayan	Count:26562
+17	Lat: 6.7041	Long: 126.088	Name: La Union	Count:41
+18	Lat: 15.7118	Long: 121.1061	Name: Rizal	Count:112
+19	Lat: 14.6975	Long: 121.0878	Name: Capitol	Count:1179
+20	Lat: 15.3069	Long: 120.7029	Name: Cafe	Count:51
+21	Lat: 14.6761	Long: 120.5361	Name: Balanga	Count:3107
+22	Lat: 14.4443	Long: 120.9016	Name: Kawit	Count:553
+23	Lat: 16.4172	Long: 120.591	Name: Baguio City	Count:26869
+24	Lat: 13.6633	Long: 123.2892	Name: Carolinas	Count:605
+25	Lat: 12.9708	Long: 124.0053	Name: Sorsogon	Count:451
+26	Lat: 17.6158	Long: 121.7228	Name: Tuguegarao City	Count:482
+27	Lat: 14.5501	Long: 121.036	Name: Makati City	Count:626270
+28	Lat: 10.0984	Long: 122.8705	Name: Himamaylan	Count:881
+29	Lat: 16.3887	Long: 121.077	Name: Balungao	Count:2112
+30	Lat: 15.5723	Long: 120.6835	Name: San Fernando	Count:4030
+31	Lat: 14.8235	Long: 120.9048	Name: Balagtas	Count:1240
+32	Lat: 14.4361	Long: 120.4857	Name: Mariveles	Count:6358
+33	Lat: 14.6211	Long: 121.0703	Name: Marilag	Count:1866
+34	Lat: 15.1423	Long: 120.9757	Name: San Miguel	Count:10
+35	Lat: 14.6214	Long: 121.0506	Name: Cubao	Count:10
+36	Lat: 9.6531	Long: 124.3697	Name: Jagna	Count:492
+37	Lat: 8.1481	Long: 123.8405	Name: Ozamiz City	Count:1405
+38	Lat: 14.4996	Long: 121.0507	Name: Upper Bicutan	Count:738
+39	Lat: 10.5208	Long: 119.9258	Name: Osmena	Count:20
+40	Lat: 8.4811	Long: 124.6431	Name: Cagayan de Oro	Count:39268
+41	Lat: 14.4297	Long: 120.9367	Name: Imus	Count:12727
+42	Lat: 14.6333	Long: 121.05	Name: Caloocan	Count:10060
+43	Lat: 10.9015	Long: 123.0705	Name: Victorias City	Count:1107
+44	Lat: 14.6757	Long: 121.0336	Name: Tandang Sora	Count:4297
+45	Lat: 14.3294	Long: 120.9367	Name: Dasmarinas	Count:26367
+46	Lat: 6.6608	Long: 122.1408	Name: Lamitan	Count:523
+47	Lat: 14.5701	Long: 121.0254	Name: Valenzuela	Count:7271
+48	Lat: 14.1263	Long: 121.4407	Name: Novaliches	Count:348
+49	Lat: 8.6561	Long: 123.4227	Name: Dapitan	Count:112
+50	Lat: 12.0668	Long: 124.5962	Name: Calbayog City	Count:1148
+51	Lat: 14.4167	Long: 121.2268	Name: Navotas	Count:5845
+52	Lat: 7.3081	Long: 125.6842	Name: Panabo	Count:174
+53	Lat: 14.6809	Long: 121.0673	Name: Pasong Tamo	Count:19947
+54	Lat: 14.5434	Long: 121.0691	Name: Poblacion	Count:1425
+55	Lat: 16.0435	Long: 120.3397	Name: Dagupan	Count:3117
+56	Lat: 8.2308	Long: 124.2361	Name: Iligan	Count:9917
+57	Lat: 10.0989	Long: 124.1297	Name: Cruz	Count:20
+58	Lat: 10.3111	Long: 123.8917	Name: Cebu City	Count:186272
+59	Lat: 15.9761	Long: 120.5711	Name: Province of Pangasinan	Count:2307
+60	Lat: 13.9411	Long: 121.1631	Name: Lipa City	Count:6245
+61	Lat: 14.0914	Long: 120.9769	Name: Caloocan	Count:3681
+62	Lat: 14.8003	Long: 120.5288	Name: Bayan	Count:4922
+63	Lat: 7.5092	Long: 125.9189	Name: Tagum	Count:389
+64	Lat: 14.4506	Long: 120.9828	Name: Las Pinas	Count:143947
+65	Lat: 11.8221	Long: 122.1088	Name: Aquino	Count:10
+66	Lat: 13.9348	Long: 121.6127	Name: Lucena City	Count:5999
+67	Lat: 13.9311	Long: 121.4233	Name: Candelaria	Count:851
+68	Lat: 15.8089	Long: 120.3455	Name: Real	Count:1220
+69	Lat: 10.2444	Long: 123.8473	Name: Talisay City	Count:7589
+70	Lat: 14.8389	Long: 120.2851	Name: Olongapo City	Count:17116
+71	Lat: 16.9367	Long: 121.773	Name: Cauayan	Count:1322
+72	Lat: 14.4216	Long: 121.4463	Name: Siniloan	Count:102
+73	Lat: 14.2814	Long: 121.4161	Name: Santa Cruz	Count:2163
+74	Lat: 14.5562	Long: 121.0177	Name: Manila	Count:30
+75	Lat: 7.2236	Long: 124.2464	Name: Cotabato City	Count:912
+76	Lat: 17.7931	Long: 120.4578	Name: Cabugao	Count:605
+77	Lat: 15.3832	Long: 120.5925	Name: China	Count:71
+78	Lat: 14.5604	Long: 121.0812	Name: Manila	Count:57503
+79	Lat: 14.6	Long: 121.0333	Name: San Juan	Count:1010927
+80	Lat: 14.9562	Long: 120.9169	Name: Bustos	Count:1138
+81	Lat: 10.3236	Long: 123.9222	Name: Mandaue City	Count:5784
+82	Lat: 15.7923	Long: 120.9894	Name: San Jose	Count:8071
+83	Lat: 15.0247	Long: 120.9521	Name: Diliman Primero	Count:24777
+84	Lat: 9.307	Long: 123.3074	Name: Dumaguete City	Count:1887
+85	Lat: 14.7314	Long: 121.1417	Name: Rodriguez	Count:399
+86	Lat: 14.2211	Long: 121.0369	Name: Silang	Count:820
+87	Lat: 14.595	Long: 121.0775	Name: Ugong Norte	Count:2830
+88	Lat: 14.7222	Long: 120.5383	Name: Abucay	Count:564
+89	Lat: 14.4135	Long: 121.0263	Name: Muntinlupa	Count:75871
+90	Lat: 11.5853	Long: 122.7511	Name: Roxas City	Count:75871
+91	Lat: 14.61	Long: 121.0976	Name: Manila	Count:26726
+92	Lat: 17.1941	Long: 120.4466	Name: Candon	Count:71
+93	Lat: 15.1406	Long: 120.591	Name: 	Count:13650
+94	Lat: 7.11	Long: 125.6489	Name: Pampanga	Count:31710
+95	Lat: 10.3773	Long: 123.6386	Name: Toledo City	Count:1333
+96	Lat: 13.4117	Long: 121.1803	Name: Calapan	Count:276
+97	Lat: 15.4802	Long: 120.5979	Name: Tarlac City	Count:88003
+98	Lat: 14.486	Long: 121.2289	Name: Cardona	Count:14101
+99	Lat: 15.8884	Long: 120.2378	Name: Aguilar	Count:10
+100	Lat: 14.1095	Long: 121.3913	Name: Rizal	Count:1528
+101	Lat: 6.1333	Long: 120.9833	Name: Pagasinan	Count:10
+102	Lat: 15.147	Long: 120.5889	Name: Angeles City	Count:24869
+103	Lat: 15.7476	Long: 120.5844	Name: Salle	Count:20
+104	Lat: 14.2117	Long: 121.1653	Name: Province of Laguna	Count:82
+105	Lat: 14.1788	Long: 121.2419	Name: Los Banos	Count:8563
+106	Lat: 14.2637	Long: 121.0526	Name: Binan	Count:13229
+107	Lat: 15.4859	Long: 120.9665	Name: Cabanatuan City	Count:4861
+108	Lat: 13.9486	Long: 120.9401	Name: Subic	Count:297
+109	Lat: 14.3056	Long: 121.1107	Name: Santa Rosa	Count:6686
+110	Lat: 9.6556	Long: 123.8522	Name: Tagbilaran City	Count:1281
+111	Lat: 13.8799	Long: 120.9231	Name: Taal	Count:1025
+112	Lat: 13.45	Long: 123.6667	Name: Bagumbayan	Count:8481
+113	Lat: 14.8477	Long: 120.359	Name: Roosevelt	Count:24941
+114	Lat: 15.3453	Long: 121.0747	Name: Pias	Count:1117
+115	Lat: 15.6361	Long: 119.9379	Name: Malabon	Count:102
+116	Lat: 14.4193	Long: 121.0488	Name: Alabang	Count:143
+117	Lat: 15.2155	Long: 120.578	Name: Mabalacat	Count:430
+118	Lat: 10.2447	Long: 123.8494	Name: Province of Cebu	Count:164
+119	Lat: 16.1547	Long: 119.9805	Name: Alaminos	Count:676
+120	Lat: 10.3	Long: 123.8833	Name: Laguna	Count:10
+121	Lat: 11.2433	Long: 125.0047	Name: Tacloban City	Count:953
+122	Lat: 13.4549	Long: 123.3653	Name: Baao	Count:2194
+123	Lat: 14.4837	Long: 120.8988	Name: Cavite City	Count:37658
+124	Lat: 14.9285	Long: 121.03	Name: Angat	Count:1374
+125	Lat: 12.531	Long: 123.7323	Name: Interior	Count:164
+126	Lat: 14.5266	Long: 121.1536	Name: Angono	Count:851
+127	Lat: 10.8003	Long: 122.9763	Name: Silay	Count:871
+128	Lat: 14.2176	Long: 121.1304	Name: Calamba City	Count:3558
+129	Lat: 14.1487	Long: 121.6272	Name: Bataan	Count:1046
+130	Lat: 16.0688	Long: 120.4034	Name: Mangaldan	Count:1056
+131	Lat: 16.9698	Long: 121.7292	Name: Luna	Count:758
+132	Lat: 14.5678	Long: 121.1394	Name: Taytay	Count:23116
+133	Lat: 14.4583	Long: 121.0528	Name: Sucat	Count:3835
+134	Lat: 14.9089	Long: 120.7155	Name: Macabebe	Count:4450
+135	Lat: 10.3744	Long: 124.7497	Name: Hilongos	Count:881
+136	Lat: 15.4167	Long: 119.9167	Name: Mangrove	Count:10
+137	Lat: 10.2193	Long: 122.8707	Name: Marina	Count:10
+138	Lat: 14.5449	Long: 121.0679	Name: San Pedro	Count:953
+139	Lat: 14.9958	Long: 120.7045	Name: Santo Tomas	Count:1630
+140	Lat: 7.9064	Long: 125.0942	Name: Valencia	Count:410
+141	Lat: 7.0864	Long: 124.9006	Name: Matalam	Count:307
+142	Lat: 14.6422	Long: 121.0316	Name: West Triangle	Count:810
+143	Lat: 7.9003	Long: 123.7692	Name: Kapatagan	Count:369
+144	Lat: 16.8858	Long: 121.9414	Name: Santiago	Count:215
+145	Lat: 12.3167	Long: 123.7	Name: Laguna	Count:17660
+146	Lat: 14.3647	Long: 121.4829	Name: Paete	Count:2984
+147	Lat: 11.25	Long: 123.0167	Name: Domingo	Count:10
+148	Lat: 14.8443	Long: 120.8104	Name: Malolos	Count:13711
+149	Lat: 14.5456	Long: 120.9958	Name: Pasay	Count:14009
+150	Lat: 7.4475	Long: 125.8046	Name: Tagum	Count:3579
+151	Lat: 7.85	Long: 123.45	Name: Norte	Count:20
+152	Lat: 6.8333	Long: 125.4167	Name: Central	Count:20
+153	Lat: 14.2732	Long: 121.4552	Name: Pagsanjan	Count:10
+154	Lat: 15.5933	Long: 120.4871	Name: Vargas	Count:143
+155	Lat: 14.6042	Long: 120.9822	Name: Manila	Count:254667
+156	Lat: 14.4736	Long: 121.0488	Name: Manila	Count:226300
+157	Lat: 14.7098	Long: 120.9362	Name: Obando	Count:5825
+158	Lat: 14.4008	Long: 121.4685	Name: Pangil	Count:1210
+159	Lat: 11.3697	Long: 124.4873	Name: Leyte	Count:30
+160	Lat: 14.0683	Long: 121.3256	Name: San Pablo City	Count:6276
+161	Lat: 14.4711	Long: 121.0223	Name: Manila	Count:49401
+162	Lat: 16.4556	Long: 120.5903	Name: La Trinidad	Count:1189
+163	Lat: 14.5289	Long: 121.0723	Name: Taguig	Count:6840
+164	Lat: 8.5883	Long: 123.3409	Name: Dipolog City	Count:6389
+165	Lat: 15.2293	Long: 120.7005	Name: Ayala	Count:10
+166	Lat: 16.1	Long: 120.5167	Name: Dagupan	Count:61
+167	Lat: 14.1493	Long: 121.4052	Name: Cabuyao	Count:7732
+168	Lat: 13.6232	Long: 123.1841	Name: Naga City	Count:13527
+169	Lat: 15.5512	Long: 120.8147	Name: Quezon	Count:142245
+170	Lat: 7.0083	Long: 125.0894	Name: Kidapawan	Count:2266
+171	Lat: 14.4968	Long: 121.2846	Name: Tanay	Count:410
+172	Lat: 14.9557	Long: 120.8969	Name: Baliuag	Count:1466
+173	Lat: 15.7506	Long: 121.0069	Name: Cabatuan	Count:584
+174	Lat: 14.3851	Long: 120.8811	Name: General Trias	Count:1097
+175	Lat: 16.0441	Long: 120.4861	Name: Manaoag	Count:10
+176	Lat: 13.7917	Long: 121.0085	Name: Bauan	Count:276
+177	Lat: 14.7615	Long: 120.9479	Name: Marilao	Count:1220
+178	Lat: 8.5967	Long: 124.4064	Name: Gitagum	Count:246
+179	Lat: 15.9181	Long: 120.414	Name: Malasiqui	Count:2656
+180	Lat: 16.4542	Long: 121.7355	Name: Santos	Count:16111
+181	Lat: 15.7942	Long: 120.3033	Name: Paul	Count:10
+182	Lat: 15.8106	Long: 120.4709	Name: Bautista	Count:20
+183	Lat: 10.6442	Long: 122.2352	Name: Miagao	Count:41
+184	Lat: 6.6925	Long: 124.6764	Name: Tacurong	Count:1876
+185	Lat: 14.5832	Long: 121.0409	Name: Mandaluyong City	Count:94362
+186	Lat: 14.9025	Long: 120.8485	Name: Pulilan	Count:584
+187	Lat: 16.45	Long: 120.55	Name: Philippine	Count:307
+188	Lat: 10.8742	Long: 125.0025	Name: Liberty	Count:11096
+189	Lat: 11.97	Long: 121.9192	Name: Balabag	Count:2102
+190	Lat: 14.2118	Long: 121.1655	Name: Calamba	Count:14296
+191	Lat: 8.9492	Long: 125.5436	Name: Butuan	Count:2686
+192	Lat: 15.0343	Long: 120.6844	Name: San Fernando	Count:3117
+193	Lat: 14.5402	Long: 121.3602	Name: Sampaloc	Count:2122
+194	Lat: 14.8419	Long: 120.8117	Name: Province of Bulacan	Count:1804
+195	Lat: 14.1822	Long: 121.0666	Name: Canlubang	Count:430
+196	Lat: 14.6477	Long: 120.9591	Name: Manila	Count:974
+197	Lat: 14.9505	Long: 120.759	Name: Apalit	Count:328
+198	Lat: 14.4646	Long: 121.1929	Name: Binangonan	Count:19547
+199	Lat: 14.6691	Long: 120.972	Name: Manila	Count:1558
+200	Lat: 11.0333	Long: 123.9667	Name: Lawis	Count:20
+201	Lat: 13.9324	Long: 120.8133	Name: Calaca	Count:10
+202	Lat: 14.9625	Long: 120.9045	Name: Subic	Count:389
+203	Lat: 14.6783	Long: 120.9374	Name: Tanza	Count:246
+204	Lat: 10.5039	Long: 123.7156	Name: Balamban	Count:41
+205	Lat: 18.1978	Long: 120.5957	Name: Laoag	Count:1435
+206	Lat: 14.2897	Long: 120.9998	Name: Carmona	Count:1179
+207	Lat: 14.6418	Long: 121.0177	Name: Del Monte	Count:451
+208	Lat: 14.6492	Long: 120.9826	Name: Manila	Count:24408
+209	Lat: 15.9775	Long: 120.5659	Name: Urdaneta	Count:1446
+210	Lat: 9.5506	Long: 122.5164	Name: Asia	Count:881
+211	Lat: 10.6677	Long: 122.9533	Name: Bacolod City	Count:20398
+212	Lat: 10.245	Long: 123.7964	Name: Minglanilla	Count:1138
+213	Lat: 13	Long: 122	Name: 	Count:4259633
+214	Lat: 11.1575	Long: 124.9908	Name: Palo	Count:10
+215	Lat: 14.5619	Long: 120.5983	Name: Limay	Count:6614
+216	Lat: 12.304	Long: 121.2695	Name: Oara	Count:10
+217	Lat: 14.888	Long: 120.8673	Name: Plaridel	Count:1333
+218	Lat: 14.6189	Long: 121.0272	Name: New Manila	Count:10
+219	Lat: 14.5886	Long: 121.1757	Name: Antipolo	Count:2266
+220	Lat: 13.1387	Long: 123.7353	Name: Legaspi	Count:7014
+221	Lat: 13.7567	Long: 121.0584	Name: Batangas	Count:133159
+222	Lat: 14.2832	Long: 120.8677	Name: Trece Martires City	Count:2820
+223	Lat: 6.1128	Long: 125.1717	Name: General Santos	Count:9835
+224	Lat: 14.1313	Long: 121.4362	Name: Lilio	Count:20
+225	Lat: 14.3386	Long: 121.0836	Name: Poblacion	Count:553
+226	Lat: 14.7036	Long: 121.069	Name: Fairview	Count:48457
+227	Lat: 12.369	Long: 121.3356	Name: Manila	Count:1169
+228	Lat: 14.0863	Long: 121.1498	Name: Tanauan	Count:2727
+229	Lat: 10.6969	Long: 122.5644	Name: Iloilo City	Count:18439
+230	Lat: 14.7933	Long: 120.8751	Name: San Jose del Monte	Count:6645
+231	Lat: 14.5962	Long: 120.3928	Name: Bagac	Count:317
+232	Lat: 14.5545	Long: 121.068	Name: Manila	Count:8583
+233	Lat: 6.3506	Long: 124.8189	Name: Kalibo	Count:1558
+234	Lat: 13.3667	Long: 121.259	Name: Navotas	Count:656
+235	Lat: 14.9653	Long: 120.6325	Name: Guagua	Count:92
+236	Lat: 14.6982	Long: 121.1236	Name: San Mateo	Count:9086
+237	Lat: 14.5667	Long: 121.0333	Name: 	Count:19639
+238	Lat: 14.6414	Long: 121.1118	Name: Manila	Count:18347
+239	Lat: 15.0959	Long: 120.8182	Name: Province of Pampanga	Count:3179
+240	Lat: 6.9103	Long: 122.0717	Name: Zamboanga City	Count:12419
+241	Lat: 14.4594	Long: 120.9414	Name: Bacoor	Count:31515
+242	Lat: 14.1831	Long: 121.2848	Name: Bay	Count:379
+243	Lat: 13.9624	Long: 121.5265	Name: Sariaya	Count:1640
+244	Lat: 13.1483	Long: 123.7124	Name: Daraga	Count:1322
+245	Lat: 8.0844	Long: 123.491	Name: Molave	Count:61
+246	Lat: 14.0259	Long: 121.5929	Name: Tayabas	Count:1240
+247	Lat: 7.0731	Long: 125.6128	Name: Davao City	Count:45011
+248	Lat: 7.8257	Long: 123.437	Name: Pagadian	Count:1415
+249	Lat: 14.191	Long: 121.7309	Name: Mauban	Count:1035
+250	Lat: 14.88	Long: 120.2343	Name: Subic	Count:656
+251	Lat: 14.9144	Long: 121.1939	Name: Ilagan	Count:20
+252	Lat: 14.6488	Long: 121.0509	Name: Quezon City	Count:1638079

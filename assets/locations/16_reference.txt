@@ -1,0 +1,164 @@
+Locations in Greece
+0	Lat: 38.4	Long: 23.8	Name: Eretria	Count:646
+1	Lat: 39.3331	Long: 21.6875	Name: Kryonerion	Count:256
+2	Lat: 38.95	Long: 20.75	Name: Preveza	Count:964
+3	Lat: 40.6697	Long: 22.8047	Name: Sindos	Count:307
+4	Lat: 38.2444	Long: 21.7344	Name: Pátrai	Count:15455
+5	Lat: 37.7467	Long: 23.4275	Name: Aegina	Count:1425
+6	Lat: 41.1228	Long: 25.3964	Name: Komotini	Count:1804
+7	Lat: 37.7333	Long: 23.95	Name: Anavyssos	Count:1712
+8	Lat: 40.9919	Long: 22.8708	Name: Kilkis	Count:1876
+9	Lat: 37.0389	Long: 22.1142	Name: Kalamata	Count:1610
+10	Lat: 39.5039	Long: 20.2656	Name: Igoumenitsa	Count:2092
+11	Lat: 37.5333	Long: 25.1667	Name: Tinos	Count:758
+12	Lat: 37.9681	Long: 23.565	Name: Perama	Count:3066
+13	Lat: 38.6333	Long: 24.1	Name: Kymi	Count:317
+14	Lat: 38.15	Long: 23.9667	Name: Marathon	Count:358
+15	Lat: 37.9614	Long: 23.6389	Name: Piraeus	Count:19567
+16	Lat: 35.01	Long: 25.7353	Name: Ierapetra	Count:1917
+17	Lat: 40.1006	Long: 22.4978	Name: Litochoro	Count:584
+18	Lat: 37.6833	Long: 21.45	Name: Pyrgos	Count:676
+19	Lat: 38.2019	Long: 20.4314	Name: Lixourion	Count:369
+20	Lat: 39.8947	Long: 22.1886	Name: Elassona	Count:153
+21	Lat: 37.9833	Long: 23.7333	Name: Athens	Count:1044873
+22	Lat: 37.9833	Long: 22.9667	Name: Loutraki	Count:840
+23	Lat: 37.9833	Long: 23.8667	Name: Leontario	Count:502
+24	Lat: 37.9833	Long: 23.6833	Name: Aigaleo	Count:2071
+25	Lat: 37.9	Long: 23.75	Name: Argyroupoli	Count:287
+26	Lat: 37.9	Long: 23.8833	Name: Koropi	Count:2020
+27	Lat: 37.9	Long: 21.2667	Name: Andravida	Count:225
+28	Lat: 38.4636	Long: 23.5994	Name: Chalcis	Count:7763
+29	Lat: 39.8667	Long: 22.4667	Name: Gonnoi	Count:287
+30	Lat: 40.5833	Long: 23.0333	Name: Panorama	Count:799
+31	Lat: 36.4408	Long: 28.2225	Name: Rhodes	Count:130769
+32	Lat: 40.9439	Long: 22.4442	Name: Goumenissa	Count:471
+33	Lat: 38.9	Long: 22.4333	Name: Lamia	Count:328
+34	Lat: 40.5167	Long: 21.2667	Name: Kastoria	Count:625
+35	Lat: 35.1914	Long: 25.7133	Name: Agios Nikolaos	Count:389
+36	Lat: 37.9625	Long: 23.6197	Name: Keratsini	Count:6122
+37	Lat: 39.2831	Long: 20.3964	Name: Parga	Count:2584
+38	Lat: 38.2833	Long: 23.8667	Name: Kalamos	Count:471
+39	Lat: 39.1667	Long: 23.4833	Name: Skiathos	Count:307
+40	Lat: 40.5233	Long: 22.2036	Name: Veroia	Count:1630
+41	Lat: 37.8	Long: 21.35	Name: Amaliada	Count:492
+42	Lat: 37.8	Long: 22.7167	Name: Archaia Nemea	Count:235
+43	Lat: 37.8	Long: 23.9833	Name: Keratea	Count:1087
+44	Lat: 40.7919	Long: 22.4075	Name: Giannitsa	Count:2871
+45	Lat: 39.7886	Long: 19.9186	Name: Kassiopi	Count:1948
+46	Lat: 38.6214	Long: 21.4078	Name: Agrinio	Count:2420
+47	Lat: 40.5147	Long: 21.6786	Name: Ptolemaida	Count:840
+48	Lat: 38	Long: 23.95	Name: Pikermi	Count:41
+49	Lat: 38	Long: 23.8	Name: Cholargos	Count:512
+50	Lat: 38	Long: 23.8833	Name: Pallini	Count:1435
+51	Lat: 38	Long: 23.3456	Name: Megara	Count:851
+52	Lat: 38	Long: 23.4333	Name: Nea Peramos	Count:1692
+53	Lat: 38	Long: 23.6833	Name: Dafni	Count:933
+54	Lat: 38	Long: 23.7333	Name: Attica	Count:2974
+55	Lat: 35.5122	Long: 24.0156	Name: Chania	Count:23085
+56	Lat: 38.3692	Long: 21.4292	Name: Messolonghi	Count:369
+57	Lat: 40.76	Long: 22.5192	Name: Pella	Count:471
+58	Lat: 35.325	Long: 25.1306	Name: Heraklion	Count:21854
+59	Lat: 37.3817	Long: 23.1553	Name: Kranidi	Count:697
+60	Lat: 36.8933	Long: 27.2889	Name: Kos	Count:18911
+61	Lat: 38.0333	Long: 23.75	Name: Nea Ionia	Count:933
+62	Lat: 38.0333	Long: 23.5333	Name: Elefsina	Count:1753
+63	Lat: 38.0333	Long: 23.1667	Name: Sparta	Count:687
+64	Lat: 38.0333	Long: 23.7333	Name: Nea Filadelfeia	Count:307
+65	Lat: 38.0333	Long: 23.7833	Name: Filothei	Count:974
+66	Lat: 39.4439	Long: 21.555	Name: Chania	Count:4522
+67	Lat: 40.4733	Long: 25.5222	Name: Samothraki	Count:235
+68	Lat: 37.5636	Long: 22.8075	Name: Nafplion	Count:584
+69	Lat: 38.3667	Long: 23.1	Name: Aliartos	Count:502
+70	Lat: 40.6617	Long: 22.9464	Name: Polichni	Count:184
+71	Lat: 37.95	Long: 23.7	Name: Kallithea	Count:7732
+72	Lat: 37.95	Long: 23.85	Name: Paiania	Count:451
+73	Lat: 37.95	Long: 23.7167	Name: Nea Smyrni	Count:738
+74	Lat: 40.2719	Long: 22.5025	Name: Katerini	Count:3138
+75	Lat: 40.6267	Long: 22.4442	Name: Alexandreia	Count:840
+76	Lat: 37.3	Long: 26.5167	Name: Patmos	Count:1240
+77	Lat: 39.5553	Long: 21.7675	Name: Trikala	Count:2348
+78	Lat: 39.11	Long: 26.5547	Name: Mytilene	Count:1230
+79	Lat: 37.85	Long: 23.7667	Name: Voula	Count:4902
+80	Lat: 37.7914	Long: 20.8953	Name: Zakynthos	Count:923
+81	Lat: 37.1056	Long: 25.3764	Name: Naxos	Count:656
+82	Lat: 38.1167	Long: 23.8333	Name: Ekali	Count:594
+83	Lat: 35.05	Long: 24.8667	Name: Moires	Count:153
+84	Lat: 41.1414	Long: 24.8836	Name: Xanthi	Count:2635
+85	Lat: 40.1797	Long: 21.9944	Name: Servia	Count:71
+86	Lat: 38.3678	Long: 26.1358	Name: Chios	Count:3210
+87	Lat: 39.62	Long: 19.9197	Name: Corfu	Count:22182
+88	Lat: 39.2047	Long: 20.8822	Name: Filippiada	Count:594
+89	Lat: 38.1	Long: 23.8833	Name: Dionysos	Count:471
+90	Lat: 37.5089	Long: 22.3794	Name: Tripoli	Count:1015
+91	Lat: 40.6403	Long: 22.9439	Name: Thessaloniki	Count:105068
+92	Lat: 40.6403	Long: 22.5339	Name: Platy	Count:287
+93	Lat: 37.7522	Long: 23.5136	Name: Mesagros	Count:348
+94	Lat: 38.1731	Long: 20.4819	Name: Argostoli	Count:1928
+95	Lat: 39	Long: 22	Name: 	Count:3804027
+96	Lat: 40.9397	Long: 24.4019	Name: Kavala	Count:6194
+97	Lat: 35.3647	Long: 24.4714	Name: Rethymno	Count:2410
+98	Lat: 39.6372	Long: 22.4203	Name: Larisa	Count:6553
+99	Lat: 39.4353	Long: 21.8339	Name: Agioi Anargyroi	Count:174
+100	Lat: 40.4164	Long: 22.6028	Name: Makrygialos	Count:317
+101	Lat: 37.8167	Long: 23.8	Name: Varkiza	Count:1384
+102	Lat: 37.8167	Long: 23.7833	Name: Vouliagmeni	Count:728
+103	Lat: 35.3333	Long: 25.15	Name: Nea Alikarnassos	Count:1517
+104	Lat: 38.3917	Long: 21.8275	Name: Nafpaktos	Count:1456
+105	Lat: 40.55	Long: 23.0167	Name: Thermi	Count:984
+106	Lat: 38.8275	Long: 20.7019	Name: Lefkada	Count:502
+107	Lat: 36.4	Long: 28.1667	Name: Ialysos	Count:1179
+108	Lat: 36.95	Long: 26.9833	Name: Kalymnos	Count:2317
+109	Lat: 38.0167	Long: 23.7	Name: Peristeri	Count:1056
+110	Lat: 38.0167	Long: 24	Name: Rafina	Count:4050
+111	Lat: 38.0167	Long: 23.75	Name: Galatsi	Count:1333
+112	Lat: 38.0167	Long: 23.7667	Name: Psychiko	Count:646
+113	Lat: 38.3	Long: 21.7833	Name: Rio	Count:338
+114	Lat: 37.9667	Long: 23.9167	Name: Spata	Count:1528
+115	Lat: 37.9667	Long: 23.4833	Name: Salamina	Count:881
+116	Lat: 37.9667	Long: 23.65	Name: Nikaia	Count:7640
+117	Lat: 37.9667	Long: 23.8	Name: Kaisariani	Count:892
+118	Lat: 40.6294	Long: 22.0681	Name: Naousa	Count:317
+119	Lat: 36.85	Long: 22.6667	Name: Skala	Count:133
+120	Lat: 40.8683	Long: 22.9525	Name: Peristeri	Count:861
+121	Lat: 40.3	Long: 23.55	Name: Ormylia	Count:174
+122	Lat: 38.0667	Long: 23.5833	Name: Aspropyrgos	Count:1015
+123	Lat: 38.0667	Long: 23.5	Name: Mandra	Count:369
+124	Lat: 38.0667	Long: 23.8167	Name: Kifissia	Count:4245
+125	Lat: 38.0667	Long: 23.7833	Name: Lykovrysi	Count:471
+126	Lat: 38.0833	Long: 22.6333	Name: Xylokastro	Count:512
+127	Lat: 38.0833	Long: 23.5167	Name: Magoula	Count:656
+128	Lat: 38.0833	Long: 23.9833	Name: Nea Makri	Count:1456
+129	Lat: 38.0833	Long: 23.7	Name: Ano Liosia	Count:338
+130	Lat: 40.7833	Long: 21.4	Name: Florina	Count:728
+131	Lat: 41.0856	Long: 23.5497	Name: Serres	Count:1589
+132	Lat: 37.6333	Long: 22.7333	Name: Argos	Count:1363
+133	Lat: 41.4219	Long: 26.2253	Name: Metaxades	Count:564
+134	Lat: 38.05	Long: 23.8333	Name: Melissia	Count:1938
+135	Lat: 37.9647	Long: 23.5214	Name: Paloukia	Count:328
+136	Lat: 37.9167	Long: 22.8833	Name: Corinth	Count:1599
+137	Lat: 37.9167	Long: 23.7167	Name: Alimos	Count:410
+138	Lat: 37.8667	Long: 23.75	Name: Glyfada	Count:7394
+139	Lat: 37.8333	Long: 23.8	Name: Vari	Count:2389
+140	Lat: 37.8333	Long: 23.9667	Name: Kouvaras	Count:943
+141	Lat: 38.2486	Long: 22.0819	Name: Aigio	Count:871
+142	Lat: 37.8833	Long: 24.0167	Name: Porto Rafti	Count:246
+143	Lat: 37.8833	Long: 23.9333	Name: Markopoulo Mesogaias	Count:1169
+144	Lat: 37.8833	Long: 23.7333	Name: Elliniko	Count:205
+145	Lat: 40.5825	Long: 22.9503	Name: Kalamaria	Count:646
+146	Lat: 39.6675	Long: 20.8508	Name: Ioannina	Count:5425
+147	Lat: 40.4811	Long: 22.3136	Name: Vergina	Count:1712
+148	Lat: 37.9553	Long: 23.5361	Name: Kamatero	Count:964
+149	Lat: 39.4233	Long: 20.0689	Name: Lefkimmi	Count:676
+150	Lat: 40.3011	Long: 21.7864	Name: Kozani	Count:1589
+151	Lat: 37.9378	Long: 22.9322	Name: Corinth	Count:656
+152	Lat: 40.8475	Long: 25.8744	Name: Alexandroupoli	Count:4809
+153	Lat: 39.3656	Long: 21.9217	Name: Karditsa	Count:461
+154	Lat: 38.325	Long: 23.3189	Name: Thebes	Count:512
+155	Lat: 37.5833	Long: 22.75	Name: Nea Kios	Count:502
+156	Lat: 36.6133	Long: 27.8408	Name: Symi	Count:338
+157	Lat: 40.6006	Long: 22.9875	Name: Pylaia	Count:430
+158	Lat: 37.3478	Long: 23.4589	Name: Hydra	Count:420
+159	Lat: 39.2947	Long: 22.3847	Name: Farsala	Count:553
+160	Lat: 39.1606	Long: 20.9853	Name: Arta	Count:728
+161	Lat: 41.1544	Long: 24.1394	Name: Drama	Count:1815
+162	Lat: 39.3667	Long: 22.9458	Name: Volos	Count:2892

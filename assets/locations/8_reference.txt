@@ -1,0 +1,100 @@
+Locations in Colombia
+0	Lat: 7.3915	Long: -73.4957	Name: Sabana de Torres	Count:399
+1	Lat: 2.9273	Long: -75.2819	Name: Neiva	Count:3363
+2	Lat: 4.8681	Long: -75.6214	Name: Santa Rosa de Cabal	Count:1087
+3	Lat: 3.4372	Long: -76.5225	Name: Santiago de Cali	Count:158264
+4	Lat: 11.2408	Long: -74.199	Name: Santa Marta	Count:8922
+5	Lat: 6.5569	Long: -75.8281	Name: Antioquia	Count:112
+6	Lat: 3.5394	Long: -76.3036	Name: Palmira	Count:7527
+7	Lat: 10.4631	Long: -73.2532	Name: Valledupar	Count:13496
+8	Lat: 5.7143	Long: -72.9339	Name: Sogamoso	Count:317
+9	Lat: 5.5353	Long: -73.3678	Name: Tunja	Count:2430
+10	Lat: 5.3378	Long: -72.3959	Name: Yopal	Count:3210
+11	Lat: 4.5758	Long: -75.9739	Name: Obando	Count:112
+12	Lat: 6.15	Long: -75.6	Name: Sabaneta	Count:994
+13	Lat: 4.6492	Long: -74.0628	Name: Bogotá	Count:3364286
+14	Lat: 5.8245	Long: -73.0341	Name: Duitama	Count:738
+15	Lat: 1.8497	Long: -76.0478	Name: Pitalito	Count:707
+16	Lat: 10.9639	Long: -74.7964	Name: Barranquilla	Count:185319
+17	Lat: 4.0847	Long: -76.1954	Name: Tuluá	Count:3199
+18	Lat: 4.5794	Long: -74.2168	Name: Soacha	Count:646
+19	Lat: 6.1719	Long: -75.6114	Name: Itagui	Count:2543
+20	Lat: 8.748	Long: -75.8814	Name: Montería	Count:1097
+21	Lat: 6.3373	Long: -75.558	Name: Bello	Count:9291
+22	Lat: 6.0134	Long: -73.6735	Name: Velez	Count:112
+23	Lat: 11.5444	Long: -72.9072	Name: Riohacha	Count:1712
+24	Lat: 5.4537	Long: -73.3625	Name: Boyaca	Count:61
+25	Lat: 5.9743	Long: -75.362	Name: La Union	Count:399
+26	Lat: 7.0653	Long: -73.8547	Name: Barrancabermeja	Count:1487
+27	Lat: 5.0221	Long: -74.0048	Name: Zipaquirá	Count:471
+28	Lat: 12.5847	Long: -81.7006	Name: San Andrés	Count:2225
+29	Lat: 4.9186	Long: -74.028	Name: Cajica	Count:1569
+30	Lat: 4.8588	Long: -74.0587	Name: Chia	Count:2912
+31	Lat: 4.7174	Long: -74.143	Name: Engativa	Count:451
+32	Lat: 6.1551	Long: -75.3737	Name: Rionegro	Count:2030
+33	Lat: 7.0845	Long: -70.7554	Name: Arauca	Count:2533
+34	Lat: 6.9879	Long: -73.0495	Name: Piedecuesta	Count:461
+35	Lat: 4.9653	Long: -73.913	Name: Tocancipa	Count:625
+36	Lat: 4.8133	Long: -75.6961	Name: Pereira	Count:154757
+37	Lat: 3.8801	Long: -77.0312	Name: Buenaventura	Count:2922
+38	Lat: 10.3997	Long: -75.5144	Name: Cartagena	Count:7025
+39	Lat: 0.8302	Long: -77.6496	Name: Ipiales	Count:102
+40	Lat: 6.5557	Long: -73.1331	Name: San Gil	Count:912
+41	Lat: 4.1492	Long: -74.8843	Name: Espinal	Count:348
+42	Lat: 5.6164	Long: -73.8175	Name: Chiquinquira	Count:61
+43	Lat: 3.9009	Long: -76.2978	Name: Buga	Count:1743
+44	Lat: 10.8969	Long: -74.886	Name: Galapa	Count:266
+45	Lat: 7.0682	Long: -73.1698	Name: Giron	Count:1928
+46	Lat: 10.5589	Long: -73.0123	Name: Urumita	Count:112
+47	Lat: 6.2518	Long: -75.5636	Name: Medellín	Count:1962065
+48	Lat: 10.6226	Long: -74.278	Name: Miami	Count:123
+49	Lat: 8.6703	Long: -76.2092	Name: Popayan	Count:10788
+50	Lat: 1.6144	Long: -75.6062	Name: Florencia	Count:20
+51	Lat: 4.8727	Long: -74.1444	Name: Tenjo	Count:738
+52	Lat: 10.8861	Long: -72.8487	Name: Fonseca	Count:215
+53	Lat: 9.3047	Long: -75.3978	Name: Sincelejo	Count:1087
+54	Lat: 3.7246	Long: -76.2667	Name: Ginebra	Count:20
+55	Lat: 3.8653	Long: -67.9239	Name: Inirida	Count:51
+56	Lat: 4.5295	Long: -75.6409	Name: Calarcá	Count:1271
+57	Lat: 4.3365	Long: -74.3638	Name: Fusagasuga	Count:2533
+58	Lat: 10.9184	Long: -74.7646	Name: Soledad	Count:1784
+59	Lat: 9.6496	Long: -74.6051	Name: Cundinamarca	Count:1107
+60	Lat: 3.4067	Long: -76.3482	Name: Candelaria	Count:420
+61	Lat: 6.0911	Long: -75.6357	Name: Caldas	Count:471
+62	Lat: 6.2805	Long: -75.4435	Name: Guarne	Count:974
+63	Lat: 3.9869	Long: -73.758	Name: Acacias	Count:1640
+64	Lat: 7.8339	Long: -72.4742	Name: Villa del Rosario	Count:502
+65	Lat: 4.4389	Long: -75.2322	Name: Ibague	Count:7240
+66	Lat: 4.8137	Long: -74.3545	Name: Facatativá	Count:235
+67	Lat: 9.315	Long: -75.2928	Name: Corozal	Count:287
+68	Lat: 8.3084	Long: -73.6166	Name: Aguachica	Count:20
+69	Lat: 1.2136	Long: -77.2811	Name: Pasto	Count:5589
+70	Lat: 1.6119	Long: -77.1938	Name: San Clemente	Count:225
+71	Lat: 7.3756	Long: -72.6479	Name: Pamplona	Count:133
+72	Lat: 7.8939	Long: -72.5078	Name: Cúcuta	Count:23680
+73	Lat: 6.0308	Long: -75.4315	Name: La Ceja	Count:276
+74	Lat: 5.5845	Long: -73.5418	Name: Sachica	Count:307
+75	Lat: 10.2511	Long: -74.9146	Name: Calamar	Count:51
+76	Lat: 4.5339	Long: -75.6811	Name: Armenia	Count:10594
+77	Lat: 4	Long: -72	Name: 	Count:5912922
+78	Lat: 4.5664	Long: -75.7511	Name: Montenegro	Count:717
+79	Lat: 4.8094	Long: -74.098	Name: Cota	Count:584
+80	Lat: 4.7464	Long: -75.9117	Name: Cartago	Count:1825
+81	Lat: 2.5729	Long: -72.6459	Name: San José del Guaviare	Count:61
+82	Lat: 5.0689	Long: -75.5174	Name: Manizales	Count:5558
+83	Lat: 5.0183	Long: -72.7492	Name: Tauramena	Count:143
+84	Lat: 4.142	Long: -73.6266	Name: Villavicencio	Count:8830
+85	Lat: 10.45	Long: -75.4167	Name: Bermudez	Count:2102
+86	Lat: 6.1706	Long: -75.5853	Name: Envigado	Count:13014
+87	Lat: 6.1577	Long: -75.6432	Name: La Estrella	Count:830
+88	Lat: 7.1254	Long: -73.1198	Name: Bucaramanga	Count:131754
+89	Lat: 4.4867	Long: -73.9375	Name: Ubaque	Count:102
+90	Lat: 10.5207	Long: -74.185	Name: Fundacion	Count:225
+91	Lat: 3.5823	Long: -76.4915	Name: Yumbo	Count:184
+92	Lat: 4.9075	Long: -73.9384	Name: Sopo	Count:51
+93	Lat: 7.8379	Long: -72.5037	Name: Los Patios	Count:656
+94	Lat: 10.3294	Long: -75.4114	Name: Turbaco	Count:194
+95	Lat: 3.2775	Long: -75.6214	Name: Planadas	Count:1487
+96	Lat: 5.0449	Long: -75.5146	Name: Villamaria	Count:184
+97	Lat: 7.0622	Long: -73.0864	Name: Floridablanca	Count:9035
+98	Lat: 5.7291	Long: -74.3466	Name: Dosquebradas	Count:297

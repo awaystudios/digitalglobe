@@ -1,0 +1,701 @@
+Locations in Portugal
+0	Lat: 38.8967	Long: -9.3745	Name: Alvarinhos	Count:235
+1	Lat: 39.8936	Long: -8.2233	Name: Graca	Count:276
+2	Lat: 38.9305	Long: -9.2027	Name: Povoa da Galega	Count:635
+3	Lat: 38.9209	Long: -8.8838	Name: Porto Alto	Count:676
+4	Lat: 37.1062	Long: -7.9665	Name: Santa Barbara de Nexe	Count:379
+5	Lat: 40.7992	Long: -8.626	Name: Pardilho	Count:358
+6	Lat: 37.1383	Long: -8.517	Name: Parchal	Count:123
+7	Lat: 38.95	Long: -9.0667	Name: Trancoso de Baixo	Count:174
+8	Lat: 38.7952	Long: -9.1874	Name: Odivelas	Count:12737
+9	Lat: 38.7833	Long: -9.2	Name: Porto	Count:482
+10	Lat: 38.7833	Long: -27.15	Name: Vila Nova	Count:348
+11	Lat: 38.7833	Long: -9.35	Name: Mem Martins	Count:7650
+12	Lat: 38.6667	Long: -9.2	Name: Caparica	Count:9968
+13	Lat: 38.6667	Long: -9.15	Name: Piedade	Count:246
+14	Lat: 41.4851	Long: -8.7641	Name: Apulia	Count:10
+15	Lat: 38.993	Long: -8.9735	Name: Castanheira do Ribatejo	Count:1015
+16	Lat: 40.1527	Long: -7.4733	Name: Valverde	Count:317
+17	Lat: 41.1632	Long: -7.8735	Name: Mesao Frio	Count:276
+18	Lat: 40.8741	Long: -8.5069	Name: Cucujaes	Count:215
+19	Lat: 39.602	Long: -8.4092	Name: Tomar	Count:5497
+20	Lat: 41.2594	Long: -8.7185	Name: Lavra	Count:1456
+21	Lat: 38.899	Long: -9.0386	Name: Alverca	Count:3651
+22	Lat: 37.1273	Long: -7.6486	Name: Tavira Municipality	Count:4040
+23	Lat: 39.7097	Long: -7.6366	Name: Atalaia	Count:615
+24	Lat: 41.6309	Long: -8.3512	Name: Amares	Count:1907
+25	Lat: 41.4267	Long: -8.4812	Name: Vale	Count:215
+26	Lat: 41.2083	Long: -8.2828	Name: Penafiel	Count:11229
+27	Lat: 38.6487	Long: -7.5471	Name: Redondo	Count:430
+28	Lat: 39.8474	Long: -8.387	Name: Macas de Caminho	Count:307
+29	Lat: 32.7333	Long: -16.7333	Name: Canical	Count:215
+30	Lat: 39.663	Long: -8.7916	Name: Garruchas	Count:676
+31	Lat: 39.8695	Long: -8.9324	Name: Vieira de Leiria	Count:7548
+32	Lat: 38.8055	Long: -7.4546	Name: Borba	Count:266
+33	Lat: 38.8764	Long: -7.2072	Name: Sao Bras	Count:143
+34	Lat: 41.194	Long: -8.6684	Name: Sendim	Count:317
+35	Lat: 40.3131	Long: -8.7534	Name: Tocha	Count:348
+36	Lat: 41.4357	Long: -8.1403	Name: Quinchaes	Count:543
+37	Lat: 38.7518	Long: -9.2968	Name: Sao Marcos	Count:994
+38	Lat: 40.8363	Long: -8.5806	Name: Valega	Count:492
+39	Lat: 40.3781	Long: -8.4499	Name: Mealhada	Count:2133
+40	Lat: 32.6667	Long: -17.1	Name: Ponta do Sol	Count:2604
+41	Lat: 41.2652	Long: -7.8801	Name: Montes	Count:317
+42	Lat: 37.7333	Long: -25.6667	Name: Ponta Delgada	Count:2779
+43	Lat: 39.1955	Long: -9.0979	Name: Palhais	Count:164
+44	Lat: 38.6746	Long: -9.1698	Name: Pragal	Count:164
+45	Lat: 39.536	Long: -8.1614	Name: Sardoal	Count:276
+46	Lat: 38.8709	Long: -9.0682	Name: Vialonga	Count:1333
+47	Lat: 40.8497	Long: -8.3939	Name: Vale de Cambra	Count:1958
+48	Lat: 41.191	Long: -8.7003	Name: Leca da Palmeira	Count:1733
+49	Lat: 38.7453	Long: -9.2817	Name: Tercena	Count:225
+50	Lat: 39.2086	Long: -8.9595	Name: Alcoentre	Count:82
+51	Lat: 40.0317	Long: -7.4811	Name: Soalheira	Count:102
+52	Lat: 38.1401	Long: -7.4486	Name: Moura	Count:656
+53	Lat: 40.7908	Long: -8.6193	Name: Canedo	Count:451
+54	Lat: 38.6335	Long: -8.944	Name: Penteado	Count:205
+55	Lat: 38.7161	Long: -9.3923	Name: Estoril	Count:11147
+56	Lat: 40.556	Long: -8.6817	Name: Vagos	Count:789
+57	Lat: 38.1772	Long: -8.5667	Name: Grandola	Count:594
+58	Lat: 41.3789	Long: -8.4859	Name: Avidos	Count:297
+59	Lat: 38.7333	Long: -9.2	Name: Buraca	Count:143
+60	Lat: 38.7333	Long: -9.2667	Name: Alfragide	Count:1056
+61	Lat: 38.7333	Long: -27.0667	Name: Praia da Vitoria	Count:205
+62	Lat: 42.031	Long: -8.646	Name: Valenca	Count:892
+63	Lat: 39.7477	Long: -8.805	Name: Leiria	Count:24695
+64	Lat: 39.7477	Long: -8.9323	Name: Marinha Grande	Count:7589
+65	Lat: 41.195	Long: -8.5103	Name: Valongo	Count:50591
+66	Lat: 41.3681	Long: -8.194	Name: Felgueiras	Count:15711
+67	Lat: 38.7905	Long: -9.3215	Name: Rinchoa	Count:1005
+68	Lat: 38.9792	Long: -8.8076	Name: Benavente	Count:646
+69	Lat: 40.2688	Long: -8.2824	Name: Penacova	Count:666
+70	Lat: 40.2056	Long: -8.4196	Name: Coimbra	Count:33433
+71	Lat: 38.7514	Long: -9.2123	Name: Damaia	Count:307
+72	Lat: 41.408	Long: -8.5198	Name: Vila Nova de Famalicao	Count:14409
+73	Lat: 41.3748	Long: -8.7161	Name: Touguinha	Count:338
+74	Lat: 41.2193	Long: -8.2913	Name: Santiago	Count:20
+75	Lat: 40.0288	Long: -8.5482	Name: Carvalhal	Count:338
+76	Lat: 39.9041	Long: -8.2751	Name: Figueiro dos Vinhos	Count:348
+77	Lat: 38.9609	Long: -9.3559	Name: Sobreiro	Count:512
+78	Lat: 40.1119	Long: -8.247	Name: Lousã	Count:1630
+79	Lat: 39.5197	Long: -8.38	Name: Linhaceira	Count:440
+80	Lat: 39.05	Long: -27.9833	Name: Lagoa	Count:102
+81	Lat: 40.868	Long: -8.6067	Name: Sao Joao	Count:1005
+82	Lat: 41.8575	Long: -7.631	Name: Vilar de Perdizes	Count:430
+83	Lat: 39.4033	Long: -9.1384	Name: Caldas da Rainha	Count:9260
+84	Lat: 41.1325	Long: -8.5641	Name: Valbom	Count:512
+85	Lat: 38.5333	Long: -8.9	Name: Setúbal	Count:21526
+86	Lat: 39.112	Long: -8.991	Name: Ota	Count:246
+87	Lat: 40.3372	Long: -7.8832	Name: Nogueira do Cravo	Count:194
+88	Lat: 38.6958	Long: -9.3563	Name: Sao Pedro do Estoril	Count:820
+89	Lat: 39.4502	Long: -8.7581	Name: Amiaes de Cima	Count:389
+90	Lat: 39.4502	Long: -7.3686	Name: Beira	Count:646
+91	Lat: 41.2651	Long: -8.4289	Name: Seroa	Count:594
+92	Lat: 41.21	Long: -8.2033	Name: Vila Boa de Quires	Count:892
+93	Lat: 41.0645	Long: -7.4753	Name: Paredes da Beira	Count:307
+94	Lat: 39.3547	Long: -9.163	Name: Pinhal	Count:287
+95	Lat: 38.0151	Long: -7.8632	Name: Beja	Count:6932
+96	Lat: 39.461	Long: -9.1927	Name: Cidade	Count:205
+97	Lat: 41.2146	Long: -8.6135	Name: Leca do Bailio	Count:3127
+98	Lat: 40.1157	Long: -8.4983	Name: Condeixa-a-Nova	Count:1097
+99	Lat: 40.1729	Long: -8.6862	Name: Montemor-o-Velho	Count:1969
+100	Lat: 40.5229	Long: -8.427	Name: Aguada de Cima	Count:543
+101	Lat: 38.767	Long: -9.2979	Name: Cacem	Count:6635
+102	Lat: 38.645	Long: -9.1484	Name: Corroios	Count:6245
+103	Lat: 38.8449	Long: -9.2732	Name: Almargem	Count:635
+104	Lat: 39.0698	Long: -9.3717	Name: Sao Pedro da Cadeira	Count:246
+105	Lat: 41.0502	Long: -8.5442	Name: Olival	Count:1302
+106	Lat: 38.8891	Long: -9.2065	Name: Lousa	Count:399
+107	Lat: 37.8776	Long: -8.1652	Name: Aljustrel	Count:461
+108	Lat: 41.1864	Long: -8.6517	Name: Senhora da Hora	Count:2984
+109	Lat: 39.0177	Long: -7.065	Name: Campo Maior	Count:1958
+110	Lat: 38.9259	Long: -9.3938	Name: Seixal	Count:1712
+111	Lat: 40.854	Long: -8.4869	Name: Santiago de Riba-Ul	Count:543
+112	Lat: 39.2496	Long: -8.0101	Name: Ponte de Sor	Count:338
+113	Lat: 41.2012	Long: -8.4338	Name: Gandra	Count:656
+114	Lat: 32.6833	Long: -16.8	Name: Santa Cruz	Count:851
+115	Lat: 32.6833	Long: -17.1167	Name: Canhas	Count:317
+116	Lat: 41.3784	Long: -8.5074	Name: Cabecudos	Count:82
+117	Lat: 40.6722	Long: -8.212	Name: Campia	Count:358
+118	Lat: 40.8529	Long: -7.7279	Name: Vila Nova de Paiva	Count:287
+119	Lat: 39.2571	Long: -8.5819	Name: Alpiarca	Count:256
+120	Lat: 39.0375	Long: -9.182	Name: Dois Portos	Count:10
+121	Lat: 38.8737	Long: -9.3989	Name: Sao Joao das Lampas	Count:194
+122	Lat: 39.0532	Long: -9.0093	Name: Alenquer	Count:471
+123	Lat: 41.6401	Long: -7.5717	Name: Vidago	Count:143
+124	Lat: 41.1326	Long: -8.4177	Name: Santa Marta	Count:10
+125	Lat: 41.5333	Long: -8.7833	Name: Esposende	Count:5691
+126	Lat: 41.4538	Long: -8.2656	Name: Mesao Frio	Count:1302
+127	Lat: 39.7522	Long: -7.9239	Name: Proenca-a-Nova	Count:656
+128	Lat: 37.0968	Long: -8.1754	Name: Aldeia das Acoteias	Count:923
+129	Lat: 41.0144	Long: -7.7814	Name: Tarouca	Count:533
+130	Lat: 38.9473	Long: -9.1991	Name: Milharado	Count:215
+131	Lat: 41.1709	Long: -8.5257	Name: Fanzeres	Count:328
+132	Lat: 41.7721	Long: -6.8977	Name: Carrazedo	Count:399
+133	Lat: 40.3513	Long: -7.091	Name: Sabugal	Count:389
+134	Lat: 39.804	Long: -8.8598	Name: Amor	Count:348
+135	Lat: 39.6945	Long: -8.13057	Name: 	Count:41
+136	Lat: 41.171	Long: -7.803	Name: Godim	Count:307
+137	Lat: 41.5346	Long: -8.4715	Name: Caldas	Count:2574
+138	Lat: 32.8	Long: -16.8833	Name: Santana	Count:584
+139	Lat: 38.9623	Long: -7.759	Name: Cano	Count:276
+140	Lat: 39.4667	Long: -8.2	Name: Abrantes	Count:4820
+141	Lat: 39.4667	Long: -8.3333	Name: Constancia	Count:235
+142	Lat: 39.4667	Long: -8.4667	Name: Entroncamento	Count:4338
+143	Lat: 39.4667	Long: -8.35	Name: Praia do Ribatejo	Count:779
+144	Lat: 40.9306	Long: -8.2449	Name: Arouca	Count:964
+145	Lat: 39.2178	Long: -9.2779	Name: Marteleira	Count:153
+146	Lat: 38.6873	Long: -8.6616	Name: Pegoes Velhos	Count:758
+147	Lat: 41.0076	Long: -8.6413	Name: Espinho	Count:4779
+148	Lat: 40.9253	Long: -8.5428	Name: Feira	Count:16439
+149	Lat: 40.2863	Long: -8.65	Name: Arazede	Count:184
+150	Lat: 40.2863	Long: -8.3319	Name: Figueira de Lorvao	Count:71
+151	Lat: 40.6276	Long: -8.5692	Name: Eixo	Count:502
+152	Lat: 39.5522	Long: -8.9775	Name: Alcobaca	Count:4502
+153	Lat: 41.279	Long: -8.1928	Name: Travanca	Count:174
+154	Lat: 41.1536	Long: -8.4118	Name: Recarei	Count:143
+155	Lat: 39.0236	Long: -8.9769	Name: Carregado	Count:1928
+156	Lat: 40.9364	Long: -8.6172	Name: Maceda	Count:266
+157	Lat: 40.9488	Long: -8.6213	Name: Cortegaca	Count:246
+158	Lat: 32.65	Long: -17.0333	Name: Campanario	Count:440
+159	Lat: 32.65	Long: -17.0667	Name: Ribeira Brava	Count:153
+160	Lat: 40.5999	Long: -8.6673	Name: Ilhavo	Count:584
+161	Lat: 37.1366	Long: -8.5398	Name: Portimao	Count:30213
+162	Lat: 38.7337	Long: -9.4093	Name: Alcabideche	Count:7373
+163	Lat: 40.0599	Long: -8.6261	Name: Soure Municipality	Count:420
+164	Lat: 37.0194	Long: -7.9322	Name: Faro	Count:21782
+165	Lat: 39.5208	Long: -9.031	Name: Murteira	Count:728
+166	Lat: 37.163	Long: -8.3036	Name: Algoz	Count:2215
+167	Lat: 41.1336	Long: -8.6174	Name: Vila Nova de Gaia	Count:41299
+168	Lat: 41.3683	Long: -8.2007	Name: Margaride	Count:687
+169	Lat: 39.6417	Long: -8.5919	Name: Ourem	Count:1661
+170	Lat: 40.7856	Long: -8.4858	Name: Pinheiro da Bemposta	Count:287
+171	Lat: 41.8939	Long: -8.5281	Name: Bico	Count:235
+172	Lat: 38.6401	Long: -9.1014	Name: Seixal	Count:5763
+173	Lat: 37.5731	Long: -8.1713	Name: Aldeia dos Fernandes	Count:10
+174	Lat: 39.2333	Long: -9.0833	Name: Entroncamento	Count:1558
+175	Lat: 39.2333	Long: -9.3167	Name: Lourinhã	Count:205
+176	Lat: 39.2333	Long: -8.6833	Name: Santarém	Count:9281
+177	Lat: 40.5772	Long: -8.4444	Name: Águeda Municipality	Count:4502
+178	Lat: 41.6015	Long: -8.4714	Name: Prado	Count:461
+179	Lat: 39.142	Long: -7.3933	Name: Assumar	Count:553
+180	Lat: 40.1506	Long: -8.6533	Name: Alfarelos	Count:225
+181	Lat: 41.811	Long: -8.8525	Name: Vila Praia de Ancora	Count:984
+182	Lat: 39.459	Long: -8.6689	Name: Alcanena	Count:512
+183	Lat: 38.65	Long: -27.2167	Name: Angra do Heroísmo	Count:984
+184	Lat: 40.901	Long: -8.4997	Name: Sao Joao da Madeira	Count:6399
+185	Lat: 40.3467	Long: -8.5942	Name: Cantanhede	Count:1999
+186	Lat: 41.2782	Long: -8.2799	Name: Lousada	Count:4245
+187	Lat: 41.2698	Long: -8.6689	Name: Vilar do Pinheiro	Count:2030
+188	Lat: 38.7298	Long: -9.3838	Name: Bicesse	Count:225
+189	Lat: 40.5263	Long: -8.5998	Name: Palhaca	Count:297
+190	Lat: 41.7402	Long: -7.4688	Name: Chaves	Count:5086
+191	Lat: 38.6508	Long: -8.9904	Name: Moita	Count:6758
+192	Lat: 41.2766	Long: -8.3762	Name: Paços de Ferreira	Count:6994
+193	Lat: 39.5937	Long: -8.8613	Name: Pedreiras	Count:553
+194	Lat: 38.766	Long: -9.3829	Name: Linho	Count:348
+195	Lat: 39.7264	Long: -8.6267	Name: Obidos	Count:297
+196	Lat: 32.7	Long: -17.15	Name: Arco da Calheta	Count:451
+197	Lat: 32.7	Long: -16.7667	Name: Machico	Count:1466
+198	Lat: 41.4969	Long: -6.2731	Name: Miranda do Douro	Count:348
+199	Lat: 41.3868	Long: -8.3394	Name: Moreira de Conegos	Count:461
+200	Lat: 39.1083	Long: -7.3075	Name: Quinta	Count:1394
+201	Lat: 40.1367	Long: -7.6692	Name: Silvares	Count:430
+202	Lat: 40.661	Long: -7.9097	Name: Viseu	Count:20183
+203	Lat: 39.3371	Long: -9.3152	Name: Coimbra	Count:666
+204	Lat: 40.917	Long: -8.4375	Name: Cesar	Count:912
+205	Lat: 41.3911	Long: -8.3718	Name: Guardizela	Count:379
+206	Lat: 41.124	Long: -8.651	Name: Canidelo	Count:225
+207	Lat: 39.0306	Long: -9.4061	Name: Galiza	Count:164
+208	Lat: 40.9842	Long: -8.5514	Name: Lourosa	Count:676
+209	Lat: 41.0355	Long: -8.6226	Name: Marinha	Count:1466
+210	Lat: 40.5146	Long: -8.4939	Name: Oliveira do Bairro	Count:779
+211	Lat: 39.4843	Long: -8.0205	Name: Ortiga	Count:194
+212	Lat: 37.1531	Long: -7.8875	Name: Sao Bras de Alportel	Count:3086
+213	Lat: 40.8173	Long: -7.5443	Name: Aguiar da Beira Municipality	Count:410
+214	Lat: 38.0544	Long: -8.7521	Name: Santo Andre	Count:1281
+215	Lat: 38.7368	Long: -9.312	Name: Talaide	Count:246
+216	Lat: 38.25	Long: -7.9	Name: Vila Alva	Count:1107
+217	Lat: 38.7067	Long: -8.9739	Name: Montijo	Count:7466
+218	Lat: 38.9742	Long: -9.2551	Name: Vila Franca do Rosario	Count:112
+219	Lat: 41.2345	Long: -8.403	Name: Lordelo	Count:2122
+220	Lat: 41.2004	Long: -8.6025	Name: Sao Mamede de Infesta	Count:2143
+221	Lat: 37.1693	Long: -8.3891	Name: Poco Barreto	Count:523
+222	Lat: 41.3426	Long: -8.4775	Name: Santo Tirso	Count:13045
+223	Lat: 41.1839	Long: -8.1486	Name: Marco de Canaveses	Count:789
+224	Lat: 38.9394	Long: -9.0189	Name: Sao Joao dos Montes	Count:30
+225	Lat: 40.4112	Long: -8.0799	Name: Castelejo	Count:287
+226	Lat: 42.143	Long: -8.4263	Name: Monção	Count:174
+227	Lat: 38.801	Long: -9.3783	Name: Sintra	Count:11947
+228	Lat: 41.1496	Long: -8.611	Name: Porto	Count:160408
+229	Lat: 38.2935	Long: -8.0357	Name: Vila Nova	Count:266
+230	Lat: 39.6024	Long: -8.8993	Name: Juncal	Count:451
+231	Lat: 40.4208	Long: -8.52	Name: Vilarinho do Bairro	Count:543
+232	Lat: 37.3192	Long: -8.8033	Name: Aljezur	Count:615
+233	Lat: 40.6363	Long: -7.8377	Name: Prime	Count:2902
+234	Lat: 38.7938	Long: -9.1046	Name: Sacavem	Count:2656
+235	Lat: 38.917	Long: -9.0266	Name: Sobralinho	Count:451
+236	Lat: 39.4833	Long: -8.3	Name: Montalvo	Count:133
+237	Lat: 40.5426	Long: -8.5386	Name: Oia	Count:440
+238	Lat: 38.702	Long: -7.4031	Name: Alandroal	Count:1784
+239	Lat: 40.4151	Long: -7.7086	Name: Seia	Count:1456
+240	Lat: 39.209	Long: -8.6164	Name: Almeirim	Count:2727
+241	Lat: 38.3833	Long: -28.2667	Name: Lajes	Count:184
+242	Lat: 39.7196	Long: -8.8155	Name: Moura	Count:215
+243	Lat: 39.5843	Long: -9.0229	Name: Valado de Frades	Count:523
+244	Lat: 40.8077	Long: -8.5722	Name: Avanca	Count:215
+245	Lat: 41.2493	Long: -8.3523	Name: Sobrosa	Count:276
+246	Lat: 41.1931	Long: -8.5817	Name: Pedroucos	Count:492
+247	Lat: 38.6175	Long: -9.1045	Name: Torre da Marinha	Count:2163
+248	Lat: 38.9813	Long: -9.2807	Name: Gradil	Count:287
+249	Lat: 41.4846	Long: -8.3485	Name: Caldas das Taipas	Count:379
+250	Lat: 40.0405	Long: -7.0168	Name: Penha Garcia	Count:389
+251	Lat: 40.7418	Long: -7.7329	Name: Satao	Count:287
+252	Lat: 38.7793	Long: -9.1022	Name: Moscavide	Count:1302
+253	Lat: 41.8489	Long: -8.4109	Name: Arcos de Valdevez	Count:1528
+254	Lat: 41.3608	Long: -8.5677	Name: Ribeirao	Count:348
+255	Lat: 37.1377	Long: -8.0197	Name: Loule	Count:19157
+256	Lat: 38.7759	Long: -9.4766	Name: Azoia	Count:102
+257	Lat: 38.3646	Long: -7.47	Name: Campinho	Count:133
+258	Lat: 39.6698	Long: -8.9958	Name: Pataias	Count:523
+259	Lat: 41.2352	Long: -8.3889	Name: Vilela	Count:779
+260	Lat: 38.4731	Long: -9.1709	Name: Aldeia do Meio	Count:102
+261	Lat: 39.2822	Long: -8.7757	Name: Mocarria	Count:266
+262	Lat: 41.3484	Long: -8.3797	Name: Roriz	Count:758
+263	Lat: 41.6618	Long: -7.5677	Name: Vilarinho das Paranheiras	Count:184
+264	Lat: 38.6954	Long: -9.2941	Name: Paco de Arcos	Count:4409
+265	Lat: 41.0284	Long: -8.5802	Name: Grijo	Count:1251
+266	Lat: 41.2357	Long: -8.6199	Name: Maia	Count:34520
+267	Lat: 41.2167	Long: -8.7	Name: Paraiso	Count:492
+268	Lat: 41.2854	Long: -8.5632	Name: Sao Romao do Coronado	Count:317
+269	Lat: 38.7218	Long: -9.2221	Name: Portela	Count:666
+270	Lat: 39.6207	Long: -8.6524	Name: Fátima	Count:892
+271	Lat: 41.5143	Long: -7.9894	Name: Cabeceiras de Basto	Count:666
+272	Lat: 41.4565	Long: -8.454	Name: Telhado	Count:20
+273	Lat: 38.6992	Long: -9.3494	Name: Rana	Count:5445
+274	Lat: 37.195	Long: -7.4177	Name: Vila Real de Santo António	Count:851
+275	Lat: 40.9887	Long: -7.3939	Name: Penedono	Count:174
+276	Lat: 38.9019	Long: -9.1188	Name: Bucelas	Count:2040
+277	Lat: 39.6603	Long: -8.8248	Name: Batalha	Count:1722
+278	Lat: 40.4748	Long: -8.6957	Name: Calvao	Count:164
+279	Lat: 38.4433	Long: -7.3801	Name: Monsaraz	Count:102
+280	Lat: 38.6877	Long: -9.1466	Name: Cacilhas	Count:369
+281	Lat: 40.9426	Long: -8.461	Name: Romariz	Count:194
+282	Lat: 39.7161	Long: -8.6993	Name: Olivais	Count:184
+283	Lat: 32.85	Long: -17.1667	Name: Porto Moniz	Count:564
+284	Lat: 41.8058	Long: -6.7572	Name: Braganca	Count:4225
+285	Lat: 41.0351	Long: -8.507	Name: Sandim	Count:205
+286	Lat: 38.7031	Long: -9.2767	Name: Caxias	Count:512
+287	Lat: 40.4595	Long: -8.8007	Name: Praia de Mira	Count:276
+288	Lat: 40.9387	Long: -8.3259	Name: Povoa	Count:256
+289	Lat: 40.9806	Long: -8.4401	Name: Vale	Count:287
+290	Lat: 38.8603	Long: -9.1277	Name: Sao Juliao do Tojal	Count:471
+291	Lat: 39.2672	Long: -9.158	Name: Bombarral	Count:738
+292	Lat: 38.8605	Long: -9.3328	Name: Montelavar	Count:338
+293	Lat: 38.4445	Long: -9.1012	Name: Sesimbra	Count:3035
+294	Lat: 41.2966	Long: -8.6899	Name: Modivas	Count:574
+295	Lat: 39.515	Long: -7.6491	Name: Nisa	Count:1025
+296	Lat: 41.0652	Long: -7.9335	Name: Felgueiras	Count:769
+297	Lat: 40.7346	Long: -8.3672	Name: Sever do Vouga	Count:102
+298	Lat: 40.3967	Long: -8.2323	Name: Mortagua	Count:348
+299	Lat: 38.7992	Long: -9.4469	Name: Colares	Count:769
+300	Lat: 39.9167	Long: -8.6285	Name: Pombal	Count:3445
+301	Lat: 41.6833	Long: -8.7667	Name: Darque	Count:317
+302	Lat: 38.2099	Long: -7.8005	Name: Vidigueira	Count:358
+303	Lat: 40.841	Long: -8.4756	Name: Oliveira de Azeméis	Count:121611
+304	Lat: 41.0829	Long: -8.6268	Name: Gulpilhares	Count:871
+305	Lat: 38.6446	Long: -9.2356	Name: Costa de Caparica	Count:2533
+306	Lat: 38.6141	Long: -9.1107	Name: Fogueteiro	Count:184
+307	Lat: 39.1112	Long: -9.3643	Name: Silveira	Count:10
+308	Lat: 40.507	Long: -8.549	Name: Povoa do Forno	Count:10
+309	Lat: 41.2672	Long: -8.3443	Name: Ferreira	Count:399
+310	Lat: 40.6042	Long: -7.7611	Name: Mangualde	Count:1035
+311	Lat: 39.4471	Long: -9.0154	Name: Santa Catarina	Count:399
+312	Lat: 38.9529	Long: -7.6753	Name: Souzel	Count:297
+313	Lat: 42.05	Long: -8.4333	Name: Castelo	Count:4666
+314	Lat: 41.2241	Long: -8.4067	Name: Rebordosa	Count:758
+315	Lat: 38.75	Long: -9.2833	Name: Massama	Count:4379
+316	Lat: 38.7413	Long: -9.1613	Name: Sete Rios	Count:338
+317	Lat: 41.5712	Long: -8.7842	Name: Rio de Moinhos	Count:297
+318	Lat: 32.7667	Long: -16.8333	Name: Porto da Cruz	Count:953
+319	Lat: 38.831	Long: -7.8403	Name: Vimieiro	Count:215
+320	Lat: 37.1	Long: -8.4667	Name: Praia do Carvoeiro	Count:523
+321	Lat: 40.2183	Long: -8.054	Name: Arganil	Count:2533
+322	Lat: 37.2335	Long: -8.1264	Name: Benafim	Count:1281
+323	Lat: 40.6839	Long: -8.4617	Name: Acores	Count:17055
+324	Lat: 38.7108	Long: -9.4088	Name: Monte Estoril	Count:1271
+325	Lat: 38.861	Long: -9.0645	Name: Povoa de Santa Iria	Count:4276
+326	Lat: 38.7048	Long: -9.2516	Name: Cruz Quebrada	Count:348
+327	Lat: 40.7565	Long: -8.5721	Name: Estarreja	Count:2071
+328	Lat: 40.5838	Long: -7.9941	Name: Parada de Gonta	Count:266
+329	Lat: 39.364	Long: -9.3154	Name: Ferrel	Count:1969
+330	Lat: 41.2361	Long: -7.9369	Name: Povoa	Count:523
+331	Lat: 38.7325	Long: -9.28	Name: Barcarena	Count:881
+332	Lat: 37.5981	Long: -8.6389	Name: Odemira	Count:1199
+333	Lat: 38.8333	Long: -7.4667	Name: Forte	Count:184
+334	Lat: 41.6932	Long: -8.8329	Name: Viana do Castelo	Count:17434
+335	Lat: 38.788	Long: -9.2103	Name: Famoes	Count:1046
+336	Lat: 41.4391	Long: -8.4085	Name: Joane	Count:1651
+337	Lat: 39.415	Long: -8.8219	Name: Alcanede	Count:276
+338	Lat: 41.8351	Long: -7.005	Name: Vinhais	Count:338
+339	Lat: 40.9553	Long: -8.5512	Name: Sao Joao de Ver	Count:656
+340	Lat: 39.8226	Long: -8.38	Name: Alvaiazere	Count:410
+341	Lat: 40.3564	Long: -6.9578	Name: Soito	Count:297
+342	Lat: 38.6771	Long: -8.4579	Name: Vendas Novas	Count:1620
+343	Lat: 39.0125	Long: -9.1379	Name: Folgados	Count:379
+344	Lat: 40.5373	Long: -7.2657	Name: Guarda	Count:2235
+345	Lat: 40.6362	Long: -8.7134	Name: Gafanha da Nazare	Count:717
+346	Lat: 41.1175	Long: -8.5499	Name: Avintes	Count:164
+347	Lat: 38.7145	Long: -9.2422	Name: Linda a Velha	Count:7178
+348	Lat: 40.0662	Long: -7.9995	Name: Carvalho	Count:153
+349	Lat: 37.5128	Long: -8.0601	Name: Almodovar	Count:1292
+350	Lat: 37.5166	Long: -8.4756	Name: Santa Clara-a-Velha	Count:266
+351	Lat: 41.0053	Long: -8.592	Name: Nogueira da Regedoura	Count:133
+352	Lat: 38.4667	Long: -7.3833	Name: Outeiro	Count:933
+353	Lat: 38.9352	Long: -9.4013	Name: Baleia	Count:2328
+354	Lat: 40.9157	Long: -8.4966	Name: Arrifana	Count:1261
+355	Lat: 39.0533	Long: -7.4376	Name: Monforte	Count:112
+356	Lat: 38.5167	Long: -28.7	Name: Ribeira Grande	Count:61
+357	Lat: 38.5167	Long: -9.0167	Name: Vila Nogueira de Azeitao	Count:174
+358	Lat: 41.4582	Long: -8.361	Name: Brito	Count:1240
+359	Lat: 41.5909	Long: -8.4275	Name: Palmeira	Count:307
+360	Lat: 40.7187	Long: -8.1561	Name: Sao Vicente de Lafoes	Count:256
+361	Lat: 39.8498	Long: -8.6557	Name: Vermoil	Count:153
+362	Lat: 37.0869	Long: -8.0307	Name: Almancil	Count:3692
+363	Lat: 39.45	Long: -8.4333	Name: Vila Nova da Barquinha	Count:1610
+364	Lat: 41.1852	Long: -8.4649	Name: Campo	Count:1271
+365	Lat: 38.8463	Long: -9.0875	Name: Santa Iria da Azoia	Count:2266
+366	Lat: 39.3575	Long: -9.3804	Name: Peniche	Count:3435
+367	Lat: 41.2367	Long: -8.5245	Name: Alfena	Count:830
+368	Lat: 38.8	Long: -9.3667	Name: Lourel de Baixo	Count:164
+369	Lat: 38.8	Long: -9.1667	Name: Povoa de Santo Adriao	Count:348
+370	Lat: 38.8	Long: -9.3333	Name: Algueirao	Count:697
+371	Lat: 41.4706	Long: -8.3299	Name: Ponte	Count:369
+372	Lat: 39.7999	Long: -8.8326	Name: Regueira de Pontes	Count:297
+373	Lat: 41.3885	Long: -8.4855	Name: Lagoa	Count:369
+374	Lat: 38.8218	Long: -9.0908	Name: Sao Joao da Talha	Count:225
+375	Lat: 41.4294	Long: -8.3574	Name: Pevidem	Count:20
+376	Lat: 38.679	Long: -9.1569	Name: Almada	Count:24654
+377	Lat: 39.7727	Long: -8.8161	Name: Gandara dos Olivais	Count:225
+378	Lat: 41.0533	Long: -8.6433	Name: Arcozelo	Count:912
+379	Lat: 41.6404	Long: -7.9458	Name: Salto	Count:492
+380	Lat: 41.9412	Long: -8.7423	Name: Vila Nova de Cerveira	Count:851
+381	Lat: 41.3965	Long: -8.3868	Name: Riba de Ave	Count:4686
+382	Lat: 41.7337	Long: -8.7802	Name: Moncao	Count:1076
+383	Lat: 40.5168	Long: -8.0809	Name: Tondela	Count:1804
+384	Lat: 38.8291	Long: -9.1681	Name: Loures	Count:11178
+385	Lat: 38.6681	Long: -9.052	Name: Lavradio	Count:994
+386	Lat: 41.4081	Long: -8.3206	Name: Nespereira	Count:194
+387	Lat: 39.4447	Long: -8.5142	Name: Riachos	Count:451
+388	Lat: 41.2332	Long: -8.0419	Name: Infesta	Count:533
+389	Lat: 38.307	Long: -7.7024	Name: Portel	Count:502
+390	Lat: 38.9841	Long: -9.0775	Name: Arruda dos Vinhos	Count:676
+391	Lat: 38.8443	Long: -7.5859	Name: Estremoz	Count:2256
+392	Lat: 40.8	Long: -8.5	Name: Nogueira	Count:174
+393	Lat: 39.8457	Long: -8.8233	Name: Souto da Carpalhosa	Count:225
+394	Lat: 41.1627	Long: -8.0347	Name: Baião	Count:164
+395	Lat: 38.6167	Long: -9.0833	Name: Aldeia de Paio Pires	Count:840
+396	Lat: 40.9592	Long: -8.6265	Name: Esmoriz	Count:1712
+397	Lat: 40.286	Long: -7.504	Name: Covilha	Count:3425
+398	Lat: 41.128	Long: -8.2864	Name: Paredes	Count:7004
+399	Lat: 38.5667	Long: -7.9	Name: Evora	Count:8973
+400	Lat: 41.1445	Long: -8.5322	Name: Gondomar	Count:11855
+401	Lat: 41.0078	Long: -8.6236	Name: Anta	Count:143
+402	Lat: 41.3839	Long: -8.044	Name: Basto	Count:358
+403	Lat: 41.1939	Long: -8.5413	Name: Baguim do Monte	Count:1784
+404	Lat: 41.3259	Long: -7.6052	Name: Paredes	Count:266
+405	Lat: 38.691	Long: -9.3222	Name: Carcavelos	Count:6748
+406	Lat: 38.691	Long: -9.3108	Name: Oeiras	Count:11814
+407	Lat: 41.4444	Long: -8.2962	Name: Guimarães	Count:54559
+408	Lat: 38.5408	Long: -8.166	Name: Escoural	Count:225
+409	Lat: 41.2768	Long: -7.4749	Name: Alijó Municipality	Count:317
+410	Lat: 39.6796	Long: -8.6868	Name: Santa Catarina da Serra	Count:297
+411	Lat: 38.7012	Long: -9.3276	Name: Sao Domingos de Rana	Count:2738
+412	Lat: 41.4567	Long: -8.2941	Name: Azurem	Count:3281
+413	Lat: 41.6473	Long: -8.4372	Name: Vila Verde	Count:1876
+414	Lat: 39.138	Long: -8.8993	Name: Aveiras de Cima	Count:205
+415	Lat: 42.0627	Long: -8.4308	Name: Marco	Count:738
+416	Lat: 38.7224	Long: -9.2659	Name: Quejas	Count:3722
+417	Lat: 38.7167	Long: -9.1333	Name: Lisbon	Count:382832
+418	Lat: 38.7167	Long: -9.4167	Name: Amoreira	Count:779
+419	Lat: 38.7597	Long: -9.2397	Name: Amadora	Count:27372
+420	Lat: 38.9175	Long: -9.3185	Name: Igreja Nova	Count:461
+421	Lat: 37.1018	Long: -8.6742	Name: Lagos	Count:21280
+422	Lat: 39.243	Long: -9.1033	Name: Cadaval	Count:287
+423	Lat: 39.676	Long: -8.3274	Name: Igreja Nova	Count:307
+424	Lat: 39.2698	Long: -9.105	Name: Vermelha	Count:451
+425	Lat: 41.6216	Long: -8.7122	Name: Neiva	Count:338
+426	Lat: 41.3392	Long: -8.7181	Name: Arvore	Count:143
+427	Lat: 39.0911	Long: -9.2586	Name: Torres Vedras	Count:6584
+428	Lat: 38.7052	Long: -9.348	Name: Zambujal	Count:235
+429	Lat: 38.55	Long: -28.6167	Name: Praia do Almoxarife	Count:440
+430	Lat: 41.3834	Long: -8.7636	Name: Póvoa de Varzim	Count:15250
+431	Lat: 40.2103	Long: -8.2575	Name: Poiares	Count:317
+432	Lat: 41.3501	Long: -8.5356	Name: Lousado	Count:676
+433	Lat: 37.1892	Long: -8.4382	Name: Silves	Count:5661
+434	Lat: 40.3603	Long: -8.1186	Name: Pinheiro de Azere	Count:758
+435	Lat: 40.3603	Long: -8.5028	Name: Murtede	Count:276
+436	Lat: 41.7672	Long: -8.5839	Name: Ponte de Lima	Count:2256
+437	Lat: 38.6481	Long: -8.2145	Name: Montemor-o-Novo	Count:902
+438	Lat: 38.9273	Long: -9.0086	Name: Alhandra	Count:1846
+439	Lat: 41.2147	Long: -8.1595	Name: Constance	Count:256
+440	Lat: 38.7204	Long: -9.0047	Name: Samouco	Count:461
+441	Lat: 37.0695	Long: -8.1006	Name: Quarteira	Count:10614
+442	Lat: 41.3685	Long: -8.5989	Name: Fradelos	Count:399
+443	Lat: 41.2677	Long: -8.6452	Name: Gemunde	Count:215
+444	Lat: 40.926	Long: -8.5116	Name: Escapaes	Count:307
+445	Lat: 42.0213	Long: -8.4522	Name: Porto	Count:820
+446	Lat: 39.0279	Long: -8.7935	Name: Salvaterra de Magos	Count:1394
+447	Lat: 41.5503	Long: -8.4201	Name: Braga	Count:62620
+448	Lat: 38.6206	Long: -9.1915	Name: Charneca	Count:1056
+449	Lat: 41.2104	Long: -8.4549	Name: Sobrado	Count:276
+450	Lat: 37.0981	Long: -7.8943	Name: Estoi	Count:307
+451	Lat: 40.3078	Long: -8.6414	Name: Casal	Count:297
+452	Lat: 38.6928	Long: -9.3541	Name: Parede	Count:3097
+453	Lat: 40.2391	Long: -8.5138	Name: Sao Joao do Campo	Count:205
+454	Lat: 38.8164	Long: -9.2556	Name: Dona Maria	Count:123
+455	Lat: 40.4289	Long: -8.7375	Name: Mira	Count:953
+456	Lat: 38.7236	Long: -7.9848	Name: Arraiolos	Count:1394
+457	Lat: 40.4714	Long: -7.7501	Name: Tourais	Count:235
+458	Lat: 39.8085	Long: -8.0988	Name: Serta	Count:728
+459	Lat: 39.1987	Long: -7.6583	Name: Alter do Chao	Count:1394
+460	Lat: 40.6125	Long: -6.834	Name: Vilar Formoso	Count:143
+461	Lat: 41.0897	Long: -8.6211	Name: Vilar do Paraiso	Count:71
+462	Lat: 41.4878	Long: -7.9613	Name: Trofa	Count:2307
+463	Lat: 41.4874	Long: -7.1869	Name: Mirandela	Count:3168
+464	Lat: 38.765	Long: -9.2097	Name: Alfornelos	Count:553
+465	Lat: 39.1433	Long: -8.6872	Name: Bemfica	Count:276
+466	Lat: 40.969	Long: -8.4983	Name: Caldas de Sao Jorge	Count:369
+467	Lat: 41.0531	Long: -8.5754	Name: Guimaraes	Count:2553
+468	Lat: 39.8008	Long: -8.7108	Name: Colmeias	Count:194
+469	Lat: 39.462	Long: -8.7118	Name: Monsanto	Count:184
+470	Lat: 41.2883	Long: -8.3353	Name: Freamunde	Count:912
+471	Lat: 38.6296	Long: -9.1156	Name: Amora	Count:7578
+472	Lat: 40.5322	Long: -7.8515	Name: Nelas	Count:687
+473	Lat: 41.6329	Long: -8.1425	Name: Vieira do Minho	Count:164
+474	Lat: 39.1324	Long: -7.5901	Name: Cabeco de Vide	Count:553
+475	Lat: 41.3442	Long: -8.3501	Name: Negrelos	Count:482
+476	Lat: 40.2671	Long: -7.5692	Name: Bouca	Count:194
+477	Lat: 41.1851	Long: -8.3734	Name: Baltar	Count:851
+478	Lat: 38.9552	Long: -8.9897	Name: Vila Franca de Xira	Count:1569
+479	Lat: 38.7025	Long: -9.2294	Name: Alges	Count:4850
+480	Lat: 38.7328	Long: -8.9711	Name: Sao Francisco	Count:276
+481	Lat: 40.4241	Long: -7.7277	Name: Santiago	Count:256
+482	Lat: 41.9101	Long: -8.5609	Name: Paredes de Coura	Count:1189
+483	Lat: 41.0254	Long: -8.5388	Name: Argoncilhe	Count:779
+484	Lat: 41.1745	Long: -7.0536	Name: Torre de Moncorvo	Count:389
+485	Lat: 38.912	Long: -8.5808	Name: Cavaleiros	Count:533
+486	Lat: 38.7175	Long: -9.2983	Name: Porto Salvo	Count:2358
+487	Lat: 37.0832	Long: -8.9114	Name: Vila do Bispo	Count:810
+488	Lat: 41.6785	Long: -8.4648	Name: Dossaos	Count:389
+489	Lat: 39.6019	Long: -8.8184	Name: Porto de Mos	Count:430
+490	Lat: 39.5432	Long: -8.715	Name: Mira	Count:266
+491	Lat: 38.7677	Long: -9.1993	Name: Pontinha	Count:553
+492	Lat: 41.0974	Long: -7.8099	Name: Lamego	Count:1405
+493	Lat: 39.5	Long: -8	Name: 	Count:2403467
+494	Lat: 39.4826	Long: -8.6099	Name: Zibreira	Count:687
+495	Lat: 41.1821	Long: -8.6891	Name: Matosinhos Municipality	Count:17506
+496	Lat: 38.7566	Long: -9.2545	Name: Queluz	Count:6543
+497	Lat: 39.3373	Long: -8.9391	Name: Rio Maior	Count:933
+498	Lat: 38.8309	Long: -8.7936	Name: Poceirao	Count:379
+499	Lat: 37.1015	Long: -8.4698	Name: Carvoeiro	Count:1569
+500	Lat: 37.9997	Long: -8.3797	Name: Ermidas	Count:215
+501	Lat: 39.8307	Long: -8.5701	Name: Avelar	Count:379
+502	Lat: 39.9479	Long: -8.4806	Name: Santiago da Guarda	Count:30
+503	Lat: 38.3733	Long: -8.5144	Name: Alcacer do Sal	Count:61
+504	Lat: 38.6311	Long: -8.9138	Name: Pinhal Novo	Count:4204
+505	Lat: 37.1457	Long: -8.4856	Name: Estombar	Count:1456
+506	Lat: 39.4247	Long: -8.97	Name: Benedita	Count:5989
+507	Lat: 41.1322	Long: -7.744	Name: Parada do Bispo	Count:461
+508	Lat: 38.6722	Long: -9.2327	Name: Trafaria	Count:256
+509	Lat: 37.6539	Long: -8.2257	Name: Ourique	Count:317
+510	Lat: 39.4193	Long: -9.1909	Name: Nadadouro	Count:420
+511	Lat: 38.9371	Long: -8.8718	Name: Samora Correia	Count:1363
+512	Lat: 38.8578	Long: -9.3235	Name: Pero Pinheiro	Count:451
+513	Lat: 38.742	Long: -9.2697	Name: Queluz de Baixo	Count:194
+514	Lat: 40.0936	Long: -8.8283	Name: Lavos	Count:256
+515	Lat: 39.1495	Long: -8.8388	Name: Pontevel	Count:820
+516	Lat: 37.1586	Long: -8.6149	Name: Mexilhoeira Grande	Count:666
+517	Lat: 38.8686	Long: -9.3544	Name: Cabrela	Count:348
+518	Lat: 32.6333	Long: -16.9	Name: Funchal	Count:86188
+519	Lat: 32.6333	Long: -16.85	Name: Canico	Count:2789
+520	Lat: 32.6333	Long: -16.9667	Name: Câmara de Lobos	Count:1548
+521	Lat: 41.2727	Long: -8.0825	Name: Amarante	Count:2030
+522	Lat: 40.7833	Long: -7.3502	Name: Trancoso	Count:215
+523	Lat: 39.3381	Long: -9.3263	Name: Atouguia da Baleia	Count:523
+524	Lat: 40.8369	Long: -7.9475	Name: Mamouros	Count:256
+525	Lat: 39.1712	Long: -8.8265	Name: Vale da Pinta	Count:451
+526	Lat: 39.5163	Long: -8.688	Name: Minde	Count:676
+527	Lat: 41.7574	Long: -7.6896	Name: Vilarinho de Arcos	Count:399
+528	Lat: 40.6962	Long: -7.9464	Name: Mozelos	Count:184
+529	Lat: 40.482	Long: -8.1734	Name: Vale	Count:297
+530	Lat: 33.05	Long: -16.3333	Name: Vila de Porto Santo	Count:953
+531	Lat: 38.7553	Long: -8.9609	Name: Alcochete	Count:1999
+532	Lat: 39.4047	Long: -8.4863	Name: Golega	Count:348
+533	Lat: 38.6549	Long: -9.0237	Name: Alhos Vedros	Count:1558
+534	Lat: 39.0431	Long: -9.0003	Name: Santo Antonio	Count:1466
+535	Lat: 40.9945	Long: -8.5254	Name: Fiaes	Count:153
+536	Lat: 38.8024	Long: -9.1922	Name: Ramada	Count:3035
+537	Lat: 38.7554	Long: -9.4458	Name: Malveira da Serra	Count:92
+538	Lat: 41.3308	Long: -8.2677	Name: Barrosas	Count:399
+539	Lat: 39.1602	Long: -8.7874	Name: Cartaxo	Count:3179
+540	Lat: 40.8618	Long: -8.626	Name: Ovar	Count:7281
+541	Lat: 39.2489	Long: -7.924	Name: Vale de Acor	Count:235
+542	Lat: 40.1402	Long: -7.5013	Name: Fundao	Count:2328
+543	Lat: 37.1372	Long: -8.1582	Name: Boliqueime	Count:6635
+544	Lat: 38.4253	Long: -7.5349	Name: Reguengos de Monsaraz	Count:133
+545	Lat: 39.2972	Long: -7.4302	Name: Portalegre	Count:2297
+546	Lat: 38.05	Long: -8.0333	Name: Ferreira do Alentejo	Count:123
+547	Lat: 41.6899	Long: -7.6659	Name: Boticas	Count:266
+548	Lat: 39.9164	Long: -7.4566	Name: Alcains	Count:635
+549	Lat: 38.8263	Long: -9.1436	Name: Frielas	Count:82
+550	Lat: 39.6833	Long: -8.95	Name: Martinganca	Count:1199
+551	Lat: 40.4384	Long: -8.4335	Name: Anadia	Count:1784
+552	Lat: 39.3606	Long: -9.1567	Name: Obidos	Count:2563
+553	Lat: 40.3447	Long: -8.2442	Name: Ferradosa	Count:246
+554	Lat: 40.4857	Long: -7.6703	Name: Lagarinhos	Count:246
+555	Lat: 41.3659	Long: -8.2838	Name: Vizela	Count:2851
+556	Lat: 41.4883	Long: -8.3048	Name: Prazins	Count:902
+557	Lat: 41.8045	Long: -8.4155	Name: Ponte da Barca	Count:779
+558	Lat: 41.4378	Long: -8.3136	Name: Creixomil	Count:912
+559	Lat: 38.9647	Long: -9.4167	Name: Ericeira	Count:1158
+560	Lat: 39.0659	Long: -9.2081	Name: Runa	Count:205
+561	Lat: 40.8722	Long: -8.4715	Name: Sao Roque	Count:892
+562	Lat: 38.8132	Long: -9.2268	Name: Canecas	Count:861
+563	Lat: 41.072	Long: -8.09	Name: Cinfaes	Count:502
+564	Lat: 37.0611	Long: -7.8719	Name: Pechao	Count:297
+565	Lat: 38.7746	Long: -9.3276	Name: Rio de Mouro	Count:5004
+566	Lat: 38.839	Long: -9.1927	Name: Pinheiro	Count:697
+567	Lat: 41.111	Long: -8.519	Name: Jovim	Count:738
+568	Lat: 40.1382	Long: -8.4693	Name: Cernache	Count:615
+569	Lat: 41.8102	Long: -8.625	Name: Felgueiras	Count:41
+570	Lat: 38.7271	Long: -9.2467	Name: Carnaxide	Count:3394
+571	Lat: 39.0416	Long: -9.2658	Name: Turcifal	Count:317
+572	Lat: 38.7254	Long: -9.3338	Name: Abobada	Count:451
+573	Lat: 39.2884	Long: -9.2165	Name: Reguengo Grande	Count:133
+574	Lat: 37.4903	Long: -7.8659	Name: Quinta	Count:1158
+575	Lat: 40.6932	Long: -8.4799	Name: Albergaria-a-Velha	Count:276
+576	Lat: 41.2995	Long: -8.6021	Name: Muro	Count:184
+577	Lat: 38.1654	Long: -7.8924	Name: Cuba	Count:164
+578	Lat: 41.3548	Long: -8.7434	Name: Vila do Conde	Count:12317
+579	Lat: 38.7246	Long: -9.3206	Name: Polima	Count:717
+580	Lat: 39.0473	Long: -8.7024	Name: Marinhais	Count:266
+581	Lat: 41.4415	Long: -8.3841	Name: Ronfe	Count:748
+582	Lat: 37.1026	Long: -8.357	Name: Armacao de Pera	Count:1384
+583	Lat: 38.0169	Long: -8.6947	Name: Santiago do Cacem	Count:1076
+584	Lat: 41.2112	Long: -7.8001	Name: Santa Marta de Penaguiao	Count:2738
+585	Lat: 37.3177	Long: -8.5553	Name: Monchique	Count:676
+586	Lat: 41.3861	Long: -8.1032	Name: Cabanelas	Count:82
+587	Lat: 39.9493	Long: -8.7838	Name: Guia	Count:235
+588	Lat: 40.1509	Long: -8.8618	Name: Figueira da Foz Municipality	Count:7660
+589	Lat: 40.6766	Long: -7.1302	Name: Roque	Count:41
+590	Lat: 38.6496	Long: -9.1898	Name: Sobreda	Count:492
+591	Lat: 39.4811	Long: -8.5395	Name: Torres Novas	Count:8317
+592	Lat: 37.6983	Long: -8.0858	Name: Castro Verde Municipality	Count:1528
+593	Lat: 40.8984	Long: -7.9338	Name: Castro Daire	Count:82
+594	Lat: 41.0967	Long: -8.5018	Name: Foz do Sousa	Count:348
+595	Lat: 41.5141	Long: -8.7755	Name: Fao	Count:687
+596	Lat: 41.5514	Long: -8.5832	Name: Tamel	Count:451
+597	Lat: 38.8815	Long: -7.1628	Name: Elvas	Count:1158
+598	Lat: 41.7763	Long: -6.757	Name: Samil	Count:379
+599	Lat: 38.7772	Long: -9.2608	Name: Belas	Count:1015
+600	Lat: 41.1247	Long: -8.5846	Name: Oliveira do Douro	Count:246
+601	Lat: 41.6334	Long: -8.6548	Name: Vila Nova	Count:1056
+602	Lat: 41.411	Long: -8.749	Name: Pedroso	Count:164
+603	Lat: 41.5724	Long: -8.6304	Name: Silva	Count:225
+604	Lat: 38.6975	Long: -9.4231	Name: Cascais	Count:31330
+605	Lat: 41.4318	Long: -8.7804	Name: Agucadoura	Count:492
+606	Lat: 41.3562	Long: -8.1793	Name: Moure	Count:297
+607	Lat: 37.9458	Long: -7.5975	Name: Serpa	Count:276
+608	Lat: 40.1711	Long: -8.3936	Name: Ceira	Count:358
+609	Lat: 38.5675	Long: -8.9423	Name: Quinta do Anjo	Count:728
+610	Lat: 40.2062	Long: -8.6481	Name: Carapinheira	Count:194
+611	Lat: 41.4588	Long: -8.546	Name: Nine	Count:451
+612	Lat: 41.1826	Long: -8.5581	Name: Rio Tinto	Count:5548
+613	Lat: 40.3145	Long: -7.4576	Name: Teixoso	Count:533
+614	Lat: 37.1353	Long: -8.4532	Name: Lagoa	Count:3661
+615	Lat: 41.048	Long: -8.6317	Name: Vila Cha	Count:902
+616	Lat: 40.0039	Long: -8.7374	Name: Lourical	Count:266
+617	Lat: 40.165	Long: -8.8198	Name: Casal da Areia	Count:328
+618	Lat: 40.4745	Long: -8.6706	Name: Ponte de Vagos	Count:574
+619	Lat: 39.9815	Long: -8.8071	Name: Carrico	Count:594
+620	Lat: 39.1224	Long: -7.2862	Name: Arronches	Count:174
+621	Lat: 40.1557	Long: -8.2029	Name: Serpins	Count:420
+622	Lat: 38.6631	Long: -9.0724	Name: Barreiro	Count:12922
+623	Lat: 37.184	Long: -7.5032	Name: Altura	Count:994
+624	Lat: 40.4868	Long: -8.4697	Name: Sangalhos	Count:276
+625	Lat: 38.9321	Long: -9.2578	Name: Malveira	Count:1117
+626	Lat: 39.9453	Long: -8.0422	Name: Madeira	Count:9824
+627	Lat: 39.1722	Long: -8.7666	Name: Vila Cha de Ourique	Count:246
+628	Lat: 40.6443	Long: -8.6455	Name: Aveiro	Count:29320
+629	Lat: 41.4058	Long: -8.7431	Name: Amorim	Count:810
+630	Lat: 38.3346	Long: -8.0044	Name: Viana do Alentejo	Count:41
+631	Lat: 41.5382	Long: -6.9611	Name: Macedo de Cavaleiros	Count:369
+632	Lat: 40.0932	Long: -8.3326	Name: Miranda do Corvo	Count:1876
+633	Lat: 39.8923	Long: -8.369	Name: Chao de Couce	Count:205
+634	Lat: 41.3821	Long: -8.3089	Name: Caldas de Vizela	Count:317
+635	Lat: 41.3523	Long: -8.1519	Name: Macieira da Lixa	Count:30
+636	Lat: 41.0434	Long: -8.2682	Name: Castelo de Paiva	Count:1763
+637	Lat: 38.8114	Long: -9.0941	Name: Bobadela	Count:328
+638	Lat: 39.0196	Long: -9.1508	Name: Sobral de Monte Agraco	Count:430
+639	Lat: 39.2346	Long: -9.0004	Name: Cercal	Count:143
+640	Lat: 41.2914	Long: -7.5187	Name: Sanfins do Douro	Count:123
+641	Lat: 38.9379	Long: -9.3276	Name: Mafra	Count:3999
+642	Lat: 38.9237	Long: -9.2318	Name: Venda do Pinheiro	Count:2256
+643	Lat: 41.4266	Long: -8.5627	Name: Cavaloes	Count:317
+644	Lat: 41.1161	Long: -7.5679	Name: Tabuaco	Count:410
+645	Lat: 39.6436	Long: -8.8641	Name: Calvaria de Cima	Count:625
+646	Lat: 37.1676	Long: -8.2855	Name: Tunes	Count:1046
+647	Lat: 40.4945	Long: -7.5921	Name: Gouveia	Count:1435
+648	Lat: 40.7397	Long: -8.5572	Name: Salreu	Count:153
+649	Lat: 38.7169	Long: -9.349	Name: Tires	Count:379
+650	Lat: 41.4419	Long: -7.956	Name: Canedo	Count:153
+651	Lat: 41.0719	Long: -8.269	Name: Varzea do Douro	Count:1405
+652	Lat: 38.8036	Long: -9.1281	Name: Camarate	Count:502
+653	Lat: 41.4963	Long: -8.6673	Name: Milhazes	Count:133
+654	Lat: 41.8749	Long: -8.8373	Name: Caminha	Count:1097
+655	Lat: 41.3006	Long: -7.7441	Name: Vila Real	Count:4604
+656	Lat: 41.3006	Long: -8.3608	Name: Carvalhosa	Count:1148
+657	Lat: 37.1794	Long: -8.2015	Name: Paderne	Count:707
+658	Lat: 37.0286	Long: -7.8411	Name: Olhao	Count:6030
+659	Lat: 41.3871	Long: -8.001	Name: Celorico de Basto	Count:461
+660	Lat: 41.0353	Long: -7.7599	Name: Dalvares	Count:266
+661	Lat: 40.3618	Long: -7.8601	Name: Oliveira do Hospital	Count:471
+662	Lat: 37.2207	Long: -7.4435	Name: Castro Marim	Count:2830
+663	Lat: 40.0911	Long: -8.8746	Name: Costa de Lavos	Count:769
+664	Lat: 40.9544	Long: -8.4375	Name: Oliveira	Count:205
+665	Lat: 41.1649	Long: -7.787	Name: Peso da Régua Municipality	Count:2779
+666	Lat: 41.3833	Long: -8.4685	Name: Landim	Count:594
+667	Lat: 39.8222	Long: -7.4909	Name: Castelo Branco	Count:8163
+668	Lat: 40.3593	Long: -7.3487	Name: Belmonte	Count:2430
+669	Lat: 41.4542	Long: -8.168	Name: Fafe	Count:8081
+670	Lat: 41.0094	Long: -8.5132	Name: Sanguedo	Count:399
+671	Lat: 41.5085	Long: -8.6268	Name: Alvelos	Count:184
+672	Lat: 41.5388	Long: -8.6151	Name: Barcelos	Count:46211
+673	Lat: 41.9168	Long: -8.4395	Name: Vila Nova	Count:482
+674	Lat: 40.6111	Long: -8.4621	Name: Mourisca do Vouga	Count:276
+675	Lat: 39.0338	Long: -9.3677	Name: Encarnacao	Count:123
+676	Lat: 40.3986	Long: -8.1316	Name: Santa Comba Dao	Count:287
+677	Lat: 38.6256	Long: -9.0304	Name: Santo Antonio da Charneca	Count:328
+678	Lat: 38.7717	Long: -9.2943	Name: Agualva	Count:1876
+679	Lat: 39.6885	Long: -8.8942	Name: Maceira	Count:687
+680	Lat: 38.8515	Long: -9.1397	Name: Santo Antao do Tojal	Count:358
+681	Lat: 38.7699	Long: -9.1067	Name: Olivais	Count:594
+682	Lat: 37.9562	Long: -8.8698	Name: Sines Municipality	Count:748
+683	Lat: 40.0372	Long: -7.5606	Name: Sao Vicente da Beira	Count:523
+684	Lat: 39.6029	Long: -9.0684	Name: Nazaré	Count:1128
+685	Lat: 39.8714	Long: -7.9931	Name: Porto	Count:328
+686	Lat: 40.2345	Long: -7.4445	Name: Ferro	Count:6481
+687	Lat: 40.2004	Long: -7.6367	Name: Paul	Count:758
+688	Lat: 38.7362	Long: -9.3661	Name: Manique de Baixo	Count:143
+689	Lat: 41.0396	Long: -8.6462	Name: Granja	Count:153
+690	Lat: 37.0902	Long: -8.2508	Name: Albufeira	Count:39586
+691	Lat: 40.0333	Long: -8.3833	Name: Penela	Count:102
+692	Lat: 39.007	Long: -9.2887	Name: Azueira	Count:1281
+693	Lat: 38.569	Long: -8.9013	Name: Palmela	Count:12388
+694	Lat: 41.5777	Long: -8.2685	Name: Povoa de Lanhoso	Count:6184
+695	Lat: 41.0833	Long: -8.6	Name: Canelas	Count:502
+696	Lat: 40.1636	Long: -8.6329	Name: Granja do Ulmeiro	Count:235
+697	Lat: 40.8368	Long: -8.0441	Name: Sul	Count:533
+698	Lat: 38.6797	Long: -8.9675	Name: Sarilhos Grandes	Count:276
+699	Lat: 41.391	Long: -8.2639	Name: Vizela	Count:1558

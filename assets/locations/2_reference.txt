@@ -1,0 +1,1303 @@
+Locations in Austria
+0	Lat: 48.7167	Long: 15.0167	Name: Grossneusiedl	Count:1199
+1	Lat: 48.7167	Long: 16.6167	Name: Poysbrunn	Count:420
+2	Lat: 48.7167	Long: 16.3833	Name: Laa an der Thaya	Count:2963
+3	Lat: 47.5659	Long: 12.1519	Name: Kufstein	Count:10122
+4	Lat: 46.9242	Long: 15.4908	Name: Werndorf	Count:974
+5	Lat: 46.7242	Long: 15.5867	Name: Ehrenhausen	Count:102
+6	Lat: 47.7067	Long: 13.1729	Name: Salzburg	Count:276
+7	Lat: 48.57	Long: 16.5767	Name: Mistelbach	Count:20
+8	Lat: 47.5075	Long: 9.9781	Name: Hochlitten	Count:1169
+9	Lat: 46.6144	Long: 14.5758	Name: Sankt Kanzian	Count:215
+10	Lat: 47.2919	Long: 12.9633	Name: Taxenbach	Count:225
+11	Lat: 46.6611	Long: 13.6586	Name: Rubland	Count:1199
+12	Lat: 47.4131	Long: 9.7409	Name: Dornbirn	Count:21331
+13	Lat: 48.3167	Long: 16	Name: Tulln	Count:830
+14	Lat: 48.3167	Long: 14.2333	Name: Linz	Count:902
+15	Lat: 48.3167	Long: 16.1333	Name: Vienna	Count:4820
+16	Lat: 48.3167	Long: 13.9667	Name: Feldkirchen an der Donau	Count:3753
+17	Lat: 48.3167	Long: 15.8167	Name: Eggendorf	Count:1312
+18	Lat: 48.3167	Long: 14.8167	Name: Pabneukirchen	Count:543
+19	Lat: 48.3167	Long: 16.6667	Name: Strasshof an der Nordbahn	Count:3127
+20	Lat: 47.0833	Long: 11.4667	Name: Steinach am Brenner	Count:1374
+21	Lat: 47.0833	Long: 9.9	Name: Tschagguns	Count:3486
+22	Lat: 47.0833	Long: 16.3	Name: Hasendorf im Burgenland	Count:1220
+23	Lat: 47.0833	Long: 15.5	Name: Stifting	Count:27546
+24	Lat: 47.0833	Long: 10.8333	Name: Unterrain	Count:1025
+25	Lat: 46.8092	Long: 15.8117	Name: Dietersdorf am Gnasbach	Count:625
+26	Lat: 48.7	Long: 14.8833	Name: Weitra	Count:738
+27	Lat: 48.7	Long: 16.1	Name: Untermarkersdorf	Count:687
+28	Lat: 47.945	Long: 13.0236	Name: Gaisberg	Count:2276
+29	Lat: 46.7294	Long: 15.3	Name: Brunn	Count:1169
+30	Lat: 47.6333	Long: 16.1333	Name: Petersbaumgarten	Count:1220
+31	Lat: 47.6333	Long: 15.8167	Name: Semmering	Count:10
+32	Lat: 47.6333	Long: 12.2167	Name: Ebbs	Count:2410
+33	Lat: 47.15	Long: 10.5833	Name: Landeck	Count:297
+34	Lat: 47.15	Long: 14.7	Name: Maria Buch	Count:41
+35	Lat: 47.15	Long: 13.3	Name: Seebauer	Count:666
+36	Lat: 47.15	Long: 13.7	Name: Steindorf	Count:10
+37	Lat: 47.15	Long: 15.65	Name: Sankt Ruprecht an der Raab	Count:10
+38	Lat: 47.15	Long: 11.8333	Name: Finkenberg	Count:820
+39	Lat: 47.15	Long: 11.7333	Name: Lanersbach	Count:184
+40	Lat: 46.9039	Long: 15.71	Name: Sankt Stefan im Rosental	Count:820
+41	Lat: 47.8317	Long: 16.6088	Name: Eisenstadt	Count:953
+42	Lat: 46.7667	Long: 15.5667	Name: Leitring	Count:389
+43	Lat: 47.8796	Long: 16.4431	Name: Hornstein	Count:512
+44	Lat: 48.5444	Long: 13.5872	Name: Schoergeneck	Count:656
+45	Lat: 47.2	Long: 10.15	Name: Lech	Count:92
+46	Lat: 47.2	Long: 14.8333	Name: Apfelberg	Count:420
+47	Lat: 47.2	Long: 15.7333	Name: Elz	Count:2810
+48	Lat: 47.2	Long: 9.7831	Name: Ludesch	Count:3538
+49	Lat: 47.2	Long: 15.35	Name: Peggau	Count:3845
+50	Lat: 47.2	Long: 9.7331	Name: Bludesch	Count:1005
+51	Lat: 47.2	Long: 15.9833	Name: Sebersdorf	Count:1917
+52	Lat: 47.2	Long: 14.4333	Name: Frauenburg	Count:348
+53	Lat: 47.2	Long: 14.6167	Name: Gasselsdorf	Count:1148
+54	Lat: 47.2	Long: 9.6331	Name: Gurtis	Count:153
+55	Lat: 47.2	Long: 9.7	Name: Schlins	Count:112
+56	Lat: 47.2	Long: 9.65	Name: Feldkirch	Count:1733
+57	Lat: 47.2	Long: 9.7667	Name: Thuringen	Count:984
+58	Lat: 47.2	Long: 16.1167	Name: Hackerberg	Count:1394
+59	Lat: 46.5914	Long: 13.9814	Name: Foederlach	Count:697
+60	Lat: 47.8328	Long: 13.0703	Name: Nussdorf	Count:2892
+61	Lat: 47.7996	Long: 12.9733	Name: Salzburg	Count:656
+62	Lat: 47.617	Long: 13.635	Name: Bad Goisern	Count:3466
+63	Lat: 48.4294	Long: 14.1842	Name: Hofing	Count:615
+64	Lat: 47.8989	Long: 13.0567	Name: Modlham	Count:1569
+65	Lat: 46.6044	Long: 14.0975	Name: Schiefling am See	Count:523
+66	Lat: 48.2166	Long: 16.3927	Name: Vienna	Count:63789
+67	Lat: 47.0344	Long: 15.409	Name: Graz	Count:646
+68	Lat: 48.6	Long: 14.0167	Name: Schlaegl	Count:523
+69	Lat: 48.6	Long: 15.8167	Name: Burgschleinitz	Count:687
+70	Lat: 48.6	Long: 13.9333	Name: Schlaegl	Count:235
+71	Lat: 48.6	Long: 14.9667	Name: Wurmbrand	Count:307
+72	Lat: 48.6	Long: 16.05	Name: Schongrabern	Count:61
+73	Lat: 46.75	Long: 15.55	Name: Wagna	Count:358
+74	Lat: 46.75	Long: 15.3	Name: Dorfla	Count:769
+75	Lat: 46.7467	Long: 13.8131	Name: Tassach	Count:82
+76	Lat: 47.0875	Long: 15.4581	Name: Graz	Count:933
+77	Lat: 46.9261	Long: 13.9328	Name: Bauer	Count:430
+78	Lat: 47.3826	Long: 11.7089	Name: Schwaz	Count:41
+79	Lat: 46.8125	Long: 12.7486	Name: Leisach	Count:123
+80	Lat: 48.5014	Long: 13.8178	Name: Hamet	Count:1302
+81	Lat: 47.2941	Long: 11.4731	Name: Hall in Tirol	Count:1999
+82	Lat: 46.8333	Long: 13.8333	Name: Vorderkoflach	Count:1015
+83	Lat: 46.8333	Long: 14.3167	Name: AEussere Wimitz	Count:471
+84	Lat: 46.8333	Long: 14.1	Name: Spitzwiesen	Count:317
+85	Lat: 47.0715	Long: 15.4273	Name: Graz	Count:34920
+86	Lat: 47.8833	Long: 14.1167	Name: Kremsdorf	Count:61
+87	Lat: 47.8833	Long: 14.55	Name: Ober Plaissa	Count:51
+88	Lat: 47.8833	Long: 12.95	Name: Salzburg	Count:82
+89	Lat: 47.8833	Long: 16.35	Name: Wiener Neustadt	Count:892
+90	Lat: 47.8833	Long: 14.25	Name: Micheldorf in Oberoesterreich	Count:1220
+91	Lat: 47.8833	Long: 13.35	Name: Tiefgraben	Count:2317
+92	Lat: 47.9	Long: 14.1167	Name: Kirchdorf an der Krems	Count:1025
+93	Lat: 47.9	Long: 16.6333	Name: Eisenstadt	Count:30
+94	Lat: 47.9	Long: 13.3167	Name: Zell am Moos	Count:892
+95	Lat: 47.9	Long: 13.1833	Name: Henndorf am Wallersee	Count:1610
+96	Lat: 47.9	Long: 13.75	Name: Altmunster	Count:174
+97	Lat: 47.9	Long: 15.6167	Name: Hofamt	Count:461
+98	Lat: 47.9	Long: 16.1667	Name: Wiener Neustadt	Count:174
+99	Lat: 47.9	Long: 16.4	Name: Landegg	Count:564
+100	Lat: 47.9	Long: 16.5167	Name: Loretto	Count:1210
+101	Lat: 47.9	Long: 13	Name: Acharting	Count:92
+102	Lat: 47.9	Long: 15.9667	Name: Wiener Neustadt	Count:2122
+103	Lat: 47.9	Long: 16.6833	Name: Eisenstadt	Count:564
+104	Lat: 47.9	Long: 16.3833	Name: Pottendorf	Count:4635
+105	Lat: 46.6622	Long: 14.6344	Name: Voelkermarkt	Count:2563
+106	Lat: 46.56	Long: 13.9258	Name: Oberaichwald	Count:30
+107	Lat: 46.875	Long: 15.3267	Name: Grafendorf bei Stainz	Count:584
+108	Lat: 48.1667	Long: 13.7	Name: Ried im Innkreis	Count:174
+109	Lat: 48.1667	Long: 15.1333	Name: Untereichen	Count:225
+110	Lat: 48.1667	Long: 15.2	Name: Wohlfahrtsbrunn	Count:235
+111	Lat: 48.1667	Long: 14.0333	Name: Wels	Count:16562
+112	Lat: 48.1667	Long: 14.85	Name: Kollmitzberg	Count:61
+113	Lat: 48.1667	Long: 16.0167	Name: Vienna	Count:1251
+114	Lat: 48.1667	Long: 14.2333	Name: Ansfelden	Count:256
+115	Lat: 48.1667	Long: 13.5167	Name: Ried im Innkreis	Count:635
+116	Lat: 48.1667	Long: 15.0833	Name: Ybbs an der Donau	Count:1661
+117	Lat: 48.1667	Long: 15.0333	Name: Sankt Martin am Ybbsfelde	Count:451
+118	Lat: 48.1667	Long: 15.3833	Name: Loosdorf	Count:410
+119	Lat: 48.1667	Long: 16.05	Name: Pressbaum	Count:2051
+120	Lat: 48.1667	Long: 14.1833	Name: Linz	Count:1322
+121	Lat: 48.1667	Long: 13.2	Name: Treubach	Count:492
+122	Lat: 48.1667	Long: 16.3333	Name: Meidling	Count:24951
+123	Lat: 48.1667	Long: 14.4833	Name: Rubring	Count:1230
+124	Lat: 48.1667	Long: 16.15	Name: Vienna	Count:1702
+125	Lat: 48.1667	Long: 13.2667	Name: Hohnhart	Count:287
+126	Lat: 48.1667	Long: 13.1333	Name: Sankt Florian	Count:1046
+127	Lat: 48.1667	Long: 15.5667	Name: Matzersdorf	Count:830
+128	Lat: 47.2311	Long: 11.2734	Name: Innsbruck	Count:5753
+129	Lat: 46.5167	Long: 14.1	Name: Greuth	Count:748
+130	Lat: 46.5167	Long: 14.1667	Name: Feistritz	Count:82
+131	Lat: 47.45	Long: 11.9167	Name: Radfeld	Count:246
+132	Lat: 47.45	Long: 13.25	Name: Dorf	Count:471
+133	Lat: 47.45	Long: 12.0833	Name: Grafenweg	Count:41
+134	Lat: 47.45	Long: 12.05	Name: Worgl	Count:779
+135	Lat: 47.45	Long: 10.75	Name: Heiterwang	Count:10
+136	Lat: 47.45	Long: 12.1667	Name: Hopfgarten im Brixental	Count:902
+137	Lat: 47.45	Long: 9.75	Name: Dornbirn	Count:3558
+138	Lat: 47.45	Long: 11.8667	Name: Mariatal	Count:1620
+139	Lat: 47.45	Long: 12.3167	Name: Kirchberg in Tirol	Count:1374
+140	Lat: 47.45	Long: 12.75	Name: Rosental	Count:923
+141	Lat: 47.45	Long: 12.2667	Name: Lauterbach	Count:840
+142	Lat: 47.45	Long: 16.2333	Name: Harmannsdorf	Count:789
+143	Lat: 47.45	Long: 12.3833	Name: Kitzbühel	Count:3189
+144	Lat: 47.45	Long: 16.05	Name: Wiesenhoef	Count:471
+145	Lat: 46.5511	Long: 14.1869	Name: Neusass	Count:533
+146	Lat: 48.2089	Long: 16.37	Name: Vienna	Count:35381
+147	Lat: 48.1333	Long: 16.4667	Name: Schwechat	Count:10
+148	Lat: 48.1333	Long: 14.2167	Name: Neuhofen an der Krems	Count:164
+149	Lat: 48.1333	Long: 16.4167	Name: Vienna	Count:32776
+150	Lat: 48.1333	Long: 15.05	Name: Neumarkt an der Ybbs	Count:1210
+151	Lat: 48.1333	Long: 16.15	Name: Breitenfurt bei Wien	Count:6132
+152	Lat: 48.1333	Long: 14.65	Name: Thalling	Count:328
+153	Lat: 48.1333	Long: 12.8	Name: Holzgassen	Count:605
+154	Lat: 48.1333	Long: 16.2	Name: Gruner Baum	Count:10
+155	Lat: 48.1333	Long: 13.95	Name: Gunskirchen	Count:1025
+156	Lat: 48.1333	Long: 13.6833	Name: Altenhof am Hausruck	Count:635
+157	Lat: 48.1333	Long: 15.6667	Name: Sankt Polten	Count:440
+158	Lat: 48.1333	Long: 14.7667	Name: Engersdorf	Count:1179
+159	Lat: 48.1333	Long: 15.1333	Name: Wieselburg	Count:1189
+160	Lat: 48.1333	Long: 14.3667	Name: Hofkirchen im Traunkreis	Count:2245
+161	Lat: 48.1333	Long: 14.95	Name: Sankt Georgen am Ybbsfelde	Count:543
+162	Lat: 47.4333	Long: 11.7	Name: Pertisau	Count:471
+163	Lat: 47.4333	Long: 15.3	Name: Kapfenberg	Count:4707
+164	Lat: 47.4333	Long: 15.65	Name: Fischbach	Count:30
+165	Lat: 47.4333	Long: 16.4167	Name: Piringsdorf	Count:810
+166	Lat: 47.4333	Long: 13.3833	Name: Gasthof	Count:1158
+167	Lat: 47.4333	Long: 13.9333	Name: Stein an der Enns	Count:287
+168	Lat: 47.4333	Long: 12.2167	Name: Westendorf	Count:51
+169	Lat: 47.4333	Long: 14.9833	Name: Trofaiach	Count:3558
+170	Lat: 47.4333	Long: 12.75	Name: Pirzbichl	Count:256
+171	Lat: 47.4333	Long: 13.5167	Name: Filzmoos	Count:810
+172	Lat: 46.5689	Long: 14.4308	Name: Kosasmojach	Count:881
+173	Lat: 47.0083	Long: 9.9628	Name: Schruns	Count:266
+174	Lat: 47	Long: 12.5333	Name: Matrei in Osttirol	Count:912
+175	Lat: 47	Long: 15.4	Name: Seiersberg	Count:1507
+176	Lat: 47	Long: 15.9303	Name: Riegersburg	Count:61
+177	Lat: 46.7528	Long: 12.4211	Name: Sillian	Count:41
+178	Lat: 48.3683	Long: 14.2375	Name: Linz	Count:3856
+179	Lat: 46.5931	Long: 14.1889	Name: Keutschach am See	Count:410
+180	Lat: 47.551	Long: 14.8771	Name: Eisenerz	Count:871
+181	Lat: 46.7817	Long: 15.5417	Name: Leibnitz, Styria	Count:2010
+182	Lat: 46.7186	Long: 12.5653	Name: Leiten	Count:10
+183	Lat: 46.8153	Long: 15.2222	Name: Deutschlandsberg	Count:2348
+184	Lat: 46.5833	Long: 14.1333	Name: Plescherken	Count:10
+185	Lat: 46.5833	Long: 14.3667	Name: Tutzach	Count:3651
+186	Lat: 47.1301	Long: 10.7512	Name: Graslehen	Count:225
+187	Lat: 48.2544	Long: 16.7467	Name: Vienna	Count:358
+188	Lat: 46.8244	Long: 15.8922	Name: Stainz bei Straden	Count:4450
+189	Lat: 47.1333	Long: 15.3667	Name: Dult	Count:3158
+190	Lat: 47.1333	Long: 10.2667	Name: Saint Anton	Count:30
+191	Lat: 47.1333	Long: 13.8	Name: Judendorf	Count:317
+192	Lat: 47.1333	Long: 16.2667	Name: Sankt Michael im Burgenland	Count:810
+193	Lat: 47.1333	Long: 15.8167	Name: Rohrweg	Count:758
+194	Lat: 47.1333	Long: 10.5667	Name: Landeck	Count:2543
+195	Lat: 47.1333	Long: 10.0833	Name: Klosterle	Count:902
+196	Lat: 47.1333	Long: 15.4167	Name: Stattegg	Count:10594
+197	Lat: 47.1333	Long: 15.5	Name: Hof	Count:1794
+198	Lat: 47.1333	Long: 10.0333	Name: Ausserwald	Count:1948
+199	Lat: 47.1333	Long: 15.3167	Name: Au	Count:1969
+200	Lat: 47.1333	Long: 11.45	Name: Matrei am Brenner	Count:317
+201	Lat: 47.1333	Long: 11.4833	Name: Ausserweg	Count:923
+202	Lat: 47.65	Long: 12.3167	Name: Walchsee	Count:564
+203	Lat: 47.65	Long: 16.0167	Name: Loitzmannsdorf	Count:605
+204	Lat: 47.65	Long: 14.3333	Name: Rossleithen	Count:41
+205	Lat: 47.65	Long: 16.1167	Name: Warth	Count:728
+206	Lat: 48.8333	Long: 15.0833	Name: Falkendorf	Count:2686
+207	Lat: 46.7167	Long: 15.85	Name: Fluttendorf	Count:830
+208	Lat: 46.7167	Long: 14.1	Name: Feldkirchen in Karnten	Count:3158
+209	Lat: 46.7167	Long: 15.4667	Name: Oberfahrenbach	Count:1692
+210	Lat: 46.9532	Long: 15.5218	Name: Graz	Count:3199
+211	Lat: 48.4	Long: 13.7	Name: Gaisbuchen	Count:51
+212	Lat: 48.4	Long: 13.5333	Name: Taufkirchen an der Pram	Count:2153
+213	Lat: 48.4	Long: 14.2667	Name: Kirchschlag bei Linz	Count:2317
+214	Lat: 48.4	Long: 16.3	Name: Oberrohrbach	Count:348
+215	Lat: 48.4	Long: 14.4167	Name: Linz	Count:440
+216	Lat: 48.4	Long: 15.75	Name: Jettsdorf	Count:2399
+217	Lat: 48.4	Long: 14.3	Name: Linz	Count:1107
+218	Lat: 48.4	Long: 13.9167	Name: Haibach ob der Donau	Count:430
+219	Lat: 48.4	Long: 14.5667	Name: Neustadt	Count:707
+220	Lat: 48.4	Long: 14.1333	Name: Freilassing	Count:471
+221	Lat: 48.4	Long: 16.5167	Name: Riedenthal	Count:225
+222	Lat: 48.6997	Long: 16.1056	Name: Am See	Count:410
+223	Lat: 48.4167	Long: 15.6	Name: Krems	Count:5630
+224	Lat: 48.4167	Long: 14.4667	Name: Linz	Count:1097
+225	Lat: 48.4167	Long: 15.25	Name: Ernst	Count:881
+226	Lat: 46.9456	Long: 15.4903	Name: Grosssulz	Count:4163
+227	Lat: 47.3133	Long: 10.0175	Name: Schoppernau	Count:112
+228	Lat: 47.7	Long: 14.3833	Name: Zottensberg	Count:123
+229	Lat: 47.7	Long: 15.7667	Name: Muerzzuschlag	Count:933
+230	Lat: 47.7	Long: 15.8333	Name: Reichenau an der Rax	Count:266
+231	Lat: 47.7	Long: 15.55	Name: Tirol	Count:19372
+232	Lat: 47.7	Long: 16.0333	Name: Wimpassing im Schwarzatale	Count:61
+233	Lat: 47.7	Long: 13.0667	Name: Au	Count:1887
+234	Lat: 48.1881	Long: 16.3568	Name: Vienna	Count:37412
+235	Lat: 48.3833	Long: 16.4667	Name: Munichsthal	Count:4973
+236	Lat: 48.3833	Long: 16.3167	Name: Leobendorf	Count:1743
+237	Lat: 48.3833	Long: 14.55	Name: Selker	Count:564
+238	Lat: 48.3833	Long: 15.5167	Name: Durnstein	Count:71
+239	Lat: 48.3833	Long: 15.2167	Name: Kirchschlag	Count:10
+240	Lat: 48.3833	Long: 16.2167	Name: Stockerau	Count:6830
+241	Lat: 48.3833	Long: 16.25	Name: Spillern	Count:451
+242	Lat: 48.5572	Long: 13.7781	Name: Osterwasser	Count:1271
+243	Lat: 48.2013	Long: 16.3484	Name: Vienna	Count:47309
+244	Lat: 47.8	Long: 16.55	Name: Eisenstadt	Count:205
+245	Lat: 47.8	Long: 16.1333	Name: Weikersdorf am Steinfelde	Count:61
+246	Lat: 47.8	Long: 13.3	Name: Fuschl am See	Count:471
+247	Lat: 47.8	Long: 16.3833	Name: Wiener Neustadt	Count:758
+248	Lat: 47.8	Long: 16.6	Name: Sankt Margarethen im Burgenland	Count:297
+249	Lat: 47.8	Long: 12.9833	Name: Himmelreich	Count:666
+250	Lat: 47.8	Long: 13.0833	Name: Gnigl	Count:2769
+251	Lat: 47.8	Long: 13.0333	Name: Salzburg	Count:75389
+252	Lat: 47.8	Long: 15.7	Name: Muerzzuschlag	Count:2789
+253	Lat: 47.8	Long: 16.25	Name: Wiener Neustadt	Count:13906
+254	Lat: 47.8	Long: 14.9167	Name: Gostling an der Ybbs	Count:666
+255	Lat: 47.8	Long: 16.5	Name: Eisenstadt	Count:143
+256	Lat: 46.6983	Long: 14.0092	Name: Steindorf am Ossiacher See	Count:20
+257	Lat: 46.6108	Long: 14.545	Name: Stein im Jauntal	Count:799
+258	Lat: 47.1833	Long: 14.7	Name: Aichdorf	Count:697
+259	Lat: 47.1833	Long: 9.65	Name: Feldkirch	Count:3015
+260	Lat: 47.1833	Long: 15.75	Name: Reichendorf	Count:943
+261	Lat: 47.1833	Long: 15.3167	Name: Kleinstubing	Count:71
+262	Lat: 47.1833	Long: 11.4167	Name: Schoenberg im Stubaital	Count:2204
+263	Lat: 47.3199	Long: 11.5558	Name: Hall in Tirol	Count:1969
+264	Lat: 48.1	Long: 16.4667	Name: Vienna	Count:164
+265	Lat: 48.1	Long: 15.5333	Name: Sankt Polten	Count:646
+266	Lat: 48.1	Long: 16.3667	Name: Vienna	Count:810
+267	Lat: 48.1	Long: 16.7667	Name: Regelsbrunn	Count:235
+268	Lat: 48.1	Long: 16.4167	Name: Vienna	Count:307
+269	Lat: 48.1	Long: 13.1833	Name: Erb	Count:102
+270	Lat: 48.1	Long: 16.2833	Name: Maria Enzersdorf	Count:11363
+271	Lat: 48.1	Long: 14.7167	Name: Gerersdorf	Count:61
+272	Lat: 48.1	Long: 13.9	Name: Graben	Count:2204
+273	Lat: 48.1	Long: 15.8667	Name: Eck	Count:51
+274	Lat: 48.1	Long: 14	Name: Spanedt	Count:440
+275	Lat: 48.1	Long: 16.9833	Name: Edelstal	Count:287
+276	Lat: 48.1	Long: 15.2	Name: Zimmerau	Count:1804
+277	Lat: 48.1	Long: 14.25	Name: Steyr	Count:646
+278	Lat: 48.1	Long: 16.2333	Name: Perchtoldsdorf	Count:12388
+279	Lat: 48.1	Long: 15.75	Name: Sankt Polten	Count:61
+280	Lat: 48.1	Long: 16.6833	Name: Maria Ellend	Count:215
+281	Lat: 47.25	Long: 12.3167	Name: Schonbach	Count:1005
+282	Lat: 47.25	Long: 10.9	Name: Haimingerberg	Count:20
+283	Lat: 47.25	Long: 13.5333	Name: Radstadt	Count:523
+284	Lat: 47.25	Long: 11.2667	Name: Kematen in Tirol	Count:1661
+285	Lat: 47.25	Long: 14.85	Name: Kobenz	Count:871
+286	Lat: 47.25	Long: 10.8833	Name: Haiming	Count:1230
+287	Lat: 47.25	Long: 16.05	Name: Unterrohr	Count:1712
+288	Lat: 47.25	Long: 11.3333	Name: Vols	Count:912
+289	Lat: 47.25	Long: 15.55	Name: Anger	Count:2194
+290	Lat: 47.25	Long: 16.1	Name: Wolfau	Count:123
+291	Lat: 47.9903	Long: 12.9381	Name: Zehmemoos	Count:2974
+292	Lat: 46.5928	Long: 14.5919	Name: Grabelsdorf	Count:10
+293	Lat: 48.052	Long: 14.1268	Name: Kremsmunster	Count:4112
+294	Lat: 48.2656	Long: 14.1047	Name: Ufer	Count:871
+295	Lat: 48.2656	Long: 16.805	Name: Schonfeld im Marchfeld	Count:399
+296	Lat: 48.2028	Long: 16.5508	Name: Gross-Enzersdorf	Count:2984
+297	Lat: 46.6078	Long: 13.4458	Name: Dellach	Count:994
+298	Lat: 46.9042	Long: 15.7658	Name: Woerth	Count:1804
+299	Lat: 47.294	Long: 11.5114	Name: Hall in Tirol	Count:4522
+300	Lat: 47.5667	Long: 12.45	Name: Kitzbühel	Count:564
+301	Lat: 47.5667	Long: 14.2333	Name: Liezen	Count:676
+302	Lat: 47.5667	Long: 16.3	Name: Spratzeck	Count:994
+303	Lat: 47.5667	Long: 14.45	Name: Kreuzberg	Count:953
+304	Lat: 47.5667	Long: 16.2	Name: Amlos	Count:830
+305	Lat: 47.5667	Long: 15.3333	Name: Au	Count:769
+306	Lat: 48.1214	Long: 16.9289	Name: Neue Siedlung	Count:297
+307	Lat: 47.3833	Long: 11.85	Name: Fugen	Count:1148
+308	Lat: 47.3833	Long: 11.7833	Name: Maurach	Count:112
+309	Lat: 47.3833	Long: 15.1	Name: Leoben	Count:6963
+310	Lat: 47.3833	Long: 10.9	Name: Biberwier	Count:830
+311	Lat: 47.3833	Long: 13.45	Name: Radstadt	Count:1117
+312	Lat: 47.3833	Long: 12.6333	Name: Saalbach	Count:51
+313	Lat: 47.3833	Long: 12.4	Name: Kitzbühel	Count:902
+314	Lat: 47.3833	Long: 11.8	Name: Rotholz	Count:266
+315	Lat: 47.3833	Long: 13.6833	Name: Schladming	Count:246
+316	Lat: 46.7378	Long: 14.2867	Name: Liebenfels	Count:1538
+317	Lat: 48.5833	Long: 15.4833	Name: Eisenberg	Count:71
+318	Lat: 48.5833	Long: 13.8833	Name: Schlaegl	Count:830
+319	Lat: 46.9667	Long: 11	Name: Solden	Count:3086
+320	Lat: 46.9667	Long: 14.95	Name: Oberauerling	Count:71
+321	Lat: 46.9667	Long: 14.1667	Name: Moedring-Schattseite	Count:676
+322	Lat: 46.9667	Long: 10.55	Name: Pfunds	Count:779
+323	Lat: 48.15	Long: 15.5	Name: Rammersdorf	Count:615
+324	Lat: 48.15	Long: 14.0333	Name: Thalheim bei Wels	Count:1179
+325	Lat: 48.15	Long: 16.8833	Name: Stopfenreuth	Count:881
+326	Lat: 48.15	Long: 16.8333	Name: Witzelsdorf	Count:892
+327	Lat: 48.15	Long: 14.3333	Name: Ansfelden	Count:1856
+328	Lat: 48.15	Long: 16.9333	Name: Hainburg an der Donau	Count:3097
+329	Lat: 48.15	Long: 16.1167	Name: Vienna	Count:3568
+330	Lat: 48.15	Long: 15.6333	Name: Sankt Polten	Count:553
+331	Lat: 48.15	Long: 14.4833	Name: Sankt Valentin	Count:625
+332	Lat: 48.15	Long: 13.2667	Name: Feichta	Count:440
+333	Lat: 48.15	Long: 14.8833	Name: Amstetten	Count:635
+334	Lat: 48.15	Long: 14.8333	Name: Ardagger Stift	Count:676
+335	Lat: 48.15	Long: 16	Name: Vienna	Count:71
+336	Lat: 48.15	Long: 13.9833	Name: Waidhausen	Count:14850
+337	Lat: 48.15	Long: 15.7	Name: Sankt Polten	Count:1199
+338	Lat: 48.15	Long: 14.7333	Name: Schweinberg	Count:492
+339	Lat: 48.15	Long: 16.5167	Name: Mannsworth	Count:738
+340	Lat: 46.7539	Long: 12.4842	Name: Strassen	Count:153
+341	Lat: 46.7539	Long: 13.9103	Name: Biedermann	Count:112
+342	Lat: 48.6667	Long: 16.4833	Name: Staatz	Count:297
+343	Lat: 48.6667	Long: 15.0333	Name: Zwettl Stift	Count:451
+344	Lat: 48.6667	Long: 16.6167	Name: Wilhelmsdorf	Count:1507
+345	Lat: 48.2831	Long: 13.487	Name: Ried im Innkreis	Count:646
+346	Lat: 46.6091	Long: 13.2854	Name: Spittal an der Drau	Count:471
+347	Lat: 47.2997	Long: 9.6667	Name: Viktorsberg	Count:2194
+348	Lat: 47.95	Long: 16.75	Name: Winden am See	Count:943
+349	Lat: 47.95	Long: 13.5833	Name: Seewalchen	Count:3056
+350	Lat: 47.95	Long: 14.7167	Name: Konradsheim	Count:2522
+351	Lat: 47.95	Long: 16.3	Name: Tattendorf	Count:830
+352	Lat: 47.95	Long: 14.7833	Name: Zell an der Ybbs	Count:1281
+353	Lat: 47.95	Long: 12.9333	Name: Oberndorf bei Salzburg	Count:348
+354	Lat: 47.95	Long: 16.2167	Name: Bad Voslau	Count:9404
+355	Lat: 47.95	Long: 16.4	Name: Ebreichsdorf	Count:4943
+356	Lat: 47.95	Long: 15	Name: Waidhofen an der Ybbs	Count:748
+357	Lat: 47.95	Long: 16.4167	Name: Unterwaltersdorf	Count:1261
+358	Lat: 47.95	Long: 13.8167	Name: Gmunden	Count:317
+359	Lat: 47.95	Long: 16.0833	Name: Berndorf	Count:738
+360	Lat: 47.95	Long: 13.0333	Name: Absmann	Count:1148
+361	Lat: 47.95	Long: 16.1	Name: Berndorf	Count:1671
+362	Lat: 47.95	Long: 13.2333	Name: Neumarkt am Wallersee	Count:297
+363	Lat: 47.95	Long: 13.65	Name: Vocklabruck	Count:3866
+364	Lat: 47.95	Long: 14.05	Name: Micheldorf in Oberoesterreich	Count:1794
+365	Lat: 47.95	Long: 14.1333	Name: Micheldorf in Oberoesterreich	Count:902
+366	Lat: 47.1906	Long: 14.7536	Name: Zeltweg	Count:153
+367	Lat: 47.55	Long: 12.1333	Name: Moosheim	Count:1333
+368	Lat: 47.55	Long: 16.45	Name: Neutal	Count:697
+369	Lat: 47.55	Long: 13.65	Name: Hallstatt	Count:194
+370	Lat: 47.55	Long: 9.75	Name: Horbranz	Count:1794
+371	Lat: 46.9558	Long: 15.5881	Name: Heiligenkreuz am Waasen	Count:953
+372	Lat: 48.1191	Long: 16.6162	Name: Fischamend Dorf	Count:1251
+373	Lat: 47.9333	Long: 15.3833	Name: Schwarzenbach an der Pielach	Count:317
+374	Lat: 47.9333	Long: 15.1	Name: Gaming	Count:256
+375	Lat: 47.9333	Long: 16.8333	Name: Neusiedl am See	Count:4399
+376	Lat: 47.9333	Long: 13.2333	Name: Wertham	Count:440
+377	Lat: 47.9333	Long: 16.2667	Name: Bad Voslau	Count:933
+378	Lat: 47.9333	Long: 13.4833	Name: Sankt Georgen im Attergau	Count:276
+379	Lat: 47.9333	Long: 13.55	Name: Buchberg	Count:584
+380	Lat: 48.135	Long: 16.4792	Name: Schwechat	Count:5302
+381	Lat: 48.35	Long: 15.7333	Name: Traismauer	Count:861
+382	Lat: 48.35	Long: 14.1667	Name: Linz	Count:1917
+383	Lat: 48.35	Long: 16.7	Name: Schonkirchen	Count:564
+384	Lat: 48.35	Long: 13.5667	Name: Ried im Innkreis	Count:851
+385	Lat: 48.35	Long: 14.4167	Name: Gallneukirchen	Count:4184
+386	Lat: 48.35	Long: 16.5333	Name: Pillichsdorf	Count:1107
+387	Lat: 48.35	Long: 16.4	Name: Konigsbrunn	Count:1651
+388	Lat: 48.35	Long: 15.65	Name: Hobenbach	Count:205
+389	Lat: 48.35	Long: 13.6833	Name: Ried im Innkreis	Count:4625
+390	Lat: 48.35	Long: 15.4167	Name: Sankt Polten	Count:92
+391	Lat: 48.35	Long: 14.45	Name: Engerwitzdorf	Count:840
+392	Lat: 48.35	Long: 16.7333	Name: Ganserndorf	Count:2225
+393	Lat: 48.35	Long: 16.7667	Name: Ganserndorf	Count:1374
+394	Lat: 48.35	Long: 13.65	Name: Raab	Count:4584
+395	Lat: 48.35	Long: 14.05	Name: Feldkirchen an der Donau	Count:881
+396	Lat: 47.5	Long: 16.1833	Name: Feichten	Count:1015
+397	Lat: 47.5	Long: 11.7	Name: Achensee	Count:1999
+398	Lat: 47.5	Long: 9.7667	Name: Bregenz	Count:779
+399	Lat: 47.5	Long: 15.45	Name: Kindberg	Count:4861
+400	Lat: 47.5	Long: 10.55	Name: Graen	Count:112
+401	Lat: 47.5	Long: 12.0667	Name: Angath	Count:471
+402	Lat: 46.8711	Long: 13.4442	Name: Hohenburg	Count:41
+403	Lat: 47.4324	Long: 9.6018	Name: Lustenau	Count:1958
+404	Lat: 47.6	Long: 15.6833	Name: Muerzzuschlag	Count:2163
+405	Lat: 47.6	Long: 14.45	Name: Hall	Count:482
+406	Lat: 47.6	Long: 16.1667	Name: Sonnberg	Count:512
+407	Lat: 47.6	Long: 16.55	Name: Neckenmarkt	Count:574
+408	Lat: 47.6	Long: 13.1667	Name: Golling an der Salzach	Count:2225
+409	Lat: 47.7136	Long: 16.4039	Name: Mattersburg	Count:799
+410	Lat: 47.8167	Long: 16.0833	Name: Wiener Neustadt	Count:1538
+411	Lat: 47.8167	Long: 16.4	Name: Wiener Neustadt	Count:1825
+412	Lat: 47.8167	Long: 16.05	Name: Maiersdorf	Count:625
+413	Lat: 46.6247	Long: 14.3053	Name: Klagenfurt	Count:24459
+414	Lat: 47.1712	Long: 13.103	Name: Bad Hofgastein	Count:1517
+415	Lat: 47.3667	Long: 15.7667	Name: Miesenbach	Count:297
+416	Lat: 47.3667	Long: 13.4	Name: Am Feuersang	Count:892
+417	Lat: 47.3667	Long: 11.7667	Name: Gallzein	Count:779
+418	Lat: 47.3667	Long: 16.3333	Name: Oberkohlstaetten	Count:584
+419	Lat: 47.3667	Long: 9.6831	Name: Hohenems	Count:8973
+420	Lat: 47.3667	Long: 14.9833	Name: Traboch	Count:112
+421	Lat: 47.3667	Long: 11.15	Name: Kirchplatzl	Count:851
+422	Lat: 47.3667	Long: 11.75	Name: Buch bei Jenbach	Count:482
+423	Lat: 48.3333	Long: 14.15	Name: Linz	Count:1938
+424	Lat: 48.3333	Long: 16.2667	Name: Hadersfeld	Count:1456
+425	Lat: 48.3333	Long: 15.9167	Name: Erpersdorf	Count:1251
+426	Lat: 48.3333	Long: 16.2167	Name: Wordern	Count:3015
+427	Lat: 48.3333	Long: 15.9333	Name: Kleinschonbichl	Count:3138
+428	Lat: 48.3333	Long: 15.5	Name: Wolfenreith	Count:738
+429	Lat: 48.3333	Long: 16.1667	Name: Vienna	Count:2430
+430	Lat: 48.3333	Long: 16.35	Name: Bisamberg	Count:10306
+431	Lat: 48.3333	Long: 14.2833	Name: Bachlberg	Count:297
+432	Lat: 48.3333	Long: 16.05	Name: Tulln	Count:8163
+433	Lat: 48.3333	Long: 15.2833	Name: Ottenberg	Count:2553
+434	Lat: 48.3333	Long: 15.1667	Name: Weinling	Count:717
+435	Lat: 48.9	Long: 15.0667	Name: Wielings	Count:564
+436	Lat: 47.4047	Long: 9.8842	Name: Buehel	Count:71
+437	Lat: 48.4669	Long: 16.7806	Name: Velm	Count:861
+438	Lat: 46.9387	Long: 16.0176	Name: Fehring	Count:3220
+439	Lat: 47.4319	Long: 9.8956	Name: Egg	Count:3517
+440	Lat: 46.9386	Long: 13.1344	Name: Flattach	Count:51
+441	Lat: 47.3	Long: 13.0667	Name: Sankt Johann im Pongau	Count:123
+442	Lat: 47.3	Long: 11.5667	Name: Baumkirchen	Count:892
+443	Lat: 47.3	Long: 10.8667	Name: Dormitz	Count:2040
+444	Lat: 47.3	Long: 15.8167	Name: Halt	Count:615
+445	Lat: 47.3	Long: 10.9667	Name: Barwies	Count:20
+446	Lat: 47.3	Long: 10.9833	Name: Mieming	Count:1425
+447	Lat: 47.3	Long: 11.8667	Name: Ried im Zillertal	Count:2112
+448	Lat: 47.3	Long: 11.0667	Name: Telfs	Count:13639
+449	Lat: 47.3	Long: 11.2	Name: Reith bei Seefeld	Count:266
+450	Lat: 47.3	Long: 11.1333	Name: Pettnau	Count:2912
+451	Lat: 47.3	Long: 15.6667	Name: Rossegg	Count:1117
+452	Lat: 47.3	Long: 10.9333	Name: Obsteig	Count:2851
+453	Lat: 47.3	Long: 11.0833	Name: Oberhofen im Inntal	Count:892
+454	Lat: 46.7833	Long: 13.6603	Name: Doebriach	Count:1989
+455	Lat: 46.7833	Long: 14.4667	Name: Sankt Veit an der Glan	Count:2645
+456	Lat: 46.7833	Long: 15.95	Name: Dirneck	Count:512
+457	Lat: 46.6667	Long: 13.9833	Name: Ossiach	Count:133
+458	Lat: 46.6667	Long: 14.6167	Name: Arlsdorf	Count:1312
+459	Lat: 47.6833	Long: 16	Name: Grafenbach	Count:1846
+460	Lat: 47.6833	Long: 14.15	Name: Liezen	Count:892
+461	Lat: 47.6833	Long: 13.1	Name: Hallein	Count:9178
+462	Lat: 47.6833	Long: 16.25	Name: Klingfurth	Count:420
+463	Lat: 47.6833	Long: 15.85	Name: Reichenau an der Rax	Count:133
+464	Lat: 46.9053	Long: 15.2786	Name: Pichling bei Stainz	Count:379
+465	Lat: 46.9647	Long: 15.4042	Name: Unterpremstatten	Count:112
+466	Lat: 46.6272	Long: 13.3672	Name: Hermagor	Count:266
+467	Lat: 47.75	Long: 16.0833	Name: Mollram	Count:851
+468	Lat: 47.75	Long: 16.0333	Name: Reith	Count:615
+469	Lat: 47.75	Long: 13.0667	Name: Anif	Count:871
+470	Lat: 47.75	Long: 16.4333	Name: Pottelsdorf	Count:789
+471	Lat: 47.75	Long: 16.45	Name: Mattersburg	Count:584
+472	Lat: 47.75	Long: 14.2	Name: Sankt Pankraz	Count:738
+473	Lat: 47.75	Long: 13.0833	Name: Elsbethen	Count:615
+474	Lat: 47.75	Long: 16.2833	Name: Eichbuchl	Count:2451
+475	Lat: 47.8039	Long: 13.0416	Name: Salzburg	Count:60723
+476	Lat: 47.85	Long: 16.3	Name: Obereggendorf	Count:2430
+477	Lat: 47.85	Long: 16.3667	Name: Neufeld an der Leitha	Count:902
+478	Lat: 47.85	Long: 16.2333	Name: Theresienfeld	Count:1117
+479	Lat: 47.85	Long: 15.55	Name: Rotenbach	Count:71
+480	Lat: 47.85	Long: 16.3167	Name: Untereggendorf	Count:1866
+481	Lat: 47.85	Long: 16.6167	Name: Eisenstadt	Count:205
+482	Lat: 47.85	Long: 14.4667	Name: Anzenbach	Count:687
+483	Lat: 47.85	Long: 14.7333	Name: Graben	Count:892
+484	Lat: 47.85	Long: 16.5167	Name: Eisenstadt	Count:9096
+485	Lat: 48.3667	Long: 13.9	Name: Linz	Count:3825
+486	Lat: 48.3667	Long: 14.0167	Name: Feldkirchen an der Donau	Count:1046
+487	Lat: 48.3667	Long: 14.4667	Name: Unterweitersdorf	Count:20
+488	Lat: 48.3667	Long: 16.6333	Name: Auersthal	Count:348
+489	Lat: 48.3667	Long: 16.5167	Name: Obersdorf	Count:174
+490	Lat: 48.3667	Long: 16.4667	Name: Grossebersdorf	Count:902
+491	Lat: 48.3667	Long: 14.5167	Name: Hagenberg im Muhlkreis	Count:3753
+492	Lat: 48.3667	Long: 14	Name: Feldkirchen an der Donau	Count:256
+493	Lat: 48.3667	Long: 16.1	Name: Zaina	Count:584
+494	Lat: 48.8	Long: 15.55	Name: Waidhofen an der Thaya	Count:697
+495	Lat: 48.8	Long: 15.4167	Name: Sieghartsles	Count:687
+496	Lat: 46.5561	Long: 13.9289	Name: Latschach ober dem Faakersee	Count:61
+497	Lat: 47.0667	Long: 15.7333	Name: Hofstatten an der Raab	Count:10
+498	Lat: 47.0667	Long: 15.5667	Name: Wobling	Count:1374
+499	Lat: 47.0667	Long: 14.7333	Name: Sankt Georgen in Obdachegg	Count:2143
+500	Lat: 47.0667	Long: 15.4667	Name: Waltendorf	Count:2912
+501	Lat: 47.0667	Long: 9.9167	Name: Schruns	Count:2461
+502	Lat: 47.0667	Long: 15.4	Name: Baierdorf	Count:3158
+503	Lat: 47.0667	Long: 15.6	Name: Nestelbach bei Graz	Count:184
+504	Lat: 47.0667	Long: 15.45	Name: Graz	Count:85952
+505	Lat: 47.0667	Long: 15.0833	Name: Koflach	Count:1087
+506	Lat: 47.0667	Long: 11.4833	Name: Stafflach	Count:574
+507	Lat: 46.6925	Long: 13.6897	Name: Feistritz an der Drau	Count:225
+508	Lat: 47.2331	Long: 9.6	Name: Feldkirch	Count:11670
+509	Lat: 47.2331	Long: 9.55	Name: Hub	Count:8768
+510	Lat: 47.2331	Long: 9.6331	Name: Feldkirch	Count:1774
+511	Lat: 46.6161	Long: 14.0458	Name: Velden am Woerthersee	Count:1743
+512	Lat: 48.1915	Long: 16.3696	Name: Vienna	Count:28664
+513	Lat: 46.6364	Long: 14.1464	Name: Poertschach am Woerthersee	Count:10
+514	Lat: 47.1167	Long: 13.1333	Name: Bad Gastein	Count:174
+515	Lat: 47.1167	Long: 15.6167	Name: Stuhlsdorf	Count:317
+516	Lat: 47.1167	Long: 15.1	Name: Hemmerberg	Count:615
+517	Lat: 47.1167	Long: 15.35	Name: Judendorf	Count:1117
+518	Lat: 47.1167	Long: 15.5667	Name: Purgstall	Count:933
+519	Lat: 47.1167	Long: 15.5833	Name: Eggersdorf bei Graz	Count:707
+520	Lat: 47.1167	Long: 15.8167	Name: Egelsdorf	Count:2348
+521	Lat: 47.1167	Long: 15.2667	Name: Eisbach	Count:1815
+522	Lat: 47.1167	Long: 15.3167	Name: Gratwein	Count:317
+523	Lat: 47.1167	Long: 11.3167	Name: Neustift	Count:307
+524	Lat: 46.7333	Long: 13.6333	Name: Sankt Paul ob Ferndorf	Count:369
+525	Lat: 46.7333	Long: 15.9667	Name: Poelten	Count:15547
+526	Lat: 46.7333	Long: 15.1667	Name: Unterfresen	Count:41
+527	Lat: 46.7333	Long: 15.4167	Name: Burgstall	Count:369
+528	Lat: 48.0833	Long: 13.7	Name: Atzbach	Count:112
+529	Lat: 48.0833	Long: 13.4833	Name: Dorf	Count:2153
+530	Lat: 48.0833	Long: 13.5667	Name: Ampfelwang	Count:1005
+531	Lat: 48.0833	Long: 14.4167	Name: Dietach	Count:1076
+532	Lat: 48.0833	Long: 16.2333	Name: SOS-Kinderdorf Hinterbruehl	Count:2379
+533	Lat: 48.0833	Long: 15.8333	Name: Gern	Count:881
+534	Lat: 48.0833	Long: 16.6	Name: Enzersdorf an der Fischa	Count:492
+535	Lat: 48.0833	Long: 16.3333	Name: Mitterfeld Siedlung	Count:1384
+536	Lat: 48.0833	Long: 16.15	Name: Vienna	Count:1579
+537	Lat: 48.0833	Long: 14.15	Name: Kremsmunster	Count:3733
+538	Lat: 48.0833	Long: 16.25	Name: Hinterbruehl	Count:13404
+539	Lat: 48.0833	Long: 16.5167	Name: Rauchenwarth	Count:902
+540	Lat: 48.65	Long: 15.65	Name: Horn	Count:2656
+541	Lat: 48.65	Long: 15.6167	Name: Burgerwiesen	Count:471
+542	Lat: 48.65	Long: 16.0833	Name: Kalladorf	Count:1630
+543	Lat: 48.65	Long: 13.9833	Name: Aigen im Muehlkreis	Count:523
+544	Lat: 48.4147	Long: 16.6319	Name: Gross-Schweinbarth	Count:1702
+545	Lat: 46.8228	Long: 13.7922	Name: Kleinkirchheim	Count:102
+546	Lat: 47.05	Long: 15	Name: Niedergossnitz	Count:789
+547	Lat: 47.05	Long: 12.5167	Name: Gruben	Count:779
+548	Lat: 47.05	Long: 16.1167	Name: Rudersdorf	Count:1056
+549	Lat: 47.05	Long: 10.6167	Name: Fiss	Count:974
+550	Lat: 47.05	Long: 16.0833	Name: Fuerstenfeld	Count:3886
+551	Lat: 46.5333	Long: 14.0333	Name: Rosenbach	Count:1374
+552	Lat: 48.4772	Long: 14.1392	Name: Linz	Count:1476
+553	Lat: 47.1106	Long: 14.1694	Name: Murau	Count:666
+554	Lat: 47.2789	Long: 11.4573	Name: Innsbruck	Count:1148
+555	Lat: 48.4519	Long: 16.5983	Name: Bad Pirawarth	Count:840
+556	Lat: 48	Long: 13.2333	Name: Ameisberg	Count:10
+557	Lat: 48	Long: 13.6667	Name: Vocklabruck	Count:348
+558	Lat: 48	Long: 16.2667	Name: Baden bei Wien	Count:2040
+559	Lat: 48	Long: 13.0833	Name: Salzburg	Count:1076
+560	Lat: 48	Long: 13.1833	Name: Feldbach	Count:1374
+561	Lat: 48	Long: 13.75	Name: Attnang-Puchheim	Count:605
+562	Lat: 48	Long: 14.05	Name: Voitsdorf	Count:553
+563	Lat: 48	Long: 16.5167	Name: Reisenberg	Count:256
+564	Lat: 47.5089	Long: 9.9822	Name: Huetten	Count:51
+565	Lat: 46.8756	Long: 15.9086	Name: Bad Gleichenberg	Count:984
+566	Lat: 48.0033	Long: 13.4125	Name: Frankenmarkt	Count:41
+567	Lat: 47.1	Long: 15.3667	Name: Raach	Count:1681
+568	Lat: 47.1	Long: 14.75	Name: Groessenberg	Count:358
+569	Lat: 47.1	Long: 14.45	Name: Perchau am Sattel	Count:820
+570	Lat: 47.1	Long: 16.0667	Name: Bierbaum an der Saifen	Count:379
+571	Lat: 47.1	Long: 13.7333	Name: Pichl	Count:30
+572	Lat: 47.1	Long: 15.6167	Name: Prabach	Count:1446
+573	Lat: 47.1	Long: 15.7167	Name: Gleisdorf	Count:8942
+574	Lat: 47.1	Long: 15.75	Name: Kaltenbrunn	Count:174
+575	Lat: 48.1167	Long: 14.8	Name: Ludwigsdorf	Count:625
+576	Lat: 48.1167	Long: 16.2667	Name: Perchtoldsdorf	Count:1384
+577	Lat: 48.1167	Long: 15.1333	Name: Plaika	Count:1251
+578	Lat: 48.1167	Long: 16.3	Name: Perchtoldsdorf	Count:47227
+579	Lat: 48.1167	Long: 14.7833	Name: Kleinberg	Count:123
+580	Lat: 48.1167	Long: 14.8667	Name: Amstetten	Count:2543
+581	Lat: 48.1167	Long: 15.3833	Name: Wotzling	Count:1456
+582	Lat: 48.1167	Long: 16.4	Name: Leopoldsdorf	Count:871
+583	Lat: 48.1167	Long: 13.8833	Name: Edt bei Lambach	Count:2122
+584	Lat: 48.1167	Long: 15.7833	Name: Sankt Polten	Count:2040
+585	Lat: 48.1167	Long: 16.3333	Name: Vosendorf	Count:6378
+586	Lat: 48.1167	Long: 16.4667	Name: Altkettenhof	Count:707
+587	Lat: 48.1167	Long: 16.85	Name: Petronell-Carnuntum	Count:881
+588	Lat: 48.1167	Long: 16.0833	Name: Vienna	Count:871
+589	Lat: 48.1167	Long: 13.9833	Name: Eggenstorf	Count:512
+590	Lat: 48.1167	Long: 16.7167	Name: Haslau an der Donau	Count:112
+591	Lat: 48.1167	Long: 12.8667	Name: Hochburg	Count:307
+592	Lat: 48.1167	Long: 13.45	Name: Ried im Innkreis	Count:317
+593	Lat: 48.1167	Long: 15.8833	Name: Sankt Polten	Count:697
+594	Lat: 48.1167	Long: 14.1333	Name: Wels	Count:92
+595	Lat: 48.1167	Long: 16.2	Name: Kaltenleutgeben	Count:1076
+596	Lat: 46.5919	Long: 14.2692	Name: Viktring	Count:840
+597	Lat: 48.55	Long: 16.0833	Name: Hollabrunn	Count:7722
+598	Lat: 48.55	Long: 14.4833	Name: Freistadt	Count:1005
+599	Lat: 48.55	Long: 16.5833	Name: Ebendorf	Count:420
+600	Lat: 46.6586	Long: 14.1019	Name: Sankt Martin am Techelsberg	Count:82
+601	Lat: 47.0783	Long: 15.4961	Name: Graz	Count:4276
+602	Lat: 47.3167	Long: 16.3833	Name: Althodis	Count:1958
+603	Lat: 47.3167	Long: 9.65	Name: Klaus	Count:2020
+604	Lat: 47.3167	Long: 13.3	Name: Sankt Johann im Pongau	Count:892
+605	Lat: 47.3167	Long: 9.6	Name: Au	Count:984
+606	Lat: 47.3167	Long: 11.15	Name: Mosern	Count:41
+607	Lat: 47.3167	Long: 16.2833	Name: Stadtschlaining	Count:307
+608	Lat: 47.3167	Long: 11.5667	Name: Sankt Michael	Count:82
+609	Lat: 47.3167	Long: 13.1167	Name: Oberhof	Count:1558
+610	Lat: 47.3167	Long: 12.7833	Name: Zell am See	Count:6132
+611	Lat: 47.3167	Long: 15.4167	Name: Hintertyrnau	Count:2779
+612	Lat: 47.4831	Long: 9.6831	Name: Hard	Count:2112
+613	Lat: 47.4831	Long: 9.7667	Name: Kennelbach	Count:512
+614	Lat: 47.4831	Long: 9.7331	Name: Lauterach	Count:4635
+615	Lat: 47.4831	Long: 9.6667	Name: Hard	Count:840
+616	Lat: 46.8661	Long: 12.7014	Name: Ainet	Count:5722
+617	Lat: 46.5897	Long: 14.2231	Name: Pertitschach	Count:317
+618	Lat: 47.8667	Long: 13.7	Name: Neukirchen	Count:133
+619	Lat: 47.8667	Long: 16.0167	Name: Oed	Count:112
+620	Lat: 47.8667	Long: 15.9667	Name: Waidmannsbach	Count:758
+621	Lat: 47.8667	Long: 13.35	Name: Mondsee	Count:2594
+622	Lat: 47.8667	Long: 13.1167	Name: Eugendorf	Count:2984
+623	Lat: 47.8667	Long: 16.9333	Name: Neusiedl am See	Count:902
+624	Lat: 47.8667	Long: 16.1667	Name: Wiener Neustadt	Count:748
+625	Lat: 47.8667	Long: 12.9333	Name: Salzburg	Count:194
+626	Lat: 47.8667	Long: 16.0667	Name: Wiener Neustadt	Count:892
+627	Lat: 47.8667	Long: 14.15	Name: Micheldorf in Oberoesterreich	Count:820
+628	Lat: 47.8667	Long: 16.9667	Name: Halbturn	Count:10
+629	Lat: 47.8667	Long: 13.0667	Name: Elixhausen	Count:994
+630	Lat: 47.8667	Long: 13.1833	Name: Neuhofen	Count:748
+631	Lat: 47.8667	Long: 16.2	Name: Wiener Neustadt	Count:1999
+632	Lat: 46.9833	Long: 15.15	Name: Unterwald	Count:2071
+633	Lat: 46.9833	Long: 10.8667	Name: Plangeross	Count:2707
+634	Lat: 46.9833	Long: 16.05	Name: Baernbach	Count:697
+635	Lat: 46.9833	Long: 15.2167	Name: Steinberg bei Ligist	Count:1651
+636	Lat: 48.1905	Long: 13.1346	Name: Mauerkirchen	Count:1517
+637	Lat: 48.3321	Long: 16.3101	Name: Klosterneuburg	Count:1046
+638	Lat: 46.7	Long: 15.6167	Name: Grassnitzberg	Count:317
+639	Lat: 46.7	Long: 14.2667	Name: Sankt Peter am Bichl	Count:3127
+640	Lat: 46.7	Long: 13.9833	Name: Stiegl	Count:358
+641	Lat: 46.6197	Long: 13.8464	Name: Villach	Count:10655
+642	Lat: 46.6817	Long: 13.0069	Name: Koetschach	Count:574
+643	Lat: 47.2831	Long: 9.65	Name: Rankweil	Count:2892
+644	Lat: 47.2831	Long: 9.6167	Name: Rankweil	Count:3199
+645	Lat: 47.2831	Long: 9.6667	Name: Muntlix	Count:574
+646	Lat: 48.4631	Long: 16.6705	Name: Mistelbach	Count:851
+647	Lat: 47.1667	Long: 16.0333	Name: Wagerberg	Count:820
+648	Lat: 47.1667	Long: 14.6667	Name: Judenburg	Count:1733
+649	Lat: 47.1667	Long: 11.7333	Name: Vorderlanersbach	Count:451
+650	Lat: 47.1667	Long: 9.8	Name: Nuziders	Count:1753
+651	Lat: 47.1667	Long: 11.35	Name: Fulpmes	Count:2645
+652	Lat: 47.1667	Long: 10.7333	Name: Wenns	Count:20
+653	Lat: 47.1667	Long: 11.8667	Name: Mayrhofen	Count:2502
+654	Lat: 47.1667	Long: 13.1	Name: Bad Hofgastein	Count:246
+655	Lat: 47.1667	Long: 16.1667	Name: Stegersbach	Count:1435
+656	Lat: 47.1667	Long: 13.1167	Name: Heissingfelding	Count:20
+657	Lat: 47.1667	Long: 15.55	Name: Not	Count:1363
+658	Lat: 46.9911	Long: 15.5114	Name: Hausmannstatten	Count:1312
+659	Lat: 48.5719	Long: 15.99	Name: Gross	Count:1374
+660	Lat: 47.9597	Long: 16.7927	Name: Neusiedl am See	Count:2133
+661	Lat: 46.7344	Long: 15.1774	Name: Deutschlandsberg	Count:646
+662	Lat: 48.2802	Long: 14.1005	Name: Linz	Count:2676
+663	Lat: 48.25	Long: 13.75	Name: Taufkirchen an der Trattnach	Count:1589
+664	Lat: 48.25	Long: 16.6333	Name: Glinzendorf	Count:4245
+665	Lat: 48.25	Long: 14.0333	Name: Scharten	Count:1969
+666	Lat: 48.25	Long: 14.85	Name: Amstetten	Count:235
+667	Lat: 48.25	Long: 13.15	Name: Braunau am Inn	Count:574
+668	Lat: 48.25	Long: 16.3	Name: Neustift am Walde	Count:13332
+669	Lat: 48.25	Long: 14.7833	Name: Amstetten	Count:553
+670	Lat: 48.25	Long: 14.2	Name: Pasching	Count:3733
+671	Lat: 48.25	Long: 14.6333	Name: Perg	Count:1384
+672	Lat: 48.25	Long: 14.1	Name: Linz	Count:933
+673	Lat: 48.25	Long: 14.0833	Name: Linz	Count:2102
+674	Lat: 48.25	Long: 15.3667	Name: Schonbuhel an der Donau	Count:20
+675	Lat: 48.25	Long: 15.6	Name: Untermamau	Count:297
+676	Lat: 48.25	Long: 15.6667	Name: Unterradlberg	Count:410
+677	Lat: 48.25	Long: 13.0667	Name: Braunau am Inn	Count:769
+678	Lat: 48.25	Long: 15.7167	Name: Sankt Polten	Count:738
+679	Lat: 46.5364	Long: 14.23	Name: Weizelsdorf	Count:276
+680	Lat: 47.35	Long: 11.85	Name: Fugen	Count:2143
+681	Lat: 47.35	Long: 13.2	Name: Sankt Johann im Pongau	Count:3999
+682	Lat: 47.35	Long: 15.1	Name: Goss	Count:933
+683	Lat: 47.35	Long: 9.6167	Name: Mader	Count:420
+684	Lat: 47.35	Long: 16.1333	Name: Riedlingsdorf	Count:810
+685	Lat: 47.35	Long: 9.65	Name: Altach	Count:2769
+686	Lat: 47.35	Long: 10.1833	Name: Riezlern	Count:964
+687	Lat: 47.35	Long: 15.3333	Name: Pernegg an der Mur	Count:71
+688	Lat: 48.8667	Long: 15.5167	Name: Zemmendorf	Count:338
+689	Lat: 48.8667	Long: 15.2833	Name: Waidhofen an der Thaya	Count:1005
+690	Lat: 48.8667	Long: 15.1167	Name: Heidenreichstein	Count:810
+691	Lat: 48.3	Long: 16.2667	Name: Stellenwiese	Count:666
+692	Lat: 48.3	Long: 13.55	Name: Breiningsdorf	Count:594
+693	Lat: 48.3	Long: 15.8667	Name: Trasdorf	Count:820
+694	Lat: 48.3	Long: 16.3667	Name: Dirnelwiese	Count:1487
+695	Lat: 48.3	Long: 13.5167	Name: Bruck	Count:1774
+696	Lat: 48.3	Long: 16.1333	Name: Vienna	Count:3486
+697	Lat: 48.3	Long: 16.2167	Name: Hintersdorf	Count:420
+698	Lat: 48.3	Long: 14.1833	Name: Linz	Count:1702
+699	Lat: 48.3	Long: 14.4833	Name: Standorf	Count:1025
+700	Lat: 48.3	Long: 14.3	Name: Linz	Count:23731
+701	Lat: 48.3	Long: 16.0833	Name: Vienna	Count:1651
+702	Lat: 48.3	Long: 16	Name: Vienna	Count:1456
+703	Lat: 48.3	Long: 16.3167	Name: Klosterneuburg	Count:10101
+704	Lat: 48.3	Long: 16.35	Name: Langenzersdorf	Count:5220
+705	Lat: 47.9925	Long: 16.3476	Name: Vienna	Count:902
+706	Lat: 48.2002	Long: 16.3924	Name: Vienna	Count:58980
+707	Lat: 46.6881	Long: 15.9881	Name: Bad Radkersburg	Count:923
+708	Lat: 47.9394	Long: 13.0589	Name: Altenberg	Count:1128
+709	Lat: 47.3809	Long: 11.7758	Name: Jenbach	Count:2430
+710	Lat: 48.7833	Long: 15.0667	Name: Schrems	Count:71
+711	Lat: 48.7833	Long: 15.1833	Name: Jetzles	Count:543
+712	Lat: 46.7681	Long: 14.3603	Name: Sankt Veit an der Glan	Count:297
+713	Lat: 47.6167	Long: 13.65	Name: Untersee	Count:861
+714	Lat: 47.6167	Long: 13.1333	Name: Weissenbach	Count:2256
+715	Lat: 47.6167	Long: 16.2833	Name: Wiesmath	Count:1569
+716	Lat: 47.2333	Long: 12.0333	Name: Au	Count:1343
+717	Lat: 47.2333	Long: 11.2833	Name: Innsbruck	Count:3179
+718	Lat: 47.2333	Long: 10.7333	Name: Imst	Count:4358
+719	Lat: 47.2333	Long: 16.2167	Name: Ungerberg	Count:892
+720	Lat: 47.2333	Long: 11.8833	Name: Zell am Ziller	Count:235
+721	Lat: 47.2333	Long: 11.25	Name: Oberperfuss	Count:3271
+722	Lat: 47.2333	Long: 11.4167	Name: Igls	Count:830
+723	Lat: 47.2333	Long: 15.5	Name: Geigental	Count:789
+724	Lat: 47.2333	Long: 10.85	Name: OEtztal-Bahnhof	Count:615
+725	Lat: 47.2333	Long: 11.3167	Name: Innsbruck	Count:2317
+726	Lat: 47.2333	Long: 15.45	Name: Gmain	Count:584
+727	Lat: 47.2333	Long: 11.45	Name: Sistrans	Count:1846
+728	Lat: 47.2333	Long: 15.7833	Name: Auerberg	Count:1722
+729	Lat: 48.3839	Long: 16.5168	Name: Wolkersdorf im Weinviertel	Count:984
+730	Lat: 48.3394	Long: 14.3286	Name: Elmberg	Count:8337
+731	Lat: 48.2041	Long: 16.2316	Name: Vienna	Count:23393
+732	Lat: 48.7208	Long: 16.4914	Name: Neudorf bei Staatz	Count:420
+733	Lat: 47.3331	Long: 9.6667	Name: Goetznerberg	Count:3435
+734	Lat: 47.3331	Long: 9.6331	Name: Gotzis	Count:3415
+735	Lat: 48.5383	Long: 13.4983	Name: Neudorf	Count:1251
+736	Lat: 46.95	Long: 15.85	Name: Unterweissenbach	Count:1569
+737	Lat: 46.95	Long: 15.3	Name: Breitenbach in Weststeiermark	Count:2174
+738	Lat: 46.95	Long: 15.7333	Name: Haselbach	Count:430
+739	Lat: 46.95	Long: 15.4167	Name: Zettling	Count:799
+740	Lat: 48.2333	Long: 14.1167	Name: Linz	Count:3999
+741	Lat: 48.2333	Long: 16.2667	Name: Hernals	Count:13650
+742	Lat: 48.2333	Long: 16.0167	Name: Rappoltenkirchen	Count:574
+743	Lat: 48.2333	Long: 14.4167	Name: Linz	Count:2656
+744	Lat: 48.2333	Long: 13.95	Name: Wallern an der Trattnach	Count:1005
+745	Lat: 48.2333	Long: 15.7833	Name: Sankt Polten	Count:1897
+746	Lat: 48.2333	Long: 14.1833	Name: Horsching	Count:51
+747	Lat: 48.2333	Long: 15.55	Name: Watzelsdorf	Count:379
+748	Lat: 48.2333	Long: 13.9	Name: Bad Schallerbach	Count:799
+749	Lat: 48.2333	Long: 14.4833	Name: Enns	Count:3886
+750	Lat: 48.2333	Long: 14.25	Name: Ansfelden	Count:5476
+751	Lat: 48.2333	Long: 16.3167	Name: Gersthof	Count:17937
+752	Lat: 48.2333	Long: 13.5	Name: Tumeltsham	Count:102
+753	Lat: 48.2333	Long: 15.4833	Name: Wimpassing an der Pielach	Count:338
+754	Lat: 48.2333	Long: 15.5833	Name: Obermamau	Count:533
+755	Lat: 48.2333	Long: 13.8333	Name: Grieskirchen	Count:1969
+756	Lat: 48.2333	Long: 13.1833	Name: Weng im Innkreis	Count:205
+757	Lat: 46.5817	Long: 13.9	Name: Egg am Faaker See	Count:297
+758	Lat: 47.8073	Long: 13.2465	Name: Salzburg	Count:1374
+759	Lat: 47.4167	Long: 11.7667	Name: Eben am Achensee	Count:502
+760	Lat: 47.4167	Long: 12.85	Name: Saalfelden am Steinernen Meer	Count:7958
+761	Lat: 47.4167	Long: 9.7331	Name: Dornbirn	Count:2153
+762	Lat: 47.4167	Long: 10.7833	Name: Bichlbach	Count:676
+763	Lat: 47.4167	Long: 15.2833	Name: Bruck an der Mur	Count:3435
+764	Lat: 47.4167	Long: 16.5667	Name: Klostermarienberg	Count:420
+765	Lat: 47.4167	Long: 11.8833	Name: Reith im Alpbachtal	Count:748
+766	Lat: 47.4167	Long: 16.25	Name: Pinkafeld	Count:276
+767	Lat: 47.4167	Long: 10.8167	Name: Waengle	Count:1363
+768	Lat: 47.4167	Long: 16.1667	Name: Schoenherrn	Count:3086
+769	Lat: 47.4167	Long: 16.1833	Name: Schmiedrait	Count:676
+770	Lat: 47.4167	Long: 16.5167	Name: Mannersdorf an der Rabnitz	Count:287
+771	Lat: 47.4167	Long: 16.0167	Name: Dechantskirchen	Count:225
+772	Lat: 46.9333	Long: 15.4333	Name: Forst	Count:635
+773	Lat: 46.9333	Long: 16.1167	Name: Tafelberg	Count:1046
+774	Lat: 46.9333	Long: 15.9	Name: Petersdorf	Count:2522
+775	Lat: 46.9333	Long: 14.4833	Name: Dobritsch	Count:881
+776	Lat: 46.9333	Long: 14.5333	Name: Waitschach	Count:543
+777	Lat: 46.9333	Long: 15.7667	Name: Puch	Count:861
+778	Lat: 46.9333	Long: 15.5167	Name: Mellach	Count:71
+779	Lat: 46.9333	Long: 14.55	Name: Gossen	Count:451
+780	Lat: 46.9333	Long: 15.8833	Name: Untergiem	Count:1302
+781	Lat: 46.9333	Long: 15.1667	Name: Sommereben	Count:1343
+782	Lat: 47.8981	Long: 16.9081	Name: Gols	Count:1302
+783	Lat: 48.4333	Long: 14.1167	Name: Herzogsdorf	Count:2656
+784	Lat: 48.4333	Long: 14.4333	Name: Linz	Count:871
+785	Lat: 48.4333	Long: 15.1667	Name: Biberschlag	Count:51
+786	Lat: 48.4333	Long: 15.7833	Name: Feuersbrunn	Count:338
+787	Lat: 48.4333	Long: 16.4833	Name: Hautzendorf	Count:410
+788	Lat: 48.4333	Long: 13.6833	Name: Grafendorf	Count:307
+789	Lat: 48.4333	Long: 13.8167	Name: Waldkirchen am Wesen	Count:399
+790	Lat: 48.4333	Long: 15.6	Name: Krems	Count:4461
+791	Lat: 48.4333	Long: 15.8833	Name: Kirchberg am Wagram	Count:1733
+792	Lat: 48.4333	Long: 13.65	Name: Kopfing im Innkreis	Count:605
+793	Lat: 48.4333	Long: 16.5167	Name: Traunfeld	Count:2769
+794	Lat: 47.0713	Long: 15.5779	Name: Graz	Count:2697
+795	Lat: 46.6229	Long: 14.3007	Name: Klagenfurt	Count:17485
+796	Lat: 47.7052	Long: 13.6243	Name: Bad Ischl	Count:2748
+797	Lat: 48.5	Long: 14.5	Name: Freistadt	Count:1517
+798	Lat: 48.5	Long: 15.3667	Name: Ladings	Count:594
+799	Lat: 48.5	Long: 15.9333	Name: Glaubendorf	Count:779
+800	Lat: 48.5	Long: 16.6167	Name: Schrick	Count:1066
+801	Lat: 48.5	Long: 16	Name: Unterthern	Count:964
+802	Lat: 48.5	Long: 15.8167	Name: Hohenwarth	Count:82
+803	Lat: 48.5	Long: 15.8	Name: Ronthal	Count:902
+804	Lat: 48.2976	Long: 14.2916	Name: Linz	Count:48314
+805	Lat: 46.6	Long: 14.2	Name: Sekirn	Count:1220
+806	Lat: 47.385	Long: 9.9017	Name: Bezau	Count:994
+807	Lat: 48.6167	Long: 15.1667	Name: Zwettl Stift	Count:1948
+808	Lat: 48.6167	Long: 15.7167	Name: Mortersdorf	Count:697
+809	Lat: 48.6167	Long: 16.5167	Name: Horersdorf	Count:810
+810	Lat: 48.6167	Long: 16.8167	Name: Hausbrunn	Count:102
+811	Lat: 48.05	Long: 15.9	Name: Sankt Polten	Count:256
+812	Lat: 48.05	Long: 16.7333	Name: Gottlesbrunn	Count:892
+813	Lat: 48.05	Long: 13.6333	Name: Englsheim	Count:697
+814	Lat: 48.05	Long: 16.0833	Name: Vienna	Count:1148
+815	Lat: 48.05	Long: 16.6333	Name: Gallbrunn	Count:184
+816	Lat: 48.05	Long: 15.35	Name: Bodendorf	Count:1025
+817	Lat: 48.05	Long: 13.1333	Name: Salzburg	Count:789
+818	Lat: 48.05	Long: 16.2833	Name: Mödling	Count:3753
+819	Lat: 48.05	Long: 13.9	Name: Aigen	Count:317
+820	Lat: 48.05	Long: 13.7667	Name: Attnang-Puchheim	Count:2163
+821	Lat: 48.05	Long: 13.95	Name: Kriegsham	Count:820
+822	Lat: 48.05	Long: 14.85	Name: Toberstetten	Count:133
+823	Lat: 48.05	Long: 13.7333	Name: Attnang-Puchheim	Count:51
+824	Lat: 48.05	Long: 16.55	Name: Wienerherberg	Count:51
+825	Lat: 48.05	Long: 15.1333	Name: Purgstall	Count:974
+826	Lat: 48.05	Long: 14.4167	Name: Steyr	Count:10635
+827	Lat: 46.7044	Long: 14.7328	Name: Griffen	Count:605
+828	Lat: 47.1497	Long: 9.8167	Name: Bludenz	Count:12111
+829	Lat: 47.4208	Long: 9.8919	Name: Meisten	Count:133
+830	Lat: 46.8364	Long: 13.3728	Name: Moellbruecke	Count:738
+831	Lat: 46.8353	Long: 13.4303	Name: Lendorf	Count:1056
+832	Lat: 46.8142	Long: 14.2942	Name: Frauenstein	Count:2584
+833	Lat: 46.8161	Long: 12.7897	Name: Tristach	Count:1702
+834	Lat: 48.5333	Long: 15.4833	Name: Drescherhuttl	Count:1599
+835	Lat: 48.5333	Long: 14.3	Name: Bad Leonfelden	Count:10
+836	Lat: 48.5333	Long: 15.7833	Name: Eggendorf am Walde	Count:840
+837	Lat: 48.5333	Long: 16.3833	Name: Thomasl	Count:1999
+838	Lat: 47.4833	Long: 15.3833	Name: Muerzhofen	Count:430
+839	Lat: 47.4833	Long: 10.5167	Name: Tannheim	Count:41
+840	Lat: 47.4833	Long: 13.4	Name: Bischofshofen	Count:471
+841	Lat: 47.4833	Long: 15.3667	Name: Sankt Lorenzen im Muerztal	Count:799
+842	Lat: 47.4833	Long: 12	Name: Worgl	Count:1097
+843	Lat: 47.4833	Long: 14.2667	Name: Oppenberg	Count:851
+844	Lat: 47.4833	Long: 15.6833	Name: Sankt Kathrein am Hauenstein	Count:697
+845	Lat: 47.4833	Long: 10.5833	Name: Haller	Count:10
+846	Lat: 47.4833	Long: 10.7167	Name: Reutte	Count:912
+847	Lat: 47.4833	Long: 10.7333	Name: Breitenwang	Count:297
+848	Lat: 47.4833	Long: 12.0667	Name: Worgl	Count:2912
+849	Lat: 47.4833	Long: 12.55	Name: Fieberbrunn	Count:369
+850	Lat: 47.4833	Long: 10.7	Name: Lechaschau	Count:1292
+851	Lat: 47.4833	Long: 15.3167	Name: Kapfenberg	Count:5845
+852	Lat: 47.4833	Long: 13.1667	Name: Scharten	Count:451
+853	Lat: 46.9981	Long: 12.4842	Name: Mitteldorf	Count:799
+854	Lat: 46.945	Long: 13.2369	Name: Pfaffenberg	Count:953
+855	Lat: 46.9114	Long: 15.6714	Name: Glatzau	Count:789
+856	Lat: 46.6333	Long: 14.2167	Name: Krumpendorf	Count:30
+857	Lat: 46.6333	Long: 14.1	Name: Toeschling	Count:348
+858	Lat: 46.7986	Long: 13.465	Name: Unterhaus	Count:830
+859	Lat: 48.7667	Long: 14.9833	Name: Bohmzeil	Count:605
+860	Lat: 48.7667	Long: 15.0167	Name: Hoheneich	Count:492
+861	Lat: 48.7667	Long: 15.8	Name: Prutzendorf	Count:871
+862	Lat: 46.6064	Long: 14.6406	Name: Buchalm	Count:594
+863	Lat: 48.36	Long: 16.6039	Name: Bockfliess	Count:738
+864	Lat: 46.6103	Long: 13.8558	Name: Villach	Count:12450
+865	Lat: 48.4833	Long: 14.2167	Name: Amesschlag	Count:1497
+866	Lat: 48.4833	Long: 16.45	Name: Oberkreuzstetten	Count:861
+867	Lat: 48.4833	Long: 15.6833	Name: Zobing	Count:420
+868	Lat: 48.4833	Long: 15.8167	Name: Stettenhof	Count:1189
+869	Lat: 48.4833	Long: 13.5333	Name: Engelhaming	Count:225
+870	Lat: 48.4833	Long: 16.1167	Name: Gollersdorf	Count:430
+871	Lat: 48.4833	Long: 15.1333	Name: Bromberg	Count:748
+872	Lat: 47.4331	Long: 9.65	Name: Lustenau	Count:1487
+873	Lat: 47.2167	Long: 15.4833	Name: Plenzengreith	Count:1394
+874	Lat: 47.2167	Long: 14.8	Name: Sachendorf	Count:133
+875	Lat: 47.2167	Long: 14.7833	Name: Spielberg bei Knittelfeld	Count:266
+876	Lat: 47.2167	Long: 11.3667	Name: Riedbach	Count:2204
+877	Lat: 47.2167	Long: 12.8167	Name: Fusch an der Glocknerstrasse	Count:420
+878	Lat: 47.2167	Long: 15.9833	Name: Unterbuch	Count:2174
+879	Lat: 47.2167	Long: 15.6333	Name: Oberfladnitz	Count:1230
+880	Lat: 47.2167	Long: 9.7	Name: Rons	Count:1312
+881	Lat: 47.2167	Long: 12.8333	Name: Steg	Count:348
+882	Lat: 47.2167	Long: 13.1	Name: Harbach	Count:92
+883	Lat: 47.2167	Long: 15.4	Name: Semriach	Count:687
+884	Lat: 47.2167	Long: 10.8167	Name: Roppen	Count:502
+885	Lat: 47.2167	Long: 15.6	Name: Aue	Count:1005
+886	Lat: 47.2167	Long: 14.8167	Name: Knittelfeld	Count:964
+887	Lat: 47.2167	Long: 10.8833	Name: Au	Count:912
+888	Lat: 47.2167	Long: 15.9667	Name: Eichberg	Count:625
+889	Lat: 47.2167	Long: 12.0167	Name: Ried	Count:3640
+890	Lat: 48.1964	Long: 16.3501	Name: Vienna	Count:21526
+891	Lat: 47.7667	Long: 13.2	Name: Alm	Count:246
+892	Lat: 47.7667	Long: 16.3333	Name: Wiener Neustadt	Count:2071
+893	Lat: 47.7667	Long: 15.8667	Name: Schneeberg	Count:30
+894	Lat: 47.7667	Long: 16.0667	Name: Gerasdorf am Steinfelde	Count:235
+895	Lat: 47.7667	Long: 16.9833	Name: Tadten	Count:492
+896	Lat: 47.7667	Long: 16.5167	Name: Zagersdorf	Count:1261
+897	Lat: 47.7667	Long: 15.3167	Name: Sigmundsberg	Count:605
+898	Lat: 47.7833	Long: 15.9	Name: Puchberg am Schneeberg	Count:348
+899	Lat: 47.7833	Long: 12.9667	Name: Wals	Count:1610
+900	Lat: 47.7833	Long: 16.9333	Name: Sankt Andra am Zicksee	Count:1230
+901	Lat: 47.7833	Long: 16.2833	Name: Wiener Neustadt	Count:1425
+902	Lat: 47.7833	Long: 16.05	Name: Wiener Neustadt	Count:594
+903	Lat: 47.6667	Long: 15.9333	Name: Gloggnitz	Count:348
+904	Lat: 47.6667	Long: 13.2	Name: Rengerberg	Count:492
+905	Lat: 47.6667	Long: 15.95	Name: Enzenreith	Count:912
+906	Lat: 47.6667	Long: 12.25	Name: Wildbichl	Count:420
+907	Lat: 47.6667	Long: 12.4	Name: Kossen	Count:358
+908	Lat: 47.6667	Long: 12.7333	Name: Niederland	Count:30
+909	Lat: 46.6833	Long: 14.4167	Name: Timenitz	Count:799
+910	Lat: 48.1833	Long: 16.0833	Name: Pressbaum	Count:1322
+911	Lat: 48.1833	Long: 14.1167	Name: Marchtrenk	Count:3004
+912	Lat: 48.1833	Long: 13.25	Name: Treubach	Count:553
+913	Lat: 48.1833	Long: 14.1333	Name: Kappern	Count:133
+914	Lat: 48.1833	Long: 16.4333	Name: Simmering	Count:23157
+915	Lat: 48.1833	Long: 16.1	Name: Pressbaum	Count:574
+916	Lat: 48.1833	Long: 14.55	Name: Laach	Count:328
+917	Lat: 48.1833	Long: 14.5833	Name: Weinberg	Count:1046
+918	Lat: 48.1833	Long: 16.2667	Name: Vienna	Count:23782
+919	Lat: 48.1833	Long: 16.3333	Name: Vienna	Count:30592
+920	Lat: 48.1833	Long: 14	Name: Niederthan	Count:369
+921	Lat: 48.1833	Long: 13.7667	Name: Grieskirchen	Count:769
+922	Lat: 48.1833	Long: 13.5667	Name: Ried im Innkreis	Count:276
+923	Lat: 48.1833	Long: 15.2333	Name: Rampersdorf	Count:543
+924	Lat: 48.1833	Long: 16.5833	Name: Oberhausen	Count:61
+925	Lat: 48.1833	Long: 15.75	Name: Siebenhirten	Count:492
+926	Lat: 48.1833	Long: 14.6833	Name: Mitterkirchen im Machland	Count:317
+927	Lat: 48.1833	Long: 15.9167	Name: Maria-Anzbach	Count:471
+928	Lat: 46.6506	Long: 14.8506	Name: Schwabegg	Count:338
+929	Lat: 48.1157	Long: 16.6139	Name: Fischamend Dorf	Count:10
+930	Lat: 47.476	Long: 13.1897	Name: Werfen	Count:738
+931	Lat: 48.75	Long: 15.0833	Name: Purbach	Count:687
+932	Lat: 46.6664	Long: 14.2581	Name: Woelfnitz	Count:2912
+933	Lat: 46.85	Long: 15.25	Name: Gersdorf	Count:676
+934	Lat: 46.85	Long: 14.55	Name: Dulberg	Count:430
+935	Lat: 46.85	Long: 15.7833	Name: Aug	Count:164
+936	Lat: 46.85	Long: 15.5167	Name: Stangersdorf	Count:1076
+937	Lat: 47.0211	Long: 15.6314	Name: Krumegg	Count:1230
+938	Lat: 47.8811	Long: 16.2484	Name: Wiener Neustadt	Count:1179
+939	Lat: 47.3997	Long: 9.75	Name: Dornbirn	Count:512
+940	Lat: 48.2951	Long: 16.4678	Name: Gerasdorf bei Wien	Count:3015
+941	Lat: 47.3733	Long: 9.7044	Name: Hohenems	Count:430
+942	Lat: 48.1221	Long: 16.5575	Name: Vienna	Count:1148
+943	Lat: 48.2833	Long: 15.9667	Name: Sankt Polten	Count:1558
+944	Lat: 48.2833	Long: 14.4167	Name: Linz	Count:3897
+945	Lat: 48.2833	Long: 15.55	Name: Neustift	Count:615
+946	Lat: 48.2833	Long: 15.4	Name: Sankt Polten	Count:10
+947	Lat: 48.2833	Long: 15.3	Name: Fahnsdorf	Count:564
+948	Lat: 48.2833	Long: 14.3667	Name: Steyregg	Count:1322
+949	Lat: 48.2833	Long: 14.5167	Name: Linz	Count:143
+950	Lat: 48.2833	Long: 14.6	Name: Perg	Count:1179
+951	Lat: 48.2833	Long: 16.2	Name: Oberkirchbach	Count:287
+952	Lat: 47.8266	Long: 16.2481	Name: Wiener Neustadt	Count:9106
+953	Lat: 48.3064	Long: 14.2861	Name: Linz	Count:3056
+954	Lat: 48.5667	Long: 16.3667	Name: Oberleis	Count:892
+955	Lat: 48.5667	Long: 16.8667	Name: Ringelsdorf	Count:2163
+956	Lat: 48.5667	Long: 16.1667	Name: Eggendorf im Thale	Count:799
+957	Lat: 48.5667	Long: 16.7	Name: Maustrenk	Count:3015
+958	Lat: 46.5656	Long: 13.7861	Name: Unterschuett	Count:92
+959	Lat: 47.7333	Long: 16.4167	Name: Mattersburg	Count:3938
+960	Lat: 47.7333	Long: 16.0333	Name: Mahresdorf	Count:1640
+961	Lat: 47.7333	Long: 13.0333	Name: Grodig	Count:1630
+962	Lat: 47.7333	Long: 16.5	Name: Baumgarten im Burgenland	Count:646
+963	Lat: 47.8333	Long: 13.25	Name: Thalgau	Count:1753
+964	Lat: 47.8333	Long: 15.9833	Name: Miesenbach	Count:92
+965	Lat: 47.8333	Long: 16.9167	Name: Frauenkirchen	Count:912
+966	Lat: 47.8333	Long: 16.1667	Name: Bad Fischau	Count:1025
+967	Lat: 47.8333	Long: 13.0333	Name: Bergheim	Count:1938
+968	Lat: 47.7063	Long: 13.0863	Name: Hallein	Count:2379
+969	Lat: 46.8833	Long: 14.45	Name: Sankt Veit an der Glan	Count:338
+970	Lat: 46.8833	Long: 15.8667	Name: Aichelzeil	Count:9619
+971	Lat: 46.8833	Long: 14.8167	Name: Auen	Count:2420
+972	Lat: 46.8833	Long: 15.35	Name: Wetzelsdorfberg	Count:1476
+973	Lat: 46.8833	Long: 10.5167	Name: Nauders	Count:20
+974	Lat: 46.9	Long: 15.2	Name: Angenofen	Count:3548
+975	Lat: 46.9	Long: 11.0333	Name: Pillberg	Count:102
+976	Lat: 46.9	Long: 15.8167	Name: Fischa	Count:902
+977	Lat: 48.5167	Long: 16.8833	Name: Waltersdorf an der March	Count:51
+978	Lat: 48.5167	Long: 15.9667	Name: Rohrbach	Count:687
+979	Lat: 48.5167	Long: 16.1667	Name: Bergau	Count:635
+980	Lat: 48.5167	Long: 15.45	Name: Reittern	Count:2799
+981	Lat: 48.5167	Long: 15.7833	Name: Muhlbach am Manhartsberg	Count:369
+982	Lat: 48.5167	Long: 13.9167	Name: Horbich	Count:584
+983	Lat: 47.8974	Long: 16.2501	Name: Wiener Neustadt	Count:2399
+984	Lat: 46.6636	Long: 14.8225	Name: Sankt Radegund	Count:512
+985	Lat: 48.7333	Long: 15.2333	Name: Waidhofen an der Thaya	Count:82
+986	Lat: 48.7333	Long: 13.8167	Name: Schwarzenberg am Boehmerwald	Count:912
+987	Lat: 46.7989	Long: 12.8381	Name: Lavant	Count:307
+988	Lat: 47.4667	Long: 13.2667	Name: Oberlehen	Count:1815
+989	Lat: 47.4667	Long: 10.6833	Name: Hofen	Count:840
+990	Lat: 47.4667	Long: 13.25	Name: Werfenweng	Count:912
+991	Lat: 47.4667	Long: 16.6333	Name: Lutzmannsburg	Count:287
+992	Lat: 47.4667	Long: 14.4833	Name: Sunk	Count:2061
+993	Lat: 47.4667	Long: 15.2833	Name: Parschlug	Count:440
+994	Lat: 47.4667	Long: 15	Name: Vordernberg	Count:728
+995	Lat: 47.4667	Long: 9.75	Name: Wolfurt	Count:5004
+996	Lat: 46.9642	Long: 13.4914	Name: Feistritz	Count:676
+997	Lat: 47.5167	Long: 11.7	Name: Schwaz	Count:266
+998	Lat: 47.5167	Long: 12.0833	Name: Kirchbichl	Count:1630
+999	Lat: 47.5167	Long: 16.3667	Name: Weingraben	Count:492
+1000	Lat: 47.5167	Long: 16.1	Name: Guggendorf	Count:410
+1001	Lat: 47.5167	Long: 11.8833	Name: Aschau	Count:1548
+1002	Lat: 47.5167	Long: 9.8167	Name: Geserberg	Count:164
+1003	Lat: 47.5167	Long: 12.0167	Name: Worgl	Count:2358
+1004	Lat: 47.5167	Long: 12.3	Name: Ellmau	Count:1374
+1005	Lat: 47.5333	Long: 9.8667	Name: Bregenz	Count:656
+1006	Lat: 47.5333	Long: 15.5167	Name: Mitterdorf im Muerztal	Count:30
+1007	Lat: 47.5333	Long: 12.25	Name: Kufstein	Count:266
+1008	Lat: 47.5333	Long: 9.75	Name: Lochau	Count:1374
+1009	Lat: 47.5333	Long: 15.3167	Name: Thal	Count:656
+1010	Lat: 47.5333	Long: 14.0667	Name: Purgg	Count:1005
+1011	Lat: 47.9167	Long: 16.4333	Name: Wimpassing an der Leitha	Count:687
+1012	Lat: 47.9167	Long: 13.7667	Name: Altmunster	Count:3179
+1013	Lat: 47.9167	Long: 13.55	Name: Sankt Georgen im Attergau	Count:1128
+1014	Lat: 47.9167	Long: 14.0667	Name: Micheldorf in Oberoesterreich	Count:297
+1015	Lat: 47.9167	Long: 15.75	Name: Steinapiesting	Count:194
+1016	Lat: 47.9167	Long: 16.1667	Name: Bad Voslau	Count:1466
+1017	Lat: 47.9167	Long: 16.2167	Name: Bad Voslau	Count:3845
+1018	Lat: 47.9167	Long: 14.1	Name: Micheldorf in Oberoesterreich	Count:102
+1019	Lat: 47.9167	Long: 16.8667	Name: Neusiedl am See	Count:625
+1020	Lat: 47.9167	Long: 15.6	Name: Furthof	Count:2789
+1021	Lat: 47.9167	Long: 15.4833	Name: Schildbachhofe	Count:738
+1022	Lat: 47.9167	Long: 13.8	Name: Gmunden	Count:3620
+1023	Lat: 47.9167	Long: 15.15	Name: Steinwand	Count:71
+1024	Lat: 47.9167	Long: 14.7	Name: Forstau	Count:1281
+1025	Lat: 47.1329	Long: 14.3635	Name: Scheifling	Count:389
+1026	Lat: 46.6911	Long: 13.9711	Name: Bodensdorf	Count:656
+1027	Lat: 46.5269	Long: 14.1564	Name: Suetschach	Count:697
+1028	Lat: 46.8614	Long: 12.9475	Name: Witschdorf	Count:553
+1029	Lat: 47.1617	Long: 14.3847	Name: Lindberg	Count:1815
+1030	Lat: 46.9917	Long: 15.7853	Name: Fladnitz im Raabtal	Count:1015
+1031	Lat: 46.7272	Long: 13.8719	Name: Hundsdorf	Count:1251
+1032	Lat: 46.9809	Long: 16.0665	Name: Vorderberg	Count:133
+1033	Lat: 46.775	Long: 15.7083	Name: Siebing	Count:912
+1034	Lat: 47.2611	Long: 10.0811	Name: Unterboden	Count:1928
+1035	Lat: 47.7928	Long: 13.769	Name: Ebensee	Count:964
+1036	Lat: 47.2494	Long: 11.4526	Name: Innsbruck	Count:2338
+1037	Lat: 48.2167	Long: 16	Name: Vienna	Count:1497
+1038	Lat: 48.2167	Long: 15.3667	Name: Melk	Count:646
+1039	Lat: 48.2167	Long: 14.75	Name: Amstetten	Count:471
+1040	Lat: 48.2167	Long: 15.95	Name: Sankt Polten	Count:1292
+1041	Lat: 48.2167	Long: 13.4333	Name: Ried im Innkreis	Count:738
+1042	Lat: 48.2167	Long: 13.5	Name: Ried im Innkreis	Count:799
+1043	Lat: 48.2167	Long: 16.3	Name: Ottakring	Count:8348
+1044	Lat: 48.2167	Long: 16.15	Name: Purkersdorf	Count:13568
+1045	Lat: 48.2167	Long: 14.6167	Name: Duernwagram	Count:758
+1046	Lat: 48.2167	Long: 13.9333	Name: Bad Schallerbach	Count:71
+1047	Lat: 48.2167	Long: 14.1833	Name: Horsching	Count:1692
+1048	Lat: 48.2167	Long: 14.85	Name: Amstetten	Count:2645
+1049	Lat: 48.2167	Long: 14.0333	Name: Ennsberg	Count:1456
+1050	Lat: 48.2167	Long: 15.15	Name: Marbach an der Donau	Count:1569
+1051	Lat: 48.2547	Long: 14.2936	Name: Linz	Count:5004
+1052	Lat: 48.5103	Long: 13.6928	Name: Engelhartszell	Count:1035
+1053	Lat: 47.5208	Long: 9.8661	Name: Au	Count:430
+1054	Lat: 47.8444	Long: 13.7891	Name: Traunkirchen	Count:1702
+1055	Lat: 48.0333	Long: 16.3833	Name: Munchendorf	Count:3004
+1056	Lat: 48.0333	Long: 15.6	Name: Traisen	Count:1610
+1057	Lat: 48.0333	Long: 16.3	Name: Guntramsdorf	Count:6902
+1058	Lat: 48.0333	Long: 13.8833	Name: Vorchdorf	Count:625
+1059	Lat: 48.0333	Long: 15.85	Name: Sankt Polten	Count:2686
+1060	Lat: 48.0333	Long: 13.5333	Name: Neukirchen an der Vockla	Count:379
+1061	Lat: 48.0333	Long: 14.7833	Name: Waidhofen an der Ybbs	Count:369
+1062	Lat: 48.0333	Long: 14.6333	Name: Neudorf	Count:1179
+1063	Lat: 48.0333	Long: 16.7833	Name: Wiener Neustadt	Count:861
+1064	Lat: 48.0333	Long: 16.5167	Name: Vienna	Count:3076
+1065	Lat: 48.0333	Long: 16.1833	Name: Baden bei Wien	Count:2122
+1066	Lat: 48.0333	Long: 14.3	Name: Sierning	Count:656
+1067	Lat: 48.0333	Long: 15.0167	Name: Amstetten	Count:666
+1068	Lat: 48.0333	Long: 16.6	Name: Margarethen am Moos	Count:2645
+1069	Lat: 47.5206	Long: 11.7864	Name: Unterberg	Count:30
+1070	Lat: 46.8219	Long: 13.495	Name: Spittal an der Drau	Count:41
+1071	Lat: 48.084	Long: 17.0632	Name: Kittsee	Count:1107
+1072	Lat: 48.8167	Long: 15.2833	Name: Waidhofen an der Thaya	Count:1774
+1073	Lat: 46.8667	Long: 10.9333	Name: Vent	Count:10
+1074	Lat: 46.8667	Long: 11.0167	Name: Obergurgl	Count:369
+1075	Lat: 47.9833	Long: 16.4667	Name: Mitterndorf an der Fischa	Count:851
+1076	Lat: 47.9833	Long: 14.1167	Name: Wartberg an der Krems	Count:656
+1077	Lat: 47.9833	Long: 14.8667	Name: Waidhofen an der Ybbs	Count:574
+1078	Lat: 47.9833	Long: 13.0833	Name: Gransdorf	Count:379
+1079	Lat: 47.9833	Long: 13.55	Name: Vocklamarkt	Count:533
+1080	Lat: 47.9833	Long: 16.65	Name: Sommerein	Count:707
+1081	Lat: 47.9833	Long: 13.9167	Name: Vorchdorf	Count:369
+1082	Lat: 47.9833	Long: 16.2	Name: Sooss	Count:923
+1083	Lat: 47.9833	Long: 13.7333	Name: Attnang-Puchheim	Count:810
+1084	Lat: 47.9833	Long: 13.3	Name: Ausserroid	Count:1989
+1085	Lat: 47.9833	Long: 16.7	Name: Bruck an der Leitha	Count:1169
+1086	Lat: 47.9833	Long: 13.5167	Name: Unteralberting	Count:1415
+1087	Lat: 47.9833	Long: 13.8667	Name: Gmunden	Count:1569
+1088	Lat: 47.33333	Long: 13.33333	Name: 	Count:164
+1089	Lat: 47.5833	Long: 14.35	Name: Ardning	Count:2399
+1090	Lat: 47.5833	Long: 12.5667	Name: Waidring	Count:30
+1091	Lat: 47.5833	Long: 12.1667	Name: Kufstein	Count:5189
+1092	Lat: 47.5833	Long: 12.6833	Name: Lofer	Count:943
+1093	Lat: 47.5833	Long: 15.5	Name: Veitsch	Count:1794
+1094	Lat: 47.5833	Long: 14.5	Name: Weng bei Admont	Count:143
+1095	Lat: 48.2	Long: 15.2	Name: Pochlarn	Count:266
+1096	Lat: 48.2	Long: 13.6333	Name: Reischau	Count:92
+1097	Lat: 48.2	Long: 15.9	Name: Neulengbach	Count:1220
+1098	Lat: 48.2	Long: 14.95	Name: Berghof	Count:512
+1099	Lat: 48.2	Long: 16.3667	Name: Vienna	Count:1463180
+1100	Lat: 48.2	Long: 15.7667	Name: Sankt Polten	Count:2697
+1101	Lat: 48.2	Long: 16.1667	Name: Purkersdorf	Count:7107
+1102	Lat: 48.2	Long: 15.6333	Name: Sankt Polten	Count:1528
+1103	Lat: 48.2	Long: 14.4833	Name: Ennsdorf	Count:584
+1104	Lat: 48.2	Long: 14.25	Name: Ansfelden	Count:5291
+1105	Lat: 48.2	Long: 13.8167	Name: Grieskirchen	Count:1271
+1106	Lat: 48.2	Long: 14.2833	Name: Ansfelden	Count:1169
+1107	Lat: 48.2	Long: 13.4	Name: Ried im Innkreis	Count:2348
+1108	Lat: 46.65	Long: 13.9	Name: Annenheim	Count:30
+1109	Lat: 46.65	Long: 14.9333	Name: Lavamund	Count:451
+1110	Lat: 46.65	Long: 14.0333	Name: Wurzen	Count:697
+1111	Lat: 48.2667	Long: 14.5167	Name: Linz	Count:933
+1112	Lat: 48.2667	Long: 16.0833	Name: Ollern	Count:1435
+1113	Lat: 48.2667	Long: 14.2167	Name: Leonding	Count:717
+1114	Lat: 48.2667	Long: 15.95	Name: Plankenberg	Count:1261
+1115	Lat: 48.2667	Long: 13.8833	Name: Grieskirchen	Count:1558
+1116	Lat: 48.2667	Long: 16.45	Name: Leopoldau	Count:31946
+1117	Lat: 48.2667	Long: 15.6833	Name: Herzogenburg	Count:1558
+1118	Lat: 48.2667	Long: 16.5	Name: Paxsiedlung	Count:67379
+1119	Lat: 48.2667	Long: 13.7167	Name: Neumarkt im Hausruckkreis	Count:2348
+1120	Lat: 48.2667	Long: 16.7	Name: Obersiebenbrunn	Count:1497
+1121	Lat: 48.2667	Long: 14.25	Name: Leonding	Count:7896
+1122	Lat: 48.2667	Long: 13.5167	Name: Ried im Innkreis	Count:502
+1123	Lat: 48.2667	Long: 16.9	Name: Marchegg	Count:338
+1124	Lat: 48.2667	Long: 13.8667	Name: Grieskirchen	Count:2410
+1125	Lat: 46.9866	Long: 15.4166	Name: Graz	Count:974
+1126	Lat: 47.4294	Long: 9.9508	Name: Ittensberg	Count:1610
+1127	Lat: 48.2372	Long: 16.3744	Name: Vienna	Count:45688
+1128	Lat: 46.8042	Long: 13.5806	Name: Millstatt	Count:820
+1129	Lat: 46.7858	Long: 14.5417	Name: Gutschen	Count:1251
+1130	Lat: 47.7167	Long: 16.0833	Name: Neunkirchen	Count:2615
+1131	Lat: 47.7167	Long: 16.0333	Name: Ternitz	Count:3712
+1132	Lat: 47.7167	Long: 16.15	Name: Guntrams	Count:974
+1133	Lat: 47.7167	Long: 13.1833	Name: Krispl	Count:30
+1134	Lat: 47.7167	Long: 16.2167	Name: Wiener Neustadt	Count:1158
+1135	Lat: 47.7167	Long: 14.3333	Name: Windischgarsten	Count:543
+1136	Lat: 47.7167	Long: 13.4833	Name: Strobl	Count:1661
+1137	Lat: 47.7167	Long: 13.1	Name: Puch bei Hallein	Count:964
+1138	Lat: 47.7167	Long: 16.1167	Name: Loipersbach	Count:30
+1139	Lat: 47.7167	Long: 16.1833	Name: Brunn bei Pitten	Count:3045
+1140	Lat: 47.7167	Long: 16.2333	Name: Walpersbach	Count:789
+1141	Lat: 47.2667	Long: 16.4333	Name: Schachendorf	Count:728
+1142	Lat: 47.2667	Long: 12.7667	Name: Kaprun	Count:1384
+1143	Lat: 47.2667	Long: 9.7	Name: Tal	Count:748
+1144	Lat: 47.2667	Long: 14.8167	Name: Unterfarrach	Count:1815
+1145	Lat: 47.2667	Long: 14.7833	Name: Seckau	Count:851
+1146	Lat: 47.2667	Long: 10.9333	Name: Silz	Count:635
+1147	Lat: 47.2667	Long: 11.4	Name: Innsbruck	Count:36909
+1148	Lat: 47.2667	Long: 11.2667	Name: Martinsbuehel	Count:4553
+1149	Lat: 47.2667	Long: 11.2	Name: Ried	Count:2266
+1150	Lat: 47.2667	Long: 11.45	Name: Ampass	Count:1107
+1151	Lat: 47.2667	Long: 10.7667	Name: Tarrenz	Count:1528
+1152	Lat: 47.2667	Long: 14.6667	Name: Gaal	Count:1056
+1153	Lat: 47.2667	Long: 11.4333	Name: Olympisches Dorf	Count:45063
+1154	Lat: 47.2833	Long: 12.7167	Name: Piesendorf	Count:820
+1155	Lat: 47.2833	Long: 12.5667	Name: Uttendorf	Count:861
+1156	Lat: 47.2833	Long: 11.9167	Name: Stummerberg	Count:830
+1157	Lat: 47.2833	Long: 12.8167	Name: Krossenbach	Count:4071
+1158	Lat: 47.2833	Long: 11.5667	Name: Grossvolderberg	Count:1784
+1159	Lat: 47.2833	Long: 11.5167	Name: Hall in Tirol	Count:61
+1160	Lat: 47.2833	Long: 11	Name: Windfang	Count:1169
+1161	Lat: 47.2833	Long: 12.4167	Name: Grubing	Count:728
+1162	Lat: 47.2833	Long: 11.1667	Name: Hatting	Count:1261
+1163	Lat: 47.2833	Long: 11.8833	Name: Stumm	Count:789
+1164	Lat: 47.2833	Long: 16.2	Name: Oberwart	Count:574
+1165	Lat: 47.2833	Long: 12.4833	Name: Mittersill	Count:697
+1166	Lat: 47.2833	Long: 15.6667	Name: Edelschachen	Count:1538
+1167	Lat: 47.2833	Long: 11.6	Name: Wattens	Count:1753
+1168	Lat: 47.2833	Long: 11.45	Name: Rum	Count:923
+1169	Lat: 48.6833	Long: 15.95	Name: Zellerndorf	Count:605
+1170	Lat: 48.6833	Long: 13.9	Name: Ulrichsberg	Count:246
+1171	Lat: 48.6833	Long: 13.9167	Name: Ulrichsberg	Count:1302
+1172	Lat: 48.6833	Long: 14.9833	Name: Pichlhof	Count:738
+1173	Lat: 48.6833	Long: 16.6833	Name: Herrnbaumgarten	Count:933
+1174	Lat: 46.9406	Long: 13.59	Name: Sonnberg	Count:615
+1175	Lat: 46.8	Long: 15.7667	Name: Entschendorf am Ottersbach	Count:1117
+1176	Lat: 46.8	Long: 14.85	Name: Grossedling	Count:1025
+1177	Lat: 46.8	Long: 13.5	Name: Spittal an der Drau	Count:2830
+1178	Lat: 48.5133	Long: 13.6053	Name: Untergrub	Count:943
+1179	Lat: 48.0981	Long: 16.4526	Name: Pellendorf	Count:3609
+1180	Lat: 48.2651	Long: 16.1428	Name: Vienna	Count:4317
+1181	Lat: 47.4293	Long: 9.6579	Name: Lustenau	Count:17711
+1182	Lat: 48.4667	Long: 14.35	Name: Linz	Count:1251
+1183	Lat: 48.4667	Long: 16.4167	Name: Grossrussbach	Count:523
+1184	Lat: 48.4667	Long: 15.6667	Name: Langenlois	Count:1743
+1185	Lat: 48.4667	Long: 16.5333	Name: Hochleithen	Count:328
+1186	Lat: 46.9742	Long: 15.3375	Name: Lieboch	Count:2184
+1187	Lat: 48.5447	Long: 13.4906	Name: Lehen	Count:2492
+1188	Lat: 47.9775	Long: 16.323	Name: Baden bei Wien	Count:1271
+1189	Lat: 46.7656	Long: 13.2717	Name: Steinfeld	Count:492
+1190	Lat: 47.5027	Long: 9.7493	Name: Bregenz	Count:14942
+1191	Lat: 48.0667	Long: 15.05	Name: Wolfpassing	Count:430
+1192	Lat: 48.0667	Long: 13.4833	Name: Frankenburg	Count:810
+1193	Lat: 48.0667	Long: 16.7833	Name: Hoflein	Count:410
+1194	Lat: 48.0667	Long: 16.5833	Name: Schwadorf	Count:1076
+1195	Lat: 48.0667	Long: 15.65	Name: Schwarzenbach an der Golsen	Count:820
+1196	Lat: 48.0667	Long: 14.1833	Name: Kremsmunster	Count:225
+1197	Lat: 48.0667	Long: 16.85	Name: Rohrau	Count:10
+1198	Lat: 48.0667	Long: 16.3167	Name: Wiener Neudorf	Count:3733
+1199	Lat: 48.0667	Long: 13.05	Name: Feldkirchen bei Mattighofen	Count:543
+1200	Lat: 48.0667	Long: 14.5	Name: Trostlberg	Count:2645
+1201	Lat: 48.0667	Long: 16.35	Name: Vienna	Count:1517
+1202	Lat: 48.5236	Long: 13.7694	Name: Kager	Count:256
+1203	Lat: 48.2997	Long: 16.5667	Name: Deutsch-Wagram	Count:7148
+1204	Lat: 46.6167	Long: 14.4	Name: Niederdorf	Count:502
+1205	Lat: 46.6167	Long: 13.8833	Name: Landskron	Count:2686
+1206	Lat: 46.6167	Long: 13.8667	Name: Seebach	Count:471
+1207	Lat: 47.3333	Long: 16.0833	Name: Loipersdorf im Burgenland	Count:2163
+1208	Lat: 47.3333	Long: 15.9333	Name: Zeilerviertl	Count:933
+1209	Lat: 47.3333	Long: 11.7	Name: Arzberg	Count:7476
+1210	Lat: 47.3333	Long: 13.3333	Name: 	Count:7133557
+1211	Lat: 47.3333	Long: 13.15	Name: Sankt Veit im Pongau	Count:461
+1212	Lat: 47.3333	Long: 15	Name: Sankt Michael in Obersteiermark	Count:256
+1213	Lat: 47.3333	Long: 13.1833	Name: Plankenau	Count:20
+1214	Lat: 47.3333	Long: 13.1	Name: Schattau	Count:943
+1215	Lat: 47.3333	Long: 13.2833	Name: Tiefenbach	Count:2676
+1216	Lat: 47.3333	Long: 10.1667	Name: Mittelberg	Count:71
+1217	Lat: 47.3333	Long: 11.1833	Name: Seefeld in Tirol	Count:3507
+1218	Lat: 47.9307	Long: 16.733	Name: Neusiedl am See	Count:512
+1219	Lat: 46.5667	Long: 14	Name: Pirk	Count:564
+1220	Lat: 48.024	Long: 16.8719	Name: Parndorf	Count:1199
+1221	Lat: 48.45	Long: 14.35	Name: Reichenau im Muhlkreis	Count:5097
+1222	Lat: 48.45	Long: 13.4333	Name: Scharding	Count:1979
+1223	Lat: 48.45	Long: 15.6833	Name: Gobelsburg	Count:430
+1224	Lat: 48.45	Long: 15.5667	Name: Dross	Count:502
+1225	Lat: 48.45	Long: 13.95	Name: Steinerberg	Count:369
+1226	Lat: 48.45	Long: 15.7167	Name: Hadersdorf am Kamp	Count:758
+1227	Lat: 48.45	Long: 14.6333	Name: Fuerling	Count:594
+1228	Lat: 48.45	Long: 16.1167	Name: Unterparschenbrunn	Count:1333
+1229	Lat: 47.9594	Long: 13.0092	Name: Nussdorf am Haunsberg	Count:605
+1230	Lat: 47.4	Long: 11.8	Name: Jenbach	Count:1261
+1231	Lat: 47.4	Long: 13.65	Name: Obere Klaus	Count:92
+1232	Lat: 47.4	Long: 13.5667	Name: Mandling	Count:30
+1233	Lat: 47.4	Long: 10.9167	Name: Ehrwald	Count:1107
+1234	Lat: 47.4	Long: 12.9	Name: Maria Alm am Steinernen Meer	Count:369
+1235	Lat: 47.4	Long: 11.95	Name: Alpbach	Count:30
+1236	Lat: 47.4	Long: 12.4333	Name: Wiesenegg-Gruental	Count:676
+1237	Lat: 47.4	Long: 16.3667	Name: Langeck im Burgenland	Count:399
+1238	Lat: 47.4	Long: 13.7667	Name: Haus	Count:164
+1239	Lat: 47.4	Long: 15.2167	Name: Oberaich	Count:615
+1240	Lat: 47.4	Long: 16.1	Name: Sinnersdorf	Count:71
+1241	Lat: 47.4	Long: 10.75	Name: Reutte	Count:3292
+1242	Lat: 48.0167	Long: 16.7667	Name: Bruck an der Leitha	Count:1251
+1243	Lat: 48.0167	Long: 16.7833	Name: Bruckneudorf	Count:1928
+1244	Lat: 48.0167	Long: 13.7167	Name: Attnang-Puchheim	Count:1558
+1245	Lat: 48.0167	Long: 16.3	Name: Traiskirchen	Count:10676
+1246	Lat: 48.0167	Long: 15.9833	Name: Baden bei Wien	Count:923
+1247	Lat: 48.0167	Long: 16.4833	Name: Gramatneusiedl	Count:1538
+1248	Lat: 48.0167	Long: 13.4833	Name: Vocklamarkt	Count:564
+1249	Lat: 48.0167	Long: 16.9833	Name: Gattendorf	Count:112
+1250	Lat: 48.0167	Long: 13.7333	Name: Redlham	Count:799
+1251	Lat: 48.0167	Long: 14.7	Name: Kaltaigen	Count:994
+1252	Lat: 48.0167	Long: 15.6	Name: Dorfl	Count:523
+1253	Lat: 48.0167	Long: 16.2333	Name: Baden bei Wien	Count:15875
+1254	Lat: 48.0167	Long: 16.5833	Name: Gotzendorf an der Leitha	Count:10
+1255	Lat: 48.0167	Long: 16.6667	Name: Sarasdorf	Count:2707
+1256	Lat: 48.0167	Long: 14.4167	Name: Sankt Ulrich bei Steyr	Count:451
+1257	Lat: 48.0167	Long: 14.0667	Name: Kremsmunster	Count:625
+1258	Lat: 48.5158	Long: 13.6372	Name: Vorholz	Count:20
+1259	Lat: 48.5158	Long: 13.4797	Name: Nussbaum	Count:2215
+1260	Lat: 48.2226	Long: 16.3575	Name: Vienna	Count:43842
+1261	Lat: 47.9667	Long: 16.6	Name: Mannersdorf am Leithagebirge	Count:1025
+1262	Lat: 47.9667	Long: 14.15	Name: Micheldorf in Oberoesterreich	Count:676
+1263	Lat: 47.9667	Long: 13.6167	Name: Lenzing	Count:6235
+1264	Lat: 47.9667	Long: 13.75	Name: Attnang-Puchheim	Count:1856
+1265	Lat: 47.9667	Long: 13.7	Name: Attnang-Puchheim	Count:246
+1266	Lat: 47.9667	Long: 16.2	Name: Bad Voslau	Count:3845
+1267	Lat: 47.9667	Long: 14.25	Name: Gruenburg	Count:51
+1268	Lat: 47.9667	Long: 14.7667	Name: Waidhofen an der Ybbs	Count:1743
+1269	Lat: 48.2115	Long: 16.3463	Name: Vienna	Count:20183
+1270	Lat: 47.0167	Long: 11	Name: Im Brand	Count:615
+1271	Lat: 47.0167	Long: 15.4333	Name: Rudersdorf	Count:92
+1272	Lat: 47.0167	Long: 10.2833	Name: Ischgl	Count:687
+1273	Lat: 47.0167	Long: 10.6	Name: Toesenssteinach	Count:348
+1274	Lat: 47.0167	Long: 13.2221	Name: Bad Gastein	Count:461
+1275	Lat: 47.0167	Long: 16.1333	Name: Dobersdorf	Count:974
+1276	Lat: 47.0167	Long: 15.3167	Name: Attendorf	Count:912
+1277	Lat: 47.0167	Long: 9.9667	Name: Sankt Gallenkirch	Count:71
+1278	Lat: 47.0167	Long: 15.45	Name: Feldkirchen bei Graz	Count:1251
+1279	Lat: 47.0167	Long: 11.4167	Name: Obernberg am Brenner	Count:984
+1280	Lat: 47.0167	Long: 15.1667	Name: Arnstein	Count:1384
+1281	Lat: 46.8311	Long: 12.7597	Name: Lienz	Count:461
+1282	Lat: 47.0333	Long: 15.9	Name: Schweinz	Count:1835
+1283	Lat: 47.0333	Long: 10.7333	Name: Feuchten	Count:20
+1284	Lat: 47.0333	Long: 10.6	Name: Serfaus	Count:1928
+1285	Lat: 47.0333	Long: 15.4667	Name: Liebenau	Count:1825
+1286	Lat: 47.0333	Long: 15.4	Name: Strassgang	Count:3763
+1287	Lat: 47.0333	Long: 15.5	Name: Raaba	Count:1056
+1288	Lat: 47.0333	Long: 16.1833	Name: Hartberg	Count:2287
+1289	Lat: 48.078	Long: 16.315	Name: Mödling	Count:1476
+1290	Lat: 48.3933	Long: 14.2878	Name: Riedl	Count:328
+1291	Lat: 47.4892	Long: 9.6903	Name: Hard	Count:4399
+1292	Lat: 48.6333	Long: 16.8	Name: Neusiedl an der Zaya	Count:461
+1293	Lat: 48.6333	Long: 13.9333	Name: Schlaegl	Count:41
+1294	Lat: 48.6333	Long: 15.0167	Name: Zwettl Stift	Count:276
+1295	Lat: 48.6333	Long: 16.5167	Name: Frattingsdorf	Count:533
+1296	Lat: 48.6333	Long: 15.85	Name: Stoitzendorf	Count:2092
+1297	Lat: 46.55	Long: 13.7	Name: Arnoldstein	Count:1076
+1298	Lat: 46.55	Long: 13.85	Name: Obertechanting	Count:789
+1299	Lat: 47.8324	Long: 16.6671	Name: Oggau	Count:256
+1300	Lat: 47.105	Long: 15.4871	Name: Graz	Count:2215
+1301	Lat: 47.9814	Long: 17.0063	Name: Zurndorf	Count:297

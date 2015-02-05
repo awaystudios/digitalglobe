@@ -1,0 +1,94 @@
+Locations in Vietnam
+0	Lat: 10.35	Long: 107.0667	Name: Vũng Tàu	Count:102761
+1	Lat: 20.8561	Long: 106.6822	Name: Haiphong	Count:1642971
+2	Lat: 15.0333	Long: 108.7333	Name: Binh Thanh	Count:160326
+3	Lat: 21.5928	Long: 105.8442	Name: Thanh Pho Thai Nguyen	Count:52990
+4	Lat: 10.9234	Long: 106.6898	Name: Binh Thoai	Count:98074
+5	Lat: 11.9333	Long: 108.4167	Name: Da Lat	Count:11096
+6	Lat: 16.4667	Long: 107.6	Name: Huế	Count:57011
+7	Lat: 10.36	Long: 106.36	Name: Mỹ Tho	Count:6204
+8	Lat: 10.4927	Long: 105.2681	Name: Binh Phuoc	Count:29659
+9	Lat: 21.3833	Long: 103.0167	Name: Dien Bien Phu	Count:317
+10	Lat: 14.45	Long: 109.05	Name: Dinh Long	Count:1044115
+11	Lat: 9.6033	Long: 105.98	Name: Soc Trang	Count:73143
+12	Lat: 9.79	Long: 106.5081	Name: Ap Trung	Count:16203
+13	Lat: 21.2731	Long: 106.1946	Name: Bac Giang	Count:77819
+14	Lat: 20.85	Long: 105.9167	Name: Tu Nhien Chau	Count:225
+15	Lat: 13.9833	Long: 108	Name: Pleiku	Count:169699
+16	Lat: 21.0333	Long: 105.85	Name: Hanoi	Count:170161291
+17	Lat: 9.9347	Long: 106.3453	Name: Tra Vinh	Count:3825
+18	Lat: 20.5333	Long: 106.5	Name: Ha Dong	Count:5220
+19	Lat: 13.8833	Long: 109.1	Name: An Nhon	Count:83111
+20	Lat: 9.4781	Long: 106.1	Name: Ap Sai Gon	Count:892
+21	Lat: 9.5767	Long: 106.0472	Name: Huong Tinh	Count:3558
+22	Lat: 21.25	Long: 106.1167	Name: Hoang Mai	Count:22008
+23	Lat: 18.3333	Long: 105.9	Name: Ha Tinh	Count:3927
+24	Lat: 18.5333	Long: 105.85	Name: Nghi Loc	Count:279609
+25	Lat: 19.75	Long: 105.7167	Name: Thach That	Count:266
+26	Lat: 13.8	Long: 109.1667	Name: Nhon My	Count:102
+27	Lat: 10.25	Long: 105.9667	Name: Vinh Long	Count:17137
+28	Lat: 19.8333	Long: 105.25	Name: Lang Dung	Count:3286928
+29	Lat: 21.3167	Long: 103.9	Name: Sơn La	Count:174
+30	Lat: 15.5667	Long: 108.4833	Name: Tam Ky	Count:51
+31	Lat: 14.35	Long: 109.1	Name: An Giang	Count:122872
+32	Lat: 21.3333	Long: 106.2667	Name: Phu Xuyen	Count:953
+33	Lat: 22.8333	Long: 104.9833	Name: Thanh Pho Ha Giang	Count:20829
+34	Lat: 15.85	Long: 108.3833	Name: Thuan An	Count:1654047
+35	Lat: 10.4	Long: 106.3333	Name: Long An	Count:26582
+36	Lat: 9.9167	Long: 106.1333	Name: Xom Truong Dinh	Count:933
+37	Lat: 21.7667	Long: 104.7	Name: Dong Thap	Count:32366
+38	Lat: 21.5596	Long: 105.3002	Name: Thu Duc	Count:54734
+39	Lat: 21.4167	Long: 106.6	Name: Cho Ha	Count:3297799
+40	Lat: 21.31	Long: 105.5967	Name: Vinh Yen	Count:4030
+41	Lat: 20.0367	Long: 105.5819	Name: Dac Loc	Count:166797
+42	Lat: 10.9333	Long: 108.1	Name: Phan Thiết	Count:17670
+43	Lat: 10.9867	Long: 106.655	Name: Thu Dau Mot	Count:21618
+44	Lat: 22.147	Long: 105.8348	Name: Bac Kan	Count:16932
+45	Lat: 20.45	Long: 106.3333	Name: Thanh Pho Thai Binh	Count:65277
+46	Lat: 19.8	Long: 105.7667	Name: Thanh Hóa	Count:149609
+47	Lat: 13.7667	Long: 109.2333	Name: Qui Nhon	Count:8501
+48	Lat: 16.0678	Long: 108.2208	Name: Da Nang	Count:1391934
+49	Lat: 22.6167	Long: 104.1667	Name: Ty Tan	Count:61
+50	Lat: 10.9833	Long: 106.65	Name: Xom Phuoc My	Count:4820
+51	Lat: 10.2333	Long: 106.3833	Name: Bến Tre	Count:51544
+52	Lat: 10.0333	Long: 105.7833	Name: Can Tho	Count:8044174
+53	Lat: 20.9333	Long: 106.3167	Name: Thanh Pho Hai Duong	Count:66415
+54	Lat: 10.8167	Long: 106.6833	Name: Go Vap	Count:82403
+55	Lat: 20.65	Long: 106.0667	Name: Hung Yen	Count:78558
+56	Lat: 18.6667	Long: 105.6667	Name: Vinh	Count:2899675
+57	Lat: 9.9331	Long: 106.5483	Name: Giong Ngai	Count:185114
+58	Lat: 10.95	Long: 106.8167	Name: Bien Hoa	Count:169197
+59	Lat: 20.7	Long: 105.3667	Name: Quang Trung	Count:1363
+60	Lat: 21.8233	Long: 105.2181	Name: Thanh Pho Tuyen Quang	Count:35966
+61	Lat: 10.8142	Long: 106.6438	Name: Ho Chi Minh City	Count:28416781
+62	Lat: 9.9747	Long: 106.5458	Name: An Dinh	Count:95592
+63	Lat: 19.3167	Long: 105.8	Name: Ha Nam	Count:77081
+64	Lat: 16.2	Long: 107.8667	Name: Bach Ma	Count:861
+65	Lat: 9.8478	Long: 106.3456	Name: Thanh Nguyen	Count:2235
+66	Lat: 20.8133	Long: 105.3383	Name: Thanh Pho Hoa Binh	Count:17403
+67	Lat: 15.1167	Long: 108.8	Name: Quảng Ngãi	Count:4050
+68	Lat: 20.2539	Long: 105.975	Name: Thanh Pho Ninh Binh	Count:114288
+69	Lat: 18.9	Long: 105.2833	Name: Yen Thanh	Count:3763
+70	Lat: 20.4167	Long: 106.1667	Name: Nam Định	Count:53401
+71	Lat: 10.6833	Long: 106.7667	Name: Nha Be	Count:27997
+72	Lat: 10.6833	Long: 105.1667	Name: Khanh Hoa	Count:625
+73	Lat: 18.7333	Long: 105.65	Name: Phan Thon	Count:253867
+74	Lat: 11.3	Long: 106.1	Name: Tay Ninh	Count:7445
+75	Lat: 21.1861	Long: 106.0763	Name: Bac Ninh	Count:128308
+76	Lat: 16	Long: 106	Name: 	Count:83665
+77	Lat: 20.9667	Long: 106.1333	Name: Luong Tai	Count:15947
+78	Lat: 10.1989	Long: 105.941	Name: Tan Binh	Count:13516
+79	Lat: 21.35	Long: 105.0667	Name: Ha Long	Count:40940
+80	Lat: 18.6167	Long: 105.8	Name: Van Hai	Count:102
+81	Lat: 10.9069	Long: 106.7589	Name: Di An	Count:39802
+82	Lat: 18.4333	Long: 105.75	Name: Quan Ngoc	Count:558931
+83	Lat: 15.8	Long: 108.1167	Name: Phu Nhuan	Count:1856
+84	Lat: 12.25	Long: 109.1833	Name: Nha Trang	Count:92608
+85	Lat: 9.1769	Long: 105.15	Name: Ca Mau	Count:161720
+86	Lat: 21.7	Long: 104.8667	Name: Yen Bai	Count:297
+87	Lat: 12.6667	Long: 108.05	Name: Buon Ma Thuot	Count:5425
+88	Lat: 21.8667	Long: 106.7667	Name: Dong	Count:190170
+89	Lat: 21.8333	Long: 106.7333	Name: Lang Son	Count:13322
+90	Lat: 22.4833	Long: 103.95	Name: Lao Cai	Count:10604
+91	Lat: 18.1	Long: 106.3333	Name: Dong Nai	Count:3403011
+92	Lat: 9.8178	Long: 106.0111	Name: An Thanh	Count:2379

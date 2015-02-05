@@ -1,0 +1,37 @@
+Locations in Egypt
+0	Lat: 25.6965	Long: 32.6459	Name: Luxor	Count:851
+1	Lat: 31.2878	Long: 34.2381	Name: Rafah	Count:235
+2	Lat: 28.1099	Long: 30.7503	Name: Minya	Count:256
+3	Lat: 31.2565	Long: 32.2841	Name: Port Said	Count:707
+4	Lat: 31.2309	Long: 29.9624	Name: Flaminj	Count:1763
+5	Lat: 30.1088	Long: 31.3792	Name: Heliopolis	Count:2451
+6	Lat: 26.557	Long: 31.6948	Name: Sohag	Count:1251
+7	Lat: 30.5377	Long: 31.6788	Name: Abu Hammad	Count:635
+8	Lat: 30.9745	Long: 31.165	Name: Al Mahallah al Kubra	Count:23054
+9	Lat: 30.085	Long: 31.2387	Name: Shubra	Count:2297
+10	Lat: 30.0081	Long: 31.2109	Name: Giza	Count:213245
+11	Lat: 30.1515	Long: 31.3386	Name: Al Marj	Count:184
+12	Lat: 30.0421	Long: 31.4445	Name: Al Qahirah al Jadidah	Count:6891
+13	Lat: 30.4591	Long: 31.1786	Name: Banha	Count:1846
+14	Lat: 31.4165	Long: 31.8133	Name: Damietta	Count:4809
+15	Lat: 30.3539	Long: 31.2007	Name: Toukh	Count:933
+16	Lat: 30.6874	Long: 31.8228	Name: Ar Rawdah	Count:594
+17	Lat: 30.8358	Long: 30.6421	Name: Ramsis	Count:147281
+18	Lat: 30.6333	Long: 30.3833	Name: Nasr	Count:21321
+19	Lat: 31.0364	Long: 31.3807	Name: Al Mansurah	Count:23721
+20	Lat: 30.0771	Long: 31.2859	Name: Cairo	Count:2873913
+21	Lat: 30.7885	Long: 31.0019	Name: Tanta	Count:8194
+22	Lat: 31.1969	Long: 31.5243	Name: Shirbin	Count:102
+23	Lat: 31.2237	Long: 34.2084	Name: Sadat	Count:246
+24	Lat: 27.181	Long: 31.1837	Name: Assiut	Count:2256
+25	Lat: 31.3298	Long: 31.7151	Name: Faraskur	Count:738
+26	Lat: 31.2156	Long: 29.9553	Name: Alexandria	Count:124052
+27	Lat: 27.2529	Long: 33.8181	Name: Hurghada	Count:1907
+28	Lat: 30.0642	Long: 31.2201	Name: Az Zamalik	Count:1169
+29	Lat: 30.6043	Long: 32.2723	Name: Ismailia	Count:3035
+30	Lat: 30.0667	Long: 31.3	Name: Madinat an Nasr	Count:24972
+31	Lat: 29.9737	Long: 32.5263	Name: Suez	Count:297
+32	Lat: 29.0744	Long: 31.0978	Name: Bani Suwayf	Count:1292
+33	Lat: 29.8414	Long: 31.3008	Name: Helwan	Count:3415
+34	Lat: 27	Long: 30	Name: 	Count:8324563
+35	Lat: 30.5877	Long: 31.502	Name: Zagazig	Count:6173

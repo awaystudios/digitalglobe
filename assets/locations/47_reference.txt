@@ -1,0 +1,12 @@
+Locations in United Arab Emirates
+0	Lat: 24	Long: 54	Name: 	Count:2827558
+1	Lat: 25.3573	Long: 55.4033	Name: Sharjah	Count:443750
+2	Lat: 25.1164	Long: 56.3414	Name: Fujairah	Count:28972
+3	Lat: 24.4667	Long: 54.3667	Name: Abu Dhabi	Count:1154045
+4	Lat: 25.229	Long: 55.2723	Name: As Satwah	Count:1671
+5	Lat: 25.2582	Long: 55.3047	Name: Dubai	Count:3563450
+6	Lat: 24.1917	Long: 55.7606	Name: Al Ain	Count:213050
+7	Lat: 25.2731	Long: 55.3064	Name: Dayrah	Count:19219
+8	Lat: 23.75	Long: 54.5	Name: 	Count:1435
+9	Lat: 25.3314	Long: 55.359	Name: Al Khan	Count:1210
+10	Lat: 25.7895	Long: 55.9432	Name: Ras al-Khaimah	Count:36099

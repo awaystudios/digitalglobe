@@ -1,0 +1,162 @@
+Locations in Croatia
+0	Lat: 46.2567	Long: 16.235	Name: Tuzno	Count:1005
+1	Lat: 43.4972	Long: 16.2217	Name: Okrug Donji	Count:1589
+2	Lat: 45.8167	Long: 15.8	Name: Strmec Samoborski	Count:1302
+3	Lat: 45.7501	Long: 15.9944	Name: Zagreb	Count:7958
+4	Lat: 45.8456	Long: 15.6853	Name: Bregana	Count:215
+5	Lat: 45.8031	Long: 15.7181	Name: Samobor	Count:7250
+6	Lat: 45.7667	Long: 15.85	Name: Gornji Stupnik	Count:635
+7	Lat: 46.1108	Long: 16.7064	Name: Sokolovac	Count:266
+8	Lat: 46.3844	Long: 16.4339	Name: Čakovec	Count:8471
+9	Lat: 44.1856	Long: 15.1656	Name: Petrcane	Count:1251
+10	Lat: 44.9275	Long: 13.8036	Name: Fazana	Count:799
+11	Lat: 45.3008	Long: 13.6253	Name: Tar	Count:2020
+12	Lat: 45.3008	Long: 13.8231	Name: Karojba	Count:851
+13	Lat: 45.6036	Long: 16.365	Name: Lijeva Luka	Count:1015
+14	Lat: 45.3511	Long: 14.1044	Name: Lupoglav	Count:953
+15	Lat: 46.0942	Long: 16.0708	Name: Zlatar	Count:2533
+16	Lat: 45.1772	Long: 14.6928	Name: Crikvenica	Count:2153
+17	Lat: 45.8986	Long: 16.8489	Name: Bjelovar	Count:3640
+18	Lat: 43.2969	Long: 17.0178	Name: Makarska	Count:7630
+19	Lat: 44.9506	Long: 18.8314	Name: Podgajci Posavski	Count:574
+20	Lat: 45.9167	Long: 15.7778	Name: Donja Pusca	Count:410
+21	Lat: 45.3053	Long: 14.7156	Name: Fuzine	Count:1876
+22	Lat: 45.3236	Long: 15.6986	Name: Vojnic	Count:758
+23	Lat: 43.0542	Long: 17.6483	Name: Metković	Count:1210
+24	Lat: 43.7036	Long: 16.6394	Name: Sinj	Count:2769
+25	Lat: 46.2242	Long: 16.0333	Name: Vulisinec	Count:851
+26	Lat: 45.3617	Long: 14.325	Name: Matulji	Count:1548
+27	Lat: 46.1303	Long: 16.7669	Name: Reka	Count:830
+28	Lat: 42.9856	Long: 17.1747	Name: Orebic	Count:707
+29	Lat: 43.7272	Long: 15.9058	Name: Šibenik	Count:8563
+30	Lat: 45.0258	Long: 14.5731	Name: Krk	Count:1692
+31	Lat: 46.4781	Long: 16.4578	Name: Vratisinec	Count:523
+32	Lat: 42.5811	Long: 18.2181	Name: Cavtat	Count:1333
+33	Lat: 46.0197	Long: 15.8817	Name: Pavlovec-Zabocki	Count:625
+34	Lat: 46.3717	Long: 16.1253	Name: Cestica	Count:1056
+35	Lat: 45.7167	Long: 16	Name: Gornja Lomnica	Count:4881
+36	Lat: 45.3433	Long: 18.9997	Name: Vukovar	Count:5630
+37	Lat: 45.4008	Long: 14.7997	Name: Delnice	Count:635
+38	Lat: 45.5697	Long: 16.625	Name: Popovaca	Count:779
+39	Lat: 45.4786	Long: 14.2578	Name: Sapjane	Count:615
+40	Lat: 46.335	Long: 16.6156	Name: Prelog	Count:1917
+41	Lat: 46.1628	Long: 16.8275	Name: Koprivnica	Count:5804
+42	Lat: 45.3431	Long: 14.4092	Name: Rijeka	Count:100248
+43	Lat: 45.4161	Long: 17.7944	Name: Vetovo	Count:881
+44	Lat: 45.5928	Long: 18.4589	Name: Bizovac	Count:1087
+45	Lat: 43.3764	Long: 16.6322	Name: Postira	Count:902
+46	Lat: 45.2553	Long: 18.4042	Name: Piskorevci	Count:1692
+47	Lat: 45.7939	Long: 15.8222	Name: Rakitje	Count:820
+48	Lat: 45.1603	Long: 18.0156	Name: Slavonski Brod	Count:5158
+49	Lat: 45.08	Long: 13.64	Name: Rovinj	Count:2820
+50	Lat: 45.8311	Long: 16.1164	Name: Sesvete	Count:2645
+51	Lat: 45.8678	Long: 15.7833	Name: Brdovec	Count:974
+52	Lat: 45.8564	Long: 15.8078	Name: Zapresic	Count:9301
+53	Lat: 43.5869	Long: 15.9272	Name: Primosten	Count:1240
+54	Lat: 45.4314	Long: 13.5239	Name: Umag	Count:1138
+55	Lat: 45.3072	Long: 14.28	Name: Icici	Count:974
+56	Lat: 46.1642	Long: 15.7508	Name: Pregrada	Count:923
+57	Lat: 42.6231	Long: 18.2072	Name: Mlini	Count:738
+58	Lat: 45.095	Long: 14.1197	Name: Labin	Count:5230
+59	Lat: 45.2403	Long: 13.9367	Name: Pazin	Count:1117
+60	Lat: 45.8061	Long: 16.2444	Name: Dugo Selo	Count:5004
+61	Lat: 45.2919	Long: 14.2742	Name: Lovran	Count:1005
+62	Lat: 45.6803	Long: 18.4058	Name: Belišće	Count:430
+63	Lat: 46.3661	Long: 16.6528	Name: Donji Kraljevec	Count:2512
+64	Lat: 46.3361	Long: 16.1494	Name: Vinica	Count:348
+65	Lat: 45.2883	Long: 18.8047	Name: Vinkovci	Count:8655
+66	Lat: 45.0758	Long: 14.6725	Name: Vrbnik	Count:574
+67	Lat: 45.7033	Long: 17.7028	Name: Slatina	Count:1107
+68	Lat: 45.3189	Long: 14.7278	Name: Vrata	Count:830
+69	Lat: 45.3628	Long: 18.9111	Name: Brsadin	Count:1271
+70	Lat: 43.3689	Long: 16.9342	Name: Brela	Count:1333
+71	Lat: 45.3408	Long: 18.9308	Name: Bogdanovci	Count:748
+72	Lat: 45.7769	Long: 16.068	Name: Zagreb	Count:3948
+73	Lat: 44.8683	Long: 13.8481	Name: Pula	Count:6748
+74	Lat: 44.9703	Long: 14.7533	Name: Baska	Count:30
+75	Lat: 44.6044	Long: 15.3989	Name: Podastrana	Count:1928
+76	Lat: 42.6506	Long: 18.0914	Name: Dubrovnik	Count:10163
+77	Lat: 45.7964	Long: 16.3464	Name: Lupoglav	Count:1702
+78	Lat: 45.2258	Long: 13.5939	Name: Poreč	Count:2553
+79	Lat: 43.5553	Long: 16.3675	Name: Kastel Luksic	Count:3517
+80	Lat: 45.7333	Long: 15.9667	Name: Donji Cehi	Count:265641
+81	Lat: 45.7333	Long: 15.75	Name: Galgovo	Count:851
+82	Lat: 45.1947	Long: 18.8375	Name: Privlaka	Count:1189
+83	Lat: 45.2825	Long: 14.5992	Name: Hreljin	Count:1066
+84	Lat: 45.6275	Long: 18.7706	Name: Vardarac	Count:605
+85	Lat: 45.3308	Long: 18.4942	Name: Vucevci	Count:1025
+86	Lat: 45.3083	Long: 18.4106	Name: Đakovo	Count:3671
+87	Lat: 45.8833	Long: 16.4217	Name: Vrbovec	Count:1743
+88	Lat: 45.0908	Long: 16.3317	Name: Core	Count:90526
+89	Lat: 45.9208	Long: 16.245	Name: Donja Zelina	Count:112
+90	Lat: 43.3569	Long: 16.9503	Name: Baska Voda	Count:615
+91	Lat: 45.9833	Long: 15.7333	Name: Kraljevec na Sutli	Count:482
+92	Lat: 46.2092	Long: 16.4192	Name: Varazdinske Toplice	Count:2625
+93	Lat: 45.8319	Long: 17.3839	Name: Virovitica	Count:2943
+94	Lat: 44.3983	Long: 15.6233	Name: Rijeka	Count:12070
+95	Lat: 45.4603	Long: 18.4969	Name: Sice	Count:687
+96	Lat: 45.7083	Long: 16.3969	Name: Ivanic-Grad	Count:1128
+97	Lat: 45.8	Long: 16	Name: Zagreb	Count:778689
+98	Lat: 46.2233	Long: 16.8847	Name: Torcec	Count:676
+99	Lat: 44.8283	Long: 13.9569	Name: Liznjan	Count:1989
+100	Lat: 46.3044	Long: 16.3378	Name: Varaždin	Count:15444
+101	Lat: 46.1608	Long: 15.8789	Name: Krapina	Count:1128
+102	Lat: 45.4233	Long: 18.7728	Name: Silas	Count:748
+103	Lat: 46.3758	Long: 16.3875	Name: Nedelisce	Count:1015
+104	Lat: 45.4661	Long: 16.3783	Name: Sisak	Count:2430
+105	Lat: 45.2697	Long: 18.8511	Name: Mirkovci	Count:1763
+106	Lat: 45.8083	Long: 15.8167	Name: Bestovje	Count:1056
+107	Lat: 43.55	Long: 16.5	Name: Solin	Count:7753
+108	Lat: 43.55	Long: 16.4	Name: Kastel Gomilica	Count:1405
+109	Lat: 45.49	Long: 18.9847	Name: Dalj	Count:1199
+110	Lat: 45.54	Long: 18.7736	Name: Nemetin	Count:10737
+111	Lat: 45.54	Long: 17.8847	Name: Orahovica	Count:902
+112	Lat: 45.4375	Long: 16.29	Name: Petrinja	Count:2594
+113	Lat: 43.8167	Long: 16.2167	Name: Kricke	Count:1015
+114	Lat: 43.8167	Long: 15.5833	Name: Betina	Count:564
+115	Lat: 45.1733	Long: 14.1386	Name: Krsan	Count:892
+116	Lat: 45.665	Long: 16.5233	Name: Kriz	Count:1312
+117	Lat: 44.7569	Long: 14.7608	Name: Rab	Count:3722
+118	Lat: 46.1619	Long: 16.3303	Name: Novi Marof	Count:964
+119	Lat: 45.7644	Long: 16.1961	Name: Zagreb	Count:2974
+120	Lat: 44.1197	Long: 15.2422	Name: Zadar	Count:11117
+121	Lat: 46.0672	Long: 16.99	Name: Virje	Count:307
+122	Lat: 45.4364	Long: 17.1889	Name: Pakrac	Count:1097
+123	Lat: 45.6833	Long: 16.2333	Name: Orle	Count:307
+124	Lat: 45.4044	Long: 13.6928	Name: Triban	Count:2727
+125	Lat: 45.75	Long: 16.1167	Name: Crnkovec	Count:3456
+126	Lat: 44.0667	Long: 15.3	Name: Bibinje	Count:553
+127	Lat: 46.055	Long: 16.3819	Name: Mokrice Miholecke	Count:2522
+128	Lat: 45.3381	Long: 16.0881	Name: Glina	Count:3815
+129	Lat: 46.5094	Long: 16.4411	Name: Mursko Sredisce	Count:3445
+130	Lat: 45.8172	Long: 16.1819	Name: Sesvetski Kraljevec	Count:61
+131	Lat: 45.5511	Long: 18.6939	Name: Osijek	Count:52160
+132	Lat: 45.6281	Long: 18.6997	Name: Darda	Count:1117
+133	Lat: 46.1	Long: 15.7333	Name: Velika Horvatska	Count:1528
+134	Lat: 45.4297	Long: 18.2825	Name: Bracevci	Count:964
+135	Lat: 45.7125	Long: 16.0756	Name: Velika Gorica	Count:19762
+136	Lat: 45.7	Long: 15.9167	Name: Strmec	Count:420
+137	Lat: 45.7	Long: 16.1167	Name: Novo Cice	Count:2010
+138	Lat: 45.8889	Long: 15.7003	Name: Senkovec	Count:605
+139	Lat: 45.5856	Long: 16.2114	Name: Lekenik	Count:758
+140	Lat: 45.3011	Long: 14.5056	Name: Kostrena	Count:810
+141	Lat: 46.2231	Long: 16.12	Name: Ivanec	Count:2051
+142	Lat: 46.0472	Long: 16.7675	Name: Gornji Kriz	Count:61
+143	Lat: 45.3325	Long: 18.8414	Name: Nustar	Count:1497
+144	Lat: 45.1667	Long: 15.5	Name: 	Count:5034251
+145	Lat: 45.3392	Long: 14.3083	Name: Opatija	Count:2399
+146	Lat: 45.9286	Long: 16.1281	Name: Blagusa	Count:728
+147	Lat: 44.4686	Long: 14.9614	Name: Simuni	Count:697
+148	Lat: 45.255	Long: 17.3831	Name: Nova Gradiska	Count:594
+149	Lat: 45.4261	Long: 17.8825	Name: Kutjevo	Count:1846
+150	Lat: 45.0775	Long: 18.6975	Name: Županja	Count:3702
+151	Lat: 45.95	Long: 16.2333	Name: Gornje Psarjevo	Count:512
+152	Lat: 45.7539	Long: 17.5781	Name: Cabuna	Count:738
+153	Lat: 46.0411	Long: 15.9964	Name: Bedekovcina	Count:1220
+154	Lat: 43.5125	Long: 16.2517	Name: Trogir	Count:3404
+155	Lat: 43.5139	Long: 16.4558	Name: Split	Count:126154
+156	Lat: 45.4872	Long: 15.5478	Name: Karlovac	Count:3507
+157	Lat: 43.5503	Long: 16.4264	Name: Kastel Sucurac	Count:2245
+158	Lat: 45.1281	Long: 14.7889	Name: Novi Vinodolski	Count:4584
+159	Lat: 45.3403	Long: 17.6853	Name: Požega	Count:3045
+160	Lat: 45.7044	Long: 15.99	Name: Lukavec	Count:420
