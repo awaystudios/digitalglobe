@@ -1,0 +1,187 @@
+/*!
+ * Start Bootstrap - Scrolling Nav HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+
+
+body {
+    width: 100%;
+    height: 100%;
+    background: #242424;
+    color: #f4f4f4;
+    font-family: 'Open Sans', sans-serif;
+    font-size:14px;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+@media(min-width:767px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+}
+
+.navbar {
+    background-color: #3d3d3d;
+    border:none;
+    color:#fff;
+}
+
+.navbar-default .navbar-nav>li>a:link, 
+.navbar-default .navbar-nav>li>a:visited, 
+.navbar-default .navbar-nav>li>a:hover, 
+.navbar-default .navbar-nav>li>a:active  {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+color: #fff;
+background-color: #666;
+}
+
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.nav-logo {
+    border:0;
+    width:34px;
+    height:34px;
+    margin:8px 0 0 15px;
+}
+
+.navbar-default .navbar-toggle {
+    border: none;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #3d3d3d;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+    margin: 0 0 20px 0;
+}
+
+.text-small {
+    font-size:12px;
+}
+
+.text-xsmall {
+    font-size:10px;
+}
+
+
+a {
+    pointer-events:all;
+}
+
+a:link, a:visited, a:hover, a:active  {
+    color:#fff;
+    text-decoration:none;
+}
+
+.textLink {
+    text-decoration:underline !important;
+}
+
+.btn {
+    border: none;
+    border-radius: 0;
+}
+
+.btn-default {
+    color: #fff;
+    background-color: #666;
+    border-color: #666;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open>.dropdown-toggle.btn-default {
+color: #fff;
+background-color: #888;
+border-color: #888;
+}
+
+
+
+/* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
+The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
+of those sections to manage the look and feel of the site. */
+
+
+
+.intro-section {
+    min-height:100%;
+    padding: 150px 0 150px 0;
+    text-align: center;
+    background: url(../assets/info/jumboMap.jpg) no-repeat center center ;
+    background-size:cover;
+    background-attachment:fixed;
+    background-position-y:-100px;
+}
+
+.about-section {
+    padding: 75px 0 75px 0;
+    text-align: left;
+    background: #242424;
+}
+
+
+    .panel {
+        margin-bottom: 20px;
+        background-color: #242424;
+        border: none;
+    }
+
+    .panel-default>.panel-heading {
+        color: #fff;
+        background-color: #666;
+        border: none;
+    }
+    .panel-group .panel-heading {
+        border-bottom: 0;
+    }
+    .panel-heading {
+        padding: 10px 15px;
+        border-top-right-radius: 0px;
+        border-top-left-radius: 0px;
+    }
+
+    .panel-default>.panel-heading+.panel-collapse>.panel-body {
+        border: none
+    }
+    .panel-group .panel-heading+.panel-collapse>.panel-body, .panel-group .panel-heading+.panel-collapse>.list-group {
+        border: none
+    }
+
+
+.survey-section {
+    padding: 75px 0 75px 0;
+    text-align: left;
+    background: none;
+    background: #2f2f2f;
+}
+
+.credits-section {
+    padding: 75px 0 75px 0;
+    text-align: center;
+    background: #3d3d3d;
+}
+
+
