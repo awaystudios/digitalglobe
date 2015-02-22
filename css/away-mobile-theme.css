@@ -14,12 +14,16 @@ body {
   /* margin-bottom: 100px; */
   background: #202020;
   color: #f4f4f4;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif ;
   overflow:hidden;
   font-size:14px;
+  min-height: 100%;
+  height:100%;
 }
 
-
+#select_view {
+    display:none;
+}
 
 .footer {
     position: absolute;
@@ -32,10 +36,58 @@ body {
 
 #kiosk-nav {
     position: absolute;
-    bottom: 0;
+    bottom: 25px;
     width: 100%;
-    height: 75px;
     display:none;
+}
+
+#share-holder {
+    position: absolute;
+    bottom: 120px;
+    width: 100%;
+    display:none;
+}
+
+#info {
+    position: absolute;
+    top: 50%;
+    height:100px;
+    width: 100%;
+    margin-top:-50px;
+    pointer-events: none;
+}
+
+#info #loader {
+    display:block;
+    height:100px;
+    background: url(../assets/ui/loader.gif) no-repeat center center;
+    z-index: 310;
+}
+
+#info #info_step01 {
+    display:none;
+    height:100px;
+    background: url(../assets/ui/info_step_01.png) no-repeat center center;
+    background-size:contain;
+    z-index: 320;
+}
+
+#info #info_step02 {
+    position:relative;
+    display:none;
+    height:100px;
+    background: url(../assets/ui/info_step_02.png) no-repeat center center;
+    background-size:contain;
+    z-index: 330;
+}
+
+#info #info_step03 {
+    position:relative;
+    display:none;
+    height:100px;
+    background: url(../assets/ui/info_step_03.png) no-repeat center center;
+    background-size:contain;
+    z-index: 340;
 }
 
 
@@ -74,6 +126,18 @@ a:link, a:visited, a:hover, a:active  {
     text-decoration:none;
 }
 
+.col {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.noPadRight {
+   padding-right: 0 !important;
+}
+
+.noPadLeft {
+   padding-left: 0 !important;
+}
 
 .checkbox-right input[type=checkbox] {
     position: relative;
@@ -105,6 +169,14 @@ a:link, a:visited, a:hover, a:active  {
     position:absolute;
 }
 
+#share-holder {
+    z-index:250;
+}
+
+#info {
+    z-index:300;
+}
+
 #globeHolder {
     z-index:10;
     position: absolute; 
@@ -115,10 +187,14 @@ a:link, a:visited, a:hover, a:active  {
 }
 
 
+
 #ui-form-holder {
     padding-top:0px;
     pointer-events:all;
 }
+
+
+
 
 /* ----- UI Styling ----- */
 
@@ -135,6 +211,27 @@ a:link, a:visited, a:hover, a:active  {
     overflow: hidden;
     color: rgba(0,0,0,0) !important;
 
+}
+
+#btn_info {
+    background: url(../assets/ui/btn_info.png) no-repeat center center;
+    background-size:contain;
+    margin-top:2px;
+}
+
+#btn_fullscreen {
+    background: url(../assets/ui/btn_fullscreen.png) no-repeat center center;
+    background-size:contain;
+}
+
+#btn_factorDensity {
+    background: url(../assets/ui/btn_population_off.png) no-repeat center center;
+    background-size:contain;
+}
+
+#btn_share {
+    background: url(../assets/ui/btn_share.png) no-repeat center center;
+    background-size:contain;
 }
 
 #btn_play {
@@ -254,17 +351,39 @@ a:link, a:visited, a:hover, a:active  {
 }
 
 
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    color: #fff;
+    background-color: #3d3d3d;
+    background-image: none;
+    border: none;
+    border-radius: 0px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
 
+.form-control:focus {
+    border-color: #ccc;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+#ui_handset select_handset {
+    height:54px;
+}
 
 .customSelect { 
     -webkit-appearance: none !important;
     -webkit-border-radius:0px !important;
     border-radius: 0 !important;
-
-    background: #666666;
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MjZGMjYxNEU4MjA5MTFFNEIwNTFGNEVFMzdDRkI3NTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MjZGMjYxNEY4MjA5MTFFNEIwNTFGNEVFMzdDRkI3NTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoyNkYyNjE0QzgyMDkxMUU0QjA1MUY0RUUzN0NGQjc1NCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDoyNkYyNjE0RDgyMDkxMUU0QjA1MUY0RUUzN0NGQjc1NCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pt67hsgAAAApSURBVHjaYvqPHzCQipkYgYABC8AlTggwYdNMrmFwA5ENocQwEAAIMADKxkLeht7V1gAAAABJRU5ErkJggg==);
+    background: none;
     background-repeat: no-repeat;
-    background-position: right center;
+    background-size:contain;
+    background-position: left center;
     
     padding-right: 25px;
     padding-top:8px;
@@ -286,8 +405,10 @@ a:link, a:visited, a:hover, a:active  {
 }
 
 .customSelectInner {
-/* You can style the inner box too */
+    display:none !important;
 }
+
+
 
 
 input[type=checkbox].css-checkbox {
@@ -335,6 +456,10 @@ label.css-label {
     padding-left: 10px; 
 }
 
+
+#ui_handset #select_handset {
+    display:none;
+}
 
 
 @media (max-width: 767px) {
@@ -388,10 +513,7 @@ label.css-label {
         margin-top: 20px;
     }
 
-    .footer .col {
-        padding-left:7px;
-        padding-right:7px;
-    }
+    
 
     #slider_timeline .ui-slider-handle {
         width: 30px;
@@ -402,12 +524,14 @@ label.css-label {
         padding: 6px 8px;
     }
 
-    #kiosk-nav {
-        height: 40px;
+    
+
+    #share-holder {
+        bottom: 90px;
     }
 
     #ui-form-holder {
-        padding-top:10px;
+        padding-top:0px;
     }
 }
 
@@ -419,10 +543,10 @@ label.css-label {
     }
 
     .footer {
-        height: 160px;
+        height: 120px;
     }
 
-    #col_select_time {
+    #col_btns {
         width:135px;
     }
 
@@ -435,7 +559,7 @@ label.css-label {
 
     #col_slider_timeline {
         padding-top:10px;
-        width: 70%;
+        width: 75%;
         float:left;
     }
 
@@ -447,10 +571,24 @@ label.css-label {
     #col_close {
         position:absolute;
         right:10px;
-        bottom: 106px;
+        bottom: 67px;
+    }
+
+    #col_info {
+        position:absolute;
+        right:10px;
+        top: 20px;
     }
 
     .btn {
         padding: 6px 12px;
     }
+
+    #share-holder {
+        bottom: 140px;
+    }
 }
+
+
+
+

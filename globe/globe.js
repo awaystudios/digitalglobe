@@ -21,11 +21,31 @@ Globe = {
     
     initGlobe: function (view, handset, time, timeline, factorDensity, highValue) {
         // do something with the incoming params
-        console.log("globe: initGlobe:", view, handset, time, timeline, factorDensity);
+        //console.log("globe: initGlobe:", view, handset, time, timeline, factorDensity);
         // setup the globe based on config & params
-        this._globeFacade = window["globeFacade"];
-        this._globeFacade.init(this._canvasTarget, handset, view, highValue);
-        this._globeFacade.setTimelineRatio(timeline);
+
+        // repeatedly check for facade creation before trying to init()
+        // as we load more external libraries (Google Analytics & ShareThis) GlobeFacade's time to load is getting longer... so need this managed.
+        var checking = setInterval(checkForFacade, 200); 
+
+        function checkForFacade() {
+            if (typeof window["globeFacade"] != 'undefined') {
+                console.log("globe: initGlobe: Globe Facade Loaded");
+                clearInterval(checking);
+                setupGlobe();
+                App.introInfoSequence()
+            } else {
+                console.log("globe: initGlobe: Waiting for GlobeFacade");
+            }
+        }
+
+        function setupGlobe() {
+            console.log("globe: initGlobe:", view, handset, time, timeline, factorDensity);
+            Globe._globeFacade = window["globeFacade"];
+            Globe._globeFacade.init(Globe._canvasTarget, handset, view, highValue);
+            Globe._globeFacade.setTimelineRatio(timeline);
+        }
+        
     },
 
     // ----------------- public methods called by App ------------------------
@@ -55,7 +75,7 @@ Globe = {
     
     timelineChange: function (timeline) {
         // do something with the incoming params
-        console.log("globe: setTimelineRatio", timeline);
+        //console.log("globe: setTimelineRatio", timeline);
         this._globeFacade.setTimelineRatio(timeline);
     },
 
@@ -66,6 +86,8 @@ Globe = {
 
     rotateGlobe: function (rotate) {
         console.log("globe: setAutoRotate", rotate);
-        this._globeFacade.setAutoRotate(rotate);
+        if (typeof window["globeFacade"] != 'undefined') {
+            this._globeFacade.setAutoRotate(rotate);
+        }
     }
 };
