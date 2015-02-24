@@ -354,7 +354,12 @@ var Away3DDataVisView = (function (_super) {
         var avgZ = cosY * cosX * this._sphereRadius;
         this._targetLocalLong = focusLong - 5;
         this._targetLocalLat = focusLat + 5;
-        this._targetCamDistance = 40;
+        var maxAngleDistance = Math.max(maxLat - minLat, maxLong - minLong);
+        maxAngleDistance -= 20;
+        if (maxAngleDistance < 0) {
+            maxAngleDistance = 0;
+        }
+        this._targetCamDistance = 40 + Math.sqrt(maxAngleDistance);
         this._lookAtTarget.x = avgX;
         this._lookAtTarget.y = avgY;
         this._lookAtTarget.z = avgZ;
