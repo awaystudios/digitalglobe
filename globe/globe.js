@@ -19,7 +19,7 @@ Globe = {
         this._assets = assets;
     },
     
-    initGlobe: function (view, handset, time, timeline, factorDensity, highValue) {
+    initGlobe: function (view, handset, time, timeline, factorDensity, highValue, viewChangeCallback) {
         // do something with the incoming params
         //console.log("globe: initGlobe:", view, handset, time, timeline, factorDensity);
         // setup the globe based on config & params
@@ -42,7 +42,7 @@ Globe = {
         function setupGlobe() {
             console.log("globe: initGlobe:", view, handset, time, timeline, factorDensity);
             Globe._globeFacade = window["globeFacade"];
-            Globe._globeFacade.init(Globe._canvasTarget, handset, view, highValue);
+            Globe._globeFacade.init(Globe._canvasTarget, handset, view, highValue, viewChangeCallback);
             Globe._globeFacade.setTimelineRatio(timeline);
         }
         

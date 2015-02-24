@@ -189,7 +189,7 @@ App = {
         // delayed globe load, to stop 3rd party libs (GA/Share) casuing error
         //setTimeout(function () {
             Globe.configure("globeHolder", globeWidth, globeHeight, "_globe/assets/");
-            Globe.initGlobe(0, App._vendorID, "GMT", 0.0, App._factorDensity, 0);
+            Globe.initGlobe(0, App._vendorID, "GMT", 0.0, App._factorDensity, 0, this.listenerEvents.updateView);
         //}, 10000);
 
         
@@ -315,6 +315,10 @@ App = {
             var highValue =  $("#select_view option:selected").attr("highValue");
             var view = $("#select_view option:selected").val();
             Globe.viewChange(view, highValue);
+        },
+
+        updateView: function(id){
+            $("#select_view").val(id).change();
         },
 
         timeChange: function () {

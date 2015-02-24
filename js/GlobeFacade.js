@@ -10,12 +10,13 @@ var GlobeFacade = (function () {
     }
     /**
      */
-    GlobeFacade.prototype.init = function (canvasTargetName, handSet, viewType, highValue) {
+    GlobeFacade.prototype.init = function (canvasTargetName, handSet, viewType, highValue, showViewCallback) {
         var _this = this;
         this._canvasTargetName = canvasTargetName;
         this._handSet = handSet;
         this._viewType = viewType;
         this._highValue = highValue;
+        this._showViewCallback = showViewCallback;
         this._worldData = new WorldData();
         this._worldData.addEventListener(WorldDataEvent.LOADED, function (event) { return _this.onCountryLoaded(event); });
         this._worldData.addEventListener(WorldDataEvent.NO_COUNTRY_DATA, function (event) { return _this.onNoCountryLoaded(event); });
@@ -34,13 +35,26 @@ var GlobeFacade = (function () {
         this.showData(event.data, true);
     };
     GlobeFacade.prototype.onCountryLoaded = function (event) {
+        var _this = this;
         if (!this._dataVisSphere) {
             this._dataVisSphere = new Away3DDataVisView(this._canvasTargetName);
             this._dataVisSphere.hour = this._hour;
             this._dataVisSphere.autoCycleTime = this._autoCycleTime;
             this._dataVisSphere.autoRotate = this._autoRotate;
+            this._dataVisSphere.addEventListener(WorldDataEvent.FIND_LOCATION, function (event) { return _this.onFindLocation(event); });
+            this._dataVisSphere.addEventListener(WorldDataEvent.SHOW_GLOBAL_LOCATION, function (event) { return _this.onShowGlobal(event); });
         }
         this.showData(event.data);
+    };
+    GlobeFacade.prototype.onShowGlobal = function (event) {
+        this._showViewCallback(0);
+    };
+    GlobeFacade.prototype.onFindLocation = function (event) {
+        var id = this._worldData.getNearestLocation(event.x, event.y, event.z, event.sphereRadius);
+        if (id == this._viewType) {
+            id = "0";
+        }
+        this._showViewCallback(id);
     };
     GlobeFacade.prototype.showData = function (data, forceGlobalView) {
         if (forceGlobalView === void 0) { forceGlobalView = false; }
@@ -95,6 +109,13 @@ window.onload = function () {
 
 
 },{"./away3d/Away3DDataVisView":2,"./data/WorldData":20,"./data/WorldDataEvent":22}],2:[function(require,module,exports){
+var __extends = this.__extends || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    __.prototype = b.prototype;
+    d.prototype = new __();
+};
+var EventDispatcher = require("awayjs-core/lib/events/EventDispatcher");
 var Vector3D = require("awayjs-core/lib/geom/Vector3D");
 var RequestAnimationFrame = require("awayjs-core/lib/utils/RequestAnimationFrame");
 var PerspectiveProjection = require("awayjs-core/lib/projections/PerspectiveProjection");
@@ -102,6 +123,8 @@ var View = require("awayjs-display/lib/containers/View");
 var ImageTexture = require("awayjs-core/lib/textures/ImageTexture");
 var PrimitiveSpherePrefab = require("awayjs-display/lib/prefabs/PrimitiveSpherePrefab");
 var PrimitivePlanePrefab = require("awayjs-display/lib/prefabs/PrimitivePlanePrefab");
+var RaycastPicker = require("awayjs-display/lib/pick/RaycastPicker");
+var JSPickingCollider = require("awayjs-renderergl/lib/pick/JSPickingCollider");
 var DataVisMaterial = require("./rendering/DataVisMaterial");
 var HaloMaterial = require("./rendering/HaloMaterial");
 var GLSLRenderer = require("./glsl/GLSLRenderer");
@@ -109,8 +132,11 @@ var StageHack = require("./glsl/StageHack");
 var DataVisRenderable = require("./geometry/DataVisRenderable");
 var ConeDataShape = require("./geometry/ConeDataShape");
 var RotationController = require("./RotationController");
-var Away3DDataVisView = (function () {
+var WorldDataEvent = require("./../data/WorldDataEvent");
+var Away3DDataVisView = (function (_super) {
+    __extends(Away3DDataVisView, _super);
     function Away3DDataVisView(divID) {
+        _super.call(this);
         this._lastMouseX = 0;
         this._lastMouseY = 0;
         this._defaultGlobalCamDistance = 80;
@@ -195,6 +221,7 @@ var Away3DDataVisView = (function () {
         this._view.camera.projection = new PerspectiveProjection(70);
         this._view.camera.projection.far = 5000;
         this._view.camera.projection.near = 1;
+        this._view.mousePicker = new RaycastPicker(false);
         //setup controller to be used on the camera
         this._cameraController = new RotationController(this._view.camera);
         this._cameraController.latitude = 0;
@@ -212,6 +239,7 @@ var Away3DDataVisView = (function () {
      * Sets the global data. Required!
      */
     Away3DDataVisView.prototype.setGlobalData = function (data) {
+        console.log("setGlobalData");
         if (this._globalDataVisRenderable)
             this._globalDataVisRenderable.dispose();
         this._globalDataVisRenderable = this.createDataVisRenderable(data);
@@ -223,6 +251,7 @@ var Away3DDataVisView = (function () {
      * Focuses on a more local view (fe: country)
      */
     Away3DDataVisView.prototype.showLocalView = function (data) {
+        console.log("showLocalView");
         if (this._localDataVisRenderable)
             this._localDataVisRenderable.dispose();
         this._localDataVisRenderable = this.createDataVisRenderable(data, .2);
@@ -257,6 +286,7 @@ var Away3DDataVisView = (function () {
         var image = document.getElementById("mapImage");
         var gradient = this.getURLParameter("gradient");
         mesh.material = this._dataVisMaterial = new DataVisMaterial(gradient == "1" || gradient == "true");
+        mesh.pickingCollider = new JSPickingCollider(true);
         this._dataVisMaterial.texture = new ImageTexture(image, false);
         var color = this.getURLParameter("minColor");
         if (color)
@@ -269,7 +299,28 @@ var Away3DDataVisView = (function () {
         this._haloMesh = plane.getNewObject();
         var image = document.getElementById("haloImage");
         this._haloMesh.material = new HaloMaterial(new ImageTexture(image, false));
+        this._haloMesh.mouseEnabled = false;
+        this._haloMesh.mouseChildren = false;
         this._view.scene.addChild(this._haloMesh);
+    };
+    Away3DDataVisView.prototype.focusCameraOnCountry = function () {
+        var collidingObject = this._view.mousePicker.getViewCollision(this._view.mouseX, this._view.mouseY, this._view);
+        if (collidingObject) {
+            var pos = collidingObject.displayObject.sceneTransform.transformVector(collidingObject.localPosition);
+            var lat = -Math.asin(-pos.y / this._sphereRadius) * 180 / Math.PI;
+            var lon = Math.asin(-pos.x / (Math.cos(lat) * this._sphereRadius)) * 180 / Math.PI;
+            var worldEvent = new WorldDataEvent(WorldDataEvent.FIND_LOCATION);
+            worldEvent.lat = lat;
+            worldEvent.long = lon;
+            worldEvent.x = pos.x;
+            worldEvent.y = pos.y;
+            worldEvent.z = pos.z;
+            worldEvent.sphereRadius = this._sphereRadius;
+            this.dispatchEvent(worldEvent);
+        }
+        else {
+            this.dispatchEvent(new WorldDataEvent(WorldDataEvent.SHOW_GLOBAL_LOCATION));
+        }
     };
     Away3DDataVisView.prototype.focusCameraOnLocal = function () {
         var subRenderable = this._localDataVisRenderable.getSubRenderable(0);
@@ -416,8 +467,10 @@ var Away3DDataVisView = (function () {
      * Mouse down listener for navigation
      */
     Away3DDataVisView.prototype.onMouseDown = function (event) {
+        this._mouseMoved = false;
         if (this.isInLocalView)
             return;
+        //this._view.cameraunproject
         this._lastLongitude = this._cameraController.longitude;
         this._lastLatitude = this._cameraController.latitude;
         this._lastMouseX = event.pageX;
@@ -429,8 +482,15 @@ var Away3DDataVisView = (function () {
      */
     Away3DDataVisView.prototype.onMouseUp = function (event) {
         this._move = false;
+        if (this._mouseMoved) {
+            this._mouseMoved = false;
+        }
+        else {
+            this.focusCameraOnCountry();
+        }
     };
     Away3DDataVisView.prototype.onMouseMove = function (event) {
+        this._mouseMoved = true;
         if (this._move) {
             this._cameraController.longitude = -0.3 * (event.pageX - this._lastMouseX) + this._lastLongitude;
             this._cameraController.latitude = -0.3 * (event.pageY - this._lastMouseY) + this._lastLatitude;
@@ -440,16 +500,16 @@ var Away3DDataVisView = (function () {
      * Mouse wheel listener for navigation
      */
     /*private onMouseWheel(event):void
-    {
-        if (this.isInLocalView) return;
+     {
+     if (this.isInLocalView) return;
 
-        this._targetCamDistance -= event.wheelDelta * 5;
+     this._targetCamDistance -= event.wheelDelta * 5;
 
-        if (this._targetCamDistance < 100)
-            this._targetCamDistance = 100;
-        else if (this._cameraController.distance > 2000)
-            this._targetCamDistance = 2000;
-    }*/
+     if (this._targetCamDistance < 100)
+     this._targetCamDistance = 100;
+     else if (this._cameraController.distance > 2000)
+     this._targetCamDistance = 2000;
+     }*/
     /**
      * window listener for resize events
      */
@@ -461,11 +521,11 @@ var Away3DDataVisView = (function () {
         this._view.height = window.innerHeight - 100;
     };
     return Away3DDataVisView;
-})();
+})(EventDispatcher);
 module.exports = Away3DDataVisView;
 
 
-},{"./RotationController":3,"./geometry/ConeDataShape":4,"./geometry/DataVisRenderable":5,"./glsl/GLSLRenderer":11,"./glsl/StageHack":14,"./rendering/DataVisMaterial":15,"./rendering/HaloMaterial":18,"awayjs-core/lib/geom/Vector3D":undefined,"awayjs-core/lib/projections/PerspectiveProjection":undefined,"awayjs-core/lib/textures/ImageTexture":undefined,"awayjs-core/lib/utils/RequestAnimationFrame":undefined,"awayjs-display/lib/containers/View":undefined,"awayjs-display/lib/prefabs/PrimitivePlanePrefab":undefined,"awayjs-display/lib/prefabs/PrimitiveSpherePrefab":undefined}],3:[function(require,module,exports){
+},{"./../data/WorldDataEvent":22,"./RotationController":3,"./geometry/ConeDataShape":4,"./geometry/DataVisRenderable":5,"./glsl/GLSLRenderer":11,"./glsl/StageHack":14,"./rendering/DataVisMaterial":15,"./rendering/HaloMaterial":18,"awayjs-core/lib/events/EventDispatcher":undefined,"awayjs-core/lib/geom/Vector3D":undefined,"awayjs-core/lib/projections/PerspectiveProjection":undefined,"awayjs-core/lib/textures/ImageTexture":undefined,"awayjs-core/lib/utils/RequestAnimationFrame":undefined,"awayjs-display/lib/containers/View":undefined,"awayjs-display/lib/pick/RaycastPicker":undefined,"awayjs-display/lib/prefabs/PrimitivePlanePrefab":undefined,"awayjs-display/lib/prefabs/PrimitiveSpherePrefab":undefined,"awayjs-renderergl/lib/pick/JSPickingCollider":undefined}],3:[function(require,module,exports){
 var __extends = this.__extends || function (d, b) {
     for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
     function __() { this.constructor = d; }
@@ -2103,6 +2163,42 @@ var WorldData = (function (_super) {
             this.checkHandSet();
         }
     };
+    WorldData.prototype.getNearestLocation = function (sourceX, sourceY, sourceZ, sphereRadius) {
+        var bestX = 0;
+        var bestY = 0;
+        var bestZ = 0;
+        var distance = 100000000;
+        var bestKey;
+        var country = this.loadedCountries["0"];
+        var positions = country.data;
+        var countryIds = country.countryIds;
+        var len = country.numLocations;
+        for (var i = 0; i < len; i++) {
+            var dlat = -positions[i * 2];
+            var dlong = positions[i * 2 + 1];
+            var radX = dlat * Math.PI / 180;
+            var radY = dlong * Math.PI / 180;
+            var sinX = Math.sin(radX);
+            var cosX = Math.cos(radX);
+            var sinY = Math.sin(radY);
+            var cosY = Math.cos(radY);
+            var x = -sinY * cosX * sphereRadius;
+            var y = -sinX * sphereRadius;
+            var z = cosY * cosX * sphereRadius;
+            var deltaX = x - sourceX;
+            var deltaY = y - sourceY;
+            var deltaZ = z - sourceZ;
+            var d = Math.sqrt(deltaX * deltaX + deltaY * deltaY + deltaZ * deltaZ);
+            if (d < distance) {
+                bestKey = countryIds[i];
+                distance = d;
+                bestX = x;
+                bestY = y;
+                bestZ = z;
+            }
+        }
+        return bestKey.toString();
+    };
     WorldData.prototype.generateEmptyData = function () {
         this.emptyData = new WorldDataSet();
         var element = new WorldDataElement();
@@ -2129,24 +2225,40 @@ var WorldData = (function (_super) {
         var loader = event.target;
         var bytes = new ByteArray();
         bytes.setArrayBuffer(loader.data);
+        bytes.position = 0;
         if (!bytes) {
             console.error("WorldData::onLocationLoaded. Locations " + this.currentView + " is not defined");
             return;
         }
         var positions = new Array();
         var counts = new Array();
+        var countryIds = new Array();
         //var len:number = Math.min(15000, bytes.length / 12);
-        var len = bytes.length / 12;
+        var len = bytes.length / 13;
+        var minLat = 100000;
+        var maxLat = -100000;
+        var minLong = 100000;
+        var maxLong = -100000;
         var k = 0;
         for (var i = 0; i < len; i++) {
-            positions[k++] = bytes.readFloat();
-            positions[k++] = bytes.readFloat();
-            counts[i] = bytes.readInt();
+            var lat = bytes.readFloat();
+            var long = bytes.readFloat();
+            minLat = Math.min(minLat, lat);
+            maxLat = Math.max(maxLat, lat);
+            minLong = Math.min(minLong, long);
+            maxLong = Math.max(maxLong, long);
+            positions[k++] = lat;
+            positions[k++] = long;
+            counts[i] = bytes.readUnsignedInt();
+            countryIds[i] = bytes.readUnsignedByte();
         }
         this.loadedCountries[this.currentView] = {
             numLocations: len,
             data: positions,
-            counts: counts
+            counts: counts,
+            countryIds: countryIds,
+            avgLat: (minLat + maxLat) * .5,
+            avgLong: (minLong + maxLong) * .5
         };
         bytes = null;
         if (loader) {
@@ -2335,6 +2447,8 @@ var WorldDataEvent = (function (_super) {
     WorldDataEvent.LOADED = "loadEvent";
     WorldDataEvent.NO_COUNTRY_DATA = "noCountryData";
     WorldDataEvent.NO_VENDOR_DATA = "noVendorData";
+    WorldDataEvent.FIND_LOCATION = "findLocation";
+    WorldDataEvent.SHOW_GLOBAL_LOCATION = "showGlobalLocation";
     return WorldDataEvent;
 })(Event);
 module.exports = WorldDataEvent;
