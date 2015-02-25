@@ -1822,7 +1822,7 @@ var DataVisPass = (function (_super) {
             this._hourDirty = false;
         }
         if (this._colorsDirty) {
-            this._gl.uniform3f(this._minColorLocation, (this._minColor >> 16) / 0xff * 0.4, ((this._minColor >> 8) & 0xff) / 0xff * 0.4, (this._minColor & 0xff) / 0xff * 0.4);
+            this._gl.uniform3f(this._minColorLocation, (this._minColor >> 16) / 0xff * 0.7, ((this._minColor >> 8) & 0xff) / 0xff * 0.7, (this._minColor & 0xff) / 0xff * 0.7);
             this._gl.uniform3f(this._maxColorLocation, (this._maxColor >> 16) / 0xff, ((this._maxColor >> 8) & 0xff) / 0xff, (this._maxColor & 0xff) / 0xff);
         }
         this._gl.enableVertexAttribArray(this._offsetPositionAttribute);
