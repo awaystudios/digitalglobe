@@ -10,10 +10,11 @@ var GlobeFacade = (function () {
     }
     /**
      */
-    GlobeFacade.prototype.init = function (canvasTargetName, handSet, viewType, highValue, showViewCallback) {
+    GlobeFacade.prototype.init = function (canvasTargetName, handSet, handSetColor, viewType, highValue, showViewCallback) {
         var _this = this;
         this._canvasTargetName = canvasTargetName;
         this._handSet = handSet;
+        this._handSetColor = handSetColor;
         this._viewType = viewType;
         this._highValue = highValue;
         this._showViewCallback = showViewCallback;
@@ -43,6 +44,9 @@ var GlobeFacade = (function () {
             this._dataVisSphere.autoRotate = this._autoRotate;
             this._dataVisSphere.addEventListener(WorldDataEvent.FIND_LOCATION, function (event) { return _this.onFindLocation(event); });
             this._dataVisSphere.addEventListener(WorldDataEvent.SHOW_GLOBAL_LOCATION, function (event) { return _this.onShowGlobal(event); });
+            if (this._dataVisSphere) {
+                this._dataVisSphere.color = this._handSetColor;
+            }
         }
         this.showData(event.data);
     };
@@ -79,11 +83,17 @@ var GlobeFacade = (function () {
         this._timeType = value;
         this.loadViewData();
     };
-    GlobeFacade.prototype.setHandSet = function (value) {
-        if (this._handSet == value)
-            return;
-        this._handSet = value;
-        this.loadViewData();
+    GlobeFacade.prototype.setHandSet = function (value, color) {
+        if (this._handSetColor != color) {
+            this._handSetColor = color;
+            if (this._dataVisSphere) {
+                this._dataVisSphere.color = this._handSetColor;
+            }
+        }
+        if (this._handSet != value) {
+            this._handSet = value;
+            this.loadViewData();
+        }
     };
     GlobeFacade.prototype.setTimelineRatio = function (t) {
         this._hour = t * 24;
@@ -209,6 +219,16 @@ var Away3DDataVisView = (function (_super) {
         enumerable: true,
         configurable: true
     });
+    Object.defineProperty(Away3DDataVisView.prototype, "color", {
+        set: function (value) {
+            if (this._dataVisMaterial) {
+                this._dataVisMaterial.maxColor = parseInt("0x" + value);
+                this._dataVisMaterial.minColor = parseInt("0x" + value);
+            }
+        },
+        enumerable: true,
+        configurable: true
+    });
     Away3DDataVisView.prototype.initEngine = function () {
         StageHack.INIT();
         //create the view
@@ -251,7 +271,6 @@ var Away3DDataVisView = (function (_super) {
      * Focuses on a more local view (fe: country)
      */
     Away3DDataVisView.prototype.showLocalView = function (data) {
-        console.log("showLocalView");
         if (this._localDataVisRenderable)
             this._localDataVisRenderable.dispose();
         this._localDataVisRenderable = this.createDataVisRenderable(data, .2);
@@ -266,7 +285,6 @@ var Away3DDataVisView = (function (_super) {
     };
     Away3DDataVisView.prototype.showGlobalView = function () {
         this._dataVisMaterial.dataVisRenderable = this._globalDataVisRenderable;
-        this._dataVisMaterial.maxValue = this._globalMaxValue;
         if (this._localDataVisRenderable) {
             this._localDataVisRenderable.dispose();
             this._localDataVisRenderable = null;
@@ -523,7 +541,7 @@ var Away3DDataVisView = (function (_super) {
         this._view.y = 0;
         this._view.x = 0;
         this._view.width = window.innerWidth;
-        this._view.height = window.innerHeight - 100;
+        this._view.height = window.innerHeight;
     };
     return Away3DDataVisView;
 })(EventDispatcher);
@@ -1804,7 +1822,7 @@ var DataVisPass = (function (_super) {
             this._hourDirty = false;
         }
         if (this._colorsDirty) {
-            this._gl.uniform3f(this._minColorLocation, (this._minColor >> 16) / 0xff, ((this._minColor >> 8) & 0xff) / 0xff, (this._minColor & 0xff) / 0xff);
+            this._gl.uniform3f(this._minColorLocation, (this._minColor >> 16) / 0xff * 0.4, ((this._minColor >> 8) & 0xff) / 0xff * 0.4, (this._minColor & 0xff) / 0xff * 0.4);
             this._gl.uniform3f(this._maxColorLocation, (this._maxColor >> 16) / 0xff, ((this._maxColor >> 8) & 0xff) / 0xff, (this._maxColor & 0xff) / 0xff);
         }
         this._gl.enableVertexAttribArray(this._offsetPositionAttribute);
@@ -1879,13 +1897,12 @@ var DataVisPass = (function (_super) {
             rotation = mat3(xAxis, yAxis, zAxis);\n\
             float value = mix(valueHour1, valueHour2, hourInterpolation);\n\
             float ratio = value * rcpMaxValue;\n\
-            vec3 localPos = offsetPosition * ratio;\n\
+            vec3 localPos = offsetPosition*ratio;\n\
+            localPos.y = localPos.y*0.2;\n\
+            localPos.x = localPos.x*0.2;\n\
             \n\
-        #ifdef USE_GRADIENTS\n\
-            color = mix(minColor, maxColor, clamp(localPos.z, 0.0, 1.0));\n\
-        #else\n\
             color = mix(minColor, maxColor, clamp(ratio, 0.0, 1.0));\n\
-        #endif\n\
+            color = color * mix(minColor, maxColor, clamp(localPos.z, 0.5, 1.0));\n\
             localPos.z += sphereRadius;\n\
             vec4 rotatedPos = vec4(rotation * localPos, 1.0);\n\
             gl_Position = wvpMatrix * rotatedPos;\n\

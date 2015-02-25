@@ -19,7 +19,7 @@ Globe = {
         this._assets = assets;
     },
     
-    initGlobe: function (view, handset, time, timeline, factorDensity, highValue, viewChangeCallback) {
+    initGlobe: function (view, handset, handsetColor, time, timeline, factorDensity, highValue, viewChangeCallback) {
         // do something with the incoming params
         //console.log("globe: initGlobe:", view, handset, time, timeline, factorDensity);
         // setup the globe based on config & params
@@ -40,9 +40,9 @@ Globe = {
         }
 
         function setupGlobe() {
-            console.log("globe: initGlobe:", view, handset, time, timeline, factorDensity);
+            console.log("globe: initGlobe:", view, handset, handsetColor, time, timeline, factorDensity);
             Globe._globeFacade = window["globeFacade"];
-            Globe._globeFacade.init(Globe._canvasTarget, handset, view, highValue, viewChangeCallback);
+            Globe._globeFacade.init(Globe._canvasTarget, handset, handsetColor, view, highValue, viewChangeCallback);
             Globe._globeFacade.setTimelineRatio(timeline);
         }
         
@@ -56,10 +56,10 @@ Globe = {
         this._globeFacade.setViewType(view, highValue);
     },
 
-    handsetChange: function (handset) {
+    handsetChange: function (handset, handsetColor) {
         // do something with the incoming params
-        console.log("globe: handsetChange", handset);
-        this._globeFacade.setHandSet(handset);
+        console.log("globe: handsetChange", handset, "handSetColor", handsetColor);
+        this._globeFacade.setHandSet(handset, handsetColor);
     },
 
     factorDensityChange: function (factor) {

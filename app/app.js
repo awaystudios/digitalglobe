@@ -8,6 +8,7 @@ App = {
     _vendorData: [],
     _countryData: [],
     _vendorID: -1,
+    _vendorColor: "83b1ff",
     _vendorName: null,
     _fodf: null,
     _factorDensity: false,
@@ -107,9 +108,13 @@ App = {
 
             // each vendor in array
             $.each(this._vendorData, function (key, value) {
+                for(var first in value) break;
+                var hexColor = value[first];
+
                 select.append($("<option/>", {
                     value: key,
-                    text: value
+                    text: first,
+                    color: hexColor
                 }));
             });
             
@@ -152,6 +157,8 @@ App = {
             $.each(this._vendorData, function (key, value) {
                 if (value == App._vendorName) {
                     App._vendorID = key;
+                    for(var first in value) break;
+                    App._vendorColor = value[first];
                 }
             });
 
@@ -160,6 +167,9 @@ App = {
         // if vendorID still unknown, generate random
         if (App._vendorID == -1) {
             App._vendorID = App.getRandomInt(0, App._vendorData.length-1);
+            var handsetValue = App._vendorData[App._vendorID];
+            for(var first in handsetValue) break;
+            App._vendorColor = handsetValue[first];
         };
     },
 
@@ -189,7 +199,7 @@ App = {
         // delayed globe load, to stop 3rd party libs (GA/Share) casuing error
         //setTimeout(function () {
             Globe.configure("globeHolder", globeWidth, globeHeight, "_globe/assets/");
-            Globe.initGlobe(0, App._vendorID, "GMT", 0.0, App._factorDensity, 0, this.listenerEvents.updateView);
+            Globe.initGlobe(0, App._vendorID, App._vendorColor, "GMT", 0.0, App._factorDensity, 0, this.listenerEvents.updateView);
         //}, 10000);
 
         
@@ -306,7 +316,8 @@ App = {
 
         handsetChange: function () {
             var handset = $("#select_handset option:selected").val();
-            Globe.handsetChange(handset);
+            var handsetColor = $("#select_handset option:selected").attr("color");
+            Globe.handsetChange(handset, handsetColor);
             App.switchHandsetView(handset);
             App.listenerEvents.userClicking();
         },
@@ -406,7 +417,10 @@ App = {
     },
 
     switchHandsetView: function (handset) {
-        var handsetStr = App._vendorData[handset].replace(/ /g, "").toLowerCase();
+        var handsetObj = App._vendorData[handset];
+        for(var handsetStr in handsetObj) break;
+
+        handsetStr = handsetStr.replace(/ /g, "").toLowerCase();
         var logoURL = 'assets/ui/' + 'handset_' + handsetStr + '.png';
         $('#ui_handset .customSelect').css('background-image', 'url(' + logoURL + ')');
     },
