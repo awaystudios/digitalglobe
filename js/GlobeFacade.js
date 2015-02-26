@@ -398,8 +398,6 @@ var Away3DDataVisView = (function (_super) {
         this._canvasContainer.addEventListener('touchmove', onTouchMove, false);
         function onTouchStart(event) {
             self._mouseMoved = false;
-            if (this.isInLocalView)
-                return;
             event.preventDefault();
             event.stopPropagation();
             self._move = false;
@@ -441,7 +439,7 @@ var Away3DDataVisView = (function (_super) {
             self._mouseMoved = true;
             switch (event.touches.length) {
                 case 1:
-                    if (self._move) {
+                    if (self._move && !self.isInLocalView) {
                         self._cameraController.longitude = -0.3 * (event.touches[0].pageX - self._lastMouseX) + self._lastLongitude;
                         self._cameraController.latitude = -0.3 * (event.touches[0].pageY - self._lastMouseY) + self._lastLatitude;
                     }
