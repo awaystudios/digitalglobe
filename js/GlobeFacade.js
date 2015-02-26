@@ -397,13 +397,13 @@ var Away3DDataVisView = (function (_super) {
         this._canvasContainer.addEventListener('touchend', onTouchEnd, false);
         this._canvasContainer.addEventListener('touchmove', onTouchMove, false);
         function onTouchStart(event) {
-            this._mouseMoved = false;
+            self._mouseMoved = false;
             if (this.isInLocalView)
                 return;
             event.preventDefault();
             event.stopPropagation();
-            this._move = false;
-            this._zoom = false;
+            self._move = false;
+            self._zoom = false;
             switch (event.touches.length) {
                 case 1:
                     self._move = true;
@@ -424,19 +424,20 @@ var Away3DDataVisView = (function (_super) {
         function onTouchEnd(event) {
             event.preventDefault();
             event.stopPropagation();
-            this._move = false;
-            if (this._mouseMoved) {
-                this._mouseMoved = false;
+            self._move = false;
+            if (self._mouseMoved) {
+                self._mouseMoved = false;
             }
             else {
-                this.focusCameraOnCountry();
+                console.log("3");
+                self.focusCameraOnCountry();
             }
             self._zoom = false;
         }
         function onTouchMove(event) {
             event.preventDefault();
             event.stopPropagation();
-            this._mouseMoved = true;
+            self._mouseMoved = true;
             switch (event.touches.length) {
                 case 1:
                     if (self._move) {
