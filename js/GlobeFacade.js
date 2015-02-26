@@ -1830,7 +1830,7 @@ var DataVisPass = (function (_super) {
             this._hourDirty = false;
         }
         if (this._colorsDirty) {
-            this._gl.uniform3f(this._minColorLocation, (this._minColor >> 16) / 0xff * 0.7, ((this._minColor >> 8) & 0xff) / 0xff * 0.7, (this._minColor & 0xff) / 0xff * 0.7);
+            this._gl.uniform3f(this._minColorLocation, (this._minColor >> 16) / 0xff * 0.2, ((this._minColor >> 8) & 0xff) / 0xff * 0.2, (this._minColor & 0xff) / 0xff * 0.2);
             this._gl.uniform3f(this._maxColorLocation, (this._maxColor >> 16) / 0xff, ((this._maxColor >> 8) & 0xff) / 0xff, (this._maxColor & 0xff) / 0xff);
         }
         this._gl.enableVertexAttribArray(this._offsetPositionAttribute);
@@ -1910,7 +1910,7 @@ var DataVisPass = (function (_super) {
             localPos.x = localPos.x*0.2;\n\
             \n\
             color = mix(minColor, maxColor, clamp(ratio, 0.0, 1.0));\n\
-            color = color * mix(minColor, maxColor, clamp(localPos.z, 0.5, 1.0));\n\
+            color = color * mix(minColor, maxColor, clamp(localPos.z, 0.8, 1.0));\n\
             localPos.z += sphereRadius;\n\
             vec4 rotatedPos = vec4(rotation * localPos, 1.0);\n\
             gl_Position = wvpMatrix * rotatedPos;\n\
