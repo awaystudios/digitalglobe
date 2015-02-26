@@ -429,8 +429,7 @@ var Away3DDataVisView = (function (_super) {
                     self._mouseMoved = false;
                 }
                 else {
-                    console.log("3");
-                    self.focusCameraOnCountry(event.touches[0].pageX, event.touches[0].pageY);
+                    self.focusCameraOnCountry(self._lastMouseX, self._lastMouseY);
                 }
             }
             self._move = false;
