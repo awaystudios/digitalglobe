@@ -466,7 +466,7 @@ var Away3DDataVisView = (function (_super) {
         if (!this.isInLocalView) {
             //update camera controler
             if (this._autoRotate)
-                this._cameraController.longitude += dt * this._rotationSpeed;
+                this._cameraController.longitude -= dt * this._rotationSpeed;
             // reset to 0 tilt
             //this._cameraController.latitude *= .75;
             controllerLookAt.x *= .75;
