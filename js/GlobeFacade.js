@@ -321,8 +321,8 @@ var Away3DDataVisView = (function (_super) {
         this._haloMesh.mouseChildren = false;
         this._view.scene.addChild(this._haloMesh);
     };
-    Away3DDataVisView.prototype.focusCameraOnCountry = function () {
-        var collidingObject = this._view.mousePicker.getViewCollision(this._view.mouseX, this._view.mouseY, this._view);
+    Away3DDataVisView.prototype.focusCameraOnCountry = function (viewX, viewY) {
+        var collidingObject = this._view.mousePicker.getViewCollision(viewX, viewY, this._view);
         if (collidingObject) {
             var pos = collidingObject.displayObject.sceneTransform.transformVector(collidingObject.localPosition);
             var lat = -Math.asin(-pos.y / this._sphereRadius) * 180 / Math.PI;
@@ -424,14 +424,16 @@ var Away3DDataVisView = (function (_super) {
         function onTouchEnd(event) {
             event.preventDefault();
             event.stopPropagation();
+            if (self._move) {
+                if (self._mouseMoved) {
+                    self._mouseMoved = false;
+                }
+                else {
+                    console.log("3");
+                    self.focusCameraOnCountry(event.touches[0].pageX, event.touches[0].pageY);
+                }
+            }
             self._move = false;
-            if (self._mouseMoved) {
-                self._mouseMoved = false;
-            }
-            else {
-                console.log("3");
-                self.focusCameraOnCountry();
-            }
             self._zoom = false;
         }
         function onTouchMove(event) {
@@ -518,7 +520,7 @@ var Away3DDataVisView = (function (_super) {
             this._mouseMoved = false;
         }
         else {
-            this.focusCameraOnCountry();
+            this.focusCameraOnCountry(event.pageX, event.pageY);
         }
     };
     Away3DDataVisView.prototype.onMouseMove = function (event) {
