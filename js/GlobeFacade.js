@@ -223,6 +223,7 @@ var Away3DDataVisView = (function (_super) {
         set: function (value) {
             if (this._dataVisMaterial) {
                 this._dataVisMaterial.maxColor = parseInt("0x" + value);
+                //this._dataVisMaterial.maxColor = parseInt("0xffffff");
                 this._dataVisMaterial.minColor = parseInt("0x" + value);
             }
         },
@@ -1830,8 +1831,8 @@ var DataVisPass = (function (_super) {
             this._hourDirty = false;
         }
         if (this._colorsDirty) {
-            this._gl.uniform3f(this._minColorLocation, (this._minColor >> 16) / 0xff * 0.2, ((this._minColor >> 8) & 0xff) / 0xff * 0.2, (this._minColor & 0xff) / 0xff * 0.2);
-            this._gl.uniform3f(this._maxColorLocation, (this._maxColor >> 16) / 0xff, ((this._maxColor >> 8) & 0xff) / 0xff, (this._maxColor & 0xff) / 0xff);
+            this._gl.uniform3f(this._minColorLocation, (this._minColor >> 16) / 0xff * 0.3, ((this._minColor >> 8) & 0xff) / 0xff * 0.3, (this._minColor & 0xff) / 0xff * 0.3);
+            this._gl.uniform3f(this._maxColorLocation, (this._maxColor >> 16) / 0xff * 1.3, ((this._maxColor >> 8) & 0xff) / 0xff * 1.3, (this._maxColor & 0xff) / 0xff * 1.3);
         }
         this._gl.enableVertexAttribArray(this._offsetPositionAttribute);
         this._gl.enableVertexAttribArray(this._latLongAttribute);
