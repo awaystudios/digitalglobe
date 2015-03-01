@@ -155,10 +155,10 @@ App = {
 
             // each vendor in array (check if match of users handset)
             $.each(this._vendorData, function (key, value) {
-                if (value == App._vendorName) {
+                for(var vendor in value) break;
+                if (vendor == App._vendorName) {
                     App._vendorID = key;
-                    for(var first in value) break;
-                    App._vendorColor = value[first];
+                    App._vendorColor = value[vendor];
                 }
             });
 
@@ -167,9 +167,9 @@ App = {
         // if vendorID still unknown, generate random
         if (App._vendorID == -1) {
             App._vendorID = App.getRandomInt(0, App._vendorData.length-1);
-            var handsetValue = App._vendorData[App._vendorID];
-            for(var first in handsetValue) break;
-            App._vendorColor = handsetValue[first];
+            var value = App._vendorData[App._vendorID];
+            for(var vendor in value) break;
+            App._vendorColor = value[vendor];
         };
     },
 
