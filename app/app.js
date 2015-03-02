@@ -135,6 +135,13 @@ App = {
         App.start();
     },
 
+    getParameterByName: function (name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+            results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    },
+
     processFODF: function () {
 
         // if fodf handset returned from 51D (even unknown) then check against Vendor List.
@@ -163,6 +170,38 @@ App = {
             });
 
         }
+
+        // overwrite vendor ID detected with querystring if requested & matched
+        var qsHardwareVendor = App.getParameterByName('HardwareVendor')
+
+        if (qsHardwareVendor != "") {
+
+            // replace selected vendor IDs if detected
+            if (qsHardwareVendor == "RIM") {
+                qsHardwareVendor = "BlackBerry";
+            }
+
+            if (qsHardwareVendor == "Motorola") {
+                qsHardwareVendor = "Lenovo";
+            }
+
+
+            //App._vendorName = qSHardwareVendor;
+            App.debug("HardwareVendor requested from QueryString: " + qsHardwareVendor);
+
+            // each vendor in array (check if match of querystring hardware)
+            $.each(this._vendorData, function (key, value) {
+                for (var vendor in value) break;
+                if (vendor.toLowerCase() == qsHardwareVendor.toLowerCase()) {
+                    App._vendorName = qsHardwareVendor;
+                    App._vendorID = key;
+                    App._vendorColor = value[vendor];
+                }
+            });
+
+        }
+
+        
 
         // if vendorID still unknown, generate random
         if (App._vendorID == -1) {
