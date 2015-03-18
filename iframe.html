@@ -3,18 +3,30 @@
 	<head>
 		<title>Mobile Data Visualisation</title>
 		<style>
-			html, body { height: 100% }
-			body { background: #202020; }
-			table { width: 100%; height: 100%; border: none; }
+			html, body { height: 100%; font-family: "Open Sans",sans-serif }
+			body { background: #202020; margin: 0; padding: 0; }
+			table { width: 100%; height: 100%; border: none; margin: 0; padding: 0; }
 			td { width: 50%; height: 100%; border: none; }
 			iframe { width: 100%; height: 100%; border: none; }
+			img { border: 0; }
+			.footer { font-family: 24pt; text-align: center; color: white; height: 58px; }
+			.footer a { text-decoration: none; }
+			.footer a img { border: 0; height: 60px; vertical-align: middle; }
 		</style>
 	</head>
 	<body>
 		<table>
 			<tr>
-				<td><iframe src="index.html" scrolling="no"></iframe></td>
-				<td><iframe src="index.html" scrolling="no"></iframe></td>
+				<td><iframe src="index.html?HardwareVendor=Sony" scrolling="no"></iframe></td>
+				<td><iframe src="index.html?HardwareVendor=LG" scrolling="no"></iframe></td>
+			</tr>
+			<tr>
+				<td class="footer" colspan="2">
+					<span>From&nbsp;</span>
+					<a href="https://51degrees.com" title="51Degrees - Fastest and Most Accurate Device Detection"><img src="assets/info/logo-51degrees-transparent.png"/></a>
+					<span>&nbsp;&amp;&nbsp;</span>
+					<a href="http://awaystudios.com"><img src="assets/info/logo-away-transparent.png"/></a>
+				</td>
 			</tr>
 		</table>
 	</body>
